@@ -61,22 +61,22 @@ The work is organized into six parts:
    Why this framework exists and why livability under constraint is
    central.
 
-2. **[Part II — The Tools](part-2-tools)**  
+2. **[Part II — The Tools](part-2-tools.md)**  
    Durable disciplines for reality tracing, constraint tracking, and
    model use.
 
-3. **[Part III — Contextual Artifacts](part-3-artifacts)**  
+4. **[Part III — Contextual Artifacts](part-3-artifacts)**  
    Time-bound examples and extracted patterns anchoring the framework
    to lived conditions.
 
-4. **[Part IV — Exceptionally Hard Problems](part-4-hard-problems)**  
+5. **[Part IV — Exceptionally Hard Problems](part-4-hard-problems)**  
    Collapse logic, triage, emergency protocols, and irreversibility.
 
-5. **[Part V — Supporting Evidence of Use](part-5-supporting-evidence)**  
+6. **[Part V — Supporting Evidence of Use](part-5-supporting-evidence)**  
    Non-coercive evidence showing why similar structures recur under
    constraint.
 
-6. **[Part VI — The Heart Revisited](part-6-heart-revisited)**  
+7. **[Part VI — The Heart Revisited](part-6-heart-revisited)**  
    How constraint awareness dissolves false metrics and restores
    freedom, local ends, and human meaning.
 
