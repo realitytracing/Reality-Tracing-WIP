@@ -81,6 +81,7 @@ The work is organized into six parts:
    freedom, local ends, and human meaning.
 
 7. **[GLOSSARY](GLOSSARY.md)**
+   Definition of terms and specific usages in the work.
 
 Each part is written as a standalone document but functions best as
 part of the whole.
