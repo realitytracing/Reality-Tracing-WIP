@@ -82,7 +82,7 @@ Because energy is finite, livability becomes the governing variable.
 Livability includes:
 - The ability to recover after strain  
 - The preservation of option space  
-- The maintenance of local ends (Needs, wants, their outcomes and the options.) 
+- The maintenance of local ends (needs, wants, the lived outcomes of acting on them, and the surrounding option space)
 - The avoidance of irreversible harm  
 
 When systems ignore livability, they compensate by:
