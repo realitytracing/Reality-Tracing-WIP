@@ -57,7 +57,7 @@ It does not command action. It clarifies constraints.
 
 The work is organized into six parts:
 
-1. **1. [Part I — The Heart and the Gist](part-1-heart-and-gist)**  
+1. **[Part I — The Heart and the Gist](Part I — The Heart and the Gist)**  
    Why this framework exists and why livability under constraint is
    central.
 
