@@ -9,6 +9,16 @@ uncertainty, and irreversibility.
 
 ---
 
+## Epistemic stance
+
+This work adopts a reality-first, model-second approach. 
+Rather than isolating single causes or closed explanations, it treats models as provisional tools for tracking constraints, pressures, and probabilistic trends. 
+Incompleteness is assumed by default; model failure is treated as information. 
+The goal is not total explanation, but sustained contact with reality under constraint.
+
+
+---
+
 ## Abstract
 
 This repository presents a non-adjudicative, constraint-based framework
