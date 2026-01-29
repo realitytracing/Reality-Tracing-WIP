@@ -192,6 +192,24 @@ They do not guarantee correct outcomes. They reduce the **cost of being wrong**.
 
 ---
 
+### Classical Closure and Probabilistic Discipline
+
+This framework makes deliberate use of two complementary modes of reasoning: **classical closure** and **probabilistic discipline**. These are not competing worldviews, but distinct tools used at different stages of reality tracing.
+
+Classical closure refers to the practice of stabilizing intuition into provisional objects, mechanisms, or models. Humans naturally detect patterns and compress them into named structures in order to think, communicate, and act. This process is unavoidable and often productive. Classical models provide handles on reality: they identify candidate variables, propose causal structure, and focus attention on specific interfaces where constraints may bind. In this sense, classical reasoning is a hypothesis-generating tool. It answers the question: *where should we look more closely?*
+
+Probabilistic discipline governs what happens next. Rather than granting classical constructions default ontological status, probabilistic reasoning treats them as testable compressions. Claims are stabilized through distributions, trends, and likelihoods rather than certainty. This mode does not attempt to explain away uncertainty; it tracks it. It constrains closure by requiring contact with observed outcomes, pressure signals, and failure under load. When classical models overreach—by adding unjustified structure, hidden variables, or total explanations—probabilistic testing exposes the mismatch.
+
+Both modes rely on intuition, but they use it differently. Classical reasoning solidifies intuition into objects and narratives in order to make inquiry tractable. Probabilistic reasoning applies intuition directly to uncertainty itself, stabilizing expectations without prematurely committing to explanation. Discovery occurs when classical intuition proposes structure and probabilistic discipline determines whether that structure survives contact with reality.
+
+This division of labor mirrors how modern science actually progresses. Even in domains governed by irreducible uncertainty, inquiry proceeds through incremental model-building, approximation, and testing. Models that cannot be measured, tracked, or probabilistically constrained are discarded. Models that survive do not become final truths; they remain context-dependent approximations valid within specific regimes.
+
+Within this framework, deterministic or classical language is therefore not an error. It is a local tool. Its legitimacy depends on scope, rate, and continued alignment with constraints. Probabilistic reasoning provides the discipline that prevents local usefulness from hardening into global overreach.
+
+Classical closure enables action. Probabilistic discipline preserves realism. Reality tracing requires both.
+
+---
+
 ## Status Reminder
 
 These tools are:
