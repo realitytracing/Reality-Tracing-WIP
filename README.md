@@ -65,20 +65,22 @@ The work is organized into six parts:
    Durable disciplines for reality tracing, constraint tracking, and
    model use.
 
-4. **[Part III — Contextual Artifacts](part-3-artifacts.md)**  
+3. **[Part III — Contextual Artifacts](part-3-artifacts.md)**  
    Time-bound examples and extracted patterns anchoring the framework
    to lived conditions.
 
-5. **[Part IV — Exceptionally Hard Problems](part-4-hard-problems.md)**  
+4. **[Part IV — Exceptionally Hard Problems](part-4-hard-problems.md)**  
    Collapse logic, triage, emergency protocols, and irreversibility.
 
-6. **[Part V — Supporting Evidence of Use](part-5-supporting-evidence.md)**  
+5. **[Part V — Supporting Evidence of Use](part-5-supporting-evidence.md)**  
    Non-coercive evidence showing why similar structures recur under
    constraint.
 
-7. **[Part VI — The Heart Revisited](part-6-heart-revisited.md)**  
+6. **[Part VI — The Heart Revisited](part-6-heart-revisited.md)**  
    How constraint awareness dissolves false metrics and restores
    freedom, local ends, and human meaning.
+
+7. **[GLOSSARY](GLOSSARY.md)**
 
 Each part is written as a standalone document but functions best as
 part of the whole.
