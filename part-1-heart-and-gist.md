@@ -49,7 +49,7 @@ There is no longer a handoff where rigor stops and metaphor begins. The same rea
 
 ---
 
-## Closing the False Divide
+## Closing the Divide
 
 Much human error arises from a false division between:
 - “Inner” phenomena (emotion, meaning, cognition, motivation)  
@@ -70,6 +70,8 @@ By explicitly integrating mind and world into a single **layered reality** gover
 - Meaning to be recognized as a stabilizing resource  
 
 This does not require equations or reductionism. It requires **discipline**: keeping models in contact with lived constraint and observed failure.
+
+Earlier modes of reasoning often isolated a single subset of experience—emotion, ideology, economics, morality, power—and treated it as the primary cause of systemic failure. This approach produced clarity at the cost of accuracy. The framework presented here adopts the opposite stance: assume incompleteness first. Models are treated as provisional tools rather than total explanations. Reality tracing prioritizes contact with constraint over narrative closure, using probabilistic reasoning to track trends, pressures, and failures. When a model fails, the task is not to defend it, but to analyze which variables were missing, misweighted, or mislocated—whether newly discoverable or already known.
 
 ---
 
