@@ -57,26 +57,26 @@ It does not command action. It clarifies constraints.
 
 The work is organized into six parts:
 
-1. **[Part I — The Heart and the Gist](part-1-heart-and-gist.md)**  
+1. **[Part I — The Heart and the Gist](part-I---heart-and-the-gist.md)**  
    Why this framework exists and why livability under constraint is
    central.
 
-2. **[Part II — The Tools](part-2-tools.md)**  
+2. **[Part II — The Tools](part-II---tools.md)**  
    Durable disciplines for reality tracing, constraint tracking, and
    model use.
 
-4. **[Part III — Contextual Artifacts](part-3-artifacts)**  
+4. **[Part III — Contextual Artifacts](part-III---artifacts.md)**  
    Time-bound examples and extracted patterns anchoring the framework
    to lived conditions.
 
-5. **[Part IV — Exceptionally Hard Problems](part-4-hard-problems)**  
+5. **[Part IV — Exceptionally Hard Problems](part-IV---hard-problems.md)**  
    Collapse logic, triage, emergency protocols, and irreversibility.
 
-6. **[Part V — Supporting Evidence of Use](part-5-supporting-evidence)**  
+6. **[Part V — Supporting Evidence of Use](part-V---supporting-evidence.md)**  
    Non-coercive evidence showing why similar structures recur under
    constraint.
 
-7. **[Part VI — The Heart Revisited](part-6-heart-revisited)**  
+7. **[Part VI — The Heart Revisited](part-VI---heart-revisited.md)**  
    How constraint awareness dissolves false metrics and restores
    freedom, local ends, and human meaning.
 
