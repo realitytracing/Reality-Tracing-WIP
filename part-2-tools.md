@@ -208,6 +208,8 @@ Within this framework, deterministic or classical language is therefore not an e
 
 Classical closure enables action. Probabilistic discipline preserves realism. Reality tracing requires both.
 
+Reality tracing operates on observable pressure, breakdown, and persistence rather than declared intent. Direction within this process emerges through salience: the ongoing flow of finite energy toward locally sustaining ends. Salience is not a tool itself, but the dynamic that gives tools direction.
+
 ---
 
 ## Status Reminder
