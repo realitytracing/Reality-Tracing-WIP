@@ -47,6 +47,8 @@ These are not abstractions floating above reality. They are **emergent systems**
 
 There is no longer a handoff where rigor stops and metaphor begins. The same reality that constrains bodies constrains minds, and the same minds that experience pressure generate institutions that either absorb or amplify it.
 
+Throughout this work, direction and importance are treated as emergent rather than chosen; this dynamic is referred to as salience and is developed in `salience.md`.
+
 ---
 
 ## Closing the Divide
