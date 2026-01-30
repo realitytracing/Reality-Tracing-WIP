@@ -76,7 +76,7 @@ This repository is organized into two layers:
 - **[Habituation](habituation.md)** — stabilization of repeated patterns
 - **[Local-end](local-ends.md)** — human-scale sources of livability
 - **[Dynamics](dynamics.md)** — how systems move, overload, and reconfigure
-- **[Human Mind as An Aeefective Unit](human-mind-as-an-effective-unit.md) - defines a constraint-aware model of the human mind and formalizes it as a provisional effective unit for higher emergent systems
+- **[Human Mind as An Aeefective Unit](human-mind-as-an-effective-unit.md)** - defines a constraint-aware model of the human mind and formalizes it as a provisional effective unit for higher emergent systems
 
 **Integrated Text**
 
