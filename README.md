@@ -72,10 +72,11 @@ This repository is organized into two layers:
 **Foundational Concepts**
 - **[Constraints](constraints.md)** — non-negotiable limits shaping viability
 - **[Salience](salience.md)** — directional energy flow toward local ends
-- **[Free will and salience](free-will-and-salience.md)** - clarifies how agency and free will can be understood within salience-driven dynamics without requiring metaphysical closure.
+- **[Free Will and Salience](free-will-and-salience.md)** - clarifies how agency and free will can be understood within salience-driven dynamics without requiring metaphysical closure.
 - **[Habituation](habituation.md)** — stabilization of repeated patterns
 - **[Local-end](local-ends.md)** — human-scale sources of livability
 - **[Dynamics](dynamics.md)** — how systems move, overload, and reconfigure
+- **[Human Mind as An Aeefective Unit](human-mind-as-an-effective-unit.md) - defines a constraint-aware model of the human mind and formalizes it as a provisional effective unit for higher emergent systems
 
 **Integrated Text**
 
