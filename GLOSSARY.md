@@ -34,6 +34,13 @@ A property of systems where outputs are not proportional to inputs.
 ### Rate Sensitivity  
 Sensitivity to the speed of change; systems and humans have limited capacity to absorb rapid change.
 
+### Salience
+**Definition:**  
+The ongoing directional flow of finite energy toward locally sustaining ends, emerging from contingent conditions and stabilizing only through habituation.
+
+**Notes:**  
+Salience is dynamic and non-freezeable. It is observable only through its effects—habits, attention, bias, motivation, and local ends.  
+
 ---
 
 ## Epistemic and Modeling Terms
