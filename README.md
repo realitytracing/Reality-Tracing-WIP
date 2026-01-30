@@ -65,7 +65,18 @@ It does not command action. It clarifies constraints.
 
 ## Structure
 
-The work is organized into six parts:
+## Structure of the Work
+
+This repository is organized into two layers:
+
+**Foundational Concepts**
+- **[Constraint](constraints.md)** — non-negotiable limits shaping viability
+- **[Salience](salience.md)** — directional energy flow toward local ends
+- **[Habituation](habituation.md)** — stabilization of repeated patterns
+- **[Local-end](local-ends.md)** — human-scale sources of livability
+- **[Dynamics](dynamics.md)** — how systems move, overload, and reconfigure
+
+**Integrated Text**
 
 1. **[Part I — The Heart and the Gist](part-1-heart-and-gist.md)**  
    Why this framework exists and why livability under constraint is
