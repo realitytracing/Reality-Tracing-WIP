@@ -13,8 +13,10 @@ Local ends are therefore not indulgences; they are energy-regulating mechanisms.
 (These are classes, not exhaustive lists. They overlap and are context-dependent. This is a useful artifact as a set, but not necessary.)
 
 **Restorative Local Ends**
+
 Definition:
 Local ends that restore depleted capacity and reduce accumulated load, enabling recovery from stress, fatigue, or overload.
+
 Function:
 Energy replenishment
 Load reduction
@@ -22,24 +24,30 @@ Rate reset
 Examples are intentionally omitted at the definition level.
 
 **Stabilizing Local Ends**
+
 Definition:
 Local ends that maintain continuity, predictability, and identity over time, reducing uncertainty and cognitive cost.
+
 Function:
 Habitual grounding
 Continuity of self and environment
 Reduced variance
 
 **Expressive Local Ends**
+
 Definition:
 Local ends that allow expression, play, creativity, intimacy, or exploration, enabling flexible engagement beyond survival needs.
+
 Function:
 Excess energy utilization
 Salience diversification
 Meaning expansion
 
 **Instrumental Local Ends**
+
 Definition:
 Local ends that advance practical capabilities, problem-solving, or skill use, often serving as bridges between present conditions and future viability.
+
 Function:
 Capability maintenance
 Option space preservation
