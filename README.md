@@ -70,7 +70,7 @@ It does not command action. It clarifies constraints.
 This repository is organized into two layers:
 
 **Foundational Concepts**
-- **[Reality Tracing)[reality-tracing.md]** – what it is and what it is not, and why is it named
+- **[Reality Tracing](reality-tracing.md)** – what it is and what it is not, and why is it named
 - **[Constraints](constraints.md)** — non-negotiable limits shaping viability
 - **[Salience](salience.md)** — directional energy flow toward local ends
 - **[Free Will and Salience](free-will-and-salience.md)** - clarifies how agency and free will can be understood within salience-driven dynamics without requiring metaphysical closure.
