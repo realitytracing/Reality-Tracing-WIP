@@ -1,26 +1,62 @@
 # Local Ends
 
-Local ends are immediate, human-scale sources of meaning, attachment, agency, and stabilization that sustain continued viability under constraint.
+Local ends are immediate, human-scale sources of meaning, attachment, and completion that sustain viability under constraint. They are bounded in scope and time, experienced directly, and provide restoration, regulation, or motivation that enables continued action.
 
-They include:
-- Needs and wants
-- The lived outcomes of pursuing those wants
-- Repetition, presence, and continuity
-- Experiences that restore or preserve energy and coherence
+Local ends are not final goals, ideals, or utopias. They are locally sufficient completions that make ongoing life livable within finite energy, attention, and time.
 
-Local ends are not ideals, moral achievements, or final goals. They are bounded completions that make life livable within finite time, energy, and capacity.
+# Why Local Ends Exist (Structural, Not Moral)
 
-Local ends function as buffers. They absorb stress, regulate emotional load, and prevent escalation under normal pressure. Anger, fear, and frustration can exist without destabilization when local ends remain viable.
+Local ends arise because human agents operate under finite energy, limited attention, rate sensitivity, and irreversibility. Continuous life without bounded completion produces overload, despair, or collapse. Local ends provide partial closure and restoration without requiring total resolution of systems or history.
+Local ends are therefore not indulgences; they are energy-regulating mechanisms.
 
-There is a structural asymmetry:
-- Anger can exist without threatening local ends.
-- Threats to local ends sharply increase the probability of saturation into violence, collapse, or withdrawal.
+# Functional Types of Local Ends
+(These are classes, not exhaustive lists. They overlap and are context-dependent. This is a useful artifact as a set, but not necessary.)
 
-The destruction or erosion of local ends eliminates reasons for preservation and accelerates failure. Protecting local ends preserves recovery capacity even when broader systems are unstable.
+**Restorative Local Ends**
+Definition:
+Local ends that restore depleted capacity and reduce accumulated load, enabling recovery from stress, fatigue, or overload.
+Function:
+Energy replenishment
+Load reduction
+Rate reset
+Examples are intentionally omitted at the definition level.
 
-Local ends are legitimate. They require no justification beyond their role in sustaining life under constraint.
+**Stabilizing Local Ends**
+Definition:
+Local ends that maintain continuity, predictability, and identity over time, reducing uncertainty and cognitive cost.
+Function:
+Habitual grounding
+Continuity of self and environment
+Reduced variance
+
+**Expressive Local Ends**
+Definition:
+Local ends that allow expression, play, creativity, intimacy, or exploration, enabling flexible engagement beyond survival needs.
+Function:
+Excess energy utilization
+Salience diversification
+Meaning expansion
+
+**Instrumental Local Ends**
+Definition:
+Local ends that advance practical capabilities, problem-solving, or skill use, often serving as bridges between present conditions and future viability.
+Function:
+Capability maintenance
+Option space preservation
+
+# Adaptive leverage
+Local Ends and Energy Regulation
+Definition:
+Local ends regulate energy by providing bounded points of completion where effort yields lived outcome. This prevents indefinite expenditure without return, which would otherwise produce overload or collapse.
+The absence of attainable local ends forces agents into sustained extraction mode, increasing fatigue, fear, and aggression.
+
+# Threat, Loss, and Destruction of Local Ends
+Definition:
+Threats to local ends function as high-salience signals because they indicate loss of livability rather than abstract harm. Destruction of local ends removes reasons for restraint and preservation, accelerating collapse dynamics.
+People may tolerate extreme hardship while local ends remain viable. When they are removed, behavior shifts nonlinearly.
+
 
 # Non-Idealization Principle (Critical)
-
+Definition:
 Local ends are not inherently moral, healthy, prosocial, or admirable. They may be destructive, exclusionary, or misaligned with long-term viability. Their importance is structural, not ethical.
 Ignoring or moralizing local ends does not eliminate them; it merely drives them underground or into destabilizing forms.
