@@ -19,3 +19,8 @@ There is a structural asymmetry:
 The destruction or erosion of local ends eliminates reasons for preservation and accelerates failure. Protecting local ends preserves recovery capacity even when broader systems are unstable.
 
 Local ends are legitimate. They require no justification beyond their role in sustaining life under constraint.
+
+# Non-Idealization Principle (Critical)
+
+Local ends are not inherently moral, healthy, prosocial, or admirable. They may be destructive, exclusionary, or misaligned with long-term viability. Their importance is structural, not ethical.
+Ignoring or moralizing local ends does not eliminate them; it merely drives them underground or into destabilizing forms.
