@@ -1,4 +1,4 @@
-#Salience
+# Salience
 
 Anything can become an idea. Any grouping of ideas can itself be treated as an idea. Sets of ideas can be operationalized into movement, habits, and local ends. Salience is the direction of this movement: the ongoing reinforcement of certain ideas, patterns, and actions through the allocation of finite energy over time.
 
