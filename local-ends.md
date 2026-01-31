@@ -12,6 +12,7 @@ Local ends are therefore not indulgences; they are energy-regulating mechanisms.
 # Functional Types of Local Ends
 (These are classes, not exhaustive lists. They overlap and are context-dependent. This is a useful artifact as a set, but not necessary.)
 
+
 **Restorative Local Ends**
 
 Definition:
@@ -23,6 +24,7 @@ Load reduction
 Rate reset
 Examples are intentionally omitted at the definition level.
 
+
 **Stabilizing Local Ends**
 
 Definition:
@@ -33,6 +35,7 @@ Habitual grounding
 Continuity of self and environment
 Reduced variance
 
+
 **Expressive Local Ends**
 
 Definition:
@@ -42,6 +45,7 @@ Function:
 Excess energy utilization
 Salience diversification
 Meaning expansion
+
 
 **Instrumental Local Ends**
 
