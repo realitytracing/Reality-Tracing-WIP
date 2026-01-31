@@ -186,9 +186,9 @@ Why This Practice Is Needed
 
 Without a named discipline:
 
-human sciences are dismissed as unreal by outsiders
+human sciences may be dismissed as unreal by outsiders
 
-practitioners overclaim and slide into ontology
+practitioners may overclaim and slide into ontology
 
 
 Reality Tracing creates a shared stopping rule:
