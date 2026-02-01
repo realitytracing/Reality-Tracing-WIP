@@ -1,4 +1,4 @@
-# Integrated Logic and Constraint Notes  
+# Reality Tracing (WIP)
 ## Part II — The Tools: Reality Tracing, Constraint Discipline, and Model Use
 
 ---
