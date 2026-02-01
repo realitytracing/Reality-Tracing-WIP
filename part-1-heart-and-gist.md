@@ -120,6 +120,12 @@ It does not command action. It clarifies constraints.
 
 ---
 
+### Non-Adjudication Principle
+
+A usage rule stating that the framework does not render moral verdicts about individuals or groups. It allows analytic evaluation of systems, ideologies, and worldviews based on observable behavior under constraint, without claiming moral authority or final truth.
+
+---
+
 ## The Payoff
 
 The goal of this work is not to make life heroic, optimized, or endlessly demanding.
