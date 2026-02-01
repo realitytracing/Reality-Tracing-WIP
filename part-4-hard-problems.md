@@ -34,7 +34,7 @@ In such conditions, escalation does not produce clarity. It produces collapse.
 
 ## Non-Adjudication Under Stress
 
-Even in hard problems, the **Non-Adjudication Principle** remains in force.
+Even in hard problems, the **Non-Adjudicative Boundary** remains in force.
 
 This framework does not judge:
 - Total persons  
