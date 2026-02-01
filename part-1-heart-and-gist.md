@@ -120,9 +120,11 @@ It does not command action. It clarifies constraints.
 
 ---
 
-### Non-Adjudication Principle
+### Non-Adjudicative Boundary
 
-A usage rule stating that the framework does not render moral verdicts about individuals or groups. Not as an imposed rule, but as a constraint aware limit. It allows analytic evaluation of systems, ideologies, and worldviews based on observable behavior under constraint, without claiming moral authority or final truth.
+A usage boundary stating that this framework does not render moral verdicts about individuals or groups—not as a prohibition or imposed rule, but as a constraint-aware limit on what the framework is designed to do. Moral judgment is real and operative in lived reality, but it is not treated as an analytic primitive within this framework, because doing so would obscure costs, amplify pressure, and collapse constraint awareness.
+
+Within this boundary, the framework allows analytic evaluation of systems, ideologies, worldviews, and agents based on observable behavior under constraint, without claiming moral authority, final truth, or adjudicative standing.
 
 ---
 
