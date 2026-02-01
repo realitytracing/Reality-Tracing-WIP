@@ -1,4 +1,4 @@
-# Integrated Logic and Constraint Notes  
+# Reality Tracing (WIP)  
 ## Part VI — The Heart Revisited: Dissolving False Constraints and Restoring Freedom
 
 ---
