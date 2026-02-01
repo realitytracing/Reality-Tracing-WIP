@@ -1,4 +1,4 @@
-# Integrated Logic and Constraint Notes  
+# Reality Tracing (WIP)  
 ## Part IV — Exceptionally Hard Problems, Collapse Logic, and Emergency Discipline
 
 ---
