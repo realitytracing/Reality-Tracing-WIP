@@ -58,17 +58,19 @@ Option space preservation
 
 # Adaptive leverage
 Local Ends and Energy Regulation
-Definition:
+
 Local ends regulate energy by providing bounded points of completion where effort yields lived outcome. This prevents indefinite expenditure without return, which would otherwise produce overload or collapse.
 The absence of attainable local ends forces agents into sustained extraction mode, increasing fatigue, fear, and aggression.
 
 # Threat, Loss, and Destruction of Local Ends
-Definition:
+
 Threats to local ends function as high-salience signals because they indicate loss of livability rather than abstract harm. Destruction of local ends removes reasons for restraint and preservation, accelerating collapse dynamics.
 People may tolerate extreme hardship while local ends remain viable. When they are removed, behavior shifts nonlinearly.
 
 
 # Non-Idealization Principle (Critical)
-Definition:
+
 Local ends are not inherently moral, healthy, prosocial, or admirable. They may be destructive, exclusionary, or misaligned with long-term viability. Their importance is structural, not ethical.
 Ignoring or moralizing local ends does not eliminate them; it merely drives them underground or into destabilizing forms.
+
+Local ends function as redundant stability mechanisms. Individual collapse occurs when the density of attainable local ends falls below a viable threshold per individual.
