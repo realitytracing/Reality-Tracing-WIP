@@ -1,4 +1,4 @@
-# Integrated Logic and Constraint Notes  
+# Reality Tracing (WIP) 
 ## Part I — The Heart and the Gist
 
 ---
