@@ -1,4 +1,4 @@
-# Integrated Logic and Constraint Notes  
+# Reality Tracing (WIP)  
 ## Part III — Contextual Artifacts, Extracted Patterns, and Live Failure Surfaces
 
 ---
