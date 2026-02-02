@@ -290,3 +290,5 @@ Abstraction, probability, naming, and generalization are not epistemic sins.
 They are the price of acting before collapse.
 
 That price is unavoidable.
+
+Constraint-aware realism implies both a minimum and a maximum abstraction: below the minimum, agents cannot act in time; above the maximum, they lose contact with enforcement, overloads agents, or become too costly to sustain. Agency exists only within this bounded distortion window.
