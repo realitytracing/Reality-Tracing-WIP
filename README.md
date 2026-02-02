@@ -70,7 +70,7 @@ It does not command action. It clarifies constraints.
 This repository is organized into two layers:
 
 **Foundational Concepts**
-- **[Prediction, Abstraction, and the Speed of Reality](prediction-abstraction-and-the-speed-of-reality.md)** - what closure is for, disnguishing naive realism from constraint awareness
+- **[Prediction, Abstraction, and the Speed of Reality](prediction-abstraction-and-the-speed-of-reality.md)** - what closure is for under time and constraint, distinguishing naive realism from anticipatory, constraint-aware realism
 - **[Reality Tracing](reality-tracing.md)** – what it is and what it is not, and why it is named
 - **[Constraints](constraints.md)** — non-negotiable limits shaping viability
 - **[Salience](salience.md)** — directional energy flow toward local ends
