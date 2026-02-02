@@ -62,6 +62,9 @@ A primary diagnostic signal is **pressure**:
 
 Systems that remain compatible with ordinary, low-pressure life over sustained periods provide evidence of underlying fitness. Systems that persist only through escalating pressure, coercion, or continual emergency signaling indicate misalignment.
 
+Reality tracing can be used without committing to replacement or reform.
+In many cases, the task is simply to treat an existing system as an artifact, trace where its costs land in human energy, attention, and time, and make those costs legible. Commitment, rejection, or redesign can occur later—if at all.
+
 When outcomes diverge from expectation, the default assumption is **model incompleteness**, not exception.
 
 **Model disposal is a feature, not a failure.**
