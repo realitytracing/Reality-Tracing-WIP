@@ -184,6 +184,34 @@ Evolution selected for agents capable of being wrong *in advance* rather than ri
 
 ---
 
+## Note — On Realism That “Wins” and Realism That Works
+
+Naive (or cynical) realism and constraint-aware realism can fully describe one another.
+
+Each can “eat” the other at the level of explanation.
+
+Naive realism can dissolve salience, meaning, agency, and local ends by correctly pointing out that they are contingent, constructed, incomplete, or reducible under full ontological description. This critique is not false. From a total descriptive standpoint, it succeeds.
+
+Constraint-aware realism can dissolve naive realism by pointing out that full ontological accuracy provides no predictive lead time for finite agents. A position that refuses abstraction, premature closure, or bounded distortion eliminates the possibility of intervention. It remains accurate but arrives too late to act.
+
+The difference between these positions is therefore not descriptive power, but operational viability.
+
+Naive realism can acknowledge the existence of local ends, meaning, and care — but it destroys their ability to function by refusing the conditions that make action possible. It wins by eliminating commitment, closure, and “despite.” Everything is explainable; nothing is livable.
+
+Constraint-aware realism accepts that abstraction, generalization, and probabilistic collapse are ontologically wrong. It accepts error early in order to preserve lead time, coordination, and intervention. Some representations are false; life continues anyway.
+This asymmetry matters.
+
+Both positions can be internally coherent. Only one preserves the capacity to act under constraint.
+
+The failure of naive realism is not that it is false. It is that it annihilates the conditions under which truth can be used by agents operating inside time.
+
+Reality Tracing adopts constraint-aware realism not as a moral preference, but as a structural necessity. Agency, local ends, and meaning exist only within a bounded window of distortion — below which agents cannot act in time, and above which models lose contact with enforcement.
+
+Naive realism wins arguments.
+Constraint-aware realism preserves livability.
+
+---
+
 ## Collapse as Initiative
 
 When an agent collapses a probability distribution into action, it is doing something radical:
