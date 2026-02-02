@@ -185,6 +185,12 @@ They are not arguments. They are **warnings**.
 
 ---
 
+## Other Artifacts:
+
+- **[Communism vs Capitalism](communism-vs-capitalism-artifact.md)** - a constraint-aware cost analysis of both systems
+
+---
+
 ## Artifact Disclaimer
 
 This section reflects one historical moment and one set of observed pressures.
