@@ -77,6 +77,7 @@ This repository is organized into two layers:
 - **[Free Will and Salience](human-foundations/free-will-and-salience.md)** - clarifies how agency and free will can be understood within salience-driven dynamics without requiring metaphysical closure.
 - **[Habituation](human-foundations/habituation.md)** — stabilization of repeated patterns
 - **[Local-end](human-foundations/local-ends.md)** — human-scale sources of livability
+- **[Equal Tooling: Salience-Centered Optimization and Symmetry of Understanding](human-foundations/salience-centered-optimization-and-symmetry-of-understanding.md)** - names the shift from optimizing over human salience to optimizing for its continued viability
 - **[Dynamics](human-foundations/dynamics.md)** — how systems move, overload, and reconfigure
 - **[Human Mind as An Effective Unit](human-foundations/human-mind-as-an-effective-unit.md)** - defines a constraint-aware model of the human mind and formalizes it as a provisional effective unit for higher emergent systems
 
