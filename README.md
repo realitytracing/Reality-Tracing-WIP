@@ -124,7 +124,7 @@ This framework is intended to be:
 
 Universal adoption is not required. Partial uptake is sufficient.
 
-Disagreement is expected. Judgment is not.
+Disagreement is expected.
 
 ---
 
