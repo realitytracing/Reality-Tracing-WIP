@@ -170,7 +170,7 @@ When individuals and groups possess salience literacy:
 - Rate violations become detectable early
 - Manipulation becomes expensive
 - Extraction becomes noisy
-- Collapse becomes predictable
+- Collapse becomes predictable before it is total
 
 This does not make systems benign.  
 It makes them **legible**.
