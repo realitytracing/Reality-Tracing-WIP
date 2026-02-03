@@ -132,7 +132,7 @@ Closing too early produces ideological lock-in and high defensive cost.
 
 Never closing produces infinite regress and paralysis. 
 
-Reality Tracing aims for closure at a “good enough” scope: after constraints, salience, and dynamics are mapped, but before moral claims are required to resolve structural questions. Moral disagreement is then localized to definitions and values rather than mistaken for causal explanation.
+Reality Tracing aims for closure at a “good enough” scope: after constraints, salience, and dynamics are mapped to the point where additional tracing no longer changes the structure. Moral disagreement is then localized to definitions, values, and local ends, rather than mistaken for causal explanation..
 
 ---
 
