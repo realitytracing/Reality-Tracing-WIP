@@ -126,8 +126,13 @@ A usage boundary stating that this framework does not render moral verdicts abou
 
 Within this boundary, the framework allows analytic evaluation of systems, ideologies, worldviews, and agents based on observable behavior under constraint, without claiming moral authority, final truth, or adjudicative standing.
 
-The non-adjudication boundary exists because moralization functions as closure. Once a phenomenon is moralized, tracing stops and energy shifts from understanding constraints to defending positions. This does not mean moral judgment is invalid or forbidden. It means that judgment is a stopping rule rather than a tracing tool.
-Closing too early produces ideological lock-in and high defensive cost. Never closing produces infinite regress and paralysis. Reality Tracing aims for closure at a “good enough” scope: after constraints, salience, and dynamics are mapped, but before moral claims are required to resolve structural questions. Moral disagreement is then localized to definitions and values rather than mistaken for causal explanation.
+The non-adjudicative boundary exists because moralization functions as closure. Once a phenomenon is moralized, tracing stops and energy shifts from understanding constraints to defending positions. This does not mean moral judgment is invalid or forbidden, it is a part of local-ends. It means that judgment is a stopping rule rather than a tracing tool. 
+
+Closing too early produces ideological lock-in and high defensive cost. 
+
+Never closing produces infinite regress and paralysis. 
+
+Reality Tracing aims for closure at a “good enough” scope: after constraints, salience, and dynamics are mapped, but before moral claims are required to resolve structural questions. Moral disagreement is then localized to definitions and values rather than mistaken for causal explanation.
 
 ---
 
