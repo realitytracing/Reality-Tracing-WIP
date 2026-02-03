@@ -30,7 +30,7 @@ This distinction is structural, not moral.
 Humans cannot refrain from allocating energy toward ends.
 As long as a human is alive and conscious, energy flows toward something through salience.
 This is not a choice, preference, or moral stance—it is a structural fact of finite, living agents.
-Reality Tracing treats the salience–habituation–local end loop as inviolable because it cannot be suspended without unconsciousness or death. Systems may redirect, exploit, or overload this flow, but they cannot eliminate it if humans are ever referred to by systems.
+Reality Tracing treats the salience–habituation–local end loop as inviolable because it cannot be suspended without unconsciousness or death. Systems may redirect, exploit, or overload this flow, but they cannot eliminate it in any system that depends on living human agents.
 
 ---
 
