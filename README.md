@@ -70,38 +70,38 @@ It does not command action. It clarifies constraints.
 This repository is organized into two layers:
 
 **Foundational Concepts**
-- **[Prediction, Abstraction, and the Speed of Reality](prediction-abstraction-and-the-speed-of-reality.md)** - what closure is for under time and constraint, distinguishing naive realism from anticipatory, constraint-aware realism
-- **[Reality Tracing](reality-tracing.md)** – what it is and what it is not, and why it is named
-- **[Constraints](constraints.md)** — non-negotiable limits shaping viability
-- **[Salience](salience.md)** — directional energy flow toward local ends
-- **[Free Will and Salience](free-will-and-salience.md)** - clarifies how agency and free will can be understood within salience-driven dynamics without requiring metaphysical closure.
-- **[Habituation](habituation.md)** — stabilization of repeated patterns
-- **[Local-end](local-ends.md)** — human-scale sources of livability
-- **[Dynamics](dynamics.md)** — how systems move, overload, and reconfigure
-- **[Human Mind as An Effective Unit](human-mind-as-an-effective-unit.md)** - defines a constraint-aware model of the human mind and formalizes it as a provisional effective unit for higher emergent systems
+- **[Prediction, Abstraction, and the Speed of Reality](human-foundations/prediction-abstraction-and-the-speed-of-reality.md)** - what closure is for under time and constraint, distinguishing naive realism from anticipatory, constraint-aware realism
+- **[Reality Tracing](human-foundations/reality-tracing.md)** – what it is and what it is not, and why it is named
+- **[Constraints](human-foundations/constraints.md)** — non-negotiable limits shaping viability
+- **[Salience](human-foundations/salience.md)** — directional energy flow toward local ends
+- **[Free Will and Salience](human-foundations/free-will-and-salience.md)** - clarifies how agency and free will can be understood within salience-driven dynamics without requiring metaphysical closure.
+- **[Habituation](human-foundations/habituation.md)** — stabilization of repeated patterns
+- **[Local-end](human-foundations/local-ends.md)** — human-scale sources of livability
+- **[Dynamics](human-foundations/dynamics.md)** — how systems move, overload, and reconfigure
+- **[Human Mind as An Effective Unit](human-foundations/human-mind-as-an-effective-unit.md)** - defines a constraint-aware model of the human mind and formalizes it as a provisional effective unit for higher emergent systems
 
 **Integrated Text**
 
-1. **[Part I — The Heart and the Gist](part-1-heart-and-gist.md)**  
+1. **[Part I — The Heart and the Gist](integrated-text/part-1-heart-and-gist.md)**  
    Why this framework exists and why livability under constraint is
    central.
 
-2. **[Part II — The Tools](part-2-tools.md)**  
+2. **[Part II — The Tools](integrated-text/part-2-tools.md)**  
    Durable disciplines for reality tracing, constraint tracking, and
    model use.
 
-3. **[Part III — Contextual Artifacts](part-3-artifacts.md)**  
+3. **[Part III — Contextual Artifacts](integrated-text/part-3-artifacts.md)**  
    Time-bound examples and extracted patterns anchoring the framework
    to lived conditions.
 
-4. **[Part IV — Exceptionally Hard Problems](part-4-hard-problems.md)**  
+4. **[Part IV — Exceptionally Hard Problems](integrated-text/part-4-hard-problems.md)**  
    Collapse logic, triage, emergency protocols, and irreversibility.
 
-5. **[Part V — Supporting Evidence of Use](part-5-supporting-evidence.md)**  
+5. **[Part V — Supporting Evidence of Use](integrated-text/part-5-supporting-evidence.md)**  
    Non-coercive evidence showing why similar structures recur under
    constraint.
 
-6. **[Part VI — The Heart Revisited](part-6-heart-revisited.md)**  
+6. **[Part VI — The Heart Revisited](integrated-text/part-6-heart-revisited.md)**  
    How constraint awareness dissolves false metrics and restores
    freedom, local ends, and human meaning.
 
