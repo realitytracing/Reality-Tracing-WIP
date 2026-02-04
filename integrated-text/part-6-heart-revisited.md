@@ -26,7 +26,9 @@ Real constraints are already being lived:
 - Fear  
 - Mortality  
 
-False constraints arise when abstracted metrics, borrowed narratives, or symbolic demands are mistaken for real bounds.
+These constraints are enforced directly by reality. Violating them produces exhaustion, overload, breakdown, or irreversible harm.
+
+False constraints arise when **abstracted metrics, borrowed narratives, or symbolic demands are mistaken for real bounds**.
 
 Common false metrics include:
 - Permanent urgency without material necessity  
@@ -35,7 +37,7 @@ Common false metrics include:
 - Identity-level performance standards  
 - Abstract scores detached from lived cost  
 
-False metrics feel constraining, but they are not enforced by reality. They persist only through attention, fear, and social reinforcement.
+False metrics feel constraining, but they are **not enforced by reality**. They persist through attention, fear, coordination pressure, and social reinforcement.
 
 When false metrics are mistaken for real constraints:
 - People experience artificial scarcity  
@@ -43,6 +45,39 @@ When false metrics are mistaken for real constraints:
 - Energy is burned on compliance rather than living  
 
 Reality tracing dissolves these illusions by restoring contact with **actual limits**.
+
+---
+
+## False Constraints as Inherited Compression
+
+False constraints are rarely imposed because others believe them to be ontologically true.
+
+They are imposed because **other agents—operating under their own finite energy, time, and uncertainty—have compressed reality into usable but lossy models**.
+
+Under constraint, agents must trade ontological completeness for speed. Salience favors simple proxies that allow early action:
+- Money as a proxy for security  
+- Success as a proxy for survivability  
+- Urgency as a proxy for importance  
+- Totalization as a substitute for uncertainty  
+
+These abstractions are not errors. They are adaptations.
+
+Problems arise when such compressed models are **socially enforced as if they were non-negotiable physical limits** rather than provisional coordination tools.
+
+In this sense, false constraints are:
+- **Real pressures**
+- **Enforced by other agents**
+- **Derived from abstractions of real constraints**
+- **Maintained through salience, fear, and coordination**
+- **Not enforced by energy limits, rate sensitivity, or irreversibility**
+
+They are not imaginary. They are **inherited compression debt**.
+
+A practical diagnostic follows:
+
+> If violating a demand triggers social discomfort or punishment but does not produce collapse, fatigue, or material failure, the constraint is not enforced by reality.
+
+Recognizing this distinction allows pressure to be contextualized rather than internalized.
 
 ---
 
@@ -57,7 +92,8 @@ When real constraints are acknowledged:
 - Pressure decreases where no enforcement is present  
 - Choice becomes clearer within bounds  
 
-Freedom is not the absence of constraint. It is the ability to choose meaningfully **within** constraint.
+Freedom is not the absence of constraint.  
+It is the ability to choose meaningfully **within** constraint.
 
 ---
 
@@ -73,7 +109,8 @@ Within finite lives, not all meaning needs to scale globally.
 
 They function as bounded completions rather than final resolutions.
 
-A life need not solve history to be well lived. It only needs to come close to what mattered **locally**.
+A life need not solve history to be well lived.  
+It only needs to come close to what mattered **locally**.
 
 ---
 
@@ -90,9 +127,10 @@ When freed from false constraints, excess energy enables:
 - Long-term planning  
 - Imagination  
 
-Systems that constantly drain excess energy in the name of urgency or purity destroy the very capacities they claim to defend.
+Systems that constantly drain excess energy in the name of urgency, purity, or total optimization destroy the very capacities they claim to defend.
 
-Preserving excess energy is not selfish. It is **structural maintenance**.
+Preserving excess energy is not selfish.  
+It is **structural maintenance**.
 
 ---
 
@@ -106,9 +144,11 @@ Happiness does not need to be:
 
 It can appear briefly, unevenly, even under darkness.
 
-Such moments do not deny suffering or injustice. They mark proximity to what makes life worth living.
+Such moments do not deny suffering or injustice.  
+They mark proximity to what makes life worth living.
 
-People do not imagine their deaths as ledgers of metrics. They imagine warmth, presence, and meaning.
+People do not imagine their deaths as ledgers of metrics.  
+They imagine warmth, presence, and meaning.
 
 Creating pockets of happiness where possible is adaptive, humane, and allowed.
 
@@ -125,9 +165,11 @@ Recovery is enabled by:
 - Education  
 - Public memory  
 
-These do not erase harm. They restore continuity and orientation after rupture.
+These do not erase harm.  
+They restore continuity and orientation after rupture.
 
-Meaning is not proof that suffering was justified. It is proof that life continues **within constraint**.
+Meaning is not proof that suffering was justified.  
+It is proof that life continues **within constraint**.
 
 ---
 
@@ -141,7 +183,8 @@ It exists to:
 - Preserve choice under pressure  
 - Keep human life recognizable  
 
-Constraint awareness is not resignation. It is realism in service of living.
+Constraint awareness is not resignation.  
+It is realism in service of living.
 
 ---
 
@@ -161,6 +204,3 @@ This framework does not command action.
 
 It exists to reduce catastrophic error when reality presses hardest—  
 **while preserving the space for human meaning, joy, and freedom within constraint.**
-
-
-
