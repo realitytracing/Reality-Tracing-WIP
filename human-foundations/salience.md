@@ -100,9 +100,30 @@ This condition is volatile.
 
 ---
 
+## Loss as Devaluation of Idea Viability
+
+Loss does not only remove a local end.  
+It can also **invalidate the viability of the ideas associated with that end**.
+
+When a highly salient local end collapses, salience may reclassify the surrounding idea-cluster as:
+- Too costly  
+- Too fragile  
+- Unsafe  
+- Likely to reproduce destabilizing pain  
+
+In this case, the loss propagates *backward* through the salience network.
+
+Ideas that previously organized energy may remain cognitively accessible, but no longer attract salience. They persist as background content rather than stabilizing ends.
+
+This explains why, after loss (e.g., a breakup), individuals may avoid re-engaging with entire categories of meaning for a period of time—not due to indecision or denial, but because salience no longer treats those ideas as viable regulators of energy.
+
+This is **protective reweighting**, not rejection.
+
+---
+
 ## Energy Redirection After Path Severance
 
-When salient paths can no longer reach local ends, energy is often redirected into alternative sinks.
+When salient paths can no longer reach local ends—and associated idea structures are devalued—energy is often redirected into alternative sinks.
 
 These redirections are not exhaustive, inevitable, or morally uniform. They are **structural attempts to discharge energy under constraint** when stabilizing ends are unavailable.
 
@@ -134,7 +155,7 @@ The appearance of these patterns does not imply:
 They indicate that:
 - Energy remains present  
 - Salience remains active  
-- Stabilizing local ends are unavailable  
+- Stabilizing local ends and idea-clusters are unavailable  
 
 The system is attempting to remain dynamically viable under extreme constraint.
 
@@ -151,8 +172,9 @@ Salience is the system by which finite energy is:
 Salience can destabilize due to:
 - **Excess energy** (insufficient absorption)  
 - **Loss of local ends** (path severance)  
+- **Loss of idea viability** (protective withdrawal from destabilizing domains)  
 
-Both conditions produce volatility through different mechanisms.
+Each produces volatility through a distinct mechanism.
 
 Salience does not seek meaning, virtue, or health.  
 It seeks **viability under constraint**.
