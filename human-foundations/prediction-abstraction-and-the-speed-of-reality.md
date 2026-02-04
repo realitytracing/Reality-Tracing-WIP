@@ -16,7 +16,7 @@ To compute the future with ontological completeness would require:
 - a system the size of the universe
 - operating at the same speed as the universe
 
-At that point, computation collapses into reality itself.
+At that point, computation resolves into reality itself.
 
 Prediction becomes indistinguishable from waiting.
 
