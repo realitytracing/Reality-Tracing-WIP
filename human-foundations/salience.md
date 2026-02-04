@@ -198,9 +198,61 @@ This is not preference. It is **regulatory failure under loss**.
 
 ---
 
+## Recovery as Salience Re-Routing
+
+Recovery is not external to salience dynamics.  
+It is **one possible stabilization outcome** when salience fails, redirects, and tests new paths.
+
+Recovery may appear cognitively as an idea (“I can recover”), but structurally it is an **energy-regulation process**: salience locating new paths to viable local ends after loss, overload, or collapse.
+
+Recovery is not a destination.  
+It is **salience continuing to route energy without catastrophic failure**.
+
+---
+
+## Recovery as Iterative Path-Finding
+
+When a salient path collapses, salience does not stop operating.
+
+Energy continues to flow and is repeatedly tested against reality:
+- A path fails to reach a viable local end  
+- Energy expenditure produces pain, overload, or dead ends  
+- Salience disengages  
+- Another path is attempted  
+
+When this looping behavior produces even **minimal stabilization**, it becomes reinforced.
+
+Recovery emerges as a simple rule:
+> “When a path fails, redirect and try another.”
+
+This is not optimism or resolve.  
+It is **adaptive iteration under constraint**.
+
+---
+
+## Recovery as a Habituated Pattern
+
+Because habituation stabilizes repeated successful paths, **recovery itself can become a habit**.
+
+When repeated experience confirms that:
+- No single local end is guaranteed  
+- Collapse is survivable  
+- Redirection restores viability  
+
+the act of looping back becomes energetically cheaper.
+
+Over time, salience may preferentially select:
+- Disengagement over fixation in dead ends  
+- Redirection over persistence  
+- Reweighting over collapse  
+
+Recovery then becomes a **default salience maneuver**, not a special event.
+
+---
+
 ## Structural Clarification
 
-The appearance of these patterns does not imply:
+The appearance of collapse, redirection, or recovery does not imply:
 - Moral weakness  
 - Pathology as primary cause  
 - Ideological commitment  
@@ -209,9 +261,10 @@ The appearance of these patterns does not imply:
 They indicate that:
 - Energy remains present  
 - Salience remains active  
-- Stabilizing local ends, idea-clusters, and future structures are unavailable  
+- The system is continuously attempting to stabilize under constraint  
 
-The system is attempting to remain dynamically viable under extreme constraint.
+Recovery cannot be commanded or moralized into existence.  
+It emerges when **new viable paths are discovered and reinforced**.
 
 ---
 
@@ -229,7 +282,10 @@ Salience can destabilize due to:
 - **Loss of idea viability** (protective withdrawal)  
 - **Collapse of totalized ends** (loss of future structure)  
 
-Each produces volatility through a distinct mechanism.
+Salience can also **re-stabilize** through:
+- Iterative redirection  
+- Discovery of new local ends  
+- Habituation of recovery itself  
 
 Salience does not seek meaning, virtue, or health.  
 It seeks **viability under constraint**.
