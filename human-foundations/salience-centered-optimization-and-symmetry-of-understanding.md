@@ -101,7 +101,7 @@ In **salience-centered systems**:
 In **salience-exploiting systems**:
 - Salience is optimized for reach, efficiency, or conversion
 - Habituation is used to reduce resistance
-- Local ends are substituted or collapsed into instrumental goals
+- Local ends are substituted or resolved into instrumental goals
 - Fatigue and exit are treated as acceptable loss
 - Recovery is externalized or privatized
 
