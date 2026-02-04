@@ -1,179 +1,135 @@
+# The Human Mind as an Effective Unit
 
+This document consolidates the constraint-aware model of the human mind developed across this work and presents it as a provisional but operational **effective unit of an agent**. It does not claim completeness, fundamentality, or finality. It claims only sufficiency: the model explains behavior under constraint well enough to be treated as a unit by higher emergent layers such as relationships, institutions, governance, law, and economy.
 
----
-
-# Local Ends
-
-## Definition
-
-Local ends are the bounded targets toward which human energy flows.
-
-In human systems, attention, effort, emotion, and time do not remain static. They must always flow *toward something*. That “something” is an end.
-
-However, human energy does not organize around a single, final, clearly named objective. It flows toward many overlapping, abstract, partially formed, and shifting ends. These ends are limited by a single mind’s capacity, by time, and by circumstance.
-
-They are therefore **local**.
-
-“Local” does not mean physically nearby, morally small, conservative, or trivial. It means **bounded within a single human mind and life**.
-
-Everything a human can and has ever experienced as important, individually, is a subset of possible local ends.
+This is a dynamics artifact, not a doctrine.
 
 ---
 
-## Why the Term “Local End” Is Used
+## Scope and Intent
 
-Using the term **end** alone implies a singular or ultimate goal. This misrepresents how human systems operate.
+The purpose of this document is to:
+- Summarize the human mind layer as a coherent dynamic system
+- Preserve probabilistic and provisional status
+- Avoid metaphysical closure
+- Enable upward emergence without category error
 
-Human energy flows toward:
-- vague states (relief, coherence, dignity)
-- abstract values (truth, loyalty, power, care)
-- incomplete ideas or feelings
-- memories and imagined futures
-- suppressed desires or forbidden wants
-- patterns of action rather than explicit goals
-
-These are not global or final ends. They are constrained by:
-- limited attention
-- finite energy
-- time
-- rate sensitivity
-- lived context
-
-They are therefore **local in scope, local in time, and local in energy**.
-
-The term **local end** names this reality precisely:  
-energy always flows toward ends, but those ends are provisional, abstract, and mentally localized rather than singular, final, or universal.
+This model is designed to be *used*, revised, or discarded if it fails to trace reality.
 
 ---
 
-## What Counts as a Local End
+## Constraint Foundation
 
-If a human can care about it, orient toward it, sacrifice for it, explore because of it, suppress it, or suffer without it, then it already qualifies as a local end in this framework.
+The human mind operates under non-negotiable constraints:
+- Finite energy
+- Finite attention
+- Rate sensitivity
+- Irreversibility
+- Embodiment
+- Incomplete information
 
-Local ends include, but are not limited to:
-
-- Needs and wants  
-- Values and virtues  
-- Moral commitments  
-- Curiosity and exploration  
-- Sacrifice and duty  
-- Care, love, and attachment  
-- Power, control, or dominance  
-- Identity-stabilizing beliefs  
-- Fear-driven avoidance  
-- Revenge, resentment, or withdrawal  
-- Creativity, play, and expression  
-
-Local ends are **not inherently moral, healthy, prosocial, or admirable**. They are structurally important because they organize energy and action under constraint.
+These constraints are enforced continuously through lived experience as fatigue, overload, stress, confusion, and failure. No belief, intention, or ideology exempts an agent from these limits.
 
 ---
 
-## Local Ends Include What Is Suppressed or Disallowed
+## Salience: Direction Under Constraint
 
-Local ends are not limited to what people openly pursue or endorse.
+Salience is the ongoing directional flow of finite energy toward locally sustaining ends. It exists only in motion and cannot be frozen into a static definition.
 
-They also include what is:
-- suppressed
-- deferred
-- moralized against
-- denied
-- lived only as longing or fantasy
+Salience:
+- Emerges from the interaction of constraints, history, bias, chance, and current conditions
+- Directs attention, effort, and action
+- Reinforces itself through successful alignment
+- Dissolves under overload or misalignment
 
-Suppression does not remove importance. In many cases, it stabilizes it.
-
-Anything that continues to attract attention, emotion, guilt, avoidance, fantasy, or yearning remains a local end, regardless of whether it is permitted, expressed, or acted upon.
-
-Local ends are defined by **ongoing salience and energy allocation**, not by approval, virtue, or permission.
+Salience is not emotion, thought, intuition, or choice. It is the directional weighting across all of them.
 
 ---
 
-## Local Ends and Livability
+## Habituation: Relative Stability
 
-Local ends are not final goals, ideals, or utopias.
+Habituation is the process by which repeated salient paths reduce energy cost and variance over time.
 
-They are **locally sufficient completions** that make continued life livable under finite energy, attention, and time.
+Through habituation:
+- Certain patterns become easier to access
+- Cognitive and emotional load decreases
+- Stability emerges temporarily
 
-They provide:
-- motivation
-- restoration
-- regulation
-- orientation
-- reasons for restraint and preservation
-
-A life does not need to solve history to be viable. It only needs enough attainable local ends to prevent collapse.
-
-When local ends are destroyed, blocked, or rendered unattainable, behavior shifts nonlinearly. Fatigue, aggression, despair, and loss of restraint increase as salience searches for new viable trajectories.
+All stability is relative. When conditions change or costs exceed capacity, habituated paths destabilize and require reweighting.
 
 ---
 
-## Exploration as a Local End
+## Local Ends: Livability and Restoration
 
-Exploration, curiosity, novelty-seeking, and truth-seeking are not exceptions to local ends. They are common forms of them.
+Local ends are immediate, human-scale sources of meaning, attachment, and restoration that sustain continued viability under constraint.
 
-A local end can be the drive to explore, to experiment, to risk disorientation, or to encounter the unknown.
+They include:
+- Needs and wants
+- The lived outcomes of pursuing them
+- Continuity, presence, and completion
+- Experiences that restore or preserve energy
 
-What makes such ends “local” is not their content, but that they are:
-- energetically bounded
-- lived through a finite mind
-- pursued without requiring total resolution of reality
-
-Exploration does not contradict local ends. It *is one*.
-
----
-
-## Local Ends and Habituation
-
-Habituation is a neutral efficiency mechanism. It does not determine what a person values or pursues.
-
-Habituation reduces the energetic cost of repeatedly traversed paths. It stabilizes salience temporarily.
-
-People habituate:
-- how they explore
-- how they care
-- how they resist
-- how they sacrifice
-- how they withdraw
-- how they create
-
-A habituated path can be:
-- conservative or destabilizing
-- prosocial or destructive
-- exploratory or defensive
-
-Habituation does not preprogram behavior. It only lowers the cost of sustaining a direction once salience has selected it.
+Local ends are not ideals or final goals. They are bounded completions that make life livable. The erosion or destruction of local ends accelerates collapse by eliminating reasons for preservation.
 
 ---
 
-## Structural Importance (Non-Moral)
+## Overload and Failure Modes
 
-Local ends are structurally necessary. They are not moral claims.
+Overload occurs when the rate of energy demand exceeds processing capacity. It appears across subsystems:
+- Emotional overload
+- Cognitive overload
+- Sensory overload
 
-They function as **redundant stability mechanisms** that allow finite agents to:
-- regulate energy
-- avoid indefinite extraction
-- recover after strain
-- preserve option space
+Overload is enforced through negative feedback signals such as distress, fatigue, numbness, agitation, or withdrawal. These signals indicate inefficiency and non-viability, not moral failure.
 
-Ignoring local ends does not eliminate them. It drives them underground or forces them into destabilizing forms.
-
-Individual collapse occurs when the density of attainable local ends falls below a viable threshold.
+Persistent overload destabilizes salience, disrupts habituation, and erodes local ends.
 
 ---
 
-## Summary
+## Reflection, Agency, and Free Will (Optional Interpretations)
 
-Local ends are the complete space of human-experienced importance, bounded by finite minds operating under constraint.
+This framework does not require metaphysical free will. It allows multiple compatible interpretations:
 
-They are:
-- abstract or concrete
-- virtuous or destructive
-- pursued, deferred, or suppressed
-- stable or exploratory
+- **Pure salience:** all behavior arises from weighted dynamics under constraint
+- **Congenital twin:** constrained reflective reweighting of salience is experienced as agency
+- **Stopping-rule interpretation:** the experience of agency functions as a necessary truncation of infinite regress under uncertainty
 
-They are called *local* because they are limited in scope, time, and energy — not because they are small, trivial, or conservative.
+These interpretations coexist because they behave identically for the purposes of reality tracing. Where no operational difference exists, resolution constitutes epistemic overreach.
 
-Human life remains livable not by resolving all ends, but by sustaining enough viable local ends to continue acting under constraint.
+---
 
+## The Metabolic Loop
 
+Taken together, the human mind functions as a metabolic loop:
 
+- Inputs: energy, information, stimuli
+- Processing: salience, habituation, regulation
+- Outputs: action, attention, coordination
+- Waste: fatigue, distress, overload
+- Recovery: rest, reweighting, local ends
 
+This loop conserves energy, exhibits rate sensitivity, and fails predictably under sustained overload.
+
+---
+
+## The Effective Unit of an Agent
+
+Because this model reliably explains behavior under constraint, it may be treated as the **effective unit of an agent** for higher layers of emergence.
+
+This means:
+- Social systems interact with agents as energy-limited, salience-driven units
+- Institutions function as metabolic infrastructure
+- Governance manages load, rate, and failure localization
+- Collapse propagates when human metabolic limits are ignored
+
+This unit is provisional, scoped, and revisable. It does not replace psychology, neuroscience, or lived experience; it abstracts them sufficiently for systemic reasoning.
+
+---
+
+## Provisional Closure
+
+This document represents a temporary closure at the human mind layer. It is not an endpoint. Its role is to prevent re-derivation while enabling upward modeling.
+
+If future observation reveals consistent mismatch between this model and lived constraint, it should be revised or discarded.
+
+Reality tracing proceeds by what continues to function under pressure, not by claims of final truth.
