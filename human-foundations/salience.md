@@ -121,9 +121,63 @@ This is **protective reweighting**, not rejection.
 
 ---
 
+## Totalized Local Ends and Collapse of Futures
+
+Some local ends are not merely salient.  
+They are **totalized**.
+
+A totalized local end functions as a primary organizer of:
+- Meaning  
+- Identity  
+- Time horizon  
+- Future imagination  
+- Subordinate local ends  
+
+Many other local ends exist **within**, **because of**, or **in service to** it.
+
+When such a totalized local end collapses—through irreversible loss or destruction—the impact exceeds ordinary loss.
+
+What collapses is not only:
+- A local end  
+- Or an idea cluster  
+
+But an entire **future-structuring scaffold**.
+
+Salience may lose access not only to present stabilizers, but to **imagined futures themselves**.
+
+This registers as:
+- Loss of future orientation  
+- Inability to imagine viable next states  
+- A sense that “there is no future”  
+- Profound aimlessness rather than discrete grief  
+
+This is **future-space collapse**, not indecision or belief.
+
+---
+
+## Backgrounding of Entire Domains
+
+After the collapse of a totalized local end, salience may withdraw from **entire domains of life** associated with it.
+
+Ideas and pursuits that were:
+- Subordinate to the totalized end  
+- Contained within it  
+- Dependent on its continuation  
+
+may be collectively backgrounded.
+
+They remain cognitively accessible, but no longer function as:
+- Motivators  
+- Organizers  
+- Energy stabilizers  
+
+This explains why, after extreme loss (e.g., the death of an entire family except one survivor), individuals may disengage broadly from life domains once central to them—not as refusal, but because those domains no longer map to viable futures.
+
+---
+
 ## Energy Redirection After Path Severance
 
-When salient paths can no longer reach local ends—and associated idea structures are devalued—energy is often redirected into alternative sinks.
+When salient paths can no longer reach local ends—and associated idea structures and futures are devalued—energy is often redirected into alternative sinks.
 
 These redirections are not exhaustive, inevitable, or morally uniform. They are **structural attempts to discharge energy under constraint** when stabilizing ends are unavailable.
 
@@ -138,7 +192,7 @@ Observed redirection patterns may include:
 These outcomes are not chosen for their content. They persist because they:
 - Absorb energy  
 - Provide intensity when orientation is lost  
-- Create temporary structure in the absence of viable ends  
+- Create temporary structure in the absence of viable ends or futures  
 
 This is not preference. It is **regulatory failure under loss**.
 
@@ -155,7 +209,7 @@ The appearance of these patterns does not imply:
 They indicate that:
 - Energy remains present  
 - Salience remains active  
-- Stabilizing local ends and idea-clusters are unavailable  
+- Stabilizing local ends, idea-clusters, and future structures are unavailable  
 
 The system is attempting to remain dynamically viable under extreme constraint.
 
@@ -172,7 +226,8 @@ Salience is the system by which finite energy is:
 Salience can destabilize due to:
 - **Excess energy** (insufficient absorption)  
 - **Loss of local ends** (path severance)  
-- **Loss of idea viability** (protective withdrawal from destabilizing domains)  
+- **Loss of idea viability** (protective withdrawal)  
+- **Collapse of totalized ends** (loss of future structure)  
 
 Each produces volatility through a distinct mechanism.
 
