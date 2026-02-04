@@ -2,11 +2,11 @@
 
 ## Definition
 
-Local ends are the **bounded targets toward which human energy flows**.
+Local ends are the **bounded targets toward which human capacity flows**.
 
-In human systems, attention, effort, emotion, and time do not remain static. Energy must always flow toward something. That “something” is an end.
+In human systems, attention, effort, emotion, cognition, and time do not remain static. Bounded capacities must always flow toward something. That “something” is an end.
 
-Human energy does not organize around a single, final, or clearly named objective. Instead, it flows toward many overlapping, abstract, partially formed, and shifting ends. These ends are constrained by a single mind’s capacity, by time, and by circumstance.
+Human behavior does not organize around a single, final, or clearly named objective. Instead, it flows toward many overlapping, abstract, partially formed, and shifting ends. These ends are constrained by a single mind’s capacities, by time, and by circumstance.
 
 They are therefore **local**.
 
@@ -20,7 +20,7 @@ Everything a human can experience as important, individually, is a subset of pos
 
 Using the term *end* alone implies a singular or ultimate goal. This misrepresents how human systems actually operate.
 
-Human energy flows toward:
+Human capacity flows toward:
 - Vague states (relief, coherence, dignity)  
 - Abstract values (truth, loyalty, power, care)  
 - Incomplete ideas or feelings  
@@ -30,15 +30,15 @@ Human energy flows toward:
 
 These are not global or final ends. They are constrained by:
 - Limited attention  
-- Finite energy  
+- Finite metabolic and cognitive capacity  
 - Time  
 - Rate sensitivity  
 - Lived context  
 
-They are therefore **local in scope, local in time, and local in energy**.
+They are therefore **local in scope, local in time, and local in capacity**.
 
 The term *local end* names this reality precisely:  
-energy always flows toward ends, but those ends are provisional, abstract, and mentally localized rather than singular, final, or universal.
+capacity always flows toward ends, but those ends are provisional, abstract, and mentally localized rather than singular, final, or universal.
 
 ---
 
@@ -59,7 +59,33 @@ Local ends include, but are not limited to:
 - Revenge, resentment, or withdrawal  
 - Creativity, play, and expression  
 
-Local ends are not inherently moral, healthy, prosocial, or admirable. They are structurally important because they **organize energy and action under constraint**.
+Local ends are not inherently moral, healthy, prosocial, or admirable. They are structurally important because they **organize capacity and action under constraint**.
+
+---
+
+## Ideas as Local Ends
+
+Local ends are not limited to external actions or outcomes.
+
+**Ideas themselves can function as local ends.**
+
+Examples include:
+- Thinking and idea exploration  
+- Understanding reality  
+- Managing energy or attention  
+- Expanding or protecting capacity  
+- Optimizing systems or self-regulation  
+- The idea of balance itself  
+
+When an idea can continuously absorb attention, cognition, and focus, it functions as a stabilizing local end just as effectively as any physical activity.
+
+In such cases:
+- Salience may stabilize primarily within the mental domain  
+- Other local ends (movement, rest, social engagement) may be backgrounded  
+- Future-facing constraints may remain non-salient until enforcement occurs  
+
+This is not denial or pathology.  
+It is **salience operating normally under constraint**.
 
 ---
 
@@ -78,7 +104,7 @@ Suppression does not remove importance. In many cases, it **stabilizes** it.
 
 Anything that continues to attract attention, emotion, guilt, avoidance, fantasy, or yearning remains a local end, regardless of whether it is permitted, expressed, or acted upon.
 
-Local ends are defined by **ongoing salience and energy allocation**, not by approval, virtue, or permission.
+Local ends are defined by **ongoing salience and capacity allocation**, not by approval, virtue, or permission.
 
 ---
 
@@ -86,7 +112,7 @@ Local ends are defined by **ongoing salience and energy allocation**, not by app
 
 Local ends are not final goals, ideals, or utopias.
 
-They are **locally sufficient completions** that make continued life livable under finite energy, attention, and time.
+They are **locally sufficient completions** that make continued life livable under finite capacity, attention, and time.
 
 They provide:
 - Motivation  
@@ -108,11 +134,12 @@ Exploration, curiosity, novelty-seeking, and truth-seeking are not exceptions to
 A local end can be the drive to explore, to experiment, to risk disorientation, or to encounter the unknown.
 
 What makes such ends *local* is not their content, but that they are:
-- Energetically bounded  
+- Capacity-bounded  
 - Lived through a finite mind  
 - Pursued without requiring total resolution of reality  
 
-Exploration does not contradict local ends. It **is one**.
+Exploration does not contradict local ends.  
+It **is one**.
 
 ---
 
@@ -120,9 +147,10 @@ Exploration does not contradict local ends. It **is one**.
 
 Habituation is a neutral efficiency mechanism. It does not determine what a person values or pursues.
 
-Habituation reduces the energetic cost of repeatedly traversed paths. It stabilizes salience temporarily.
+Habituation reduces the cost—energetic, cognitive, emotional—of repeatedly traversed paths. It stabilizes salience temporarily.
 
 People habituate:
+- How they think  
 - How they explore  
 - How they care  
 - How they resist  
@@ -139,15 +167,18 @@ Habituation does not preprogram behavior. It only lowers the cost of sustaining 
 
 ---
 
-## Local Ends as Energy Regulators
+## Local Ends as Capacity Regulators
 
-Local ends do not merely provide meaning or motivation. They function as **energy regulators**.
+Local ends do not merely provide meaning or motivation. They function as **capacity regulators**.
 
-A viable local end must be capable of absorbing energy at a rate sufficient to stabilize salience. When a local end is too easily satisfied or requires insufficient engagement, it may fail in this role—even if it remains desirable.
+A viable local end must be capable of absorbing dominant capacity at a rate sufficient to stabilize salience. When a local end is too easily satisfied or requires insufficient engagement, it may fail in this role—even if it remains desirable.
 
-In such cases, completion does not restore equilibrium. Salience disengages prematurely and seeks additional ends to maintain energy balance.
+In such cases:
+- Completion does not restore equilibrium  
+- Salience disengages prematurely  
+- Additional ends are sought to absorb remaining capacity  
 
-This explains why abundance, automation, or frictionless satisfaction can paradoxically increase instability rather than reduce it. Local ends that are too easy **cease to regulate energy effectively**.
+This explains why abundance, automation, or frictionless satisfaction can paradoxically increase instability rather than reduce it. Local ends that are too easy **cease to regulate capacity effectively**.
 
 ---
 
@@ -156,7 +187,7 @@ This explains why abundance, automation, or frictionless satisfaction can parado
 Local ends are structurally necessary. They are not moral claims.
 
 They function as redundant stability mechanisms that allow finite agents to:
-- Regulate energy  
+- Regulate capacity  
 - Avoid indefinite extraction  
 - Recover after strain  
 - Preserve option space  
@@ -176,7 +207,8 @@ They are:
 - Virtuous or destructive  
 - Pursued, deferred, or suppressed  
 - Stable or exploratory  
+- Action-based or idea-based  
 
-They are called *local* because they are limited in scope, time, and energy—not because they are small, trivial, or conservative.
+They are called *local* because they are limited in scope, time, and capacity—not because they are small, trivial, or conservative.
 
 Human life remains livable not by resolving all ends, but by **sustaining enough viable local ends to continue acting under constraint**.
