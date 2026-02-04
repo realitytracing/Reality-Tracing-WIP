@@ -82,7 +82,7 @@ Bayesian methods:
 - must discard detail
 - must assume structure that may fail
 
-If Bayesian reasoning were perfectly accurate, it would lose its advantage and collapse back into ontological simulation.
+If Bayesian reasoning were perfectly accurate, it would lose its advantage and resolve back into ontological simulation.
 
 Bayes is useful precisely because it is incomplete.
 
@@ -134,7 +134,7 @@ Reality clearly endowed agents with the ability to:
 - abstract
 - scope
 - model
-- collapse possibilities
+- resolve possibilities
 - reason probabilistically
 - intervene before certainty
 
@@ -150,7 +150,7 @@ An agent that must wait for ontological resolution before acting:
 The ability to think in advance using incomplete, distorted, or ontologically wrong models is not an epistemic failure.
 It is a **biological and structural necessity**.
 
-Bayesian reasoning, abstraction, and probabilistic collapse are not optional cognitive styles.
+Bayesian reasoning, abstraction, and probabilistic resolution are not optional cognitive styles.
 They are mechanisms that allow finite agents to act *before* reality enforces a single outcome.
 
 ---
@@ -173,7 +173,7 @@ Agents do not.
 
 To survive, agents must:
 - act as if futures are similar before they are
-- collapse distributions prematurely
+- resolve distributions prematurely
 - commit to partial explanations
 - intervene while uncertainty remains
 
@@ -198,7 +198,7 @@ The difference between these positions is therefore not descriptive power, but o
 
 Naive realism can acknowledge the existence of local ends, meaning, and care — but it destroys their ability to function by refusing the conditions that make action possible. It wins by eliminating commitment, closure, and “despite.” Everything is explainable; nothing is livable.
 
-Constraint-aware realism accepts that abstraction, generalization, and probabilistic collapse are ontologically wrong. It accepts error early in order to preserve lead time, coordination, and intervention. Some representations are false; life continues anyway.
+Constraint-aware realism accepts that abstraction, generalization, and probabilistic resolution are ontologically wrong. It accepts error early in order to preserve lead time, coordination, and intervention. Some representations are false; life continues anyway.
 This asymmetry matters.
 
 Both positions can be internally coherent. Only one preserves the capacity to act under constraint.
@@ -212,22 +212,22 @@ Constraint-aware realism preserves livability.
 
 ---
 
-## Collapse as Initiative
+## Resolution as Initiative
 
-When an agent collapses a probability distribution into action, it is doing something radical:
+When an agent resolves a probability distribution into action, it is doing something radical:
 
 It is behaving as though one future is real *before* reality enforces it.
 
 This is not denial.
 This is initiative.
 
-Collapse buys:
+Resolution buys:
 - lead time
 - coordination
 - intervention windows
 - survival advantage
 
-Without collapse, agents remain trapped in perpetual reaction.
+Without resolution, agents remain trapped in perpetual reaction.
 
 ---
 
