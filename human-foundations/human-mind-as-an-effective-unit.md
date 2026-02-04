@@ -94,7 +94,7 @@ This framework does not require metaphysical free will. It allows multiple compa
 - **Congenital twin:** constrained reflective reweighting of salience is experienced as agency
 - **Stopping-rule interpretation:** the experience of agency functions as a necessary truncation of infinite regress under uncertainty
 
-These interpretations coexist because they behave identically for the purposes of reality tracing. Where no operational difference exists, collapse constitutes epistemic overreach.
+These interpretations coexist because they behave identically for the purposes of reality tracing. Where no operational difference exists, resolution constitutes epistemic overreach.
 
 ---
 
