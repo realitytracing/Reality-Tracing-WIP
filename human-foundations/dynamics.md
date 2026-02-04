@@ -12,6 +12,9 @@ What matters is not what a system *is*, but how it:
 - Fails  
 - Recovers  
 
+Systems do not occupy fixed positions.  
+They **move within bounded constraint space**.
+
 Dynamics describe how systems change under pressure.
 
 ---
@@ -19,11 +22,16 @@ Dynamics describe how systems change under pressure.
 ## Core Dynamic Properties
 
 Key dynamic properties include:
-- **Energy flow and depletion**
-- **Rate sensitivity**
-- **Feedback and threshold effects**
-- **Emergence and decay**
+- **Energy and capacity flow**  
+- **Rate sensitivity**  
+- **Feedback and threshold effects**  
+- **Emergence and decay**  
 - **Relative stability rather than permanence**
+
+Energy is not singular.  
+It manifests through motion, interaction, attention, cognition, emotion, and coordination.
+
+Capacity limits—cognitive, emotional, temporal, biological—govern *how* energy can move.
 
 These properties govern behavior across individual, social, and institutional layers.
 
@@ -33,9 +41,10 @@ These properties govern behavior across individual, social, and institutional la
 
 Salience is visible only through movement. It cannot be frozen into a static state or reduced to a single mechanism.
 
-It appears as the **directional flow of energy toward locally sustaining ends**, stabilizing through habituation and dissolving under overload or constraint violation.
+It appears as the **directional flow of energy and capacity toward locally sustaining ends**, stabilizing through habituation and dissolving under overload or constraint violation.
 
-Salience is therefore not a trait. It is a **trajectory**.
+Salience is therefore not a trait.  
+It is a **trajectory**.
 
 ---
 
@@ -51,18 +60,22 @@ No salient configuration is guaranteed or final.
 
 Stability emerges only later—and only **relatively**—through repeated traversal and habituation. All stability remains conditional on continued constraint alignment.
 
+Systems are always *wiggling* inside their allowed space.
+
 ---
 
 ## Overload as Rate Violation
 
-Overload occurs when the **rate of energy demand** exceeds processing capacity.
+Overload occurs when the **rate of demand** exceeds available capacity.
 
 This includes:
 - Emotional overload  
 - Cognitive overload  
 - Sensory overload  
+- Coordination overload  
 
-These are not character flaws or moral failures. They are **rate violations**.
+These are not character flaws or moral failures.  
+They are **rate violations**.
 
 The system enforces correction through:
 - Fatigue  
@@ -78,14 +91,46 @@ These responses reduce load when voluntary regulation fails.
 
 Loss, blockage, or collapse of local ends destabilizes salience.
 
-When existing ends no longer absorb energy:
+When existing ends no longer absorb energy or capacity:
 - Orientation weakens  
 - Restraint erodes  
 - Affect intensifies  
 
 Disorientation, anger, or agitation often appear as salience searches for new viable trajectories.
 
-This liminal state is not failure. It is a **transition phase** between stabilizing structures.
+This liminal state is not failure.  
+It is a **transition phase** between stabilizing structures.
+
+---
+
+## Artificial Constraints and Dynamic Distortion
+
+Not all constraints are enforced by reality.
+
+Some constraints are **artificial**: imposed by other agents’ abstractions of real constraints.
+
+Examples include:
+- Performance metrics treated as survival requirements  
+- Moralized productivity standards  
+- Identity-level success narratives  
+- Abstract optimization targets detached from lived capacity  
+
+Artificial constraints do not change physics or biology.  
+They change **where systems are allowed to move**.
+
+They introduce:
+- Walls where none are enforced by reality  
+- Landmines inside otherwise viable option space  
+- Increased rate pressure without increased capacity  
+
+Dynamics under artificial constraint show:
+- Earlier overload  
+- Narrowed trajectories  
+- Premature collapse  
+- Misattributed failure  
+
+The system still obeys real constraints.  
+It simply collides with them sooner.
 
 ---
 
@@ -108,7 +153,7 @@ Diverse failure modes reduce correlated collapse.
 
 When individuals and groups differ in:
 - What they find salient  
-- How they allocate energy  
+- How they allocate energy and capacity  
 - Which local ends they pursue  
 
 shocks do not propagate uniformly across the population.
@@ -132,7 +177,8 @@ Real human populations include:
 
 These patterns slow collapse even when no single strategy is optimal.
 
-This diversity is not a moral virtue or cultural accident. It is an **evolutionary allowance** that increases survivability by decorrelating failure pathways.
+This diversity is not a moral virtue or cultural accident.  
+It is an **evolutionary allowance** that increases survivability by decorrelating failure pathways.
 
 ---
 
@@ -150,33 +196,33 @@ Understanding systems requires tracking **movement, rate, and enforcement**, not
 
 ---
 
-## Excess Energy as a Destabilizing Condition
+## Excess Capacity as a Destabilizing Condition
 
 Instability does not arise only from scarcity.
 
-Excess available energy, when insufficiently absorbed by existing structures, can also destabilize systems.
+Excess available capacity—when insufficiently absorbed by existing structures—can also destabilize systems.
 
 In human systems, this appears as **salience volatility rather than overload**:
-- Energy exceeds the stabilizing capacity of local ends  
+- Capacity exceeds stabilizing paths  
 - Churn replaces collapse  
 - Switching replaces exhaustion  
 
 This condition is nonlinear and context-dependent.
 
-Increasing ease, efficiency, or availability does not monotonically increase stability. Beyond certain thresholds, it can **undermine stabilization by reducing energy absorption capacity**.
+Increasing ease, efficiency, or availability does not monotonically increase stability. Beyond certain thresholds, it can **undermine stabilization by reducing absorption capacity**.
 
 ---
 
 ## Summary
 
 Human systems are governed by dynamic interaction between:
-- Energy flow  
+- Energy and capacity flow  
 - Rate limits  
 - Salience stabilization  
 - Habituation  
 - Local ends  
 
-Both scarcity and surplus can produce instability when energy is mismatched with stabilizing structures.
+Both scarcity and surplus can produce instability when capacity is mismatched with stabilizing structures.
 
 Dynamics determine whether systems:
 - Adapt  
