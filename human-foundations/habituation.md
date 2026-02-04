@@ -15,3 +15,13 @@ Habituation is not inherently good or bad. It is a neutral efficiency mechanism.
 When a habituated cycle becomes energetically non-viable, negative feedback appears as fatigue, distress, confusion, or overload. This signals the need for reweighting rather than moral failure.
 
 Habituation stabilizes salience temporarily. All stability remains relative and revisable under changing constraints.
+
+---
+
+### Habituation and Energy Absorption
+
+Habituation stabilizes salience by reducing the energetic cost of repeatedly traversed paths, including paths that are initially disliked, effortful, or neutral.
+
+High-friction paths can serve as effective stabilizers precisely because they consume energy. Over time, habituation allows these paths to remain viable without continuous overload.
+
+When habituation is bypassed—because paths are too short, too easy, or too optional—salience may fail to stabilize even in the presence of desirable local ends.
