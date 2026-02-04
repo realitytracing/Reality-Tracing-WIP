@@ -6,7 +6,8 @@ Energy must go somewhere.
 
 In living systems, unused energy does not remain neutral. It produces pressure. Salience is the mechanism by which finite energy is routed, stabilized, and dissipated over time. It does not act by intention or choice. It emerges as a regulatory process that creates **ends** for energy to sink into.
 
-Salience is therefore not preference, motivation, or value in isolation. It is **energy stabilization under constraint**.
+Salience is therefore not preference, motivation, or value in isolation.  
+It is **energy stabilization under constraint**.
 
 ---
 
@@ -80,6 +81,65 @@ It is a **rate mismatch** between energy availability and the stabilizing capaci
 
 ---
 
+## Salience Collapse Under Loss of Local Ends
+
+A distinct and more severe failure mode occurs when **highly salient local ends are lost, destroyed, or rendered unreachable**.
+
+When this happens, salience does not merely destabilize — it can **lose its primary routing structure**.
+
+The severing of salient paths registers as:
+- Pain  
+- Grief  
+- Loss  
+- Aimlessness  
+- Disorientation  
+
+Energy continues to flow, but the established paths no longer lead to viable completion. Salience is forced to redirect without adequate stabilizers.
+
+This condition is volatile.
+
+---
+
+## Energy Redirection After Path Severance
+
+When salient paths can no longer reach local ends, energy is often redirected into alternative sinks.
+
+These redirections are not exhaustive, inevitable, or morally uniform. They are **structural attempts to discharge energy under constraint** when stabilizing ends are unavailable.
+
+Observed redirection patterns may include:
+- Radicalization  
+- Severe withdrawal or apathy  
+- Depressive collapse  
+- Self-directed harm  
+- Intentional deprivation or starvation  
+- Risk escalation  
+
+These outcomes are not chosen for their content. They persist because they:
+- Absorb energy  
+- Provide intensity when orientation is lost  
+- Create temporary structure in the absence of viable ends  
+
+This is not preference. It is **regulatory failure under loss**.
+
+---
+
+## Structural Clarification
+
+The appearance of these patterns does not imply:
+- Moral weakness  
+- Pathology as primary cause  
+- Ideological commitment  
+- Rational endorsement  
+
+They indicate that:
+- Energy remains present  
+- Salience remains active  
+- Stabilizing local ends are unavailable  
+
+The system is attempting to remain dynamically viable under extreme constraint.
+
+---
+
 ## Summary
 
 Salience is the system by which finite energy is:
@@ -88,9 +148,13 @@ Salience is the system by which finite energy is:
 - Habituated  
 - Dissipated  
 
-Both scarcity and surplus can destabilize salience when local ends fail to regulate energy flow.
+Salience can destabilize due to:
+- **Excess energy** (insufficient absorption)  
+- **Loss of local ends** (path severance)  
 
-Salience does not seek meaning or virtue.  
+Both conditions produce volatility through different mechanisms.
+
+Salience does not seek meaning, virtue, or health.  
 It seeks **viability under constraint**.
 
 Energy must go somewhere.
