@@ -28,3 +28,13 @@ As a counterexample, consider a hypothetical population in which all humans are 
 This diversity is not a moral virtue or cultural accident. It is an evolutionary allowance that increases system survivability by decorrelating failure pathways. Uniform salience increases efficiency under stable conditions but amplifies fragility under shock.
 
 Dynamics govern collapse and recovery. Static explanations obscure how systems actually change under pressure.
+
+---
+
+### Excess Energy as a Destabilizing Condition
+
+Instability does not arise only from scarcity. Excess available energy, when insufficiently absorbed by existing structures, can destabilize systems.
+
+In human systems, this appears as salience volatility rather than overload. Energy exceeds the stabilizing capacity of local ends, producing churn rather than collapse.
+
+This condition is nonlinear and context-dependent. Increasing ease or efficiency does not monotonically increase stability.
