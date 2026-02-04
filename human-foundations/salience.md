@@ -17,7 +17,7 @@ While energy is a primary capacity, it is not the only one salience routes.
 
 Anything that enters the mind can become an idea.  
 Any grouping of ideas can itself be treated as an idea.  
-Sets of ideas can be operationalized into movement, habits, and local ends.
+Sets of ideas can be operationalized into, thoughts, movement, habits, and local ends.
 
 Salience is the direction of this movement: the ongoing reinforcement of certain ideas, patterns, and actions through the allocation of finite capacity over time.
 
