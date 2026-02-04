@@ -144,6 +144,18 @@ Habituation does not preprogram behavior. It only lowers the cost of sustaining 
 
 ---
 
+## Local Ends as Energy Regulators
+
+Local ends do not merely provide meaning or motivation. They function as **energy regulators**.
+
+A viable local end must be capable of absorbing energy at a rate sufficient to stabilize salience. When a local end is too easily satisfied or requires insufficient engagement, it may fail in this role, even if it remains desirable.
+
+In such cases, completion does not restore equilibrium. Instead, salience disengages prematurely and seeks additional ends to maintain energy balance.
+
+This explains why abundance, automation, or frictionless satisfaction can paradoxically increase instability rather than reduce it. Local ends that are too easy cease to regulate energy effectively.
+
+---
+
 ## Structural Importance (Non-Moral)
 
 Local ends are structurally necessary. They are not moral claims.
