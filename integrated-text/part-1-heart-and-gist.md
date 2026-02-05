@@ -51,6 +51,89 @@ Throughout this work, direction and importance are treated as emergent rather th
 
 ---
 
+## The Unavoidable Interface
+
+Reality Tracing does not treat humans as the center of reality.  
+It treats humans as **unavoidable** within the slice of reality this work examines.
+
+Many real phenomena can be ignored without epistemic error.  
+A star behind a galaxy, an unobserved microstate, or a distant cosmological event may be real, but if it does not enforce constraints within the system under study, its exclusion does not corrupt the model.
+
+Human constraints are different.
+
+Human beings are:
+- Observable  
+- Enforcing  
+- Continuously present  
+- Causally upstream of higher-order systems  
+
+Energy limits, attention limits, salience dynamics, rate sensitivity, fatigue, overload, and withdrawal are not theoretical constructs. They are **lived enforcement mechanisms**.
+
+Any system that operates *through* humans—culture, markets, institutions, governance—necessarily inherits these constraints, whether it acknowledges them or not.
+
+To omit an enforcing variable is not neutrality.  
+It is **epistemic unhygiene**.
+
+---
+
+## Not Human-Centered, Human-Unavoidable
+
+This framework does not claim that humans are special, sovereign, or privileged within reality.
+
+It claims something narrower and stricter:
+
+> If a constraint is observable and self-enforcing within a system, excluding it produces predictable failure.
+
+Human limits meet this criterion.  
+They cannot be engineered away, moralized out of existence, or abstracted past indefinitely.
+
+We cannot evade “us.”
+
+We may choose not to look at certain regions of reality without consequence.  
+We cannot choose to ignore the substrate through which all higher abstractions act.
+
+Leaving out what can be observed is not abstraction.  
+It is distortion.
+
+---
+
+## Emergence Runs Upward, Not Downward
+
+Stacks, systems, and abstractions do not exist independently.
+
+They emerge from:
+- Human cognition  
+- Human coordination  
+- Human belief  
+- Human energy expenditure  
+
+Without humans, stacks disappear.  
+Humans do not require stacks to exist.
+
+This asymmetry matters.
+
+It means that higher-order systems must remain compatible with the metabolic, cognitive, and salience constraints of the agents that generate and sustain them—or those systems will fail through overload, exit, collapse, or refusal.
+
+This is not a moral claim.  
+It is a causal one.
+
+---
+
+## The Hygiene Principle
+
+Reality Tracing applies a simple discipline:
+
+> What enforces itself must be modeled.
+
+Human limits enforce themselves relentlessly.  
+Ignoring them does not remove them—it delays recognition until failure.
+
+This framework begins here, not because humans are the point of reality, but because **they are the unavoidable interface through which this layer of reality operates**.
+
+From this starting point, all further tracing proceeds.
+
+---
+
 ## Closing the Divide
 
 Much human error arises from a false division between:
