@@ -66,6 +66,8 @@ Stability matters precisely because cognition is limited.
 
 ---
 
+These boundary distinctions define the epistemic posture of reality tracing: neither totalizing nor relativizing, neither omniscient nor arbitrary. Understanding is constrained, rankable, revisable, and incomplete by structure. Stability matters because agents must act. Progress matters because errors compound. Total knowledge is neither required nor possible.
+
 These distinctions preserve realism without collapse into either dogma or nihilism.
 
 Reality tracing depends on them.
