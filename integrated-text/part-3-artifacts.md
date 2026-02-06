@@ -189,6 +189,8 @@ They are not arguments. They are **warnings**.
 
 - **[Communism vs Capitalism](../artifact-analyzed/communism-vs-capitalism-artifact.md)** - a constraint-aware cost analysis of both systems
 
+- **[Execution as a Salience and Legitimacy Stressor](execution-as-a-salience-and-legitimacy-stressor.md)** - a constraint-aware analysis and accounting of institutionalized execution
+
 ---
 
 ## Artifact Disclaimer
