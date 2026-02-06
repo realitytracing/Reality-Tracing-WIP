@@ -62,7 +62,7 @@ A primary diagnostic signal is **pressure**:
 
 Systems that remain compatible with ordinary, low-pressure life over sustained periods provide evidence of underlying fitness. Systems that persist only through escalating pressure, coercion, or continual emergency signaling indicate misalignment.
 
-Reality tracing can be used without committing to replacement or reform.
+Reality tracing can be used without committing to replacement or reform.  
 In many cases, the task is simply to treat an existing system as an artifact, trace where its costs land in human energy, attention, and time, and make those costs legible. Commitment, rejection, or redesign can occur later—if at all.
 
 When outcomes diverge from expectation, the default assumption is **model incompleteness**, not exception.
@@ -162,23 +162,64 @@ Completeness is neither possible nor required.
 
 ---
 
-## Stopping Rules and Scope Control
+## Stopping Rules, Boundaries, and Strategic Closure
 
 Because reasoning capacity is finite, **stopping rules** are necessary.
 
+Stopping rules operate **within reality tracing**.  
+They exist to prevent epistemic overreach and false totalization.
+
 Stopping rules define:
-- When to stop inference  
-- When to stop escalation  
-- When to defer judgment  
-- When to exit a process  
+- When continued tracing no longer reveals new constraint-relevant structure  
+- When analysis is looping without altering salience or energy flow  
+- When further inference increases certainty without increasing contact with reality  
 
-Scope control prevents:
-- Infinite regress  
-- Moral overreach  
-- Epistemic domination  
-- Paralysis through analysis  
+Stopping rules answer the question:
+> **“Should this still be called reality tracing?”**
 
-Stopping is not failure. It is capacity regulation.
+They enforce a **one-way boundary** between reality tracing and living.
+
+Reality tracing is an analytic activity.  
+Living is a condition that requires decision, commitment, and recovery.
+
+Not all closures that occur while living belong inside reality tracing.
+
+### Soft Closure (Inside Reality Tracing)
+
+Within reality tracing, only **soft closures** are permitted:
+- Tentative  
+- Revisable  
+- Scoped  
+- Explicitly provisional  
+
+Their function is to allow tracing to continue without paralysis.  
+They do not claim final truth or end inquiry.
+
+### Strategic / Structural Closure (Outside Reality Tracing)
+
+**Strategic (or structural) closure** operates *outside* reality tracing.
+
+It becomes necessary when:
+- Constraints are known  
+- Uncertainty is irreducible  
+- Further tracing cannot resolve action  
+- Coordination, recovery, or continuation is required  
+
+Strategic closure does not claim epistemic finality.  
+It selects an interpretation, precedent, or commitment so finite agents can move on.
+
+Examples include:
+- Legal verdicts and precedents  
+- Treaties and deterrence doctrines  
+- Emergency protocols  
+- Institutional decisions  
+- Strategic hope under irreversible risk  
+
+Reality tracing may **inform** strategic closure, but it does not replace it.  
+Confusing closure with tracing produces either ideological certainty or infinite regress. Both are failure modes.
+
+Stopping rules protect epistemic discipline.  
+Strategic closure protects livability.
 
 ---
 
@@ -191,27 +232,25 @@ Used together, these tools protect against:
 - Moralizing constraint violations  
 - Burning capacity to prove correctness  
 
-They do not guarantee correct outcomes. They reduce the **cost of being wrong**.
+They do not guarantee correct outcomes.  
+They reduce the **cost of being wrong**.
 
 ---
 
-### Classical Closure and Probabilistic Discipline
+## Classical Closure and Probabilistic Discipline
 
-This framework makes deliberate use of two complementary modes of reasoning: **classical closure** and **probabilistic discipline**. These are not competing worldviews, but distinct tools used at different stages of reality tracing.
+This framework makes deliberate use of two complementary modes of reasoning: **classical closure** and **probabilistic discipline**.
 
-Classical closure refers to the practice of stabilizing intuition into provisional objects, mechanisms, or models. Humans naturally detect patterns and compress them into named structures in order to think, communicate, and act. This process is unavoidable and often productive. Classical models provide handles on reality: they identify candidate variables, propose causal structure, and focus attention on specific interfaces where constraints may bind. In this sense, classical reasoning is a hypothesis-generating tool. It answers the question: *where should we look more closely?*
+Classical closure stabilizes intuition into provisional objects, mechanisms, or models so inquiry and action can proceed.
 
-Probabilistic discipline governs what happens next. Rather than granting classical constructions default ontological status, probabilistic reasoning treats them as testable compressions. Claims are stabilized through distributions, trends, and likelihoods rather than certainty. This mode does not attempt to explain away uncertainty; it tracks it. It constrains closure by requiring contact with observed outcomes, pressure signals, and failure under load. When classical models overreach—by adding unjustified structure, hidden variables, or total explanations—probabilistic testing exposes the mismatch.
+Probabilistic discipline constrains those constructions by tracking uncertainty, distributions, pressure signals, and failure under load.
 
-Both modes rely on intuition, but they use it differently. Classical reasoning solidifies intuition into objects and narratives in order to make inquiry tractable. Probabilistic reasoning applies intuition directly to uncertainty itself, stabilizing expectations without prematurely committing to explanation. Discovery occurs when classical intuition proposes structure and probabilistic discipline determines whether that structure survives contact with reality.
+Classical closure enables action.  
+Probabilistic discipline preserves realism.  
 
-This division of labor mirrors how modern science actually progresses. Even in domains governed by irreducible uncertainty, inquiry proceeds through incremental model-building, approximation, and testing. Models that cannot be measured, tracked, or probabilistically constrained are discarded. Models that survive do not become final truths; they remain context-dependent approximations valid within specific regimes.
+Reality tracing requires both.
 
-Within this framework, deterministic or classical language is therefore not an error. It is a local tool. Its legitimacy depends on scope, rate, and continued alignment with constraints. Probabilistic reasoning provides the discipline that prevents local usefulness from hardening into global overreach.
-
-Classical closure enables action. Probabilistic discipline preserves realism. Reality tracing requires both.
-
-Reality tracing operates on observable pressure, breakdown, and persistence rather than declared intent. Direction within this process emerges through salience: the ongoing flow of finite energy toward locally sustaining ends. Salience is not a tool itself, but the dynamic that gives tools direction.
+Direction within this process emerges through **salience**: the ongoing flow of finite energy toward locally sustaining ends. Salience is not a tool itself, but the dynamic that gives tools direction.
 
 ---
 
@@ -226,5 +265,4 @@ They are retained because they survive contact with pressure, failure, and disag
 
 They exist to help reasoning remain **grounded, humane, and survivable** under constraint.
 
-Important: Unless otherwise specified, claims in this framework are probabilistic.
-
+**Important:** Unless otherwise specified, claims in this framework are probabilistic.
