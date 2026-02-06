@@ -27,7 +27,7 @@ Progress in understanding does not imply that all unknowns will eventually be di
 
 Some aspects of reality may be undecidable, unmeasurable, unenumerable or inaccessible in principle due to irreversibility, rate limits, or observer constraints.
 
-Progress consists in reducing catastrophic error, tightening bounds, and improving failure localization—not guaranteeing total knowledge.
+Progress consists in reducing catastrophic error, tightening bounds, and improving failure localization under constraint—not guaranteeing total knowledge.
 
 ---
 
