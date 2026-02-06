@@ -73,7 +73,7 @@ This repository is organized into two layers:
 - **[Prediction, Abstraction, and the Speed of Reality](human-foundations/prediction-abstraction-and-the-speed-of-reality.md)** - what closure is for under time and constraint, distinguishing naive realism from anticipatory, constraint-aware realism
 - **[Reality Tracing](human-foundations/reality-tracing.md)** – what it is and what it is not, and why it is named
 - **[Constraints](human-foundations/constraints.md)** — non-negotiable limits shaping viability
-- **[Locality, Constraints, and Direction](human-foundations/salience.md)** - dynamics at the interface between mind and outside reality
+- **[Locality, Constraints, and Direction](human-foundations/locality-constraints-and-direction.md)** - dynamics at the interface between mind and outside reality
 - **[Salience](human-foundations/salience.md)** — directional energy flow toward local ends
 - **[Free Will and Salience](human-foundations/free-will-and-salience.md)** - clarifies how agency and free will can be understood within salience-driven dynamics without requiring metaphysical closure.
 - **[Habituation](human-foundations/habituation.md)** — stabilization of repeated patterns
