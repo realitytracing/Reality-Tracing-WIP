@@ -208,6 +208,11 @@ Constraint-aware systems survive by:
 These disciplines are not aspirational. They are **survival requirements**.
 
 ---
+## Artifacts:
+
+- **[Nuclear Disarmament, Proliferation, Mad Men, And Memory](nuclear-disarmament-proliferation-madmen-and-memory.md)**
+
+---
 
 ## Closing Reminder
 
