@@ -71,7 +71,7 @@ This repository is organized into two layers:
 
 **Foundational Concepts**
 - **[Prediction, Abstraction, and the Speed of Reality](human-foundations/prediction-abstraction-and-the-speed-of-reality.md)** - what closure is for under time and constraint, distinguishing naive realism from anticipatory, constraint-aware realism
-- **[Epistemic Cautions and Boundary Conditions](epistemic-cautions-and-boundary-conditions.md)** - Cautions of classical epistemic failure modes
+- **[Epistemic Cautions and Boundary Conditions](human-foundations/epistemic-cautions-and-boundary-conditions.md)** - Cautions of classical epistemic failure modes
 - **[Reality Tracing](human-foundations/reality-tracing.md)** – what it is and what it is not, and why it is named
 - **[Constraints](human-foundations/constraints.md)** — non-negotiable limits shaping viability
 - **[Locality, Constraints, and Direction](human-foundations/locality-constraints-and-direction.md)** - dynamics at the interface between mind and outside reality
