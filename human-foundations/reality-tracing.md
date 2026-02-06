@@ -259,6 +259,10 @@ This is an ontology of limits, not of substances.
 
 ---
 
+Reality tracing resembles sketching a three-dimensional object on a two-dimensional surface. Fidelity does not come from reproducing every surface, but from knowing which lines can be drawn without distortion — and which must be left blank. Gaps in the trace are not ignorance or omission; they are signs that representation has reached its honest limit. Attempting to fill them produces coherence loss rather than understanding.
+
+---
+
 In Short
 
 Reality Tracing is:
