@@ -210,7 +210,7 @@ These disciplines are not aspirational. They are **survival requirements**.
 ---
 ## Artifacts:
 
-- **[Nuclear Disarmament, Proliferation, Mad Men, and Memory](../artifact-analyzed/nuclear-disarmament-proliferation-madmen-and-memory.md)**
+- **[Nuclear Disarmament, Proliferation, Mad Men, Memory, and Strategic Hope](../artifact-analyzed/nuclear-disarmament-proliferation-madmen-and-memory.md)**
 
 ---
 
