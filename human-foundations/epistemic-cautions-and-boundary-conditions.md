@@ -13,7 +13,7 @@ Mistaking stability for completeness produces scientism and epistemic overreach.
 
 ---
 
-### Incompleteness ≠ Equivalence
+### Incompleteness ≠ Total Relativity of Understanding
 The incompleteness of understanding does not imply that all understandings are equally valid.
 
 Models differ in cost, predictive power, failure behavior, and alignment with constraint. Incomplete knowledge can still be meaningfully ranked by how well it preserves viability.
@@ -22,7 +22,7 @@ Denying these distinctions collapses into anti-intellectualism.
 
 ---
 
-### Progress ≠ Eventual Omniscience
+### Progress ≠ Eventual Completeness
 Progress in understanding does not imply that all unknowns will eventually be discovered.
 
 Some aspects of reality may be undecidable, unmeasurable, unenumerable or inaccessible in principle due to irreversibility, rate limits, or observer constraints.
