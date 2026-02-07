@@ -1,4 +1,8 @@
-# Reality Tracing (WIP)  
+---
+
+title: Reality Tracing (WIP)
+
+---
 ## Part VI — The Heart Revisited: Dissolving False Constraints and Restoring Freedom
 
 ---
