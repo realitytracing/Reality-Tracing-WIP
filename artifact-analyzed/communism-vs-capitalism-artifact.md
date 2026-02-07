@@ -1,4 +1,4 @@
-# Capitalism and Communism as Cost-Allocation Mechanisms  
+title: Capitalism and Communism as Cost-Allocation Mechanisms  
 *(Constraint + Patchwork View — Artifact)*
 
 ---
