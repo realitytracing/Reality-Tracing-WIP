@@ -1,5 +1,8 @@
-# Salience
+---
 
+title: Salience
+
+---
 ## Energy Must Flow Somewhere
 
 Energy must go somewhere.
