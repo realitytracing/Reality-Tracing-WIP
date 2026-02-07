@@ -1,4 +1,8 @@
-# Reality Tracing (WIP) 
+---
+
+title: Reality Tracing (WIP) 
+
+---
 ## Part I — The Heart and the Gist
 
 ---
