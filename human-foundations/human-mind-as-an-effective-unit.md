@@ -1,4 +1,8 @@
-# The Human Mind as an Effective Unit  
+---
+
+title: The Human Mind as an Effective Unit  
+
+---
 
 ## Status  
 
