@@ -1,4 +1,4 @@
-# Execution as a Salience and Legitimacy Stressor
+title: Execution as a Salience and Legitimacy Stressor
 *(Artifact — Constraint-Aware Analysis)*
 
 ## Status
