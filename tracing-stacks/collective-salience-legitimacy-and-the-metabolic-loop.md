@@ -170,10 +170,30 @@ It is a metabolic signal: a system no longer reduces the cost of living under co
 
 ---
 
+## Salience Agents and Stacks Are Both Real
+
+This framework treats **salience agents** and **stacks** as equally real, but as **distinct forms of reality**.
+
+Salience agents are real because they route finite energy, attention, and action under constraint, producing observable behavior, stabilization, overload, and failure.  
+Stacks are real because they impose limits, rate constraints, and propagation pathways that no individual agent can bypass.
+
+Stacks are not metaphors, narratives, or analytical conveniences. They are **load-bearing causal structures** composed of energy flows, material constraints, institutional rules, coordination mechanisms, and enforcement pathways. When stacks are misaligned or overloaded, collapse occurs regardless of individual belief, intent, or moral posture.
+
+Salience operates *within* stacks, but stacks shape what salience can stabilize, pursue, or destroy. A salience configuration that is locally coherent may still fail if the surrounding stack cannot absorb its energy or support its rate of action.
+
+Ignoring salience collapses analysis into technocracy, determinism, or dehumanized system control.  
+Ignoring stacks collapses analysis into voluntarism, psychologizing, or blame-focused narratives.
+
+Reality tracing requires tracking **both simultaneously**.
+
+Collapse, resilience, and recovery are not properties of agents alone or systems alone, but of the **interaction between salience trajectories and stack constraints**.
+
+---
+
 ## Compressed Core Insight
 
 > Collective salience is the energy that keeps societies alive.  
-> Institutions exist to stabilize it.  
+> Institutions exist to stabilize it.
 > Leadership exists to absorb it.  
 > Legitimacy exists only while alignment holds.  
 > Collapse occurs when either side forgets the loop they depend on.
