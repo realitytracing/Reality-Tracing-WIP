@@ -1,4 +1,8 @@
-title: Hard Problem Artifact  
+---
+
+title: Hard Problem Artifact
+
+---
 ## Nuclear Stability: What Must Never Be Forgotten  
 *(Constraint-Aware Notes on MAD, Proliferation, Strategic Closure, and Strategic Hope)*
 
