@@ -212,6 +212,9 @@ These disciplines are not aspirational. They are **survival requirements**.
 
 - **[Nuclear Disarmament, Proliferation, Mad Men, Memory, and Strategic Hope](../artifact-analyzed/nuclear-disarmament-proliferation-madmen-and-memory.md)**
 
+- **[Environmental Constraints, Planetary Viability, and Non-Resolving Load](environmental-constraints-planetary-viability-and-non-resolving-load.md
+)**
+
 ---
 
 ## Closing Reminder
