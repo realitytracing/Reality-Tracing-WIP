@@ -1,5 +1,8 @@
-# Equal Tooling: Salience-Centered Optimization and Symmetry of Understanding
+---
 
+title: Equal Tooling: Salience-Centered Optimization and Symmetry of Understanding
+
+---
 ## Status
 
 This document is integrative and descriptive.
