@@ -1,5 +1,8 @@
-# Locality, Constraints, and Direction
+---
 
+title: Locality, Constraints, and Direction
+
+---
 ## Status
 
 This document clarifies the relationship between **constraints** and **locality** within the Reality Tracing framework.
