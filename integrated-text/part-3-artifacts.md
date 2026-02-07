@@ -5,7 +5,7 @@
 
 ## Status of This Section
 
-This part contains **contextual examples and extracted patterns**.
+This part contains **contextual artifacts and extracted patterns**.
 
 It is explicitly:
 - Time-bound  
@@ -13,9 +13,10 @@ It is explicitly:
 - Revisable  
 - Allowed to age  
 
-Nothing in this section is claimed as timeless, universal, or exhaustive. These examples are **artifacts**: snapshots of how constraint failures, cognitive overload, fear dynamics, and legitimacy erosion appear under current conditions.
+Nothing in this section is claimed as timeless, universal, or exhaustive. The contents here are **artifacts**: snapshots of how constraint failures, cognitive overload, fear dynamics, legitimacy erosion, and salience distortion appear under particular historical conditions.
 
-Their purpose is not prediction or proof. It is **pattern recognition under pressure**.
+Their purpose is not prediction, prescription, or proof.  
+It is **pattern recognition under pressure**.
 
 When these artifacts no longer fit reality, they should be:
 - Re-scoped  
@@ -26,9 +27,30 @@ What must persist is not the examples themselves, but the **practice of reality 
 
 ---
 
+## Artifacts and the Limits of Closure
+
+Artifacts in this section fall into two implicit roles:
+
+- Some artifacts become **structurally clear once traced**  
+- Others remain **live failure surfaces** requiring ongoing attention  
+
+This section does not force resolution.
+
+Artifacts may:
+- Clarify cost structures
+- Expose failure dynamics
+- Reveal constraint mismatches
+
+They do **not** necessarily produce closure.
+
+Closure—when it occurs—belongs to Part II (tools) or Part IV (hard problems), not to artifacts themselves.
+
+---
+
 ## Why Artifacts Matter
 
-Abstraction without grounding produces false certainty. Artifacts anchor models to lived constraint.
+Abstraction without grounding produces false certainty.  
+Artifacts anchor models to lived constraint.
 
 They:
 - Prevent frameworks from drifting into ideology  
@@ -36,13 +58,16 @@ They:
 - Make invisible costs visible  
 - Expose early failure surfaces before total collapse  
 
-Artifacts are not authorities. They are **diagnostic signals**.
+Artifacts are not authorities.  
+They are **diagnostic signals**, not conclusions.
 
 —
 
 > **Epistemic note:**  
 > Claims in this section describe probabilistic tendencies under constraint.  
 > Deterministic phrasing refers to increased risk or failure likelihood, not guaranteed outcomes.
+
+---
 
 ## Observed Context: Capacity Overload
 
@@ -55,7 +80,8 @@ Common signals include:
 - Compression of time horizons  
 - Demand for immediate moral clarity  
 
-These are not character failures. They are predictable responses to sustained load.
+These are not character failures.  
+They are predictable responses to sustained load.
 
 When cognitive and emotional capacity is exceeded:
 - Reasoning narrows  
@@ -71,8 +97,8 @@ Systems built on assumptions of surplus attention or infinite engagement begin t
 
 Online environments intensify existing dynamics rather than creating new ones.
 
-Key amplification effects:
-- Rate acceleration (faster than human absorption capacity)  
+Key amplification effects include:
+- Rate acceleration beyond human absorption capacity  
 - Salience distortion (extremes outcompete nuance)  
 - Context collapse (local claims treated as global)  
 - Permanent exposure without recovery  
@@ -89,13 +115,15 @@ They penalize:
 - Scope limitation  
 - Disengagement  
 
-The result is not persuasion, but **pressure accumulation**.
+The result is not persuasion.  
+It is **pressure accumulation**.
 
 ---
 
 ## Fear Dynamics in Practice
 
-Fear operates as a high-gain signal. In the current context, it is frequently triggered and rarely discharged.
+Fear operates as a high-gain signal.  
+In the current context, it is frequently triggered and rarely discharged.
 
 Observed patterns include:
 - Chronic threat framing  
@@ -108,7 +136,7 @@ As fear becomes ambient:
 - Diversity of interpretation collapses  
 - Hostility becomes self-reinforcing  
 
-Loss of diversity amplifies fear by eliminating alternative sense-making paths.
+Loss of interpretive diversity amplifies fear by eliminating alternative sense-making paths.
 
 ---
 
@@ -127,7 +155,8 @@ This compression reduces option space and accelerates collapse by eliminating le
 - Rate regulation  
 - Recovery  
 
-Identity fusion is not an ideology. It is a **stress response**.
+Identity fusion is not an ideology.  
+It is a **stress response under overload**.
 
 ---
 
@@ -139,13 +168,14 @@ Legitimacy erodes when systems:
 - Shift costs invisibly onto individuals  
 - Moralize exhaustion  
 
-Observed consequences:
+Observed consequences include:
 - Rising enforcement costs  
 - Loss of voluntary compliance  
 - Spread of distrust across institutions  
 - Option amnesia  
 
-Importantly, legitimacy loss is **contagious**. Failure in one domain generalizes across the entire system in public perception.
+Legitimacy loss is **contagious**.  
+Failure in one domain generalizes across the entire system in public perception.
 
 ---
 
@@ -163,7 +193,8 @@ This produces predictable failure modes:
 - Pressure displacement  
 - Loss of trust  
 
-These failures are often interpreted as malice or incompetence, but more frequently arise from **constraint mismatch** between institutional capacity and environmental demand.
+These failures are often interpreted as malice or incompetence.  
+More frequently, they arise from **constraint mismatch** between institutional capacity and environmental demand.
 
 ---
 
@@ -173,23 +204,29 @@ These artifacts illustrate a general principle:
 
 > Systems fail first where human capacity is exceeded, not where ideology is weakest.
 
-Collapse begins locally, unevenly, and invisibly. By the time it becomes globally visible, recovery is already expensive.
+Collapse begins locally, unevenly, and invisibly.  
+By the time it becomes globally visible, recovery is already expensive.
 
-Tracking artifacts allows:
+Tracking artifacts enables:
 - Early intervention  
 - Cost localization  
 - Rate correction  
 - Preservation of option space  
 
-They are not arguments. They are **warnings**.
+They are not arguments.  
+They are **warnings**.
 
 ---
 
-## Other Artifacts:
+## Other Artifacts
 
-- **[Communism vs Capitalism](../artifact-analyzed/communism-vs-capitalism-artifact.md)** - a constraint-aware cost analysis of both systems
+- **[Communism vs Capitalism](../artifact-analyzed/communism-vs-capitalism-artifact.md)**  
+  A tracing-sufficient artifact showing cost allocation under closed systems.
 
-- **[Execution as a Salience and Legitimacy Stressor](../artifact-analyzed/execution-as-a-salience-and-legitimacy-stressor.md)** - a constraint-aware analysis and accounting of institutionalized execution
+- **[Execution as a Salience and Legitimacy Stressor](../artifact-analyzed/execution-as-a-salience-and-legitimacy-stressor.md)**  
+  A constraint-aware analysis of irreversible institutional action and legitimacy erosion.
+
+Additional hard problem artifacts (e.g. nuclear stability, environmental viability) are handled in **Part IV**, where continued strategic closure is required.
 
 ---
 
@@ -204,7 +241,5 @@ Future contexts will produce different artifacts:
 
 When that happens, this section should change.
 
-The framework does not depend on these examples. These examples exist to **keep the framework honest**.
-
-
-
+The framework does not depend on these examples.  
+These examples exist to **keep the framework honest**.
