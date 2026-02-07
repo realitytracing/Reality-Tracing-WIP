@@ -1,4 +1,8 @@
-## Epistemic Cautions and Boundary Conditions
+---
+
+title: Epistemic Cautions and Boundary Conditions
+
+---
 
 This framework operates between two symmetric failure modes: false totalization and false equivalence.
 
