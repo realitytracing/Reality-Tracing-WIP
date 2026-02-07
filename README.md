@@ -108,7 +108,12 @@ This repository is organized into two layers:
    How constraint awareness dissolves false metrics and restores
    freedom, local ends, and human meaning.
 
-7. **[GLOSSARY](GLOSSARY.md)**
+**Reality Tracing Stacks Integrated Text:**
+
+1. **[Collective Salience, Legitimacy, and the Metabolic Loop](tracing-stacks/collective-salience-legitimacy-and-the-metabolic-loop.md)** - emergence of the equally real stacks and it's metabolic loop with salience agents
+
+
+**[GLOSSARY](GLOSSARY.md)**
    Definition of terms and specific usages in the work.
 
 Each part is written as a standalone document but functions best as
