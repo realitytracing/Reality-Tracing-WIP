@@ -1,4 +1,8 @@
-title: Hard Problem Artifact  
+---
+
+title: Hard Problem Artifact
+
+---
 ## Environmental Constraints, Planetary Viability, and Non-Resolving Load
 
 ---
