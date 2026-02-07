@@ -1,4 +1,8 @@
-# Prediction, Abstraction, and the Speed of Reality
+---
+
+title: Prediction, Abstraction, and the Speed of Reality
+
+---
 
 ## Why Pure Ontology Cannot Predict
 
