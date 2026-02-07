@@ -1,5 +1,8 @@
-# Dynamics
+---
 
+title: Dynamics
+
+---
 ## Systems in Motion
 
 This framework treats human cognition, behavior, and social systems as **dynamic processes** rather than static traits, identities, or states.
