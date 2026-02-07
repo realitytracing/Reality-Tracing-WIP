@@ -1,4 +1,8 @@
+---
+
 title: Constraints
+
+---
 
 Constraints are the non-negotiable limits that shape what can occur, persist, or fail across systems. They operate independently of belief, intent, morality, or narrative.
 
