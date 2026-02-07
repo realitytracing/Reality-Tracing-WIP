@@ -265,6 +265,75 @@ Constraint-aware systems survive by:
 These disciplines are not aspirational.  
 They are **survival requirements**.
 
+## Continued Strategic Closure
+
+Some hard problems do not admit resolution even after constraints are fully traced.
+
+In these cases, reality tracing does not fail — it **terminates correctly**. What follows is not further analysis, but **continued strategic closure**.
+
+Continued strategic closure refers to the deliberate stabilization of action, expectation, and coordination **after constraints are known**, when reopening the problem would only reproduce collapse dynamics.
+
+This class of closure is:
+
+- Not epistemic certainty  
+- Not moral resolution  
+- Not denial or complacency  
+
+It is a **strategic alignment of salience** that allows systems to function under permanently unresolved constraint.
+
+Examples include:
+- Nuclear deterrence regimes (MAD paired with strategic hope / MND)  
+- Environmental load management without full ecological reversal  
+- Long-term containment of irreconcilable geopolitical conflict  
+- Institutional decisions that must be lived with despite persistent disagreement  
+
+In these contexts, continued reopening of first principles would:
+
+- Exceed cognitive and emotional capacity  
+- Reignite fear dynamics  
+- Collapse trust and legitimacy  
+- Destroy coordination faster than it improves outcomes  
+
+Continued strategic closure therefore functions as a **stability-maintaining maneuver**, not a truth claim.
+
+---
+
+## Continued Strategic Closure vs. Stopping Rules
+
+Continued strategic closure must be distinguished from **stopping rules**.
+
+Stopping rules apply *within* reality tracing.  
+They regulate how far inference, debate, or modeling proceeds **before diminishing returns or overload**.
+
+Continued strategic closure applies *after* reality tracing.  
+It governs how agents and institutions act **once tracing has reached its practical limit**.
+
+Stopping rules say:
+> “Do not escalate this line of reasoning further.”
+
+Continued strategic closure says:
+> “We will act as if this provisional structure holds, because reopening it is more damaging than maintaining it.”
+
+---
+
+## Closure Without Forgetting
+
+Continued strategic closure does not erase awareness of risk.
+
+It requires **active memory maintenance**:
+- Of constraints  
+- Of failure modes  
+- Of worst-case outcomes  
+- Of why closure was chosen  
+
+Closure that forgets its own justification collapses into dogma.
+
+Closure that remembers its constraints preserves adaptability.
+
+This is why hard problems require **discipline over time**, not solutions.
+
+Continued strategic closure is how systems remain livable **in the presence of permanent tension**.
+
 ---
 
 ## Artifacts:
