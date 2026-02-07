@@ -1,4 +1,8 @@
-# Reality Tracing (WIP)  
+---
+
+title: Reality Tracing (WIP)  
+
+---
 ## Part III — Contextual Artifacts, Extracted Patterns, and Live Failure Surfaces
 
 ---
