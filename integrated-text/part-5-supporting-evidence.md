@@ -1,4 +1,8 @@
-# Reality Tracing (WIP)
+---
+
+title: Reality Tracing (WIP)
+
+---
 ## Part V — Supporting Evidence of Use (Optional, Non-Coercive)
 
 ---
