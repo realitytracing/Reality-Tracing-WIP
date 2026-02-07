@@ -7,110 +7,113 @@
 
 This document is a **hard problem artifact**.
 
-It describes a class of problems that **cannot be resolved by reality tracing alone**, even when constraints are clearly identified and models are well-aligned.
+It addresses a class of problems that **cannot be resolved by reality tracing alone**, even when constraints are well understood, models are aligned, and failure modes are known.
 
 Unlike answerable artifacts, hard problems require:
-- Continuous management
-- Ongoing coordination
-- Strategic closure
-- Persistent effort under uncertainty
 
-Environmental constraints belong to this class.
+- Continuous regulation rather than resolution  
+- Ongoing coordination under uncertainty  
+- Strategic and continued closure  
+- Persistent effort despite irreversibility  
+
+Environmental constraints fall squarely within this class.
 
 ---
 
-## Two Classes of Artifacts
+## Artifact Classes (Context)
 
-This framework distinguishes between **answerable artifacts** and **hard problem artifacts**.
+This framework distinguishes between two classes of artifacts:
 
-### 1. Answerable Artifacts (Tracing-Sufficient)
+### Answerable Artifacts (Tracing-Sufficient)
 
-Some questions become structurally clear once reality is traced.
+Some questions become structurally clear once constraints are traced.
 
 Example:
-- *Capitalism vs Communism (as closed systems)*
+- *Capitalism vs. Communism (treated as closed systems)*
 
 Reality tracing reveals:
-- Both impose unavoidable costs
-- The primary difference is cost allocation, not moral superiority
-- Treating either as total or exclusive is maladaptive
+- Both impose unavoidable costs  
+- Differences lie in cost allocation, not moral superiority  
+- Treating either as total or exclusive is maladaptive  
 
-Here, tracing produces a **stable structural answer**:
-> Closed ideological systems fail. Patchwork, constraint-aware design reduces cost.
+Here, tracing yields a **stable structural conclusion**:
+> Closed ideological systems fail; patchwork, constraint-aware design reduces cost.
 
-Once traced, continued debate mostly burns energy without adding information.
+Further debate adds heat, not information.
 
 ---
 
-### 2. Hard Problem Artifacts (Tracing-Insufficient)
+### Hard Problem Artifacts (Tracing-Insufficient)
 
-Other problems remain **unsolved even after constraints are known**.
+Other problems remain **unresolved even after constraints are known**.
 
 Examples:
-- Nuclear deterrence (MAD)
-- Strategic hope (MND)
-- Environmental degradation
-- Climate change
-- Biodiversity loss
-- Long-term planetary viability
+- Nuclear deterrence (MAD)  
+- Strategic hope / MND  
+- Environmental degradation  
+- Climate change  
+- Biodiversity collapse  
+- Long-term planetary viability  
 
 In these cases:
-- Constraints are visible
-- Failure modes are known
-- No final solution exists
-- Stopping effort produces collapse
+- Constraints are visible  
+- Failure modes are understood  
+- No terminal solution exists  
+- Abandoning effort produces collapse  
 
-Environmental constraints fall squarely here.
+Environmental constraints belong here.
 
 ---
 
 ## Why Environmental Constraints Are a Hard Problem
 
-Environmental systems are defined by:
-- Finite energy throughput
-- Rate sensitivity
-- Nonlinearity
-- Irreversibility
-- Delayed feedback
-- Phase transitions
+Environmental systems are governed by:
 
-Once critical thresholds are crossed:
-- Damage cannot be undone within human timescales
-- Recovery exceeds planning horizons
-- Local intervention is insufficient
+- Finite energy throughput  
+- Rate sensitivity  
+- Nonlinearity  
+- Irreversibility  
+- Delayed feedback  
+- Phase transitions  
+
+Once thresholds are crossed:
+- Damage cannot be undone within human timescales  
+- Recovery exceeds planning horizons  
+- Local optimization becomes insufficient  
 
 Reality tracing can identify:
-- Extraction vs regeneration mismatches
-- Emission vs absorption rates
-- Ecological load vs resilience thresholds
+- Extraction vs. regeneration mismatches  
+- Emission vs. absorption rates  
+- Load vs. resilience thresholds  
 
-But **knowing these does not resolve them**.
+But **identification does not resolve the problem**.
 
-The problem remains:
-> How do finite agents continuously regulate behavior within irreversible planetary limits?
+The unresolved question is not *what is happening*, but:
+> How finite agents continuously regulate behavior within irreversible planetary limits.
 
-There is no terminal equilibrium state that ends the task.
+There is no final equilibrium state that ends the task.
 
 ---
 
 ## Environment as a Coupled Metabolic Loop
 
-Environmental systems are not a background condition.
+Environmental systems are not background conditions.
+
 They form an **outer metabolic loop** coupled to human systems.
 
-Both share:
-- Energy flow
-- Capacity limits
-- Rate constraints
-- Failure under sustained overload
+Both exhibit:
+- Energy flow  
+- Capacity limits  
+- Rate constraints  
+- Failure under sustained overload  
 
 Environmental collapse and human burnout are **structurally homologous failures at different scales**.
 
 Ignoring environmental constraints produces:
-- Cost delocalization
-- Deferred harm
-- Loss of failure localization
-- Eventual systemic collapse
+- Cost delocalization  
+- Deferred harm  
+- Loss of failure localization  
+- Eventual systemic collapse  
 
 ---
 
@@ -118,109 +121,116 @@ Ignoring environmental constraints produces:
 
 Environmental degradation is not a puzzle with a final answer.
 
-Reasons:
-- Feedback is delayed
-- Effects are nonlinear
-- Damage is often irreversible
-- Human systems continuously change
-- Salience structures evolve
-- New technologies introduce new gradients
+This is not because of ignorance, but because:
 
-Any apparent “solution” alters the constraint landscape itself.
+- Feedback is delayed  
+- Effects are nonlinear  
+- Damage is often irreversible  
+- Human systems continuously change  
+- Salience structures evolve  
+- New technologies introduce new gradients  
 
-This makes environmental stability a **continuous regulation problem**, not a resolvable one.
+Any apparent “solution” reshapes the constraint landscape itself.
+
+Environmental stability is therefore a **continuous regulation problem**, not a resolvable one.
 
 ---
 
-## Strategic Closure in Hard Problems
+## Strategic and Continued Closure
 
-Hard problems require **strategic closure**, not epistemic closure.
+Because environmental constraints do not admit resolution, they require **strategic closure**, followed by **continued strategic closure**.
 
-Strategic closure means:
-- Constraints are acknowledged
-- No further tracing reduces uncertainty meaningfully
-- Action must proceed despite incomplete resolution
-- Coordination must persist indefinitely
+This does not mean stopping thought.
 
-This is the same logic that governs:
-- Nuclear deterrence
-- MAD + MND
-- Emergency governance
-- Long-term institutional safeguards
+It means:
+- Constraints are acknowledged  
+- Further tracing yields diminishing returns  
+- Action must proceed without full resolution  
+- Coordination must persist over time  
 
-Environmental governance belongs here.
+This is the same structural position as:
+- Nuclear deterrence  
+- MAD paired with MND  
+- Emergency governance under irreversibility  
+
+Environmental governance belongs to this category.
+
+Closure here is **stability-maintaining**, not truth-claiming.
 
 ---
 
 ## Strategic Hope and Environmental Viability
 
-Just as MAD requires MND (Mutual Non-Destruction/Mutual Not Dying) to prevent paralysis or nihilism, environmental hard problems require **strategic hope**.
+As with nuclear deterrence, environmental hard problems require **strategic hope**.
 
 Strategic hope is not optimism.
 It is **salience alignment around continued non-collapse**.
 
 It functions to:
-- Prevent disengagement
-- Avoid fatalism
-- Sustain long-term coordination
-- Preserve effort under uncertainty
+- Prevent disengagement  
+- Avoid fatalism  
+- Sustain long-term coordination  
+- Preserve effort under uncertainty  
 
-Without it:
-- Agents regress to short-term salience
-- Overconsumption increases
-- Coordination collapses
-- Damage accelerates
+Without strategic hope:
+- Agents regress to short-term salience  
+- Overconsumption increases  
+- Coordination collapses  
+- Damage accelerates  
+
+Hope here is structural, not emotional.
 
 ---
 
-## Humans as the Default System Buffers Is No Longer Viable
+## Humans as the Default Buffers Is No Longer Viable
 
 Historically, systems absorbed load by:
-- Exploiting human capacity
-- Externalizing cost to individuals
-- Treating humans as elastic buffers
+- Exploiting human capacity  
+- Externalizing cost onto individuals  
+- Treating humans as elastic buffers  
 
 Constraint awareness breaks this strategy.
 
 Humans are:
-- Finite
-- Rate-limited
-- Burnout-prone
-- Not infinitely compressible
+- Finite  
+- Rate-limited  
+- Burnout-prone  
+- Not infinitely compressible  
 
-Environmental systems now absorb the displaced load.
+As human buffering fails, load shifts outward—onto environmental systems.
 
 The hard problem becomes:
 > If humans cannot absorb infinite strain, and the environment cannot absorb infinite extraction, how is load buffered?
 
-There is no free answer—only tradeoffs.
+There is no free answer—only tradeoffs that must be managed continuously.
 
 ---
 
 ## What Hard Problem Framing Changes
 
-Framing environmental constraints as a hard problem:
-- Prevents false solutionism
-- Avoids moralized blame
-- Clarifies irreversibility
-- Justifies long-term institutions
-- Makes continuous effort legible
-- Preserves option space
+Treating environmental constraints as a hard problem:
+
+- Prevents false solutionism  
+- Avoids moralized blame  
+- Clarifies irreversibility  
+- Justifies long-lived institutions  
+- Makes ongoing effort legible  
+- Preserves option space  
 
 It replaces:
 > “Solve climate change”  
-with  
-> “Prevent irreversible collapse while maintaining human viability”
+with:
+> “Prevent irreversible collapse while maintaining human viability.”
 
 ---
 
 ## Non-Adjudicative Boundary
 
 This artifact does not assign:
-- Moral worth
-- Blame
-- Final responsibility
-- Optimal ideology
+- Moral worth  
+- Blame  
+- Final responsibility  
+- Optimal ideology  
 
 It evaluates **structural viability under constraint**.
 
@@ -234,19 +244,18 @@ It is predictable misalignment.
 Environmental constraints are not an answerable artifact.
 
 They are a **hard problem** characterized by:
-- Known constraints
-- Unknown trajectories
-- Irreversible thresholds
-- Continuous effort requirements
+- Known constraints  
+- Unknown trajectories  
+- Irreversible thresholds  
+- Continuous regulation requirements  
 
 Reality tracing clarifies the shape of the problem.
 It does not remove the need for:
-- Strategic closure
-- Ongoing coordination
-- Institutional persistence
-- Strategic hope
+- Strategic closure  
+- Continued coordination  
+- Institutional persistence  
+- Strategic hope  
 
-Just as nuclear deterrence cannot be “solved,”
-planetary viability cannot be completed.
+As with nuclear deterrence, planetary viability cannot be completed.
 
 It can only be **maintained—under constraint, indefinitely**.
