@@ -1,9 +1,19 @@
 # Nuclear Stability: What Must Never Be Forgotten
 *(Constraint-Aware Notes on MAD, Proliferation, and Strategic Hope)*
 
+## Status
+
 This document is a **hard problem artifact**.
 
 It describes a class of problems that **cannot be resolved by reality tracing alone**, even when constraints are clearly identified and models are well-aligned.
+
+Unlike answerable artifacts, hard problems require:
+- Continuous management
+- Ongoing coordination
+- Strategic closure
+- Persistent effort under uncertainty
+
+Nuclear Stability belong to this class.
 
 
 This document lists failure points that recur in nuclear strategy when constraint awareness degrades.
