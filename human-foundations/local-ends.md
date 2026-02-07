@@ -1,4 +1,8 @@
-# Local Ends
+---
+
+title: Local Ends
+
+---
 
 ## Definition
 
