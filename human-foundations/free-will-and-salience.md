@@ -1,4 +1,8 @@
-# Free Will and Salience
+---
+
+title: Free Will and Salience
+
+---
 
 ## Status and Intent
 
