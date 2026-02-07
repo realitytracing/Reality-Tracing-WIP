@@ -1,4 +1,8 @@
-# Reality Tracing (WIP)
+---
+
+title: Reality Tracing (WIP)
+
+---
 ## Part II — The Tools: Reality Tracing, Constraint Discipline, and Model Use
 
 ---
