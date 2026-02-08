@@ -63,8 +63,6 @@ It does not command action. It clarifies constraints.
 
 ---
 
-## Structure
-
 ## Structure of the Work
 
 This repository is organized into two layers:
