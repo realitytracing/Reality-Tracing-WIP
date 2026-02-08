@@ -80,7 +80,8 @@ This repository is organized into two layers:
 - **[Equal Tooling: Salience-Centered Optimization and Symmetry of Understanding](human-foundations/salience-centered-optimization-and-symmetry-of-understanding.md)** - names the shift from optimizing over human salience to optimizing for its continued viability
 - **[Dynamics](human-foundations/dynamics.md)** — how systems move, overload, and reconfigure
 - **[Human Mind as An Effective Unit](human-foundations/human-mind-as-an-effective-unit.md)** - defines a constraint-aware model of the human mind and formalizes it as a provisional effective unit for higher emergent systems
-
+- **["Constraint-Aware Psychology (WIP)"](contraint-aware-psychology-wip.md)** - reemergence of psychology through energy tracing and constraints
+- **[Collective Salience, Legitimacy, and the Metabolic Loop](tracing-stacks/collective-salience-legitimacy-and-the-metabolic-loop.md)** - emergence of the equally real stacks and it's metabolic loop with salience agents
 **Integrated Text**
 
 1. **[Part I — The Heart and the Gist](integrated-text/part-1-heart-and-gist.md)**  
@@ -108,7 +109,7 @@ This repository is organized into two layers:
 
 **Reality Tracing Stacks Integrated Text:**
 
-1. **[Collective Salience, Legitimacy, and the Metabolic Loop](tracing-stacks/collective-salience-legitimacy-and-the-metabolic-loop.md)** - emergence of the equally real stacks and it's metabolic loop with salience agents
+1. 
 
 
 **[GLOSSARY](GLOSSARY.md)**
