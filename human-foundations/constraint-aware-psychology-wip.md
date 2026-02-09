@@ -1,4 +1,8 @@
-# Constraint-Aware Psychology (WIP)
+---
+
+title: Constraint-Aware Psychology (WIP)
+
+---
 ## Re-emergent Mental Dynamics Under Energy, Salience, and Locality
 
 status: Foundational Artifact  
