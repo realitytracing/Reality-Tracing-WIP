@@ -16,6 +16,10 @@ title: Capitalism and Communism as Cost-Allocation Mechanisms
 
 ---
 
+In this artifact, capitalism and communism are treated as closed systems because their ideological extremes define themselves that way. This is a modeling assumption reflecting ideological metaphysics, not a claim about how real economies operate, which are always patchworks under constraint.
+
+---
+
 ## Communism *(treated as a closed system)*
 
 - High enforcement and coordination friction  
