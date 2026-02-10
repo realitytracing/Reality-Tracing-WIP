@@ -65,13 +65,17 @@ It does not command action. It clarifies constraints.
 
 ## Structure of the Work
 
-This repository is organized into two layers:
-
-**Foundational Concepts**
+**Foundational Epistemics**
 - **[Prediction, Abstraction, and the Speed of Reality](human-foundations/prediction-abstraction-and-the-speed-of-reality.md)** - what closure is for under time and constraint, distinguishing naive realism from anticipatory, constraint-aware realism
 - **[Epistemic Cautions and Boundary Conditions](human-foundations/epistemic-cautions-and-boundary-conditions.md)** - Cautions of classical epistemic failure modes
 - **[Layered Reality and Constraint Coupling](human-foundations/layered-modelling-of-reality-and-constraint-coupling.md)** - how emergent layers are constrained from below and shaped from above
+- **[Interactional Epistemics](human-foundations/interactional-epistemics.md)** - a guard against dogmatism
+
+
+**Tools**
 - **[Reality Tracing](human-foundations/reality-tracing.md)** – what it is and what it is not, and why it is named
+
+**Human Foundations**
 - **[Constraints](human-foundations/constraints.md)** — non-negotiable limits shaping viability
 - **[Locality, Constraints, and Direction](human-foundations/locality-constraints-and-direction.md)** - dynamics at the interface between mind and outside reality
 - **[Salience](human-foundations/salience.md)** — directional energy flow toward local ends
@@ -81,8 +85,14 @@ This repository is organized into two layers:
 - **[Equal Tooling: Salience-Centered Optimization and Symmetry of Understanding](human-foundations/salience-centered-optimization-and-symmetry-of-understanding.md)** - names the shift from optimizing over human salience to optimizing for its continued viability
 - **[Dynamics](human-foundations/dynamics.md)** — how systems move, overload, and reconfigure
 - **[Human Mind as An Effective Unit](human-foundations/human-mind-as-an-effective-unit.md)** - defines a constraint-aware model of the human mind and formalizes it as a provisional effective unit for higher emergent systems
+
+**Psychology**
 - **[Constraint-Aware Psychology (WIP)](human-foundations/constraint-aware-psychology-wip.md)** - reemergence of psychology through energy tracing and constraints
+
+**The Upper Emergent Stacks**
 - **[Collective Salience, Legitimacy, and the Metabolic Loop](tracing-stacks/collective-salience-legitimacy-and-the-metabolic-loop.md)** - emergence of the equally real stacks and it's metabolic loop with salience agents
+
+
 **Integrated Text**
 
 1. **[Part I — The Heart and the Gist](integrated-text/part-1-heart-and-gist.md)**  
