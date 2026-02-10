@@ -1,4 +1,8 @@
-# Interactional Epistemics  
+---
+
+title: Interactional Epistemics 
+
+--- 
 ## A Permeability Criterion for Scientific and Philosophical Models
 
 ### Abstract
