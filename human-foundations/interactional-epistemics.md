@@ -61,6 +61,16 @@ This leads to a fundamental epistemic condition:
 
 ---
 
+### 2.3 Ceteris Paribus vs. Interactional Permeability
+A likely objection to the Interactional Permeability Principle is that science already accounts for external influences through ceteris paribus clauses (“all other things being equal”). However, the two approaches differ in both epistemic posture and methodological consequence.
+Ceteris paribus treats external factors as assumed constant or negligible for the purposes of analysis. Deviations are typically classified as noise, experimental error, or violations of background conditions. This framing is passively exclusionary: it brackets complexity to stabilize inference, but does not require ongoing attention to what has been excluded.
+Interactional permeability, by contrast, treats excluded factors as actively real and potentially consequential over time. Rather than assuming stability outside the model, it assumes eventual interaction. Persistent deviations are not treated as noise to be averaged out, but as signals of unscoped structure pressing on the model boundary.
+In this sense, ceteris paribus stabilizes models by holding the world still. Interactional permeability stabilizes inquiry by expecting the world to move.
+This distinction matters because many historical failures of models occurred not because ceteris paribus was false in principle, but because its temporary bracketing was mistaken for ontological isolation.
+That paragraph alone makes the paper much harder to wave away.
+
+---
+
 ## 3. The Interactional Permeability Principle
 
 ### Core Criterion
