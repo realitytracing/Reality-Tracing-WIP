@@ -69,7 +69,7 @@ It does not command action. It clarifies constraints.
 - **[Prediction, Abstraction, and the Speed of Reality](human-foundations/prediction-abstraction-and-the-speed-of-reality.md)** - what closure is for under time and constraint, distinguishing naive realism from anticipatory, constraint-aware realism
 - **[Epistemic Cautions and Boundary Conditions](human-foundations/epistemic-cautions-and-boundary-conditions.md)** - Cautions of classical epistemic failure modes
 - **[Layered Reality and Constraint Coupling](human-foundations/layered-modelling-of-reality-and-constraint-coupling.md)** - how emergent layers are constrained from below and shaped from above
-- **[Interactional Epistemics](human-foundations/interactional-epistemics.md)** - a guard against dogmatism
+- **[Interactional Epistemics (Standalone)](human-foundations/interactional-epistemics.md)** - a guard against dogmatism
 
 
 **Tools**
