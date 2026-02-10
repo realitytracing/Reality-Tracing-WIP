@@ -84,13 +84,22 @@ A model is epistemically legitimate only if:
 ## 3.1 Permeability as an Epistemic Stance, Not an Ontological Law
 
 The Interactional Permeability Principle is not presented here as a law of nature, a metaphysical axiom, or a universal obligation imposed on all theorists.
+
 It is a declared epistemic stance adopted by a person or group when they claim a model describes reality.
+
 To adopt this stance is to commit to holding one’s models as:
-operationally useful but ontologically incomplete
-open to interaction beyond their scoped variables
-revisable under persistent constraint pressure
+
+1. operationally useful but ontologically incomplete
+
+2. open to interaction beyond their scoped variables
+
+3. revisable under persistent constraint pressure
+
+
 This principle therefore functions as a self-binding discipline, not an external rule. Other agents or traditions may choose ontological closure, but such closure is then understood as a deliberate modeling posture rather than a property of reality itself.
+
 Within this stance, dogmatism is not defined by holding a model strongly, but by denying the reality of what lies beyond the model’s scope when faced with persistent mismatch.
+
 The Interactional Permeability Principle thus specifies how a model is held, not what reality must be.
 
 ---
