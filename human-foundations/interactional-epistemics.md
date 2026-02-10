@@ -104,6 +104,23 @@ The Interactional Permeability Principle thus specifies how a model is held, not
 
 ---
 
+3.2 Strategic vs. Dogmatic Closure
+Since calculation requires boundaries, the Interactional Epistemics framework does not demand that models be infinite. Instead, it distinguishes between two types of boundaries based on the intent of the modeler.
+Definition: Strategic Closure
+Strategic Closure is the conscious act of bounding a model for the purpose of utility, while maintaining the awareness that the model remains interactionally open.
+The practitioner of Strategic Closure:
+Acknowledges the cut: They know where they stopped tracing the causality.
+Expects interaction: They anticipate that the model will eventually clash with reality or with other models of varying robustness.
+Rejects ontology: They treat the closure as a "rate limit" on their own processing, not a limit on reality itself.
+Definition: Dogmatic Closure
+Dogmatic Closure occurs when the practical boundary of the model is mistaken for the boundary of reality.
+The practitioner of Dogmatic Closure:
+Denies the cut: They believe the model encompasses the relevant universe.
+Rejects interaction: Deviations are dismissed as noise rather than signals from an unscoped domain.
+Confuses map for territory: The model's internal consistency is taken as proof of total completeness.
+
+---
+
 ## 4. The Principles of Interactional Epistemics
 
 ### 4.1 Law of Interactional Embeddedness
@@ -170,21 +187,28 @@ What matters is:
 ---
 
 ### 4.5 The Clash Principle
-When two models or domains conflict, neither may claim ontological authority.
+​When two models or domains conflict, neither may claim ontological authority simply by virtue of its internal consistency. Instead, the conflict is treated as an interactional event between systems of varying robustness.
 
-Instead:
+​The Resolution of Clash:
+The resolution depends on the relative robustness of the interacting models.
 
-- The conflict is treated as a signal of an unscoped interaction.
-- The boundary between models must be inspected.
+​Constraint Flow: 
+If a highly robust model (e.g., thermodynamics) clashes with a less robust model (e.g., a specific economic forecast), the robust model acts as a hard constraint on the weaker one.
 
-Thus:
+​Absorption vs. Denial:
+​Strategic Closure allows the weaker model to absorb the constraint, adjust its scope, and improve its local accuracy.
+​Dogmatic Closure forces the weaker model to deny the conflict exists, leading to eventual failure.
 
-> A model may not defend itself by claiming to be reality when confronted with an external clash.
+​Methodological Implication:
+​The conflict is treated as a signal of an unscoped interaction.
+​The boundary between models must be inspected to determine which model is overflowing its valid scope.
 
-Conflicts become:
+​Thus:
+​A model may not defend itself by claiming to be reality when confronted with an external clash.
 
-- Sites of investigation
-- Not grounds for dogmatic defense
+​Conflicts become:
+​Sites of investigation
+​Not grounds for dogmatic defense
 
 ---
 
