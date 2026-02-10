@@ -67,7 +67,6 @@ Ceteris paribus treats external factors as assumed constant or negligible for th
 Interactional permeability, by contrast, treats excluded factors as actively real and potentially consequential over time. Rather than assuming stability outside the model, it assumes eventual interaction. Persistent deviations are not treated as noise to be averaged out, but as signals of unscoped structure pressing on the model boundary.
 In this sense, ceteris paribus stabilizes models by holding the world still. Interactional permeability stabilizes inquiry by expecting the world to move.
 This distinction matters because many historical failures of models occurred not because ceteris paribus was false in principle, but because its temporary bracketing was mistaken for ontological isolation.
-That paragraph alone makes the paper much harder to wave away.
 
 ---
 
