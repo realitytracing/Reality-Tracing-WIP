@@ -1,7 +1,7 @@
 <!--
 SPDX-License-Identifier: CC-BY-NC-SA-4.0
 -->
-# Integrated Logic and Constraint Notes
+# Integrated Logic and Constraint Notes (WIP)
 
 A constraint-aware framework for reasoning about human cognition,
 institutions, governance, and collapse under finite energy,
