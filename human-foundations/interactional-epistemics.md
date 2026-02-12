@@ -1,7 +1,5 @@
 ---
-
 title: Interactional Epistemics (Standalone)
-
 ---
 
 ## A Permeability Criterion for Scientific and Philosophical Models
@@ -183,6 +181,29 @@ Permeability is therefore not humility for its own sake. It is regularization ag
 
 ---
 
+### 3.6 Permeability and Bayesian Updating
+
+Because modeling requires selective partitioning, model construction implicitly operates over a hypothesis space: each partition corresponds to a candidate structural compression.
+
+Bayesian updating provides a formal mechanism for redistributing credibility within such a space under empirical constraint. As new data arrives, posterior probability shifts across competing partitions according to their likelihood.
+
+In this sense, Bayesian updating operationalizes permeability:
+
+- Constraint redistributes credibility.  
+- Anomalies reduce posterior weight.  
+- Competing structures gain plausibility under mismatch.  
+
+However, interactional permeability requires more than posterior reweighting within a fixed hypothesis space. Combinatorial abundance implies that no finite hypothesis space can be guaranteed exhaustive.
+
+Dogmatic closure therefore occurs not when posterior probability concentrates, but when:
+
+- Probability mass is treated as ontological certainty, or  
+- The hypothesis space is prematurely fixed despite persistent anomaly.  
+
+True permeability requires openness both to updating within a model class and to expanding the model class itself when constraint pressure indicates unscoped structure.
+
+---
+
 ## 4. The Interactional Permeability Principle
 
 ### Core Criterion
@@ -191,7 +212,8 @@ A model that claims to describe empirical reality is epistemically legitimate on
 
 1. It admits openness to interactions beyond its explicit scope.  
 2. It treats excluded factors as unscoped influences rather than nonexistent ones.  
-3. It interprets persistent mismatches as constraints indicating unscoped structure.  
+3. It remains updateable under expanding constraint and does not treat its partition of structure as probabilistically exhaustive.  
+4. It interprets persistent mismatches as constraints indicating unscoped structure.  
 
 Permeability is required because agents cannot determine whether their variable space exhausts interactional structure.
 
@@ -204,12 +226,14 @@ Permeability is required because agents cannot determine whether their variable 
 - Boundaries acknowledged  
 - Scope explicitly declared  
 - Constraint pressure expected  
+- Posterior revision permitted  
 
 #### Dogmatic Closure
 
 - Boundaries denied  
 - Anomalies minimized as noise  
 - Coherence mistaken for completeness  
+- Hypothesis space treated as final  
 
 The difference concerns epistemic posture, not model sophistication.
 
