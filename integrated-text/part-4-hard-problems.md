@@ -4,6 +4,7 @@ title: Reality Tracing (WIP)
 
 ---
 
+
 ## Part IV — Exceptionally Hard Problems, Collapse Logic, and Emergency Discipline
 
 ---
