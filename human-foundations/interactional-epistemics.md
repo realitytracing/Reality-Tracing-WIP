@@ -297,7 +297,70 @@ The combinatorial argument strengthens these insights by showing that permeabili
 
 ---
 
-## 8. Conclusion
+## 8. Explanatory Modeling vs. Engineering Modeling
+
+Interactional Epistemics primarily concerns explanatory modeling in science and philosophy.
+
+Not all models serve the same epistemic purpose.
+
+### 8.1 Explanatory Modeling
+
+Explanatory models aim to describe, unify, or reveal structural features of reality. Their goals include:
+
+- Expanding domain scope  
+- Integrating across levels  
+- Detecting structural constraints  
+- Increasing ontological adequacy  
+
+Because they aim to represent how reality is structured, explanatory models are directly vulnerable to the combinatorial argument. Their enumerative choices shape ontological commitments. Therefore, permeability is epistemically mandatory.
+
+Dogmatic closure in explanatory modeling leads to brittleness, misidentification of anomalies, and structural misrepresentation.
+
+---
+
+### 8.2 Engineering and Design Modeling
+
+Engineering models serve a different purpose. Their goals include:
+
+- Producing reliable performance  
+- Meeting defined tolerances  
+- Achieving stability within specified conditions  
+- Optimizing function under constraints  
+
+Engineering deliberately enforces boundary conditions. It narrows interaction space, controls variables, and designs safety margins.
+
+Closure in engineering is strategic and instrumental. It is not a claim about the structure of reality as such, but about performance within declared bounds.
+
+However, even engineering relies implicitly on permeability:
+
+- Safety factors acknowledge unknown interactions  
+- Environmental assumptions must be stated  
+- Failures occur when unmodeled interactions arise  
+
+Thus engineering models close harder, but only within explicitly controlled domains.
+
+---
+
+### 8.3 The Distinction
+
+The difference between explanatory and engineering modeling lies in epistemic aim:
+
+| Explanatory Modeling | Engineering Modeling |
+|----------------------|---------------------|
+| Seeks structural adequacy | Seeks functional reliability |
+| Expands scope | Restricts scope |
+| Integrates domains | Controls domains |
+| Vulnerable to ontological dogmatism | Vulnerable to specification error |
+
+Interactional Permeability is a normative requirement for explanatory modeling.
+
+For engineering, it functions as a background discipline: boundaries must be explicit, and safety margins must acknowledge unscoped interaction.
+
+In both cases, denial of interactional openness produces failure. The difference is whether failure manifests as theoretical brittleness or practical malfunction.
+
+---
+
+## 9. Conclusion
 
 Empirical models are local compressions of interacting structure. They arise through selective enumeration within combinatorially vast possibility spaces.
 
