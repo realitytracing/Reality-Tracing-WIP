@@ -1,6 +1,6 @@
 ---
 
-Title: Interactional Epistemics  
+Title: Interactional Epistemics (Standalone)
 
 ---
 ## A Permeability Criterion for Scientific and Philosophical Models
