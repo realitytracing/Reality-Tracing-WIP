@@ -338,7 +338,30 @@ Deep structure, if it exists, appears as invariance across expanding interaction
 
 ---
 
-## 9. Conclusion
+##9. Recursive Application: The Epistemic Status of This Framework
+A final test of the Interactional Permeability Principle is its application to itself. If this framework claims to describe the nature of modeling, it must itself be subject to the constraints of modeling.
+
+###9.1 Interactional Epistemics is a Model
+This paper does not present a final, immutable law of epistemology. It is, by its own definition, a combinatorial compression of the philosophy of science. It partitions the complex history of scientific discovery into specific objects ("constraints," "boundaries," "permeability") to render them tractable. As such, it is an operationally closed system of logic that must remain ontologically open.
+
+---
+
+###9.2 The Prediction of Obsolescence
+By applying the Constraint Principle (Section 4.4) recursively, this framework predicts that it will eventually encounter unscoped interactions—philosophical problems, scientific anomalies, or cognitive discoveries—that it cannot currently account for.
+
+Dogmatic Outcome: If this framework were to claim it is the "Final Truth" of epistemology, it would become brittle and fail upon meeting these anomalies.
+
+Permeable Outcome: By practicing Strategic Closure, this framework admits in advance that it is an approximation. It anticipates its own future modification or absorption into a more robust theory.
+
+---
+
+###9.3 Conclusion on Recursion
+
+Interactional Epistemics is not exempt from its own rules. It is a local, strategically bounded map of how we map the world. Its legitimacy is derived not from a claim of absolute authority, but from its admitted capacity to be constrained, refined, and eventually surpassed by the reality it attempts to describe.
+
+---
+
+## 10. Conclusion
 
 Empirical models are local compressions of interacting structure. They arise through selective enumeration within combinatorially vast possibility spaces.
 
