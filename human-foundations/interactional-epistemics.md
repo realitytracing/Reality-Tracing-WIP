@@ -356,9 +356,175 @@ Deep structure, if it exists, appears as invariance across expanding interaction
 
 ---
 
-## 9. Recursive Application: The Epistemic Status of This Framework
+## 9. Relation to Existing Frameworks
 
-### 9.1 Interactional Epistemics Is Itself a Model
+Interactional Epistemics does not emerge in isolation. It intersects with, extends, and sharpens several established traditions in philosophy of science and epistemology.
+
+This section clarifies those relationships while identifying the specific structural contribution of the Interactional Permeability Principle.
+
+---
+
+### 9.1 Underdetermination (Duhem–Quine)
+
+Pierre Duhem and W. V. O. Quine articulated the thesis that empirical data underdetermines theory: multiple incompatible theoretical frameworks can fit the same observational evidence.
+
+Interactional Epistemics agrees with this diagnosis but grounds it structurally.
+
+Traditional underdetermination arguments are epistemological:
+> Evidence alone cannot uniquely determine theory.
+
+Interactional Epistemics provides a combinatorial basis:
+- Model construction requires partitioning.
+- Partition space grows combinatorially.
+- Finite agents cannot enumerate exhaustively.
+- Therefore ontological closure is unjustified.
+
+The contribution here is not the claim that theory is underdetermined, but the explanation of *why* underdetermination is structurally inevitable for finite agents operating within combinatorial model spaces.
+
+---
+
+### 9.2 Model Pluralism and Perspectivism
+
+Nancy Cartwright’s model pluralism and Ronald Giere’s scientific perspectivism argue that scientific models are patchwork, perspectival, and domain-relative.
+
+Interactional Epistemics overlaps in rejecting single-model exhaustiveness. However, it diverges in refusing permanent fragmentation.
+
+Pluralism often emphasizes coexistence of models.  
+Interactional Epistemics emphasizes **convergence under constraint**.
+
+Models that survive expanding interaction, cross-domain testing, and constraint pressure tend to stabilize. Plurality is expected locally; convergence is expected under sustained exposure.
+
+Thus, this framework is neither monist nor laissez-faire pluralist. It is structurally plural but constraint-filtered.
+
+---
+
+### 9.3 Structural Realism
+
+Structural realism (e.g., John Worrall; James Ladyman) argues that what survives theory change is structural continuity rather than object ontology.
+
+Interactional Epistemics aligns with the emphasis on structure over object inventory. However, the focus differs.
+
+Structural realism highlights mathematical or relational continuity across theory change.  
+Interactional Epistemics emphasizes **interactional survivability under scope expansion**.
+
+Structure is not privileged because it is abstract, but because it remains invariant across expanding domains of interaction.
+
+In this sense, the framework may be described as a form of **interactional structural realism**: what is real is what remains stable under expanding constraint.
+
+---
+
+### 9.4 Lakatos and Anomaly Response
+
+Imre Lakatos distinguished between progressive and degenerative research programmes based on how they respond to anomaly.
+
+Interactional Epistemics formalizes this distinction normatively:
+
+Dogmatic closure occurs when:
+- Persistent anomaly is treated as noise,
+- Auxiliary adjustments are added without expanding model class,
+- Or hypothesis space is treated as interactionally exhaustive.
+
+Permeability provides a structural criterion for when boundary defense becomes epistemically illegitimate.
+
+Where Lakatos described historical patterns, Interactional Epistemics articulates a general rule governing closure.
+
+---
+
+### 9.5 Bayesian Epistemology
+
+Bayesian updating formalizes rational belief revision under uncertainty within a defined hypothesis space.
+
+Interactional Epistemics affirms Bayesian updating as a powerful intra-class mechanism.
+
+However, classical Bayesianism presupposes a fixed hypothesis space.
+
+Interactional Permeability introduces an additional requirement:
+- Openness not only to posterior revision,
+- But to expansion of the hypothesis space itself when constraint pressure indicates unscoped structure.
+
+Thus, permeability extends Bayesian reasoning beyond posterior adjustment to meta-level model class revision.
+
+---
+
+### 9.6 Compression and Information-Theoretic Approaches
+
+Minimum Description Length (MDL), Solomonoff induction, and related compression-based frameworks treat modeling as lossy encoding under resource constraint.
+
+Interactional Epistemics aligns closely with this tradition.
+
+However, it introduces a distinctive emphasis:
+- Robustness is measured by survivability under expanding interaction, not solely by descriptive compactness.
+- Compression quality is tested by cross-domain exposure and constraint absorption.
+
+The combinatorial argument places compression theory inside an explicitly interactional setting.
+
+---
+
+### 9.7 Kuhn and Paradigm Dynamics
+
+Thomas Kuhn described scientific revolutions as paradigm shifts triggered by anomaly accumulation.
+
+Interactional Epistemics differs in posture.
+
+Kuhn offered a sociological description of how science changes.  
+Interactional Epistemics provides a normative principle for when closure becomes unjustified.
+
+Dogmatic insulation is illegitimate from the start if interactional exhaustiveness is not demonstrated.
+
+This framework is therefore prescriptive rather than merely descriptive.
+
+---
+
+### 9.8 Open Systems Theory
+
+Systems theorists and thermodynamic approaches (e.g., Ludwig von Bertalanffy; Ilya Prigogine) emphasize that real systems exchange energy, matter, and information.
+
+Interactional Epistemics generalizes this insight from ontology to epistemology:
+
+If systems are open,
+models of those systems must assume interactional permeability.
+
+The principle shifts open-system realism into a constraint on modeling practice.
+
+---
+
+## 9.9 Structural Contribution
+
+Interactional Epistemics does not claim to overturn these traditions.
+
+It synthesizes and sharpens them by grounding fallibilism, pluralism, and structural realism in a combinatorial argument about model space and finite cognition.
+
+Its distinctive claims are:
+
+- Closure requires proof of interactional exhaustiveness.
+- Partition space is combinatorially vast.
+- Finite agents cannot guarantee exhaustive enumeration.
+- Robustness is survivability under scope expansion.
+- Bayesian updating is necessary but insufficient without model-class permeability.
+
+The contribution is therefore not a new metaphysics, but a structural discipline governing epistemic posture under constraint.
+
+---
+
+## 9.10 Modesty Clause
+
+Interactional Epistemics is itself a local compression within a combinatorial space of epistemological frameworks.
+
+Its legitimacy depends not on novelty, but on:
+
+- Coherence under constraint,
+- Openness to revision,
+- And survivability under expanding interaction.
+
+If it fails those tests, it must yield.
+
+Permeability applies recursively.
+
+---
+
+## 10. Recursive Application: The Epistemic Status of This Framework
+
+### 10.1 Interactional Epistemics Is Itself a Model
 
 This paper does not present a final, immutable law of epistemology. It is a combinatorial compression of modeling practice.
 
@@ -368,7 +534,7 @@ As such, it is operationally closed but must remain ontologically open.
 
 ---
 
-### 9.2 The Prediction of Revision
+### 10.2 The Prediction of Revision
 
 By its own principle, this framework predicts that it will eventually encounter unscoped interactions—philosophical, scientific, or cognitive—that it cannot currently account for.
 
@@ -380,7 +546,7 @@ By admitting approximation, it anticipates refinement, revision, or absorption i
 
 ---
 
-### 9.3 Recursive Legitimacy
+### 10.3 Recursive Legitimacy
 
 Interactional Epistemics derives legitimacy not from finality but from:
 
@@ -392,7 +558,7 @@ It is a local map of how we map the world.
 
 ---
 
-## 10. Conclusion
+## 11. Conclusion
 
 Empirical models are local compressions of interacting structure. They arise through selective enumeration within combinatorially vast possibility spaces.
 
@@ -413,168 +579,3 @@ A model becomes dogmatic when it denies the possibility that real structure exis
 
 Interactional Epistemics replaces the search for final enumeration with disciplined openness under constraint.
 
----
-
-## 11. Relation to Existing Frameworks
-
-Interactional Epistemics does not emerge in isolation. It intersects with, extends, and sharpens several established traditions in philosophy of science and epistemology.
-
-This section clarifies those relationships while identifying the specific structural contribution of the Interactional Permeability Principle.
-
----
-
-### 11.1 Underdetermination (Duhem–Quine)
-
-Pierre Duhem and W. V. O. Quine articulated the thesis that empirical data underdetermines theory: multiple incompatible theoretical frameworks can fit the same observational evidence.
-
-Interactional Epistemics agrees with this diagnosis but grounds it structurally.
-
-Traditional underdetermination arguments are epistemological:
-> Evidence alone cannot uniquely determine theory.
-
-Interactional Epistemics provides a combinatorial basis:
-- Model construction requires partitioning.
-- Partition space grows combinatorially.
-- Finite agents cannot enumerate exhaustively.
-- Therefore ontological closure is unjustified.
-
-The contribution here is not the claim that theory is underdetermined, but the explanation of *why* underdetermination is structurally inevitable for finite agents operating within combinatorial model spaces.
-
----
-
-### 11.2 Model Pluralism and Perspectivism
-
-Nancy Cartwright’s model pluralism and Ronald Giere’s scientific perspectivism argue that scientific models are patchwork, perspectival, and domain-relative.
-
-Interactional Epistemics overlaps in rejecting single-model exhaustiveness. However, it diverges in refusing permanent fragmentation.
-
-Pluralism often emphasizes coexistence of models.  
-Interactional Epistemics emphasizes **convergence under constraint**.
-
-Models that survive expanding interaction, cross-domain testing, and constraint pressure tend to stabilize. Plurality is expected locally; convergence is expected under sustained exposure.
-
-Thus, this framework is neither monist nor laissez-faire pluralist. It is structurally plural but constraint-filtered.
-
----
-
-### 11.3 Structural Realism
-
-Structural realism (e.g., John Worrall; James Ladyman) argues that what survives theory change is structural continuity rather than object ontology.
-
-Interactional Epistemics aligns with the emphasis on structure over object inventory. However, the focus differs.
-
-Structural realism highlights mathematical or relational continuity across theory change.  
-Interactional Epistemics emphasizes **interactional survivability under scope expansion**.
-
-Structure is not privileged because it is abstract, but because it remains invariant across expanding domains of interaction.
-
-In this sense, the framework may be described as a form of **interactional structural realism**: what is real is what remains stable under expanding constraint.
-
----
-
-### 11.4 Lakatos and Anomaly Response
-
-Imre Lakatos distinguished between progressive and degenerative research programmes based on how they respond to anomaly.
-
-Interactional Epistemics formalizes this distinction normatively:
-
-Dogmatic closure occurs when:
-- Persistent anomaly is treated as noise,
-- Auxiliary adjustments are added without expanding model class,
-- Or hypothesis space is treated as interactionally exhaustive.
-
-Permeability provides a structural criterion for when boundary defense becomes epistemically illegitimate.
-
-Where Lakatos described historical patterns, Interactional Epistemics articulates a general rule governing closure.
-
----
-
-### 11.5 Bayesian Epistemology
-
-Bayesian updating formalizes rational belief revision under uncertainty within a defined hypothesis space.
-
-Interactional Epistemics affirms Bayesian updating as a powerful intra-class mechanism.
-
-However, classical Bayesianism presupposes a fixed hypothesis space.
-
-Interactional Permeability introduces an additional requirement:
-- Openness not only to posterior revision,
-- But to expansion of the hypothesis space itself when constraint pressure indicates unscoped structure.
-
-Thus, permeability extends Bayesian reasoning beyond posterior adjustment to meta-level model class revision.
-
----
-
-### 11.6 Compression and Information-Theoretic Approaches
-
-Minimum Description Length (MDL), Solomonoff induction, and related compression-based frameworks treat modeling as lossy encoding under resource constraint.
-
-Interactional Epistemics aligns closely with this tradition.
-
-However, it introduces a distinctive emphasis:
-- Robustness is measured by survivability under expanding interaction, not solely by descriptive compactness.
-- Compression quality is tested by cross-domain exposure and constraint absorption.
-
-The combinatorial argument places compression theory inside an explicitly interactional setting.
-
----
-
-### 11.7 Kuhn and Paradigm Dynamics
-
-Thomas Kuhn described scientific revolutions as paradigm shifts triggered by anomaly accumulation.
-
-Interactional Epistemics differs in posture.
-
-Kuhn offered a sociological description of how science changes.  
-Interactional Epistemics provides a normative principle for when closure becomes unjustified.
-
-Dogmatic insulation is illegitimate from the start if interactional exhaustiveness is not demonstrated.
-
-This framework is therefore prescriptive rather than merely descriptive.
-
----
-
-### 11.8 Open Systems Theory
-
-Systems theorists and thermodynamic approaches (e.g., Ludwig von Bertalanffy; Ilya Prigogine) emphasize that real systems exchange energy, matter, and information.
-
-Interactional Epistemics generalizes this insight from ontology to epistemology:
-
-If systems are open,
-models of those systems must assume interactional permeability.
-
-The principle shifts open-system realism into a constraint on modeling practice.
-
----
-
-## 11.9 Structural Contribution
-
-Interactional Epistemics does not claim to overturn these traditions.
-
-It synthesizes and sharpens them by grounding fallibilism, pluralism, and structural realism in a combinatorial argument about model space and finite cognition.
-
-Its distinctive claims are:
-
-- Closure requires proof of interactional exhaustiveness.
-- Partition space is combinatorially vast.
-- Finite agents cannot guarantee exhaustive enumeration.
-- Robustness is survivability under scope expansion.
-- Bayesian updating is necessary but insufficient without model-class permeability.
-
-The contribution is therefore not a new metaphysics, but a structural discipline governing epistemic posture under constraint.
-
----
-
-## 11.10 Modesty Clause
-
-Interactional Epistemics is itself a local compression within a combinatorial space of epistemological frameworks.
-
-Its legitimacy depends not on novelty, but on:
-
-- Coherence under constraint,
-- Openness to revision,
-- And survivability under expanding interaction.
-
-If it fails those tests, it must yield.
-
-Permeability applies recursively.
