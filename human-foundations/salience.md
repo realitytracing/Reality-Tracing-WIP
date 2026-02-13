@@ -1,18 +1,23 @@
 ---
-
 title: Salience
-
 ---
+
+# Salience
+
 ## Energy Must Flow Somewhere
 
 Energy must go somewhere.
 
-In living systems, unused energy does not remain neutral. It produces pressure. Salience is the mechanism by which finite energy is routed, stabilized, and dissipated over time. It does not act by intention or choice. It emerges as a regulatory process that creates **ends** for energy to sink into.
+In living systems, unused capacity does not remain neutral. It accumulates pressure.  
+Salience is the regulatory process by which finite capacity is routed, stabilized, and dissipated over time.
+
+Salience does not act by intention or choice.  
+It emerges as a constraint-bound allocation process that creates **ends** into which capacity can sink.
 
 Salience is therefore not preference, motivation, or value in isolation.  
 It is **capacity stabilization under constraint**.
 
-While energy is a primary capacity, it is not the only one salience routes.
+Energy is a primary capacity, but not the only one salience routes.
 
 ---
 
@@ -20,9 +25,9 @@ While energy is a primary capacity, it is not the only one salience routes.
 
 Anything that enters the mind can become an idea.  
 Any grouping of ideas can itself be treated as an idea.  
-Sets of ideas can be operationalized into, thoughts, movement, habits, and local ends.
+Sets of ideas can be operationalized into thoughts, movements, habits, and local ends.
 
-Salience is the direction of this movement: the ongoing reinforcement of certain ideas, patterns, and actions through the allocation of finite capacity over time.
+Salience is the direction of this movement: the ongoing reinforcement of certain ideas, patterns, and actions through allocation of finite capacity over time.
 
 Salience determines:
 - What receives attention  
@@ -30,7 +35,8 @@ Salience determines:
 - What is resisted  
 - What is allowed to fade  
 
-It operates continuously and automatically. Conscious reflection can influence salience, but does not suspend it.
+It operates continuously and automatically.  
+Conscious reflection can influence salience, but does not suspend it.
 
 ---
 
@@ -39,6 +45,7 @@ It operates continuously and automatically. Conscious reflection can influence s
 Salience does not operate over a single scalar resource.
 
 Human systems contain multiple bounded capacities, including but not limited to:
+
 - Metabolic energy  
 - Cognitive focus  
 - Attention  
@@ -47,14 +54,16 @@ Human systems contain multiple bounded capacities, including but not limited to:
 - Time  
 - Physical recovery capacity  
 
-Salience stabilizes whenever **any dominant capacity is sufficiently occupied to absorb direction**, even if other capacities remain underutilized or are being silently depleted.
+Salience stabilizes whenever **a dominant capacity is sufficiently occupied to absorb direction**, even if other capacities remain underutilized or are being silently depleted.
 
 A system can therefore feel stable, engaged, and coherent while drifting toward delayed failure in a backgrounded capacity.
 
 Salience answers:
-> “What can absorb capacity *now*?”
+
+> “What can absorb capacity now?”
 
 Not:
+
 > “What preserves long-term viability across all dimensions?”
 
 ---
@@ -63,105 +72,120 @@ Not:
 
 As salient patterns persist, they are reinforced through **habituation**.
 
-Habituation reduces the cost—energetic, cognitive, emotional—of repeatedly traversed paths. When habituated paths align with salient local ends, the system experiences this alignment as:
+Habituation reduces the cost—energetic, cognitive, emotional—of repeatedly traversed paths.
+
+When habituated paths align with viable local ends, the system experiences this alignment as:
+
 - Reward  
 - Relief  
 - Restoration  
 
 When salient paths are disrupted, blocked, or rendered non-viable, the system produces corrective signals such as:
+
 - Pain  
 - Fatigue  
 - Distress  
 - Agitation  
 
-These signals are not moral judgments. They are **efficiency feedback**, indicating misalignment between capacity allocation, habituated structure, and continued viability.
+These signals are not moral judgments.  
+They are **efficiency feedback**, indicating misalignment between capacity allocation, habituated structure, and continued viability.
 
 ---
 
-## Salience Without Energy Depletion
+## Salience Without Global Optimization
 
 Salience does not require optimal depletion of all capacities.
 
-A local end may dominate salience by fully occupying one capacity—such as cognitive focus or abstraction—even when metabolic exhaustion, physical fatigue, or recovery debt has not yet enforced reweighting.
+A local end may dominate salience by fully occupying one capacity—such as cognitive abstraction—even while metabolic exhaustion or recovery debt remains backgrounded.
 
 In such cases:
+
 - Direction remains stable  
-- Competing local ends are backgrounded  
+- Competing local ends are suppressed  
 - Future-facing constraints (sleep, health, reversibility) may remain non-salient  
 
-This explains why systems can sustain long periods of intense engagement—intellectual, emotional, or ideological—without immediate collapse, until delayed enforcement occurs.
+This explains sustained periods of intense engagement—intellectual, emotional, ideological—without immediate collapse.
+
+Delayed enforcement is still possible.
 
 ---
 
-## Salience Instability Under Excess Energy
+## Salience Instability Under Excess Capacity
 
-Salience is not shaped only by scarcity. It is also shaped by **capacity surplus**.
+Salience is shaped not only by scarcity, but also by **capacity surplus**.
 
-Because capacity must always be routed, salience requires local ends that can absorb it at a sufficient rate to remain stable. When available capacity per unit time exceeds the absorption capacity of existing salient paths, salience destabilizes.
+Because capacity must be routed, salience requires local ends capable of absorbing it at sufficient rate.
 
-This instability does not require deprivation, dissatisfaction, or conflict. It can arise when:
-- Salient paths are highly frictionless  
+When available capacity per unit time exceeds the absorption capacity of existing salient paths, instability emerges.
+
+This does not require deprivation or conflict.  
+It can arise when:
+
+- Salient paths are frictionless  
 - Local ends are reached too quickly  
 - Sustained engagement requires little effort  
-- Habituation fails to establish durable cost structures  
+- Habituation fails to generate durable structure  
 
-In these conditions, local ends cease to function as stabilizers. Salience reallocates, searching for new ends capable of sustaining flow.
+In these conditions, local ends cease to stabilize.  
+Salience reallocates in search of new sinks.
 
 ---
 
 ## Observable Effects of Excess-Capacity Instability
 
-When salience destabilizes under excess capacity, common manifestations include:
-- Restlessness without a clear object  
-- Rapid cycling of interests, identities, or commitments  
-- Escalation of novelty-seeking or stimulation  
+Common manifestations include:
+
+- Restlessness without clear object  
+- Rapid cycling of interests or identities  
+- Escalation of novelty-seeking  
 - Difficulty resting despite adequate resources  
-- Chronic agitation in the absence of threat  
+- Agitation without external threat  
 
-This pattern is often misinterpreted as boredom, pathology, or moral failure.
+This is often misinterpreted as boredom, pathology, or moral failure.
 
-It is none of these.
-
-It is a **rate mismatch** between available capacity and the stabilizing power of existing local ends.
+It is a **rate mismatch** between available capacity and stabilizing absorption.
 
 ---
 
 ## Ideas as Local Ends
 
-Local ends are not limited to external actions or outcomes.
+Local ends are not limited to physical outcomes.
 
 **Ideas themselves can function as local ends.**
 
-Examples include:
+Examples:
+
 - Thinking and idea exploration  
 - Understanding reality  
-- Optimizing energy use  
-- Maintaining balance  
-- Managing or expanding capacity  
-- Even tracking salience or energy itself  
+- Optimization  
+- Capacity tracking  
+- Self-analysis  
+- Balance as abstraction  
 
-When an idea can continuously absorb attention, cognition, and focus, it can dominate salience as effectively as any physical activity.
+When an idea continuously absorbs attention and cognition, it can dominate salience as effectively as physical activity.
 
 In such cases:
-- Salience may stabilize entirely within the mental domain  
-- Other local ends (movement, sociality, rest) may be backgrounded  
-- Future-facing constraints may remain non-salient  
 
-This is not denial or pathology.  
-It is **salience functioning normally under constraint**.
+- Salience stabilizes within the mental domain  
+- Movement, sociality, and rest may background  
+- Future constraints may remain non-salient  
+
+This is not pathology.  
+It is salience operating normally under constraint.
 
 ---
 
 ## Balance as a Local End
 
-The idea of balance can itself become a local end.
+Balance can function as:
 
-Balance may function as:
 - A stabilizing abstraction  
 - A coordination heuristic  
-- A way of regulating multiple capacities indirectly  
+- An indirect regulator of multiple capacities  
 
-However, like all local ends, balance is subject to habituation and distortion. When treated as a totalized or moralized demand rather than a flexible regulator, it can paradoxically increase instability.
+However, like all local ends, balance can be totalized or distorted.
+
+When moralized or rigidified, it can increase instability rather than reduce it.
 
 Salience does not seek balance as an ideal.  
 It seeks **viability**.
@@ -170,97 +194,107 @@ It seeks **viability**.
 
 ## Salience Collapse Under Loss of Local Ends
 
-A distinct and more severe failure mode occurs when **highly salient local ends are lost, destroyed, or rendered unreachable**.
+A severe failure mode occurs when highly salient local ends are destroyed or rendered unreachable.
 
-When this happens, salience does not merely destabilize — it can **lose its primary routing structure**.
+Salience can lose its primary routing structure.
 
-The severing of salient paths registers as:
-- Pain  
+This registers as:
+
 - Grief  
-- Loss  
-- Aimlessness  
 - Disorientation  
+- Aimlessness  
+- Collapse of motivation  
 
-Energy and capacity continue to be available, but established paths no longer lead to viable completion. Salience is forced to redirect without adequate stabilizers.
+Capacity remains available.  
+Paths no longer lead to viable completion.
 
-This condition is volatile.
+This is structural rupture, not weakness.
 
 ---
 
 ## Loss as Devaluation of Idea Viability
 
-Loss does not only remove a local end.  
-It can also **invalidate the viability of the ideas associated with that end**.
+Loss can invalidate not only a local end, but the surrounding idea-cluster.
 
-When a highly salient local end collapses, salience may reclassify the surrounding idea-cluster as:
+Salience may reclassify related ideas as:
+
 - Too costly  
 - Too fragile  
 - Unsafe  
-- Likely to reproduce destabilizing pain  
+- Likely to reproduce destabilization  
 
 Ideas may remain cognitively accessible while no longer attracting salience.
 
-This is **protective reweighting**, not rejection.
+This is **protective reweighting**, not denial.
 
 ---
 
-## Totalized Local Ends and Collapse of Futures
+## Totalized Local Ends and Future-Space Collapse
 
-Some local ends are not merely salient.  
-They are **totalized**.
+Some local ends function as primary organizers of:
 
-A totalized local end functions as a primary organizer of:
 - Meaning  
 - Identity  
 - Time horizon  
+- Subordinate goals  
 - Future imagination  
-- Subordinate local ends  
 
-When such a totalized local end collapses, salience may lose access not only to present stabilizers, but to **imagined futures themselves**.
+When such a totalized end collapses, salience may lose access not only to present stabilizers, but to **imagined futures**.
 
 This registers as:
+
 - Loss of future orientation  
 - Inability to imagine viable next states  
 - A sense that “there is no future”  
 
-This is **future-space collapse**, not indecision or belief.
+This is **future-space collapse**, not indecision.
 
 ---
 
 ## Recovery as Salience Re-Routing
 
 Recovery is not external to salience dynamics.  
-It is **one possible stabilization outcome** when salience fails, redirects, and tests new paths.
+It is a stabilization outcome following redirection.
 
-Recovery is an energy- and capacity-regulation process, not a moral achievement.
+When a new path absorbs even minimal capacity without immediate failure, reinforcement begins.
 
-When a new path absorbs even minimal capacity without immediate failure, it becomes reinforced.
+Recovery is:
 
-Over time, recovery itself may habituate and become a **default maneuver** rather than an exception.
+- Iterative  
+- Energy-regulatory  
+- Non-moral  
+- Often gradual  
+
+Over time, recovery itself can habituate and become a default maneuver.
 
 ---
 
-## Summary
+## Structural Summary
 
-Salience is the system by which bounded capacity is:
-- Directed  
-- Stabilized  
-- Habituated  
-- Dissipated  
+Salience is the bounded routing of finite capacity.
 
-Salience can destabilize due to:
-- **Excess capacity** (insufficient absorption)  
-- **Loss of local ends** (path severance)  
-- **Loss of idea viability** (protective withdrawal)  
-- **Collapse of totalized ends** (loss of future structure)  
+It:
 
-Salience can also **re-stabilize** through:
+- Directs  
+- Stabilizes  
+- Reinforces  
+- Dissipates  
+
+It destabilizes under:
+
+- Excess capacity  
+- Loss of local ends  
+- Loss of idea viability  
+- Collapse of totalized ends  
+
+It re-stabilizes through:
+
 - Iterative redirection  
 - Discovery of new local ends  
-- Habituation of recovery itself  
+- Habituation of viable paths  
 
-Salience does not seek meaning, virtue, balance, or health.
+Salience does not seek meaning, virtue, or optimization.
 
 It seeks **viability under constraint**.
 
-Capacity must go somewhere.
+Capacity must flow.
