@@ -1,51 +1,55 @@
 ---
-
 title: Constraint-Aware Psychology (WIP)
-
 ---
+
+# Constraint-Aware Psychology  
 ## Re-emergent Mental Dynamics Under Energy, Salience, and Locality
 
-status: Foundational Artifact  
-scope: psychology, mental health, behavior, adaptation under constraint  
-position: Re-derived from Reality Tracing, not imported  
+**Status:** Foundational Artifact  
+**Scope:** Psychology, mental health, behavior, adaptation under constraint  
+**Position:** Re-derived from Reality Tracing, not imported  
 
 ---
 
-## Why a New Psychology Is Required
+## Why a Re-Derived Psychology Is Necessary
 
-Classical psychology inherited two structural failures:
+Classical psychology often inherits two structural tendencies:
 
-1. **Static categorization** (traits, disorders, identities)
+1. **Static categorization** (traits, disorders, identities as fixed entities)  
 2. **Moralized deviation** (normal vs abnormal, healthy vs unhealthy)
 
-These models fail under pressure because they:
-- Treat behavior as intrinsic rather than contextual
-- Ignore energy, rate, and locality constraints
-- Confuse stability with health
-- Attempt suppression instead of redirection
+These models frequently fail under sustained pressure because they:
 
-Reality Tracing requires a psychology thhat:
-- Remains valid under overload
-- Explains stability of maladaptive patterns
-- Preserves agency without metaphysical claims
-- Treats failure modes as information, not defects
+- Treat behavior as intrinsic rather than contextual  
+- Under-model energy, rate, and locality constraints  
+- Confuse stability with health  
+- Attempt suppression rather than redirection  
 
-This document re-emerges psychology as a **dynamic, metabolic system**.
+Reality Tracing requires a psychology that:
+
+- Remains valid under overload  
+- Explains the stability of maladaptive patterns  
+- Preserves agency without metaphysical claims  
+- Treats failure modes as information, not defects  
+
+This document re-derives psychology as a **dynamic metabolic system under constraint**.
 
 ---
 
 ## Core Premise
 
-The human mind is an **energy-regulating system** operating under:
-- Finite metabolic budget
-- Rate limits
-- Irreversibility
-- Unenumerable uncertainty
-- Filtered by locality (biology + environment)
-- Salience structures
+The human mind functions as an **energy-regulating system** operating under:
+
+- Finite metabolic budget  
+- Rate limits  
+- Irreversibility  
+- Unenumerable uncertainty  
+- Locality (biology + environment)  
+- Salience structure  
 
 Psychological phenomena are not traits.
-They are **patterns of energy routing and stabilization**.
+
+They are **patterns of energy routing, stabilization, and enforcement under constraint**.
 
 ---
 
@@ -54,167 +58,216 @@ They are **patterns of energy routing and stabilization**.
 Salience is the directional flow of finite energy toward local ends.
 
 Psychology emerges from:
-- What becomes salient
-- How salience stabilizes
-- Where energy is sunk
-- When routing fails
 
-Emotion, motivation, identity, and behavior are **expressions of salience dynamics**, not independent modules.
+- What becomes salient  
+- How salience stabilizes  
+- Where energy is sunk  
+- When routing fails  
+
+Emotion, motivation, identity, and behavior are not independent modules.
+
+They are **expressions of salience dynamics interacting with constraint**.
 
 ---
 
 ## The Trilateral Constraint Loop
 
-The mind is not a sovereign commander; it is a participant in a trilateral signaling loop. Stability is not the absence of pain, but the successful negotiation among these constraining systems under finite energy and time:
+The mind is not a sovereign commander.  
+It is a participant in a trilateral signaling loop.
 
-1. **Biological Signaling (The Alarm):** Hard-wired reward and pain signals that enforce homeostatic and rate limits.
-2. **Habituated Memory (The Recorder):** Pre-rendered paths, expectations, and biases that minimize transformation cost.
-3. **Present-Moment Locality (The Terrain):** Immediate physical, social, and informational friction that demands active salience allocation.
+Stability is not the absence of pain.  
+It is successful negotiation among three constraint-bearing systems:
 
-Mental distress arises when these systems de-sync—for example, when a salience structure attempts to override a biological rate limit, or when a locality demands a transformation that existing habituation cannot support.
+### 1. Biological Signaling (The Alarm)
+Hard-wired reward and aversion signals enforcing:
+- Homeostasis  
+- Rate limits  
+- Survival priorities  
+
+### 2. Habituated Memory (The Recorder)
+Previously stabilized paths that:
+- Reduce transformation cost  
+- Encode expectations  
+- Narrow variance  
+- Bias interpretation  
+
+### 3. Present-Moment Locality (The Terrain)
+Immediate:
+- Physical conditions  
+- Social dynamics  
+- Informational load  
+- Friction and opportunity  
+
+Mental distress often arises when these systems de-sync.
+
+Examples:
+- Salience overriding biological rate limits  
+- Locality demanding adaptation faster than habituation can support  
+- Habituated paths resisting necessary reweighting  
+
+Distress signals constraint conflict, not intrinsic defect.
 
 ---
 
 ## Mental States as Dynamic Regimes
 
-Mental states are not discrete conditions.
-They are **regimes** produced by interaction between:
+Mental states are not discrete categories.
 
-- Energy availability
-- Present-Moment Locality (Threat/Noise/Terrain)
-- Habituation Depth (The Recorder)
-- Biological Signaling (The Alarm/Filter)
-- Local ends viability
+They are **regimes** emerging from interaction among:
 
-Examples:
-- Anxiety = hyper-vigilant salience under uncertainty
-- Depression = salience collapse after loss of viable ends
-- Mania = salience overflow under excess energy and low friction (both in locality and in salience structure)
-- Dissociation = protective salience withdrawal under overload
+- Energy availability  
+- Locality pressure (threat, noise, demand)  
+- Habituation depth  
+- Biological signaling intensity  
+- Viability of local ends  
 
-These are not pathologies by default.
-They are **adaptive responses that may become non-viable**.
+Examples (structural, not diagnostic):
+
+- **Anxiety:** Hyper-vigilant salience under uncertainty and perceived threat  
+- **Depression:** Salience collapse following loss of viable local ends  
+- **Mania:** Salience overflow under high energy and low friction  
+- **Dissociation:** Protective salience withdrawal under overload  
+
+These states are not inherently pathological.
+
+They are adaptive configurations that may become non-viable.
 
 ---
 
 ## Pathology Reframed: The Stability of the Sink
 
-Pathology is a **stable energy sink** that persists because it works.
+Pathology can be understood as a **stable energy sink** that persists because it functions.
 
-A pathological pattern:
-- Absorbs excess energy
-- Prevents salience meltdown
-- Provides false closure
-- Becomes deeply habituated 
+A maladaptive pattern often:
 
-This explains:
-- Addiction
-- Compulsions
-- Ideological fixation
-- Identity hardening
-- Self-harm loops
+- Absorbs excess energy  
+- Prevents salience fragmentation  
+- Provides closure under uncertainty  
+- Becomes deeply habituated  
 
-Pathologies are not chosen.
-They are **selected under constraint**.
+This reframes phenomena such as:
+
+- Addiction  
+- Compulsion  
+- Ideological fixation  
+- Identity hardening  
+- Self-harm loops  
+
+These patterns are not selected for virtue or vice.
+
+They are selected under constraint because they stabilize energy flow.
 
 ---
 
-## Diagnosis Without Labels
+## Diagnosis as Flow Tracing
 
-Diagnosis is not classification.
-It is **flow tracing**.
+Diagnosis becomes **flow tracing**, not labeling.
 
 Key questions:
-- What energy is entering the system?
-- Where is it being sunk?
-- What alternatives are blocked?
-- What would happen if this sink were removed?
+
+- What energy is entering the system?  
+- Where is it being routed?  
+- What function does this pattern serve?  
+- What alternatives are blocked or too costly?  
+- What would happen if this sink were removed?  
 
 This replaces:
+
 > “What disorder is this?”
 
 with:
-> “What function is this pattern performing?”
+
+> “What regulatory function is this pattern performing?”
 
 ---
 
 ## Recovery as Salience Re-Routing
 
-Recovery is not normalization or correction.
-It is **finding a higher-efficiency sink**.
+Recovery is not normalization.
+
+It is **re-routing energy into a more viable sink**.
 
 Recovery requires:
-- Lower transformation cost
-- Comparable energy absorption
-- Safer locality
-- Time for habituation
 
-Suppression without replacement causes rebound.
-Moral pressure increases instability.
-Recovery is probabilistic, not linear.
+- Lower transformation cost  
+- Comparable absorption capacity  
+- Supportive locality  
+- Time for new habituation  
+
+Suppression without replacement increases instability.  
+Moral pressure amplifies load.
+
+Recovery is probabilistic, nonlinear, and rate-limited.
 
 ---
 
-## Legitimacy, Trust, and Mental Stability
+## Legitimacy, Trust, and Psychological Stability
 
-Psychological stability depends on perceived legitimacy of:
-- Internal narratives
-- External systems
-- Authority structures
-- Future expectations
+Psychological stability depends partly on perceived legitimacy of:
+
+- Internal narratives  
+- External institutions  
+- Authority structures  
+- Future trajectories  
 
 When legitimacy erodes:
-- Cognitive load increases
-- Paranoia becomes adaptive
-- Trust collapses into self-only models
 
-Mental distress often mirrors **institutional misalignment**, not internal defect.
+- Cognitive load increases  
+- Hypervigilance may become adaptive  
+- Trust collapses into self-only models  
 
----
-
-## Individual Psychology Is Not Isolated
-
-The mind is embedded in:
-- Families
-- Economies
-- Media systems
-- Governance
-- Cultural salience fields
-
-Psychological failure often indicates **systemic overload** being absorbed by individuals.
-
-Treating individuals alone while leaving systems unchanged externalizes cost unfairly.
+Mental distress may reflect systemic misalignment, not purely internal dysfunction.
 
 ---
 
-## Why This Is Still Psychology
+## Embeddedness: No Isolated Minds
+
+The mind is embedded within:
+
+- Families  
+- Economies  
+- Media systems  
+- Governance structures  
+- Cultural salience fields  
+
+Psychological failure frequently indicates systemic overload being absorbed at the individual level.
+
+Treating individuals in isolation while leaving structural overload unchanged externalizes cost.
+
+---
+
+## Why This Remains Psychology
 
 This framework:
-- Explains behavior
-- Predicts failure modes
-- Guides intervention
-- Preserves compassion
-- Avoids metaphysical claims
 
-But it does not:
-- Freeze people into labels
-- Promise permanent health
-- Confuse stability with virtue
+- Explains behavior dynamically  
+- Predicts failure modes under constraint  
+- Guides intervention via flow tracing  
+- Preserves compassion without moralization  
+- Avoids metaphysical closure  
 
-It is psychology **for finite agents**, not ideal ones.
+It does not:
+
+- Freeze people into static labels  
+- Promise permanent equilibrium  
+- Confuse stability with virtue  
+
+It is psychology for finite agents under real constraints.
 
 ---
 
 ## Status Reminder
 
 This is not a closed theory.
+
 It is a working compression.
 
-If future observation shows mismatch between:
-- predicted energy flows
-- observed stabilization
-- lived experience
+If observation shows mismatch between:
 
-then this psychology must be revised or discarded.
+- Predicted energy routing  
+- Observed stabilization  
+- Lived experience  
 
-Reality tracing applies to psychology as much as anything else.
+then this framework must be revised or discarded.
+
+Reality Tracing applies to psychology as much as to any other domain.
