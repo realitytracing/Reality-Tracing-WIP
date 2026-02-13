@@ -90,6 +90,7 @@ When a model predicts:
 - Infinite acceleration  
 - Infinite optimization  
 - Infinite regress  
+- Infinite branching  
 - Infinite precision  
 - Infinite rumination  
 - Infinite expansion without friction  
@@ -98,22 +99,50 @@ without specifying a bounding mechanism,
 
 it signals unscoped constraint.
 
-Reality enforces limits through:
+### 3.1 The Clamp Inference Principle
 
-- Rate ceilings  
-- Resource depletion  
-- Fatigue  
+If a system:
+
+- Could branch combinatorially  
+- Could accelerate indefinitely  
+- Could transform without bound  
+
+but does not,
+
+then a transformation clamp exists.
+
+Clamps may include:
+
+- Rate limits  
+- Energy ceilings  
+- Information bandwidth limits  
+- Metabolic costs  
+- Thermodynamic constraints  
+- Computational complexity  
 - Friction  
 - Damping  
-- Collapse  
 - Termination rules  
 
-If something appears infinite in a bounded system, one of the following is true:
+If transformation were unbounded:
 
-1. The model exceeds its valid scale  
-2. A constraint has been abstracted away  
-3. The variable is mis-specified  
-4. The frame is incomplete  
+- Stability would collapse  
+- Identity would dissolve  
+- Causality would fragment  
+- Persistence would fail  
+
+The existence of persistent structure implies bounded transformation.
+
+### 3.2 Clamp Detection as a Tracing Tool
+
+Whenever a variable appears unbounded in a bounded system, ask:
+
+- Where is the rate ceiling?  
+- Where is the energy budget?  
+- Where is the friction?  
+- Where is the termination rule?  
+- Where is the damping mechanism?  
+
+If none can be identified, the model is incomplete.
 
 Infinity is not automatically false.
 
@@ -135,9 +164,16 @@ Anything in the mind can become salient:
 
 Salience determines what receives energy and action.
 
-Habituation stabilizes salience over time, preventing infinite loops.
+Habituation stabilizes salience over time, preventing runaway amplification.
 
-Without habituation, cognition would destabilize into runaway amplification.
+Without clamp mechanisms in cognition:
+
+- Decision would never resolve  
+- Rumination would not terminate  
+- Attention would fragment infinitely  
+- Action would not occur  
+
+Salience dynamics require truncation and stabilization to remain viable.
 
 This explains:
 
@@ -204,6 +240,8 @@ Reality Tracing:
 - Does not reduce identity to biology  
 - Does not elevate identity to metaphysical ontology  
 
+Identity persists because salience is clamped and stabilized under constraint.
+
 It traces identity as an emergent constraint configuration.
 
 ---
@@ -250,6 +288,14 @@ Toward:
 - Incentive structures  
 - Historical contingency  
 
+Clamp detection becomes especially critical in social systems where:
+
+- Infinite growth is assumed  
+- Infinite productivity is demanded  
+- Infinite engagement is expected  
+
+Such assumptions signal missing constraint accounting.
+
 ---
 
 # Minimal Ontological Claim
@@ -259,6 +305,8 @@ Reality Tracing makes only one ontological commitment:
 > What we can legitimately trace is not reality in itself, but the constraints that shape our access to it.
 
 This is an ontology of limits, not of substances.
+
+Persistent structure implies bounded transformation.
 
 ---
 
@@ -309,6 +357,10 @@ Reality Tracing is:
 - Real without being reductionist  
 - Humble without being dismissive  
 - Analytical without being dehumanizing  
+
+It treats infinities as signals of missing clamps.
+
+It treats persistence as evidence of bounded transformation.
 
 It applies epistemic discipline to higher emergent realities.
 
