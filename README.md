@@ -66,14 +66,14 @@ It does not command action. It clarifies constraints.
 ## Structure of the Work
 
 **Foundational Epistemics**
-- **[Prediction, Abstraction, and the Speed of Reality](human-foundations/prediction-abstraction-and-the-speed-of-reality.md)** - what closure is for under time and constraint, distinguishing naive realism from anticipatory, constraint-aware realism
-- **[Epistemic Cautions and Boundary Conditions](human-foundations/epistemic-cautions-and-boundary-conditions.md)** - Cautions of classical epistemic failure modes
-- **[Layered Reality and Constraint Coupling](human-foundations/layered-modelling-of-reality-and-constraint-coupling.md)** - how emergent layers are constrained from below and shaped from above
-- **[Interactional Epistemics (Standalone)](human-foundations/interactional-epistemics.md)** - a guard against dogmatism
+- **[Prediction, Abstraction, and the Speed of Reality](human-foundations/prediction-abstraction-and-the-speed-of-reality.md)** — what closure is for under time and constraint, distinguishing naive realism from anticipatory, constraint-aware realism
+- **[Epistemic Cautions and Boundary Conditions](human-foundations/epistemic-cautions-and-boundary-conditions.md)** — Cautions of classical epistemic failure modes
+- **[Layered Reality and Constraint Coupling](human-foundations/layered-modelling-of-reality-and-constraint-coupling.md)** — how emergent layers are constrained from below and shaped from above
+- **[Interactional Epistemics (Standalone)](human-foundations/interactional-epistemics.md)** — a guard against dogmatism
 
 
 **Tools**
-- **[Reality Tracing](human-foundations/reality-tracing.md)** – what it is and what it is not, and why it is named
+- **[Reality Tracing](human-foundations/reality-tracing.md)** — what it is and what it is not, and why it is named
 
 **Human Foundations**
 - **[Constraints](human-foundations/constraints.md)** — non-negotiable limits shaping viability
