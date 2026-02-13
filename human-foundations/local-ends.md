@@ -2,8 +2,6 @@
 title: Local Ends
 ---
 
-# Local Ends
-
 ## Definition
 
 Local ends are the **bounded targets toward which human capacity flows**.
