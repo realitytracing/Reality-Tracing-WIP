@@ -2,8 +2,6 @@
 title: The Human Mind as an Effective Unit
 ---
 
-# The Human Mind as an Effective Unit
-
 ## Status
 
 This document consolidates the constraint-aware model of the human mind developed across this work and presents it as a **provisional but operational effective unit of an agent**.
