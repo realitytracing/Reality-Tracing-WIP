@@ -2,8 +2,6 @@
 title: Habituation
 ---
 
-# Habituation
-
 ## Habituation as Cost Reduction Under Constraint
 
 Habituation is the process by which repeated patterns of attention, action, and response **reduce cost** and increase efficiency over time.
