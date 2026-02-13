@@ -1,7 +1,7 @@
 ---
 title: Interactional Epistemics (Standalone)
 ---
-
+ 
 ## A Permeability Criterion for Scientific and Philosophical Models
 
 ---
@@ -14,17 +14,17 @@ I propose the **Interactional Permeability Principle**: a model that aims to des
 
 This framework is grounded in a combinatorial argument: modeling requires enumerating and partitioning empirical structure, and the space of possible partitions grows explosively. Multiple inequivalent models can therefore match the same finite dataset. Permeability becomes not merely a philosophical recommendation but a structural necessity.
 
-Interactional Epistemics shifts epistemology from the pursuit of closed, final truths to the mapping of open, interacting localities. It offers a criterion for distinguishing strategically bounded models from dogmatically closed ones, and reframes scientific progress as adaptive compression under constraint.
+Interactional Epistemics shifts epistemology from the pursuit of closed, final truths to the mapping of open, interacting localities. It offers a criterion for distinguishing strategically bounded models from dogmatically closed ones and reframes scientific progress as adaptive compression under constraint.
 
 ---
 
 ## 1. Introduction
 
-Scientific models simplify aspects of reality for the purposes of analysis. They isolate variables, ignore interactions, and operate under idealized assumptions. Such simplifications are indispensable: without them, calculation and prediction would be intractable.
+Scientific models simplify aspects of reality for analysis. They isolate variables, ignore interactions, and operate under idealized assumptions. Such simplifications are indispensable: without them, calculation and prediction would be intractable.
 
-A recurring epistemic error occurs when these practical simplifications are treated as ontological conclusions. Operational closure—introduced for tractability—becomes mistaken for isolation in reality.
+A recurring epistemic error occurs when practical simplifications are treated as ontological conclusions. Operational closure—introduced for tractability—becomes mistaken for isolation in reality.
 
-Historically, models have often been defended despite accumulating anomalies:
+Historically, models have been defended despite accumulating anomalies:
 
 - Economic models that bracket ecological constraints  
 - Classical mechanics applied beyond its relativistic domain  
@@ -60,9 +60,30 @@ This produces **epistemic brittleness**: the model performs well within a narrow
 
 ---
 
-### 2.2 The Interactional Condition
+### 2.2 Strategic vs Ontological Closure
 
-Empirically studied systems are not perfectly isolated. They exist within environments in which they exchange energy, matter, or information, and are embedded within broader causal structures.
+It is crucial to distinguish two types of closure:
+
+**Strategic Closure**  
+- Boundaries are explicitly declared.  
+- Scope limitations are acknowledged.  
+- Simplifications are recognized as operational.  
+
+**Ontological Closure**  
+- Boundaries are treated as real features of reality.  
+- Excluded variables are treated as nonexistent.  
+- Model success is mistaken for structural exhaustiveness.  
+
+Strategic closure is necessary for finite agents.  
+Ontological closure is unjustified unless interactional exhaustiveness is demonstrated.
+
+The burden of proof lies on any claim of interactional completeness.
+
+---
+
+### 2.3 The Interactional Condition
+
+Empirically studied systems are not perfectly isolated. They exist within environments in which they exchange energy, matter, or information and are embedded within broader causal structures.
 
 Accordingly, any model describing such a system is:
 
@@ -81,7 +102,7 @@ The need for permeability follows from structural features of modeling itself.
 
 ### 3.1 Modeling Requires Enumeration
 
-Empirical data is not given as pre-packaged “objects.” It consists of continuous, interacting, high-dimensional processes. To construct a model, we must:
+Empirical data is not given as pre-packaged objects. It consists of continuous, interacting, high-dimensional processes. To construct a model, we must:
 
 - Select variables  
 - Partition data  
@@ -133,36 +154,19 @@ Or we may group non-neighboring regions by:
 - Functional role  
 - Observer-relative geometry  
 
-There is no uniquely privileged object count given directly by reality. Instead:
+There is no uniquely privileged object count given directly by reality.
+
+Instead:
 
 - Reality supplies structured interaction.  
 - Partitioning depends on invariance and purpose.  
 - Constraints stabilize some partitions and destabilize others.  
 
-Objecthood is not arbitrary. But neither is it uniquely fixed.
+The apple illustrates that partitioning space is combinatorial and purpose-relative, yet filtered by constraint. Objecthood is not arbitrary, but neither is it uniquely fixed.
 
 ---
 
-### 3.4 Angle-Space and Structural Abundance
-
-Any phenomenon can be approached from many legitimate structural angles:
-
-- Thermodynamic  
-- Mechanical  
-- Biochemical  
-- Gravitational  
-- Economic  
-- Relational  
-
-Reality supports overlapping invariances. Different modeling aims stabilize different compressions.
-
-We cannot survey all possible partitions. Finite agents explore angle-space selectively.
-
-This structural richness ensures that closure cannot be justified in advance.
-
----
-
-### 3.5 Finite Agents and Overfitting
+### 3.4 Finite Agents and Overfitting
 
 Finite agents cannot enumerate all possible partitions of empirical data.
 
@@ -181,23 +185,19 @@ Permeability is therefore not humility for its own sake. It is regularization ag
 
 ---
 
-### 3.6 Permeability and Bayesian Updating
+### 3.5 Permeability and Bayesian Updating
 
-Because modeling requires selective partitioning, model construction implicitly operates over a hypothesis space: each partition corresponds to a candidate structural compression.
+Because modeling requires selective partitioning, model construction implicitly operates over a hypothesis space.
 
-Bayesian updating provides a formal mechanism for redistributing credibility within such a space under empirical constraint. As new data arrives, posterior probability shifts across competing partitions according to their likelihood.
+Bayesian updating provides a formal mechanism for redistributing credibility within such a space under empirical constraint. As new data arrives, posterior probability shifts across competing partitions.
 
-In this sense, Bayesian updating operationalizes permeability:
+In this sense, Bayesian updating operationalizes permeability within a fixed hypothesis class.
 
-- Constraint redistributes credibility.  
-- Anomalies reduce posterior weight.  
-- Competing structures gain plausibility under mismatch.  
+However, combinatorial abundance implies that no finite hypothesis space can be guaranteed exhaustive.
 
-However, interactional permeability requires more than posterior reweighting within a fixed hypothesis space. Combinatorial abundance implies that no finite hypothesis space can be guaranteed exhaustive.
+Dogmatic closure occurs when:
 
-Dogmatic closure therefore occurs not when posterior probability concentrates, but when:
-
-- Probability mass is treated as ontological certainty, or  
+- Posterior concentration is treated as ontological certainty, or  
 - The hypothesis space is prematurely fixed despite persistent anomaly.  
 
 True permeability requires openness both to updating within a model class and to expanding the model class itself when constraint pressure indicates unscoped structure.
@@ -215,27 +215,7 @@ A model that claims to describe empirical reality is epistemically legitimate on
 3. It remains updateable under expanding constraint and does not treat its partition of structure as probabilistically exhaustive.  
 4. It interprets persistent mismatches as constraints indicating unscoped structure.  
 
-Permeability is required because agents cannot determine whether their variable space exhausts interactional structure.
-
----
-
-### 4.1 Strategic vs. Dogmatic Closure
-
-#### Strategic Closure
-
-- Boundaries acknowledged  
-- Scope explicitly declared  
-- Constraint pressure expected  
-- Posterior revision permitted  
-
-#### Dogmatic Closure
-
-- Boundaries denied  
-- Anomalies minimized as noise  
-- Coherence mistaken for completeness  
-- Hypothesis space treated as final  
-
-The difference concerns epistemic posture, not model sophistication.
+The burden of proof lies on any claim of interactional exhaustiveness.
 
 ---
 
@@ -280,7 +260,7 @@ Science progresses not by discovering a final enumeration, but by constructing c
 Understanding can be represented heuristically in a two-dimensional plane:
 
 - **X-axis:** Degree of model-to-model integration  
-- **Y-axis:** Scope of the object or domain being explained  
+- **Y-axis:** Scope of the domain explained  
 
 Low X, Low Y:  
 Isolated, narrow models.
@@ -294,7 +274,7 @@ This geometric representation is itself a compression—useful pedagogically, no
 
 ---
 
-## 7. Explanatory vs. Engineering Modeling
+## 7. Explanatory vs Engineering Modeling
 
 ### 7.1 Explanatory Modeling
 
@@ -338,26 +318,39 @@ Deep structure, if it exists, appears as invariance across expanding interaction
 
 ---
 
-##9. Recursive Application: The Epistemic Status of This Framework
-A final test of the Interactional Permeability Principle is its application to itself. If this framework claims to describe the nature of modeling, it must itself be subject to the constraints of modeling.
+## 9. Recursive Application: The Epistemic Status of This Framework
 
-###9.1 Interactional Epistemics is a Model
-This paper does not present a final, immutable law of epistemology. It is, by its own definition, a combinatorial compression of the philosophy of science. It partitions the complex history of scientific discovery into specific objects ("constraints," "boundaries," "permeability") to render them tractable. As such, it is an operationally closed system of logic that must remain ontologically open.
+### 9.1 Interactional Epistemics Is Itself a Model
 
----
+This paper does not present a final, immutable law of epistemology. It is a combinatorial compression of modeling practice.
 
-###9.2 The Prediction of Obsolescence
-By applying the Constraint Principle (Section 4.4) recursively, this framework predicts that it will eventually encounter unscoped interactions—philosophical problems, scientific anomalies, or cognitive discoveries—that it cannot currently account for.
+It partitions the complex history of scientific discovery into specific objects ("constraints," "boundaries," "permeability") to render them tractable.
 
-Dogmatic Outcome: If this framework were to claim it is the "Final Truth" of epistemology, it would become brittle and fail upon meeting these anomalies.
-
-Permeable Outcome: By practicing Strategic Closure, this framework admits in advance that it is an approximation. It anticipates its own future modification or absorption into a more robust theory.
+As such, it is operationally closed but must remain ontologically open.
 
 ---
 
-###9.3 Conclusion on Recursion
+### 9.2 The Prediction of Revision
 
-Interactional Epistemics is not exempt from its own rules. It is a local, strategically bounded map of how we map the world. Its legitimacy is derived not from a claim of absolute authority, but from its admitted capacity to be constrained, refined, and eventually surpassed by the reality it attempts to describe.
+By its own principle, this framework predicts that it will eventually encounter unscoped interactions—philosophical, scientific, or cognitive—that it cannot currently account for.
+
+Dogmatic Outcome:  
+If this framework claimed final authority, it would become brittle.
+
+Permeable Outcome:  
+By admitting approximation, it anticipates refinement, revision, or absorption into more robust theory.
+
+---
+
+### 9.3 Recursive Legitimacy
+
+Interactional Epistemics derives legitimacy not from finality but from:
+
+- Admitted scope  
+- Constraint responsiveness  
+- Openness to revision  
+
+It is a local map of how we map the world.
 
 ---
 
