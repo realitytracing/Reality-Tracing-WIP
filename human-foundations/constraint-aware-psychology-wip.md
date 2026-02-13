@@ -1,8 +1,7 @@
 ---
 title: Constraint-Aware Psychology (WIP)
 ---
-
-# Constraint-Aware Psychology  
+ 
 ## Re-emergent Mental Dynamics Under Energy, Salience, and Locality
 
 **Status:** Foundational Artifact  
