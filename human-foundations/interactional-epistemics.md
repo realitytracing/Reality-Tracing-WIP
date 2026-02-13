@@ -81,7 +81,45 @@ The burden of proof lies on any claim of interactional completeness.
 
 ---
 
-### 2.3 The Interactional Condition
+### 2.3 Distinction from *Ceteris Paribus*
+
+The Interactional Permeability Principle must be distinguished from the classical methodological device of *ceteris paribus* (“all else equal”).
+
+*Ceteris paribus* functions as a **local bracketing operator**. It temporarily freezes background variables in order to analyze a focal relationship. It is a practical necessity for tractable reasoning. When used properly, it makes no ontological claim that the bracketed factors do not exist.
+
+Interactional Permeability operates at a different level.
+
+It does not govern how variables are bracketed within a model.  
+It governs how bracketing itself is interpreted epistemically.
+
+The distinction can be summarized as follows:
+
+- *Ceteris paribus* allows temporary isolation for analysis.  
+- Interactional Permeability forbids treating that isolation as evidence of ontological exhaustiveness.  
+
+*Ceteris paribus* assumes that “other things” exist but are being held fixed.  
+Interactional Permeability insists that those “other things” may include:
+
+- Known interacting variables  
+- Known unknowns  
+- Structurally unenumerated factors  
+- Entirely new partitions of structure  
+
+The former is a modeling convenience.  
+The latter is a constraint on epistemic posture.
+
+A model may legitimately employ *ceteris paribus* conditions.  
+It becomes dogmatic only when:
+
+- The bracket is mistaken for reality itself, or  
+- The hypothesis space is treated as interactionally complete without demonstration.  
+
+Interactional Permeability therefore does not replace *ceteris paribus*.  
+It regulates how and when its use becomes epistemically illegitimate.
+
+---
+
+### 2.4 The Interactional Condition
 
 Empirically studied systems are not perfectly isolated. They exist within environments in which they exchange energy, matter, or information and are embedded within broader causal structures.
 
