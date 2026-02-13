@@ -366,4 +366,4 @@ It applies epistemic discipline to higher emergent realities.
 
 Nothing more.
 
-Nothing less.
+Nothing less. 
