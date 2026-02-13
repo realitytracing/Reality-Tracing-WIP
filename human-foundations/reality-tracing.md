@@ -1,284 +1,235 @@
 ---
-
 title: Reality Tracing
-
 ---
-Intent
 
-Reality Tracing is a practice, not a theory and not an ontology of everything.
+# Reality Tracing
+
+## Intent
+
+Reality Tracing is a **practice**, not a theory and not an ontology of everything.
 
 Its purpose is to trace constraints, flows, and limits across human-scale emergent systems (cognition, identity, culture, institutions) while explicitly refusing overreach.
 
 Reality Tracing exists to fill a missing discipline:
 
-one that treats human systems as real and causal,
-
-without pretending they can be fully formalized or closed,
-
-and without declaring them ineffable or beyond analysis.
-
+- One that treats human systems as real and causal  
+- Without pretending they can be fully formalized or closed  
+- Without declaring them ineffable or beyond analysis  
 
 It applies the same epistemic restraint learned in physics to higher emergent realities.
 
-
 ---
 
-What Reality Tracing Is Not
+## What Reality Tracing Is Not
 
 Reality Tracing is not:
 
-a total explanation of humans
+- A total explanation of humans  
+- A replacement for psychology, neuroscience, sociology, economics, law, or governance  
+- A moral framework  
+- A predictive engine  
+- A claim about ultimate metaphysics  
 
-a replacement for psychology, neuroscience, sociology, economics, law, or governance
-
-a moral framework
-
-a predictive engine
-
-a claim about ultimate metaphysics
-
-
-It does not explain what humans are. It traces what humans are constrained by.
-
+It does not explain what humans *are*.  
+It traces what humans are **constrained by**.
 
 ---
 
-Core Stance
+## Core Stance
 
-1. Constraints Are Primary
+### 1. Constraints Are Primary
 
-Reality Tracing starts from the assumption that:
+Reality Tracing begins from the assumption that:
 
-we are constrained agents inside the system we are trying to understand
-
-energy, attention, salience, habituation, incentives, and history all impose limits
-
+- We are constrained agents inside the system we are trying to understand  
+- Energy, attention, salience, habituation, incentives, embodiment, and history impose limits  
 
 Constraints are treated as first-class objects.
 
+Models come second.
 
 ---
 
-2. Bayesian Reasoning Is Local, Not Final
+### 2. Bayesian Reasoning Is Local, Not Final
 
 Bayesian reasoning is extremely useful when:
 
-the hypothesis space is known
+- The hypothesis space is known  
+- The frame is stable  
+- Compression is required  
 
-the frame is stable
+But Reality Tracing recognizes a non-Bayesian boundary:
 
-compression is required
-
-
-But Reality Tracing explicitly recognizes a non-Bayesian boundary:
-
-the space of possible ideas, causes, and interpretations is not enumerable
-
-new salience objects and categories can emerge
-
+- The space of possible ideas, causes, and interpretations is not enumerable  
+- New salience objects and categories can emerge  
+- Frames themselves can break  
 
 Therefore:
 
-Bayesian reasoning works within frames
+- Bayesian reasoning works **within frames**  
+- Reality Tracing governs when frames are incomplete or unstable  
 
-Reality Tracing governs when frames themselves break or are incomplete
-
-
-Bayes is a tool of constrained minds, not an ontology of reality.
-
+Bayes is a tool of constrained minds.  
+It is not an ontology of reality.
 
 ---
 
-3. Salience Governs Action
+### 3. Salience Governs Action
 
-Reality Tracing treats salience as the main regulator of behavior:
+Reality Tracing treats salience as the primary regulator of behavior:
 
-anything in the mind can become an idea
+- Anything in the mind can become an idea  
+- Ideas, feelings, sensations, memories, and meta-ideas can become salient  
+- Salience determines what receives energy and action  
 
-ideas, feelings, sensations, memories, and even meta-ideas can become salient
-
-salience determines what receives energy and action
-
-
-Habituation limits salience over time, preventing infinite loops.
+Habituation stabilizes salience over time, preventing infinite loops.
 
 This explains:
 
-habits
-
-bias formation
-
-identity stabilization
-
-burnout
-
-overthinking
-
-social contagion
-
+- Habit formation  
+- Bias stabilization  
+- Identity consolidation  
+- Burnout  
+- Overthinking  
+- Social contagion  
 
 Without invoking essence or moral failure.
 
-
 ---
 
-4. Micro-Interactions Accumulate Without Total Causation
+### 4. Micro-Interactions Accumulate Without Total Causation
 
-Every interaction leaves some trace. Most dissipate. Some amplify through salience and reinforcement.
+Every interaction leaves some trace.
+
+Most dissipate.  
+Some amplify through salience and reinforcement.
 
 No single event can be shown to be globally causative of a person.
 
 Because:
 
-amplification is nonlinear
+- Amplification is nonlinear  
+- Countervailing interactions arrive unpredictably  
+- The full interaction space is unknowable  
 
-countervailing interaction sets can arrive unpredictably
-
-the full interaction space is unknowable
-
-
-Reality Tracing allows partial causation, but forbids total explanation.
-
+Reality Tracing allows partial causation.  
+It forbids total explanation.
 
 ---
 
-5. Biology Bounds, It Does Not Dictate
+### 5. Biology Bounds; It Does Not Dictate
 
 Biological diversity shapes:
 
-what can become salient
+- What can become salient  
+- How salience is constructed  
+- How quickly habituation occurs  
 
-how salience is constructed
-
-how quickly habituation occurs
-
-
-But loss or difference in sensory channels does not prevent participation in higher emergent layers.
+But differences in sensory channel, embodiment, or processing do not prevent participation in higher emergent layers.
 
 Salience operates on representations, not raw signals.
 
+Biology constrains possibility space.  
+It does not fully script identity or meaning.
 
 ---
 
-6. Identity Is Emergent, Not Sacred or Reducible
+### 6. Identity Is Emergent, Not Sacred or Reducible
 
 Identity (including gender) is understood as:
 
-a stabilized bundle of salient representations
-
-reinforced by habit, social feedback, embodiment, and history
-
-
-This applies to everyone equally.
+- A stabilized bundle of salient representations  
+- Reinforced by habit, social feedback, embodiment, and history  
 
 Reality Tracing:
 
-does not deny identity
-
-does not reduce identity to biology
-
-does not elevate identity to ontology
-
+- Does not deny identity  
+- Does not reduce identity to biology  
+- Does not elevate identity to metaphysical ontology  
 
 It traces identity as an emergent constraint configuration.
 
-
 ---
 
-Why This Practice Is Needed
+## Why This Practice Is Needed
 
 Without a named discipline:
 
-human sciences may be dismissed as unreal by outsiders
-
-practitioners may overclaim and slide into ontology
-
+- Human sciences may be dismissed as unreal by outsiders  
+- Practitioners may overclaim and slide into ontology  
 
 Reality Tracing creates a shared stopping rule:
 
-these systems are real
-
-these explanations are partial
-
-these models do not close reality
-
+- These systems are real  
+- These explanations are partial  
+- These models do not close reality  
 
 This prevents both:
 
-romantic anti-formalization
-
-scientistic overreach
-
-
+- Romantic anti-formalization  
+- Scientistic overreach  
 
 ---
 
-Social Function
+## Social Function
 
 Reality Tracing provides a shared language that allows people to:
 
-disagree without total blame
-
-explain without single-cause narratives
-
-argue within constraints
-
-recognize uncertainty without paralysis
-
+- Disagree without total blame  
+- Explain without single-cause narratives  
+- Argue within constraints  
+- Recognize uncertainty without paralysis  
 
 It shifts discourse from:
 
-finger-pointing
+- Finger-pointing  
+- Essence claims  
+- Moral totalization  
 
-essence claims
+Toward:
 
-moral totalization
-
-
-toward:
-
-constraint analysis
-
-salience mismatches
-
-incentive structure
-
-historical contingency
-
-
+- Constraint analysis  
+- Salience mismatches  
+- Incentive structures  
+- Historical contingency  
 
 ---
 
-Ontological Claim (Minimal)
+## Minimal Ontological Claim
 
-Reality Tracing makes only one ontological claim:
+Reality Tracing makes only one ontological commitment:
 
 > What we can legitimately trace is not reality in itself, but the constraints that shape our access to it.
 
-
-
 This is an ontology of limits, not of substances.
 
+---
+
+## Representation Analogy
+
+Reality Tracing resembles sketching a three-dimensional object on a two-dimensional surface.
+
+Fidelity does not come from reproducing every surface, but from knowing:
+
+- Which lines can be drawn without distortion  
+- Which must be left blank  
+
+Gaps in the trace are not ignorance or omission.  
+They mark the honest boundary of representation.
+
+Attempting to fill them prematurely produces coherence loss rather than understanding.
 
 ---
 
-Reality tracing resembles sketching a three-dimensional object on a two-dimensional surface. Fidelity does not come from reproducing every surface, but from knowing which lines can be drawn without distortion — and which must be left blank. Gaps in the trace are not ignorance or omission; they are signs that representation has reached its honest limit. Attempting to fill them produces coherence loss rather than understanding.
-
----
-
-In Short
+## In Short
 
 Reality Tracing is:
 
-formal without being total
+- Formal without being total  
+- Real without being reductionist  
+- Humble without being dismissive  
+- Analytical without being dehumanizing  
 
-real without being reductionist
-
-humble without being dismissive
-
-analytical without being dehumanizing
-
-
-It applies Bohr-style epistemic discipline to higher emergent realities.
+It applies epistemic discipline to higher emergent realities.
 
 Nothing more. Nothing less.
