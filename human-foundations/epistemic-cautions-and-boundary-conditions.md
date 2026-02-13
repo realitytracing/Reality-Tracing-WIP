@@ -2,8 +2,6 @@
 title: Epistemic Cautions and Boundary Conditions
 ---
 
-# Epistemic Cautions and Boundary Conditions
-
 This framework operates between two symmetric failure modes:
 
 - **False totalization** — mistaking stable understanding for complete understanding.  
