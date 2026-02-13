@@ -77,21 +77,21 @@ It does not command action. It clarifies constraints.
 
 **Human Foundations**
 - **[Constraints](human-foundations/constraints.md)** — non-negotiable limits shaping viability
-- **[Locality, Constraints, and Direction](human-foundations/locality-constraints-and-direction.md)** - dynamics at the interface between mind and outside reality
+- **[Locality, Constraints, and Direction](human-foundations/locality-constraints-and-direction.md)** — dynamics at the interface between mind and outside reality
 - **[Salience](human-foundations/salience.md)** — directional energy flow toward local ends
-- **[Free Will and Salience](human-foundations/free-will-and-salience.md)** - clarifies how agency and free will can be understood within salience-driven dynamics without requiring metaphysical closure.
+- **[Free Will and Salience](human-foundations/free-will-and-salience.md)** — clarifies how agency and free will can be understood within salience-driven dynamics without requiring metaphysical closure.
 - **[Habituation](human-foundations/habituation.md)** — stabilization of repeated patterns
 - **[Local-end](human-foundations/local-ends.md)** — human-scale sources of livability
-- **[Equal Tooling: Salience-Centered Optimization and Symmetry of Understanding](human-foundations/salience-centered-optimization-and-symmetry-of-understanding.md)** - names the shift from optimizing over human salience to optimizing for its continued viability
-- **[Biology](human-foundations/biology.md)** - exposing where clamps came from
+- **[Equal Tooling: Salience-Centered Optimization and Symmetry of Understanding](human-foundations/salience-centered-optimization-and-symmetry-of-understanding.md)** — names the shift from optimizing over human salience to optimizing for its continued viability
 - **[Dynamics](human-foundations/dynamics.md)** — how systems move, overload, and reconfigure
-- **[Human Mind as An Effective Unit](human-foundations/human-mind-as-an-effective-unit.md)** - defines a constraint-aware model of the human mind and formalizes it as a provisional effective unit for higher emergent systems
+- **[Biology](human-foundations/biology.md)** — where clamps came from
+- **[Human Mind as An Effective Unit](human-foundations/human-mind-as-an-effective-unit.md)** — defines a constraint-aware model of the human mind and formalizes it as a provisional effective unit for higher emergent systems
 
 **Psychology**
-- **[Constraint-Aware Psychology (WIP)](human-foundations/constraint-aware-psychology-wip.md)** - reemergence of psychology through energy tracing and constraints
+- **[Constraint-Aware Psychology (WIP)](human-foundations/constraint-aware-psychology-wip.md)** — reemergence of psychology through energy tracing and constraints
 
 **The Upper Emergent Stacks**
-- **[Collective Salience, Legitimacy, and the Metabolic Loop](tracing-stacks/collective-salience-legitimacy-and-the-metabolic-loop.md)** - emergence of the equally real stacks and it's metabolic loop with salience agents
+- **[Collective Salience, Legitimacy, and the Metabolic Loop](tracing-stacks/collective-salience-legitimacy-and-the-metabolic-loop.md)** — emergence of the equally real stacks and it's metabolic loop with salience agents
 
 
 **Integrated Text**
