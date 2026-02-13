@@ -1,47 +1,57 @@
 ---
-
 title: Habituation
-
 ---
+
+# Habituation
+
 ## Habituation as Cost Reduction Under Constraint
 
 Habituation is the process by which repeated patterns of attention, action, and response **reduce cost** and increase efficiency over time.
 
-Cost here is not limited to metabolic energy alone. It includes:
+Cost is multi-dimensional. It includes:
+
+- Metabolic energy  
 - Cognitive capacity  
-- Emotional capacity  
-- Attentional bandwidth  
-- Sensory and regulatory load  
+- Emotional bandwidth  
+- Attentional load  
+- Sensory and regulatory strain  
 
 In systems where bounded capacities must continuously flow, habituation functions as a **cost-reduction mechanism** that allows salient paths to remain viable without constant strain.
 
 Through habituation:
+
 - Frequently activated pathways become easier to access  
 - Successful cycles stabilize  
-- Cognitive, emotional, and regulatory load decreases  
+- Cognitive and emotional load decreases  
 - Variance narrows  
 
-Habituation does not create salience. It **stabilizes** it.
+Habituation does not create salience.  
+It **stabilizes** already-salient paths by lowering traversal cost.
 
 ---
 
-## Scope of Habituation
+## Structural Scope of Habituation
 
-Habituation applies not only to behaviors and actions, but to **internal pathways themselves**.
+Habituation applies not only to external behaviors, but to **internal pathways**.
 
-Intuition, reasoning, imagination, emotion, memory, and sensory processing can all become weighted through repeated use. Over time, this weighting shapes:
+Intuition, reasoning, imagination, emotion, memory, and sensory processing can all become weighted through repeated activation.
+
+Over time, this weighting shapes:
+
 - What feels natural  
 - What feels effortful  
 - What feels costly to reconsider  
-- What feels “default” under pressure  
+- What becomes “default” under pressure  
 
-Habituation is therefore not merely behavioral. It is **structural**.
+Habituation is therefore structural, not merely behavioral.
 
 A system can habituate into:
+
 - Physical routines  
-- Emotional responses  
+- Emotional reactions  
 - Cognitive styles  
-- Modes of thinking or abstraction  
+- Modes of abstraction  
+- Identity-linked interpretations  
 
 Thinking itself can become a dominant habituated path.
 
@@ -49,106 +59,138 @@ Thinking itself can become a dominant habituated path.
 
 ## Neutrality of Habituation
 
-Habituation is not inherently good or bad. It is a **neutral efficiency mechanism**.
+Habituation is a **neutral efficiency mechanism**.
 
 It enables:
+
 - Skill acquisition  
-- Care and attentiveness  
-- Focus and specialization  
-- Continuity over time  
+- Care and precision  
+- Sustained focus  
+- Long-term continuity  
 
 It also produces:
-- Blind spots  
+
 - Rigidity  
+- Blind spots  
 - Reduced adaptability  
+- Resistance to reweighting  
 
-These are not failures. They are **tradeoffs inherent to efficiency under constraint**.
+These are not defects.  
+They are **tradeoffs inherent to efficiency under constraint**.
 
-Efficiency always narrows optionality.
+Efficiency narrows optionality.
 
 ---
 
 ## Breakdown and Reweighting
 
-When a habituated cycle becomes non-viable—because constraints shift or costs exceed available capacity—the system produces negative feedback.
+When a habituated cycle becomes non-viable—because constraints shift or cumulative costs exceed available capacity—the system produces corrective signals.
 
-This feedback appears as:
+These signals may appear as:
+
 - Fatigue  
 - Distress  
+- Irritability  
 - Confusion  
 - Overload  
 
-These signals indicate **inefficiency**, not moral failure. They mark the need for reweighting, interruption, or restructuring of salient paths.
+These are not moral failures.  
+They are **inefficiency indicators**.
 
-Importantly, breakdown may occur in **non-dominant capacities**.
+Breakdown often occurs in **non-dominant capacities**.
 
-A highly habituated cognitive path (e.g. sustained thinking or abstraction) may remain stable while:
+A highly habituated cognitive path (e.g., sustained abstraction) may remain stable while:
+
 - Physical recovery degrades  
-- Sleep is deprioritized  
+- Sleep debt accumulates  
 - Emotional regulation erodes  
 
 Until enforcement occurs.
 
-This is not denial. It is **salience-weighted habituation operating normally**.
+This is not denial.  
+It is salience-weighted habituation operating normally within bounded awareness.
 
 ---
 
 ## Habituation and Salience Stability
 
-Habituation stabilizes salience **temporarily** by lowering the cost of repeatedly traversed paths.
+Habituation stabilizes salience by lowering the cost of repeatedly traversed paths.
 
-All stability remains relative and revisable under changing constraints.
+However:
 
-Habituation cannot guarantee long-term viability. It only delays instability by reducing cost within a given capacity regime.
+All stability is temporary.  
+All cost reductions are regime-dependent.  
 
-Eventually, non-negotiable constraints enforce reweighting.
+Habituation does not guarantee long-term viability.  
+It delays instability within a specific constraint configuration.
+
+When constraints shift, reweighting becomes unavoidable.
 
 ---
 
 ## Habituation and Capacity Absorption
 
-Habituation stabilizes salience by reducing the cost of paths that repeatedly absorb dominant capacity—including paths that are initially disliked, effortful, or neutral.
+Habituation plays a critical role in matching **capacity flow** to **salience stability**.
 
-High-friction paths can function as effective stabilizers precisely because they **consume capacity**. Over time, habituation allows these paths to remain traversable without continuous overload.
+Paths that are initially effortful or even disliked can become stabilizing precisely because they absorb significant capacity.
 
-When habituation is bypassed—because paths are too short, too easy, too optional, or too frictionless—salience may fail to stabilize even in the presence of desirable local ends.
+High-friction paths often:
+
+- Consume dominant capacity  
+- Reduce idle surplus  
+- Prevent destabilizing overflow  
+
+Over time, habituation lowers their traversal cost without eliminating absorption.
+
+Conversely, when pathways are:
+
+- Too frictionless  
+- Too short  
+- Too optional  
+- Too easily abandoned  
+
+Salience may fail to stabilize despite abundance.
 
 In such cases:
-- Capacity is insufficiently absorbed  
-- Salience reallocates prematurely  
-- Instability increases despite apparent abundance  
 
-Habituation therefore plays a critical role in matching **capacity flow** to **salience stability**, not by adding meaning, but by regulating cost.
+- Capacity is insufficiently absorbed  
+- Reallocation occurs prematurely  
+- Instability increases  
+
+Habituation regulates cost—not meaning.
 
 ---
 
-## Habituation, Balance, and Meta-Local Ends
+## Habituation and Meta-Local Ends
 
-Ideas about regulation can themselves become local ends.
+Regulation itself can become a local end.
 
-Examples include:
-- The idea of balance  
-- Managing energy or attention  
-- Optimizing capacity use  
-- Preserving future viability  
+Examples:
 
-When such ideas become salient, habituation can stabilize *regulation itself* as a path.
+- Pursuing balance  
+- Managing attention  
+- Tracking energy  
+- Preserving long-term viability  
+- Optimizing performance  
+
+When such abstractions become salient, habituation can stabilize **meta-level regulation** as a dominant path.
 
 This does not suspend salience dynamics.  
-It redirects them toward **meta-level capacity management**.
+It redirects them toward structured capacity management.
 
 Even reflection on habituation can become habituated.
 
 ---
 
-## Summary
+## Structural Summary
 
 Habituation is the mechanism by which:
+
 - Cost is reduced  
-- Salience is temporarily stabilized  
+- Salient paths are stabilized  
 - Efficiency is achieved under constraint  
 
-It enables continuity, but at the cost of flexibility.
+It enables continuity at the cost of flexibility.
 
-Habituation does not decide what matters.  
+Habituation does not determine what matters.  
 It determines **what can be sustained, and for how long, within bounded capacity**.
