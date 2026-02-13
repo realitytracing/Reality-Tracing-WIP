@@ -2,9 +2,11 @@
 title: Reality Tracing
 ---
 
+# Reality Tracing
+
 ## Intent
 
-Reality Tracing is a **practice**, not a theory and not an ontology of everything.
+Reality Tracing is a practice — not a theory and not an ontology of everything.
 
 Its purpose is to trace constraints, flows, and limits across human-scale emergent systems (cognition, identity, culture, institutions) while explicitly refusing overreach.
 
@@ -28,14 +30,15 @@ Reality Tracing is not:
 - A predictive engine  
 - A claim about ultimate metaphysics  
 
-It does not explain what humans *are*.  
-It traces what humans are **constrained by**.
+It does not explain what humans are.
+
+It traces what humans are constrained by.
 
 ---
 
-## Core Stance
+# Core Stance
 
-### 1. Constraints Are Primary
+## 1. Constraints Are Primary
 
 Reality Tracing begins from the assumption that:
 
@@ -46,9 +49,11 @@ Constraints are treated as first-class objects.
 
 Models come second.
 
+Models are compressions under constraint — not sovereign descriptions of reality.
+
 ---
 
-### 2. Bayesian Reasoning Is Local, Not Final
+## 2. Bayesian Reasoning Is Local, Not Final
 
 Bayesian reasoning is extremely useful when:
 
@@ -56,7 +61,7 @@ Bayesian reasoning is extremely useful when:
 - The frame is stable  
 - Compression is required  
 
-But Reality Tracing recognizes a non-Bayesian boundary:
+But Reality Tracing recognizes a structural boundary:
 
 - The space of possible ideas, causes, and interpretations is not enumerable  
 - New salience objects and categories can emerge  
@@ -64,23 +69,75 @@ But Reality Tracing recognizes a non-Bayesian boundary:
 
 Therefore:
 
-- Bayesian reasoning works **within frames**  
+- Bayesian reasoning works *within* frames  
 - Reality Tracing governs when frames are incomplete or unstable  
 
-Bayes is a tool of constrained minds.  
+Bayes is a tool of constrained minds.
+
 It is not an ontology of reality.
 
 ---
 
-### 3. Salience Governs Action
+## 3. The Infinity and Clamp Heuristic
 
-Reality Tracing treats salience as the primary regulator of behavior:
+A central diagnostic principle of Reality Tracing:
 
-- Anything in the mind can become an idea  
-- Ideas, feelings, sensations, memories, and meta-ideas can become salient  
-- Salience determines what receives energy and action  
+> Persistent, energy-bearing systems do not sustain unbounded infinities.
+
+When a model predicts:
+
+- Infinite growth  
+- Infinite acceleration  
+- Infinite optimization  
+- Infinite regress  
+- Infinite precision  
+- Infinite rumination  
+- Infinite expansion without friction  
+
+without specifying a bounding mechanism,
+
+it signals unscoped constraint.
+
+Reality enforces limits through:
+
+- Rate ceilings  
+- Resource depletion  
+- Fatigue  
+- Friction  
+- Damping  
+- Collapse  
+- Termination rules  
+
+If something appears infinite in a bounded system, one of the following is true:
+
+1. The model exceeds its valid scale  
+2. A constraint has been abstracted away  
+3. The variable is mis-specified  
+4. The frame is incomplete  
+
+Infinity is not automatically false.
+
+It is a structural warning flag.
+
+---
+
+## 4. Salience Governs Action
+
+Reality Tracing treats salience as the primary regulator of behavior.
+
+Anything in the mind can become salient:
+
+- Ideas  
+- Feelings  
+- Sensations  
+- Memories  
+- Meta-ideas  
+
+Salience determines what receives energy and action.
 
 Habituation stabilizes salience over time, preventing infinite loops.
+
+Without habituation, cognition would destabilize into runaway amplification.
 
 This explains:
 
@@ -95,12 +152,12 @@ Without invoking essence or moral failure.
 
 ---
 
-### 4. Micro-Interactions Accumulate Without Total Causation
+## 5. Micro-Interactions Accumulate Without Total Causation
 
 Every interaction leaves some trace.
 
 Most dissipate.  
-Some amplify through salience and reinforcement.
+Some amplify.
 
 No single event can be shown to be globally causative of a person.
 
@@ -110,12 +167,13 @@ Because:
 - Countervailing interactions arrive unpredictably  
 - The full interaction space is unknowable  
 
-Reality Tracing allows partial causation.  
+Reality Tracing allows partial causation.
+
 It forbids total explanation.
 
 ---
 
-### 5. Biology Bounds; It Does Not Dictate
+## 6. Biology Bounds; It Does Not Dictate
 
 Biological diversity shapes:
 
@@ -127,12 +185,13 @@ But differences in sensory channel, embodiment, or processing do not prevent par
 
 Salience operates on representations, not raw signals.
 
-Biology constrains possibility space.  
+Biology constrains possibility space.
+
 It does not fully script identity or meaning.
 
 ---
 
-### 6. Identity Is Emergent, Not Sacred or Reducible
+## 7. Identity Is Emergent, Not Sacred or Reducible
 
 Identity (including gender) is understood as:
 
@@ -149,11 +208,11 @@ It traces identity as an emergent constraint configuration.
 
 ---
 
-## Why This Practice Is Needed
+# Why This Practice Is Needed
 
 Without a named discipline:
 
-- Human sciences may be dismissed as unreal by outsiders  
+- Human sciences may be dismissed as unreal  
 - Practitioners may overclaim and slide into ontology  
 
 Reality Tracing creates a shared stopping rule:
@@ -169,7 +228,7 @@ This prevents both:
 
 ---
 
-## Social Function
+# Social Function
 
 Reality Tracing provides a shared language that allows people to:
 
@@ -193,7 +252,7 @@ Toward:
 
 ---
 
-## Minimal Ontological Claim
+# Minimal Ontological Claim
 
 Reality Tracing makes only one ontological commitment:
 
@@ -203,23 +262,46 @@ This is an ontology of limits, not of substances.
 
 ---
 
-## Representation Analogy
+# Representation Analogy
 
 Reality Tracing resembles sketching a three-dimensional object on a two-dimensional surface.
 
-Fidelity does not come from reproducing every surface, but from knowing:
+Fidelity does not come from reproducing every surface.
+
+It comes from knowing:
 
 - Which lines can be drawn without distortion  
 - Which must be left blank  
 
-Gaps in the trace are not ignorance or omission.  
+Gaps in the trace are not ignorance.
+
 They mark the honest boundary of representation.
 
 Attempting to fill them prematurely produces coherence loss rather than understanding.
 
 ---
 
-## In Short
+# Relationship to Interactional Epistemics
+
+Interactional Epistemics governs models of empirical reality broadly.
+
+Reality Tracing applies that permeability discipline specifically to:
+
+- Human-scale systems  
+- Emergent coordination  
+- Identity  
+- Institutions  
+- Cultural dynamics  
+
+The Infinity and Clamp Heuristic operationalizes permeability at the human scale:
+
+When salience, institutions, identities, or growth trajectories are modeled as unbounded, clamp detection becomes mandatory.
+
+Unbounded extrapolation without constraint awareness is dogmatic closure in social form.
+
+---
+
+# In Short
 
 Reality Tracing is:
 
@@ -230,4 +312,6 @@ Reality Tracing is:
 
 It applies epistemic discipline to higher emergent realities.
 
-Nothing more. Nothing less.
+Nothing more.
+
+Nothing less.
