@@ -1,4 +1,8 @@
-# Interactional Epistemics (WIP)
+---
+
+title: Interactional Epistemics (WIP)
+
+---
 ## A Permeability Criterion for Scientific and Philosophical Models
 
 ---
