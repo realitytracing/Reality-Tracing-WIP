@@ -1,5 +1,5 @@
 ---
-title: Interactional Epistemics (Unified Edition)
+title: Interactional Epistemics (WIP)
 ---
 
 # Interactional Epistemics
