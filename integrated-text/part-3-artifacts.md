@@ -230,7 +230,7 @@ They are **warnings**.
 - **[Execution as a Salience and Legitimacy Stressor](../artifact-analyzed/execution-as-a-salience-and-legitimacy-stressor.md)**  
   A constraint-aware analysis of irreversible institutional action and legitimacy erosion.
 
-- **[Moral Panic, Floaty Critics, and the Flattening Error](../artifact-analyzed/moral-panics-floaty-critics-and-the-flattening-of-error.md) An analysis of a common mode of critics that results in moral panics
+- **[Moral Panic, Floaty Critics, and the Flattening Error](../artifact-analyzed/moral-panics-floaty-critics-and-the-flattening-of-error.md)** An analysis of a common mode of critics that results in moral panics
 
 Additional hard problem artifacts (e.g. nuclear stability, environmental viability) are handled in **Part IV**, where continued strategic closure is required.
 
