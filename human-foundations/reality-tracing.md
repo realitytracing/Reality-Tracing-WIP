@@ -76,20 +76,23 @@ Bayes is a tool of constrained minds.
 
 It is not an ontology of reality.
 
-## 3. The Infinity and Clamp Heuristic
+## 3. The Infinity and Constraint (Clamp) Heuristic
 
 A central diagnostic principle of Reality Tracing:
 
-> If a persistent system does not explode into infinity, a clamp exists.
+> If a persistent, energy-bearing system does not explode into infinity, bounded transformation must be operating.
 
-“Infinity” here means any modeled behavior that would grow, branch, accelerate, or recurse without bound if unconstrained.
+“Infinity” here refers to modeled behavior that would branch, accelerate, optimize, recurse, or grow without bound if unconstrained.
 
 Real systems persist.
-Unbounded processes do not.
+Unbounded processes do not persist without regime change or collapse.
 
 Therefore:
 
 Persistent structure implies bounded transformation.
+
+This is not a metaphysical claim.
+It is a tracing heuristic.
 
 ---
 
@@ -97,226 +100,231 @@ Persistent structure implies bounded transformation.
 
 Infinity signals include models that assume:
 
-- Infinite speed  
-- Infinite growth  
-- Infinite branching  
-- Infinite energy extraction  
-- Infinite optimization  
-- Infinite rational search  
-- Infinite recursion  
-- Infinite rumination  
-- Infinite productivity  
-- Infinite coordination  
+- Infinite speed
+- Infinite growth
+- Infinite branching
+- Infinite energy extraction
+- Infinite optimization
+- Infinite rational search
+- Infinite recursion
+- Infinite rumination
+- Infinite productivity
+- Infinite coordination
 
-If a model predicts unbounded escalation but reality shows stability, saturation, or collapse, a clamp is missing.
+If a model predicts unbounded escalation but observed reality shows stabilization, saturation, oscillation, or collapse, then a constraint is missing from the model.
+
+The heuristic does not assert that infinity is impossible.
+
+It asserts that unbounded empirical behavior in bounded systems requires explicit constraint accounting.
 
 ---
 
-### 3.2 The Clamp Inference Principle
+### 3.2 The Constraint Inference Principle
 
 If a system:
 
-- Could branch combinatorially  
-- Could accelerate indefinitely  
-- Could transform without bound  
+- Could branch combinatorially,
+- Could accelerate indefinitely,
+- Could transform without bound,
 
 but does not,
 
 then one or more transformation limits must exist.
 
-These limits may be:
+These limits may include:
 
-- Rate limits  
-- Energy ceilings  
-- Information bandwidth limits  
-- Thermodynamic constraints  
-- Metabolic cost  
-- Computational complexity  
-- Friction  
-- Damping  
-- Saturation thresholds  
-- Structural instability beyond certain scales  
-- Termination rules  
+- Rate limits
+- Energy ceilings
+- Information bandwidth limits
+- Thermodynamic constraints
+- Metabolic cost
+- Computational complexity
+- Friction
+- Damping
+- Saturation thresholds
+- Structural instability beyond certain scales
+- Termination rules
+- Regime transitions
 
 If transformation were truly unbounded:
 
-- Structures would dissolve  
-- Identity would fragment  
-- Coordination would fail  
-- Persistence would not occur  
+- Structures would dissolve
+- Identity would fragment
+- Coordination would fail
+- Persistence would not occur
 
-The fact that something *continues to exist* implies bounded dynamics.
+The fact that something continues to exist is evidence of bounded dynamics.
 
 ---
 
-### 3.3 Explicit Examples Across Domains
+### 3.3 Empirical Anchor Requirement
 
-#### Example 1 — Physics: Speed of Light
+A proposed clamp must connect to at least one of the following:
+
+- Observable behavior
+- Measurable invariants
+- Known rate or energy constraints
+- Biological or physical architecture
+- Experiential regularities
+- Falsifiable prediction
+
+A clamp that cannot, even in principle, connect to observation, measurement, or structured experience is not a traced constraint.
+
+It is speculation.
+
+Reality Tracing prohibits speculative clamps from being treated as explanatory closure.
+
+---
+
+### 3.4 Cross-Domain Examples
+
+#### Physics — Speed of Light
 
 Why does a photon not travel at infinite speed?
 
-Because transformation of spacetime itself is clamped.
+Because transformation of spacetime is rate-limited.
 
-Special relativity encodes this clamp as an invariant speed limit.
+Special relativity encodes this clamp as an invariant speed.
 
-If no clamp existed:
+Without it:
+- Causality collapses
+- Signal propagation becomes instantaneous
+- Temporal ordering dissolves
 
-- Causality would collapse  
-- Signal propagation would be instantaneous  
-- Temporal ordering would dissolve  
-
-The absence of infinite speed implies a structural rate limit.
+The absence of infinite speed implies structural rate limitation.
 
 ---
 
-#### Example 2 — Cognition: Decision Branching
+#### Cognition — Decision Branching
 
-Why does the mind not explore every possible path to a goal?
-
-In principle, decision trees branch combinatorially.
+Decision trees branch combinatorially.
 
 Yet humans:
-
-- Stop searching  
-- Settle on “good enough”  
-- Use heuristics  
-- Truncate reasoning  
+- Stop searching
+- Use heuristics
+- Set satisficing thresholds
+- Act under time pressure
 
 Clamps include:
+- Finite working memory
+- Metabolic cost
+- Time constraints
+- Fatigue
+- Reward thresholds
 
-- Finite working memory  
-- Metabolic cost  
-- Time pressure  
-- Satisficing thresholds  
-- Cognitive fatigue  
-
-Without these clamps, decision-making would never terminate.
+Without truncation, decision would never resolve.
 
 Action requires bounded search.
 
 ---
 
-#### Example 3 — Rumination and Overthinking
+#### Rumination
 
-Why does rumination eventually exhaust or collapse rather than continue infinitely?
+Recursive thought does not continue infinitely.
 
-Because:
+Clamps include:
+- Emotional stress escalation
+- Cognitive fatigue
+- Sleep pressure
+- Neurochemical regulation
 
-- Emotional distress increases metabolic cost  
-- Attention destabilizes  
-- Sleep pressure intervenes  
-- Fatigue forces termination  
-
-If no clamp existed, recursive thought loops would never stop.
-
-The existence of mental breakdown and sleep are clamp signals.
+Breakdown and sleep are clamp signals.
 
 ---
 
-#### Example 4 — Biology: Cellular Growth
+#### Biology — Cellular Growth
 
-Why do cells not grow infinitely?
+Cells do not replicate infinitely under normal conditions.
 
-Unbounded replication produces:
-
-- Resource depletion  
-- Structural instability  
-- Immune detection  
-- Mechanical failure  
+Clamps include:
+- Resource limitation
+- Contact inhibition
+- Immune detection
+- Structural failure at scale
 
 Cancer represents partial clamp failure.
-
-Total clamp removal is incompatible with organism survival.
-
-Biological persistence implies regulatory bounding.
+Total clamp failure is incompatible with organism persistence.
 
 ---
 
-#### Example 5 — Institutions: Infinite Growth
+#### Institutions — Infinite Growth
 
-Why do economies not grow at infinite rates?
+Economic or institutional systems do not grow at infinite rates.
 
 Growth is bounded by:
+- Energy inputs
+- Ecological constraints
+- Labor availability
+- Infrastructure capacity
+- Coordination friction
 
-- Resource availability  
-- Ecological constraints  
-- Labor limits  
-- Energy input  
-- Infrastructure friction  
-
-Models that assume perpetual exponential growth without specifying clamps are structurally incomplete.
+Models assuming perpetual exponential growth without boundary specification are structurally incomplete.
 
 Eventually:
-
-- Debt accumulates  
-- Resources saturate  
-- Collapse dynamics appear  
-
-Unbounded projection without constraint accounting signals missing structure.
+- Debt saturates
+- Resources deplete
+- Collapse or regime transition occurs
 
 ---
 
-### 3.4 The Transformation Limit Hypothesis
+### 3.5 Transformation Limits and Traversal Limits
 
-All enumerable transformations require:
+Possibility space may be vast.
 
-- Energy  
-- Time  
-- Information  
-- Stability under perturbation  
-
-Transformation cannot proceed arbitrarily fast or branch arbitrarily wide without violating one of these constraints.
-
-Thus:
-
-> If transformation appears universal, transformation speed and branching must still be clamped.
-
-Universal transformability does not imply infinite rate or infinite branching.
-
-Possibility space may be large.
 Traversal space is bounded.
 
+All real transformation requires:
+
+- Energy
+- Time
+- Information
+- Stability under perturbation
+
+Even if transformability is universal in principle, rate and branching must be clamped.
+
+Universal transformability does not imply infinite traversal speed.
+
 ---
 
-### 3.5 Clamp Detection as a Tracing Method
+### 3.6 Scale and Regime Clarification
+
+The heuristic applies to persistent, instantiated systems.
+
+It does not invalidate:
+
+- Mathematical infinities
+- Asymptotic models
+- Idealizations
+- Formal logical recursion
+
+The error arises when formal infinity is mistaken for instantiated infinity without specifying scale limits.
+
+Interactional Epistemics governs that distinction.
+
+---
+
+### 3.7 Clamp Detection as Tracing Practice
 
 When analyzing any system, ask:
 
-- Why doesn’t this branch infinitely?  
-- Why doesn’t this accelerate without bound?  
-- Why doesn’t this optimize perfectly?  
-- Why doesn’t this grow forever?  
-- Why doesn’t this recurse indefinitely?  
+- Why does this not branch infinitely?
+- Why does this not accelerate without bound?
+- Why does this not optimize perfectly?
+- Why does this not grow forever?
+- Why does this not recurse indefinitely?
 
 If no bounding mechanism is identified:
 
-- The model is incomplete  
-- A constraint has been abstracted away  
-- The scale is misapplied  
-- The frame is too narrow  
+- The model is incomplete.
+- A constraint has been abstracted away.
+- The scale is misapplied.
+- A regime transition is unmodeled.
 
-Infinity in a bounded system is a diagnostic error until a clamp is specified.
-
----
-
-### 3.6 Important Clarification
-
-This heuristic does **not** claim:
-
-- That mathematical infinities are invalid  
-- That physical infinities are impossible  
-- That asymptotic models are wrong  
-
-It claims:
-
-If a real, persistent, energy-bearing system is modeled as unbounded,
-the model must specify the mechanism that prevents divergence.
-
-Otherwise it confuses abstraction with ontology.
+Infinity in a bounded system is a diagnostic signal until constraint is specified.
 
 ---
 
-### 3.7 Compression of the Principle
+### 3.8 Compression of the Principle
 
 If it persists, it is bounded.
 
@@ -324,9 +332,9 @@ If it branches, it is rate-limited.
 
 If it transforms, it pays cost.
 
-If it does not explode into infinity, a clamp exists.
+If it does not explode into infinity, bounded dynamics are operating.
 
-Finding the clamp is the work of tracing.
+Tracing means identifying those bounds without inventing them.
 
 ---
 
