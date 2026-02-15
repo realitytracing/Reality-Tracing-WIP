@@ -216,6 +216,40 @@ It demands investigation of observable invariants.
 
 ---
 
+4.3.1 Distinguishing Missing Constraint from Model Error
+
+Not every unbounded prediction indicates deep structural omission.
+
+When infinity appears in a model of a bounded system, several explanatory branches must be evaluated before inferring missing real-world constraint.
+
+Possible causes include:
+
+- Computational or numerical instability.
+- Parameter mis-specification.
+- Algebraic or logical error.
+- Category mistake (e.g., treating an idealization as literal).
+- Extrapolation beyond validated scale.
+- Regime transition not accounted for.
+- Omitted real-world constraint.
+
+Interactional Epistemics does not assume that every divergence reveals hidden ontology.
+
+It requires disciplined discrimination.
+
+Before positing new structure, investigators must evaluate:
+
+1. Does the divergence arise from formal or computational artifact?
+2. Does it arise from incorrect parameterization?
+3. Does it arise from extrapolation beyond validated empirical range?
+4. Does it arise from idealization treated as literal description?
+5. Only after these are excluded, does the inference to unmodeled constraint gain strength.
+
+The Infinity and Constraint Heuristic is therefore not an automatic metaphysical escalation.
+
+It is a structured diagnostic cascade.
+
+---
+
 4.4 Empirical Anchor Requirement
 
 A proposed constraint ("clamp") must satisfy at least one of the following:
