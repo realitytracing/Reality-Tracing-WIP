@@ -75,6 +75,28 @@ A frictionless model exaggerates instability.
 
 ---
 
+## Important Limitation: Friction Is Not Infinite
+
+This artifact does **not** claim that human friction reliably prevents runaway.
+
+Sometimes:
+
+- Institutions fail faster than adaptation.  
+- Feedback loops outpace generational turnover.  
+- Cost is externalized long enough to cause real damage.  
+- Positive feedback overwhelms local resistance.  
+
+Friction exists.  
+But friction is not infinite.
+
+Runaway dynamics are real failure modes.
+
+The flattening error is not that runaway is impossible.
+
+It is that runaway is often modeled without including both friction **and** its limits.
+
+---
+
 ## The Floaty Critic
 
 A related pattern is the emergence of the **floaty critic**.
@@ -106,6 +128,57 @@ No observer in human systems is external.
 
 ---
 
+## Panic as a Mode of Failure
+
+Moral panic is itself a failure mode.
+
+It arises when:
+
+- Positive feedback is modeled.  
+- Negative feedback is omitted.  
+- Human friction is flattened.  
+- Constraint language is replaced by escalating abstraction.  
+
+But panic also has a function.
+
+It signals perceived risk.
+
+It draws attention to possible runaway.
+
+Talking about problems is not the problem.
+
+Silence increases runaway risk.
+
+The issue is not whether we speak.  
+It is **how we model while speaking**.
+
+---
+
+## Embedded Critique
+
+Effective critique does not require announcing:
+
+> “I am embedded.”
+
+It requires acting as if:
+
+- You and I are part of the system.  
+- Our speech alters salience.  
+- Our restraint alters momentum.  
+- Our choices influence feedback loops.  
+
+We are not spectators of runaway dynamics.
+
+We are partial inputs into them.
+
+Speaking about a loop is itself friction.
+
+Refusing to amplify certain patterns is friction.
+
+Acting differently than the loop demands is friction.
+
+---
+
 ## Positive Feedback Without Friction
 
 Runaway narratives often follow this structure:
@@ -117,7 +190,7 @@ Runaway narratives often follow this structure:
 5. Induce collective panic.
 6. Feed the same loop being criticized.
 
-This produces **perceived infinity**.
+This produces perceived infinity.
 
 But real human systems include:
 
@@ -132,90 +205,31 @@ These are thermodynamic features of salience under constraint.
 
 Ignoring them produces exaggerated projections.
 
----
+Ignoring their limits produces complacency.
 
-## Panic as Miscalculation
-
-Panic arises when:
-
-- Positive feedback is modeled.
-- Negative feedback is omitted.
-
-This omission is rarely malicious.
-
-It is often the result of:
-
-- Cognitive compression  
-- Salience amplification  
-- Emotional escalation  
-- Media incentives  
-- Identity fusion  
-
-The flattening error is a compression error.
-
-It is a modeling artifact.
+Both errors destabilize.
 
 ---
 
-## Re-Embedding the Observer
+## Constraint-Aware Warning
 
-Corrective move:
+Constraint-aware discourse:
 
-1. Reinsert the critic into the system.
-2. Recognize response as part of feedback.
-3. Model human limits explicitly.
-4. Recalculate projections with friction.
+- Acknowledges real runaway risk.
+- Includes friction and its limits.
+- Avoids modeling from nowhere.
+- Preserves agency without overconfidence.
 
-This does not deny real risk.
+The correction is subtle:
 
-It refines the model.
+Not:
+> “Everything will stabilize.”
 
----
+Not:
+> “Everything is doomed.”
 
-## Not Complacency
-
-This artifact does not claim:
-
-- All systems stabilize naturally.
-- Collapse is impossible.
-- No runaway dynamics exist.
-
-It claims:
-
-When modeling runaway, include human constraint.
-
-Failure to do so inflates fear and distorts analysis.
-
----
-
-## Structural Insight
-
-Critics frequently believe neutrality requires detachment.
-
-But detachment from locality produces analytic distortion.
-
-Embeddedness is not bias.
-
-It is realism.
-
-Once observers recognize themselves as participants:
-
-- Infinite narratives soften.
-- Agency reappears.
-- Friction becomes visible.
-- Escalation slows.
-
----
-
-## Why This Matters
-
-In high-pressure environments:
-
-- Panic spreads faster than correction.
-- Narrative intensity substitutes for constraint analysis.
-- Floaty modeling amplifies instability.
-
-Reintroducing locality and constraint reduces catastrophic error.
+But:
+> “Runaway is possible. Friction exists. Limits exist. We are part of the equation.”
 
 ---
 
@@ -225,11 +239,23 @@ Humans are not passive mass.
 
 They are dynamic, constraint-bound agents.
 
-Any model of runaway that removes human friction is incomplete.
+Runaway systems are real risks.
 
-Moral panic often emerges not from false observation,  
-but from incomplete modeling.
+Moral panic is a real risk.
 
-This artifact identifies that incompleteness.
+Flattening humanity into inert mass exaggerates inevitability.
 
-It remains open to revision as conditions evolve.
+Overstating friction exaggerates safety.
+
+Reality tracing requires holding both:
+
+- The possibility of collapse.
+- The presence and limits of human friction.
+
+Critique is necessary.
+
+But critique is strongest when it is embedded, not floaty.
+
+We are not outside the system.
+
+We are part of its feedback.
