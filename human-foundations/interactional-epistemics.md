@@ -126,32 +126,156 @@ Permeability functions as structural regularization against inevitable overfitti
 
 ---
 
-# 4. The Infinity and Clamp Heuristic
+# 4. The Infinity and Constraint (Clamp) Heuristic
 
-This section operationalizes permeability.
+This section operationalizes Interactional Permeability.
+
+The Infinity and Constraint Heuristic is not a metaphysical claim that "something must be there." It is a diagnostic principle applied to bounded, energy-bearing systems.
+
+It governs how models should respond when their extrapolations outpace observable constraint.
+
+---
 
 ## 4.1 Infinity as Diagnostic Signal
 
-When an empirical model predicts infinite growth, infinite acceleration, infinite precision, or infinite optimization without specifying a bounding mechanism, it signals unscoped constraint.
+When an empirical model predicts:
 
-Persistent, energy-bearing systems do not sustain physical infinities. Infinity is not automatically false; it is a structural warning flag.
+- Infinite growth  
+- Infinite acceleration  
+- Infinite precision  
+- Infinite regress  
+- Infinite optimization  
+- Infinite oscillation without damping  
 
-## 4.2 The Clamp Principle
+within a system that is materially bounded, time-bound, or energy-limited,
 
-All persistent systems are bounded. Persistence requires rate limits, resource ceilings, friction, damping, and resolution limits.
+and does so without specifying a bounding mechanism,
 
-If a trajectory is modeled as unbounded while the system is finite-energy and time-bound, then one of the following holds:
-1. The model exceeds its valid scale.
-2. A constraint has been abstracted away.
-3. The variable is mis-specified.
-4. A regime transition has been ignored.
+this signals likely unscoped constraint.
 
-Unbounded empirical prediction within finite-energy, time-bound systems without explicit boundary mechanism is diagnostic of missing constraint.
+The heuristic does **not** assert that infinities are impossible in mathematics.
 
-## 4.3 Clamp as Permeability Detector
+It asserts that persistent, physically instantiated systems do not sustain unbounded trajectories without interacting limits.
 
-Permeability states: **Models must remain open to unscoped interaction.**
-Clamp detection identifies where interaction is missing. Unbounded extrapolation without boundary specification is a hallmark of dogmatic closure. Permeable models actively search for clamps.
+Infinity in such contexts is not automatically false.
+
+It is a structural warning flag.
+
+---
+
+## 4.2 The Constraint Principle
+
+All persistent systems operate under constraints.
+
+Persistence requires:
+
+- Rate limits  
+- Resource ceilings  
+- Friction or dissipation  
+- Damping mechanisms  
+- Resolution limits  
+- Termination conditions  
+- Regime transitions  
+
+If a trajectory is modeled as unbounded while the system is finite-energy and time-bound, then at least one of the following holds:
+
+1. The model exceeds its valid scale.  
+2. A constraint has been abstracted away.  
+3. The variable is mis-specified.  
+4. A regime transition has been ignored.  
+5. The extrapolation is crossing into a domain governed by different invariances.  
+
+The heuristic does not demand invention of invisible forces.
+
+It demands investigation of observable invariants.
+
+---
+
+## 4.3 Empirical Anchor Requirement
+
+A proposed "clamp" must satisfy at least one of the following:
+
+- Be observable directly.
+- Be inferable from measurable invariants.
+- Be consistent with established rate or energy limits.
+- Be falsifiable by conceivable observation.
+- Be experientially correlatable in human-scale systems.
+
+A clamp that cannot, even in principle, connect to observation, measurement, or structured experience is not a scientific constraint.
+
+It is a speculative placeholder.
+
+Interactional Epistemics prohibits such placeholders from being treated as explanatory closure.
+
+---
+
+## 4.4 Cross-Domain Illustration
+
+Physical:
+- Infinite energy density → gravitational collapse or regime transition.
+
+Biological:
+- Infinite metabolic demand → tissue failure.
+
+Psychological:
+- Infinite rumination → cognitive fatigue, stress response, or breakdown.
+
+Institutional:
+- Infinite growth → resource depletion or systemic instability.
+
+In each case, constraint enforcement is empirically observable.
+
+The clamp is not metaphysical.
+It is structural.
+
+---
+
+## 4.5 Clamp as Permeability Detector
+
+Interactional Permeability states:
+
+> Models must remain open to unscoped interaction.
+
+The Infinity and Constraint Heuristic identifies where such interaction is missing.
+
+Unbounded extrapolation without boundary specification is a hallmark of dogmatic closure.
+
+Permeable models do not assume infinity.
+They actively search for boundary conditions.
+
+---
+
+## 4.6 Mathematical vs. Empirical Infinity
+
+Mathematical infinities are legitimate within formal systems.
+
+Empirical infinities require:
+
+- Explicit asymptotic interpretation, or  
+- A declared idealization, or  
+- A known breakdown scale.
+
+Failure to distinguish formal infinity from physically instantiated infinity produces category error.
+
+Interactional Epistemics regulates this distinction.
+
+---
+
+## 4.7 The Proper Form of the Heuristic
+
+The heuristic does not state:
+
+> "There must always be something hidden."
+
+It states:
+
+> When persistent bounded systems generate unbounded model outputs without specified boundary mechanisms, investigate for unmodeled constraints consistent with observable invariants.
+
+This preserves rigor.
+
+It prevents mysticism.
+
+It maintains permeability without overreach.
 
 ---
 
