@@ -11,15 +11,21 @@ status: Time-Bound, Revisable
 
 This document is a contextual artifact.
 
-It reflects an observed pattern in modern discourse and is subject to revision as conditions change.
+It describes a recurring modeling pattern observed in contemporary discourse, including discourse we ourselves participate in.
+
+It is subject to revision as conditions change.
 
 Its purpose is diagnostic, not adjudicative.
+
+This text is not outside the system it describes.
+
+It is one node within it.
 
 ---
 
 ## Overview
 
-A recurring feature of contemporary discourse is the perception of runaway systems:
+In many areas of contemporary discourse, large-scale social dynamics are described as runaway systems:
 
 - Algorithmic radicalization  
 - Cultural collapse  
@@ -28,35 +34,35 @@ A recurring feature of contemporary discourse is the perception of runaway syste
 - Technological inevitability  
 - Irreversible polarization  
 
-These phenomena are often described as:
+These phenomena are often framed as:
 
 - Self-amplifying  
 - Autonomous  
 - Out of control  
 - Exponentially accelerating  
 
-This framing produces **moral panic**.
+Such framings can produce **moral panic**.
 
-The structural error underlying many such narratives is the **flattening of humanity into inert mass**.
+The recurring structural modeling error we examine here is the **flattening of humanity into inert mass**.
+
+This artifact does not claim that runaway narratives are false.
+
+It examines how they are sometimes modeled.
 
 ---
 
 ## The Flattening Error
 
-When modeling large-scale systems, critics often:
+When modeling large-scale systems, discourse often:
 
-- Treat individuals as passive inputs  
-- Treat institutions as unstoppable machines  
-- Treat feedback loops as frictionless  
-- Remove human agency from the model  
+- Treats individuals as passive inputs  
+- Treats institutions as unstoppable machines  
+- Treats feedback loops as frictionless  
+- Removes adaptive response from the model  
 
-Human beings become background noise.
+Human beings become background variables rather than dynamic agents.
 
-But human beings are not inert variables.
-
-They are dynamic constraint agents.
-
-They exhibit:
+However, in real systems, people exhibit:
 
 - Fatigue  
 - Boredom  
@@ -67,48 +73,50 @@ They exhibit:
 - Refusal  
 - Non-cooperation  
 
-These function as **structural clamps** on runaway systems.
+These behaviors function as **structural clamps** on runaway processes.
 
 Flattening removes friction from the model.
 
-A frictionless model exaggerates instability.
+A frictionless model exaggerates inevitability.
+
+This error can occur in media narratives, academic analysis, political rhetoric, and critique—including ours.
 
 ---
 
 ## Important Limitation: Friction Is Not Infinite
 
-This artifact does **not** claim that human friction reliably prevents runaway.
+This artifact does not claim that human friction reliably prevents runaway.
 
-Sometimes:
+There are cases where:
 
-- Institutions fail faster than adaptation.  
-- Feedback loops outpace generational turnover.  
-- Cost is externalized long enough to cause real damage.  
-- Positive feedback overwhelms local resistance.  
+- Institutions fail faster than adaptation  
+- Feedback loops outpace generational turnover  
+- Costs are externalized long enough to cause systemic damage  
+- Positive feedback overwhelms local resistance  
 
 Friction exists.  
-But friction is not infinite.
+Friction has limits.
 
-Runaway dynamics are real failure modes.
+Runaway dynamics are genuine failure modes.
 
-The flattening error is not that runaway is impossible.
+The flattening error is not the belief that runaway is possible.
 
-It is that runaway is often modeled without including both friction **and** its limits.
+It is modeling runaway without modeling both friction **and** its limits.
 
 ---
 
 ## The Floaty Critic
 
-A related pattern is the emergence of the **floaty critic**.
+A related pattern is the emergence of what we call the **floaty critic**.
 
 The floaty critic:
 
 - Speaks as if detached from the system  
 - Narrates from an imagined neutral vantage  
-- Treats their own response as outside the loop  
+- Treats their own speech as outside feedback loops  
 - Describes humanity as a mass in motion  
 
-But critics are nodes in the system.
+But critics are nodes in the systems they describe.
 
 They are:
 
@@ -120,62 +128,65 @@ They are:
 - Organizers  
 - Participants  
 
-Their responses alter salience distributions.
+Their speech alters salience.
+
+Their amplification redistributes attention.
+
+Their framing influences perceived inevitability.
 
 To model a system while excluding oneself is a locality error.
 
-No observer in human systems is external.
+This artifact must therefore apply the same constraint to itself.
+
+We are not observers of runaway dynamics from outside.
+
+We are partial inputs into them.
 
 ---
 
 ## Panic as a Mode of Failure
 
-Moral panic is itself a failure mode.
+Moral panic can function as a failure mode when:
 
-It arises when:
+- Positive feedback is modeled  
+- Negative feedback is omitted  
+- Human adaptation is flattened  
+- Constraint language is replaced with escalating abstraction  
 
-- Positive feedback is modeled.  
-- Negative feedback is omitted.  
-- Human friction is flattened.  
-- Constraint language is replaced by escalating abstraction.  
+However, panic also performs a signaling function.
 
-But panic also has a function.
+It draws attention to perceived risk.
 
-It signals perceived risk.
+Silence does not reduce runaway risk.
 
-It draws attention to possible runaway.
+The problem is not alarm.
 
-Talking about problems is not the problem.
+The problem is projection without constraint accounting.
 
-Silence increases runaway risk.
+The question is not whether we speak.
 
-The issue is not whether we speak.  
-It is **how we model while speaking**.
+It is how we model while speaking.
 
 ---
 
 ## Embedded Critique
 
-Effective critique does not require announcing:
+Effective critique does not require ritual declarations of embeddedness.
 
-> “I am embedded.”
+It requires modeling as if:
 
-It requires acting as if:
+- Speech changes salience distributions  
+- Attention shifts alter system dynamics  
+- Refusal to amplify alters momentum  
+- Personal behavior contributes to feedback  
 
-- You and I are part of the system.  
-- Our speech alters salience.  
-- Our restraint alters momentum.  
-- Our choices influence feedback loops.  
+Speaking about a loop is itself a loop input.
 
-We are not spectators of runaway dynamics.
+Refusing to amplify certain narratives is friction.
 
-We are partial inputs into them.
+Changing local behavior is friction.
 
-Speaking about a loop is itself friction.
-
-Refusing to amplify certain patterns is friction.
-
-Acting differently than the loop demands is friction.
+Embedded critique acknowledges that modeling changes the modeled.
 
 ---
 
@@ -184,30 +195,30 @@ Acting differently than the loop demands is friction.
 Runaway narratives often follow this structure:
 
 1. Identify an accelerating pattern.
-2. Remove human adaptation from the model.
+2. Remove adaptive human response from the model.
 3. Project the pattern indefinitely.
 4. Escalate rhetorical intensity.
 5. Induce collective panic.
-6. Feed the same loop being criticized.
+6. Reinforce the loop being criticized.
 
-This produces perceived infinity.
+This creates perceived infinity.
 
 But real human systems include:
 
 - Attention exhaustion  
 - Incentive limits  
-- Economic cost  
+- Economic constraints  
 - Emotional burnout  
 - Institutional resistance  
 - Generational turnover  
 
-These are thermodynamic features of salience under constraint.
+These are constraint features of salience under bounded conditions.
 
-Ignoring them produces exaggerated projections.
+Ignoring them exaggerates instability.
 
-Ignoring their limits produces complacency.
+Ignoring their limits exaggerates safety.
 
-Both errors destabilize.
+Both distort modeling.
 
 ---
 
@@ -215,47 +226,48 @@ Both errors destabilize.
 
 Constraint-aware discourse:
 
-- Acknowledges real runaway risk.
-- Includes friction and its limits.
-- Avoids modeling from nowhere.
-- Preserves agency without overconfidence.
+- Acknowledges real runaway risk  
+- Includes friction and its limits  
+- Avoids modeling from nowhere  
+- Preserves agency without assuming control  
 
-The correction is subtle:
+The disciplined stance is not:
 
-Not:
 > “Everything will stabilize.”
 
-Not:
+Nor:
+
 > “Everything is doomed.”
 
-But:
-> “Runaway is possible. Friction exists. Limits exist. We are part of the equation.”
+It is:
+
+> “Runaway is possible. Friction exists. Friction has limits. We are part of the system.”
 
 ---
 
 ## Closing Observation
 
-Humans are not passive mass.
+Humans are not inert mass.
 
-They are dynamic, constraint-bound agents.
+They are constraint-bound agents.
 
 Runaway systems are real risks.
 
 Moral panic is a real risk.
 
-Flattening humanity into inert mass exaggerates inevitability.
+Flattening humanity into passivity exaggerates inevitability.
 
 Overstating friction exaggerates safety.
 
-Reality tracing requires holding both:
+Reality Tracing requires holding both:
 
-- The possibility of collapse.
-- The presence and limits of human friction.
+- The possibility of collapse  
+- The presence and limits of adaptive friction  
 
-Critique is necessary.
+This artifact is not an external verdict.
 
-But critique is strongest when it is embedded, not floaty.
+It is an internal modeling correction.
 
-We are not outside the system.
+We are not outside the feedback loops we analyze.
 
-We are part of its feedback.
+We are part of them.
