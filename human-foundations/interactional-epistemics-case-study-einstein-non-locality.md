@@ -1,5 +1,5 @@
 ---
-title: Case Study: Einstein, Non-Locality, and Boundary Mismatch
+title: "Case Study: Einstein, Non-Locality, and Boundary Mismatch"
 artifact_type: Case Study
 section: Part II — Epistemic Tools and Reality Testing
 status: Permanent
