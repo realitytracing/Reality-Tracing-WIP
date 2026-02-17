@@ -48,7 +48,7 @@ They are patterns of energy routing, stabilization, and enforcement under constr
 
 ---
 
-# 3. The Trilateral Constraint Loop
+# 3. The Trilateral Salience Constraint Loop
 
 Mental stability emerges from negotiation between three constraint-bearing systems:
 
