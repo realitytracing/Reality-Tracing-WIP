@@ -492,3 +492,50 @@ Empirical models are local compressions in combinatorial space. Finite agents ca
 Scientific progress is adaptive stabilization under constraint. A model becomes dogmatic when it denies interaction beyond scope, constraint beyond enumeration, or bounds beyond extrapolation.
 
 Interactional Epistemics protects depth and breadth simultaneously by denying epistemic sovereignty to either, replacing final closure with disciplined openness under constraint.
+
+
+
+
+
+Expanded document:
+
+
+---
+title: Case Study: Einstein, Non-Locality, and the Missing Clamp
+artifact_type: Case Study
+section: Part II — Epistemic Tools and Reality Testing
+status: Permanent
+---
+
+# Case Study: Einstein, Non-Locality, and the Missing Clamp
+
+## Overview
+A classic example of the **Runaway Projection Error** is the historical reaction to Quantum Non-Locality (Entanglement). It demonstrates how logical extrapolation often fails to predict the specific **Clamps** reality employs to maintain stability.
+
+## 1. The Abstraction Rule
+Classical Physics operated on a strict abstraction:
+> **Locality = Causality**
+> *To affect something, you must touch it or send a signal to it at the speed of light or slower.*
+
+## 2. The Anomaly (The "Broken" Wall)
+Quantum Mechanics revealed **Entanglement**: Two particles can be instantaneously correlated across vast distances.
+* **The Monkey 1 Reaction:** "If Locality is broken, then Causality is broken."
+* **The Runaway Projection:** If information travels instantly, we get time travel, paradoxes, and the collapse of physics ("Spooky Action").
+
+## 3. The Reality Trace (The Secondary Clamp)
+Reality proved that the abstraction "Locality = Causality" was incomplete.
+* **The Truth:** Non-Locality exists.
+* **The Clamp:** **The No-Communication Theorem.**
+    * While the *state* is correlated instantly, no *useful information* can be transmitted faster than light.
+    * You cannot use entanglement to send a message.
+
+## 4. The Lesson
+Reality allowed the "Wall" of Locality to be permeable, but it installed a **Governor** on Information Transfer to save Causality.
+
+**Key Insight:**
+When a constraint breaks (e.g., "The algorithm controls everything"), do not assume the system goes infinite. Look for the **Secondary Clamp** (e.g., "Human adaptation") that prevents the runaway.
+
+**Abstraction Error:**
+The model assumed `Locality == Causality`.
+Reality proved `Causality == Information Rate Limit`, regardless of Locality.
+
