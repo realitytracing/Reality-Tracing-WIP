@@ -1,15 +1,15 @@
 ---
 title: "Case Study: Einstein, Non-Locality, and Boundary Mismatch"
-artifact_type: Case Study
-section: Part II — Epistemic Tools and Reality Testing
-status: Permanent
+artifact_type: "Case Study"
+section: "Part II — Epistemic Tools and Reality Testing"
+status: "Permanent"
 ---
 
 # Case Study: Einstein, Non-Locality, and Boundary Mismatch
 
 ## Overview
 
-This case study illustrates how unbounded extrapolation can arise not from missing hidden structure, but from **mis-specified invariants or conceptual lumping**.
+This case study illustrates how unbounded extrapolation can arise not from missing hidden structure, but from mis-specified invariants or conceptual lumping.
 
 The historical reaction to quantum entanglement provides a canonical example.
 
@@ -56,7 +56,7 @@ The immediate abstraction stress test becomes:
 
 If locality fails, and locality guarantees causality, then causality fails.
 
-This is the **Runaway Projection Pattern**:
+This is the Runaway Projection Pattern:
 
 1. Identify invariant A (locality).
 2. Identify invariant B (causality).
@@ -66,7 +66,7 @@ This is the **Runaway Projection Pattern**:
 
 But this projection relies on a hidden assumption:
 
-> That A and B are structurally identical rather than historically co-aligned.
+That A and B are structurally identical rather than historically co-aligned.
 
 ---
 
@@ -74,7 +74,7 @@ But this projection relies on a hidden assumption:
 
 The critical modeling issue was not “missing a hidden force.”
 
-It was **lumping two invariants together**:
+It was invariant conflation:
 
 - Spatial locality
 - Information-transfer rate limitation
@@ -91,7 +91,7 @@ The invariant preserving causal order was not locality itself, but:
 
 > The prohibition on faster-than-light information transfer.
 
-This is formalized in the **No-Communication Theorem**:
+This is formalized in the No-Communication Theorem:
 
 - Entangled systems exhibit non-local correlations.
 - No usable signal can be transmitted through entanglement.
@@ -108,15 +108,19 @@ The original abstraction conflated correlation with signal transmission.
 ## 4. The Boundary Mismatch
 
 The abstraction rule:
+
+```
 Locality == Causality
+```
 
 was valid within classical constraints.
 
 Quantum mechanics revealed a deeper structure:
 
+```
 Causality == Information Transfer Constraint
 Locality is not strictly required.
-
+```
 
 The projection of causal collapse arose from extending a domain-relative equivalence beyond its validated scale.
 
@@ -132,7 +136,7 @@ The governing constraint was misidentified.
 
 Under the Infinity and Constraint Heuristic, this situation does not immediately imply hidden ontology.
 
-It triggers the Diagnostic Cascade:
+It triggers a diagnostic cascade:
 
 - Was locality misdefined?
 - Were correlation and communication conflated?
@@ -178,13 +182,15 @@ Sometimes it signals:
 ## 7. Formal Compression
 
 Classical Abstraction:
+```
 Locality → Causality
-
+```
 
 Refined Structure:
+```
 Information Rate Limit → Causality
 Locality partially optional
-
+```
 
 The world did not collapse into paradox.
 
