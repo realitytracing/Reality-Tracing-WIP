@@ -1,7 +1,7 @@
 
 ---
 
-**title: Constraint-Aware Psychology (WIP)**
+**title:** Constraint-Aware Psychology (WIP)
 **Status:** Foundational Artifact  
 **Scope:** Psychology, mental health, behavior, adaptation under constraint  
 **Position:** Re-derived from Reality Tracing, not imported  
