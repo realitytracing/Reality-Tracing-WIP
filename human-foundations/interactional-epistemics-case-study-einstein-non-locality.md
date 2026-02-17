@@ -5,8 +5,6 @@ section: "Part II — Epistemic Tools and Reality Testing"
 status: "Permanent"
 ---
 
-# Case Study: Einstein, Non-Locality, and Boundary Mismatch
-
 ## Overview
 
 This case study illustrates how unbounded extrapolation can arise not from missing hidden structure, but from mis-specified invariants or conceptual lumping.
