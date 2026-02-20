@@ -2,6 +2,31 @@
 title: Salience
 ---
 
+## Virtual Energy and Salience(Tractability Clarification)
+
+For the purposes of tractability, the terms energy, salience, and salience structure in this body of work are virtual modeling constructs.
+
+They are not claims about a literal conserved substance, nor are they metaphysical primitives.
+
+Energy refers to bounded transformation capacity — the finite ability of a system (biological, cognitive, or social) to change state over time. It is a bookkeeping abstraction used to track how much transformation a system can sustain under constraint.
+
+The “conservation” implied here is structural rather than physical: transformation capacity is always limited, always routed, and always paid for in some form (metabolic cost, attention, coordination load, opportunity cost, etc.), even as it changes substrate across layers.
+
+Salience refers to the routing and weighting mechanism that directs this bounded transformation capacity toward particular paths rather than allowing it to diffuse across all possible alternatives.
+
+Without salience, transformation would distribute across too many competing possibilities for coherent action, stabilization, or persistence to occur. Salience constrains combinatorial branching by selectively reinforcing certain trajectories and suppressing others.
+
+Salience and energy are therefore virtual tools for modeling:
+
+Bounded capacity
+Directed transformation
+Stabilization under constraint
+Prevention of combinatorial explosion
+
+They do not posit a hidden ontology.
+
+They provide a disciplined way to trace how finite systems persist without dissolving into randomness.
+
 ## Energy Must Flow Somewhere
 
 Energy must go somewhere.
