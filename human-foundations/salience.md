@@ -27,6 +27,8 @@ They do not posit a hidden ontology.
 
 They provide a disciplined way to trace how finite systems persist without dissolving into randomness.
 
+With this tractability clarification in place, we can now describe how salience operates within bounded systems.
+
 ## Energy Must Flow Somewhere
 
 Energy must go somewhere.
