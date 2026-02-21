@@ -16,20 +16,20 @@ This section may stand alone or be read as an extension of:
 
 ---
 
-## What Is Held as Inviolable
+## What Is Held as Non-Substitutable
 
-Across this work, the primary object of respect is not efficiency, output, growth, or optimization in the abstract.
+Across this work, the primary object of preservation is not efficiency, output, growth, or optimization in the abstract.
 
 The irreducible unit centered here is the **salience–habituation–local end metabolic loop of individual human agents**.
 
 This loop describes how:
 
-- Finite energy flows through salience  
+- Finite transformation capacity flows through salience  
 - Salience stabilizes through habituation  
 - Local ends provide bounded completions  
 - Recovery restores usable capacity  
 
-This loop is treated as **inviolable in operation**, not in moral status.
+This loop is treated as a **non-substitutable constraint condition for viability**, not as a moral sacred object.
 
 It cannot be suspended without unconsciousness or death.  
 Any system that depends on living human agents necessarily operates through it.
@@ -39,6 +39,23 @@ Reality Tracing therefore optimizes **for the continued viability of this loop**
 Other optimization-driven systems may model salience accurately and exploit it effectively, but they optimize *over* salience rather than *for* its preservation, externalizing recovery and collapse costs onto individuals.
 
 This distinction is structural, not moral.
+
+---
+
+## Rate Sensitivity and Extraction
+
+Extraction is not defined solely by influence, but by **rate relative to recovery capacity**.
+
+Any system—market, political, technological, or cultural—becomes extractive when:
+
+- Pressure exceeds metabolic restoration thresholds  
+- Habituation deepens faster than recovery  
+- Exit becomes costly or stigmatized  
+- Fatigue is moralized rather than treated as enforcement  
+
+Even salience-centered systems can become extractive if rate sensitivity is ignored.
+
+Rate violation, not influence alone, marks the transition from alignment to depletion.
 
 ---
 
@@ -71,6 +88,30 @@ It was an asymmetry of **interpretive tooling**.
 
 ---
 
+## Asymmetry Dwell Time
+
+Asymmetry is normal.
+
+The risk variable is **dwell time**—how long an interpretive or coordination asymmetry persists before detection and correction.
+
+When:
+
+Detection latency × Acceleration rate > Correction capacity
+
+instability risk increases.
+
+Equal tooling reduces asymmetry dwell time by:
+
+- Lowering detection cost  
+- Distributing interpretive capacity  
+- Making extraction legible  
+- Shortening feedback loops  
+
+Invisible exploitation scales quietly.  
+Visible exploitation triggers correction.
+
+---
+
 ## What Equal Tooling Means
 
 Equal tooling does **not** mean equal data, compute, reach, or influence.  
@@ -95,6 +136,28 @@ It eliminates *invisible influence*.
 
 ---
 
+## Failure Modes of Equal Tooling
+
+Salience literacy increases detection capacity.
+
+Detection without termination conditions can produce:
+
+- Infinite suspicion  
+- Over-attribution of manipulation  
+- Hypervigilance toward influence  
+- Collapse of structural trust  
+
+Equal tooling therefore requires:
+
+- Bounded skepticism  
+- Distributed verification  
+- Clear termination rules for inquiry  
+- Recognition that friction is finite  
+
+Salience literacy without trust infrastructure destabilizes as surely as ignorance under extraction.
+
+---
+
 ## Salience-Centered vs Salience-Exploiting Optimization
 
 Constraint-aware realism treats salience as a **boundary condition**.
@@ -107,7 +170,8 @@ Hyper-optimization frameworks treat salience as a **lever**.
 - Habituation is monitored for rigidity and overload  
 - Local ends remain legitimate completions  
 - Fatigue and withdrawal are treated as enforcement signals  
-- Excess energy is preserved as structural maintenance  
+- Recovery capacity is preserved as structural maintenance  
+- Rate is bounded by human metabolic limits  
 
 ### In salience-exploiting systems:
 
@@ -116,10 +180,32 @@ Hyper-optimization frameworks treat salience as a **lever**.
 - Local ends are substituted with instrumental goals  
 - Fatigue and exit are treated as acceptable loss  
 - Recovery is externalized or privatized  
+- Rate escalates until resistance or collapse  
 
 Both approaches may use similar predictive tools.
 
 Only one treats the human metabolic loop as the thing being optimized rather than the thing being spent.
+
+---
+
+## Salience Compression and Systemic Risk
+
+When collective salience compresses around high-certainty, high-closure sinks:
+
+- Representation narrows  
+- Dissent becomes metabolically expensive  
+- Local ends homogenize  
+- Detection latency increases  
+- Intervention windows shrink  
+
+Compressed systems are more vulnerable to:
+
+- Runaway narratives  
+- Blame sinks  
+- Over-optimization  
+- Institutional rigidity  
+
+Equal tooling preserves basin diversity by maintaining multiple viable interpretive routes before totalization.
 
 ---
 
@@ -165,7 +251,7 @@ Salience-centered systems treat salience as:
 
 - The steering surface of finite agents  
 - A hard constraint on legitimacy  
-- The site where collapse first appears  
+- The first site where collapse appears  
 
 Violations of salience produce predictable costs:
 
@@ -189,6 +275,7 @@ When individuals and groups possess salience literacy:
 - Manipulation becomes more expensive  
 - Extraction becomes more visible  
 - Collapse becomes predictable before totalization  
+- Asymmetry dwell time shortens  
 
 This does not make systems benign.  
 It makes them **legible**.
@@ -230,12 +317,14 @@ By naming:
 - Local ends  
 - Overload  
 - Exit  
+- Rate sensitivity  
 - Collapse dynamics  
+- Asymmetry dwell time  
 
 the framework removes the interpretive monopoly previously held by large optimization systems.
 
 Reality Tracing does not prevent misuse.  
-It removes invisibility.
+It reduces invisibility.
 
 ---
 
@@ -245,7 +334,7 @@ Equal tooling does not equalize power.
 
 It equalizes **understanding**.
 
-When the salience–habituation–local end metabolic loop of individuals is treated as the inviolable center of optimization, alignment becomes traceable in how pressure is applied and relief is allowed.
+When the salience–habituation–local end metabolic loop of individuals is treated as a non-substitutable constraint condition, alignment becomes traceable in how pressure is applied, how rate is managed, and how recovery is allowed.
 
 Invisible influence was the structural advantage.
 
