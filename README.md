@@ -69,7 +69,7 @@ It does not command action. It clarifies constraints.
 - **[Prediction, Abstraction, and the Speed of Reality](<human-foundations/Prediction Abstraction and the Speed of Reality.md>)** — what closure is for under time and constraint, distinguishing naive realism from anticipatory, constraint-aware realism
 - **[Epistemic Cautions and Boundary Conditions](<human-foundations/Epistemic Cautions and Boundary Conditions.md>)** — Cautions of classical epistemic failure modes
 - **[Layered Modelling of Reality and Constraint Coupling](<human-foundations/Layered Modelling of Reality and Constraint Coupling.md>)** — how emergent layers are constrained from below and shaped from above
-- **[Interactional Epistemics (<Standalone>)(<WIP>)](<human-foundations/Interactional Epistemics.md>)** — a guard against dogmatism
+- **[Interactional Epistemics (Standalone)(WIP)](<human-foundations/Interactional Epistemics.md>)** — a guard against dogmatism
 
 
 **Tools**
@@ -120,7 +120,7 @@ It does not command action. It clarifies constraints.
    How constraint awareness dissolves false metrics and restores
    freedom, local ends, and human meaning.
 
-   
+
 
 
 **[GLOSSARY](<GLOSSARY.md>)**
