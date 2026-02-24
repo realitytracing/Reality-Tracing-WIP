@@ -75,6 +75,7 @@ It does not command action. It clarifies constraints.
 **Tools**
 - **[Reality Tracing](human-foundations/reality-tracing.md)** — what it is and what it is not, and why it is named
 
+
 **Human Foundations**
 - **[Constraints](human-foundations/constraints.md)** — non-negotiable limits shaping viability
 - **[Locality, Constraints, and Direction](human-foundations/locality-constraints-and-direction.md)** — dynamics at the interface between mind and outside reality
@@ -87,12 +88,19 @@ It does not command action. It clarifies constraints.
 - **[Dynamics](human-foundations/dynamics.md)** — how systems move, overload, and reconfigure
 - **[Human Mind as An Effective Unit](human-foundations/human-mind-as-an-effective-unit.md)** — defines a constraint-aware model of the human mind and formalizes it as a provisional effective unit for higher emergent systems
 
+
 **Psychology**
-- **[Constraint-Aware Psychology (WIP)](human-foundations/constraint-aware-psychology-wip.md)** — reemergence of psychology through energy tracing and constraints
+- **[Constraint-Aware Psychology (WIP)](human-foundations/constraint-aware-psychology-wip.md)** — reemergence of psychology through energy tracing and constraint
+
 
 **The Upper Emergent Stacks**
 - **[Collective Salience, Legitimacy, and the Metabolic Loop](tracing-stacks/collective-salience-legitimacy-and-the-metabolic-loop.md)** — emergence of the equally real stacks and it's metabolic loop with salience agents
-- **[The Legitimacy of the Constraint-Centered Middle](tracing-stacks/the-legitimacy-of-the-constraint-centered-middle.md)** — constraints-aware policy making and the difference between political center and constraint-aware center
+- **[Asymmetry Dwell Time](tracing-stacks/asymmetry-dwell-time.md)** — the duration an informational, coordination, or power asymmetry remains active before detection and correction
+- **[The Proactivity Trap and Constraint-Aware Justice](tracing-stacks/proactivity-trap-and-constraint-aware-justice.md)** — when justice becomes an unbounded local end, it can override constraint awareness and generate runaway dynamics
+
+
+**Constraint-Aware Policy Making and Engineering Strategies**
+- **[The Legitimacy of the Constraint-Centered Middle](constraint-aware-policy-making-and-engineering-strategies/the-legitimacy-of-the-constraint-centered-middle.md)** — constraints-aware policy making and the difference between political center and constraint-aware center
 
 
 **Integrated Text**

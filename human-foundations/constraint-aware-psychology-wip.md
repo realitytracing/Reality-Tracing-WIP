@@ -372,7 +372,12 @@ Disagreement should be resolved through:
 
 ---
 
-# 14. Provisional Status
+# 14. Expansions
+- **[Constraint-Aware Psychology Allowance Hypothesis and Conversion Mapping](human-foundations/constraint-aware-psychology-allowance-hypothesis-and-conversion-mapping.md)**
+
+---
+
+# 15. Provisional Status
 
 This is a working compression.
 

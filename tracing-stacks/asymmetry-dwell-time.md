@@ -4,8 +4,6 @@ artifact_type: Conceptual Clarification
 status: Time-Bound, Revisable
 ---
 
-# Asymmetry Dwell Time
-
 ## Definition
 
 **Asymmetry dwell time** is the duration an informational, coordination, or power asymmetry remains active before detection and correction.
