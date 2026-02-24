@@ -1,9 +1,9 @@
 ---
 
-**title:** Social Safety Nets as Failure Localization Mechanisms  
-**Status:** Supporting Artifact  
-**Scope:** Welfare systems, governance limits, legitimacy, cost allocation  
-**Position:** Convergent emergence under constraint  
+title: Social Safety Nets as Failure Localization Mechanisms (Artifact — Supporting Evidence)
+Status: Supporting Artifact  
+Scope: Welfare systems, governance limits, legitimacy, cost allocation  
+Position: Convergent emergence under constraint  
 
 ---
 

@@ -1,10 +1,6 @@
-
-
-
 ---
 
-title: Versailles vs. Marshall Plan
-A Cost-Allocation Contrast Under Constraint (Artifact — Supporting Evidence)
+title: Versailles vs. Marshall Plan — A Cost-Allocation Contrast Under Constraint (Artifact — Supporting Evidence)
 status: Supporting Artifact
 scope: postwar reconstruction, legitimacy, radicalization dynamics, cost allocation
 position: Convergent historical pattern under constraint
