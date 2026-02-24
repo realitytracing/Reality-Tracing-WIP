@@ -348,6 +348,8 @@ Continued strategic closure is how systems remain livable **in the presence of p
 
 - **[Environmental Constraints, Planetary Viability, and Non-Resolving Load](../artifact-analyzed/environmental-constraints-planetary-viability-and-non-resolving-load.md)**
 
+- **[Engineering Principles for High-Power Local Ends]("../artifact-analyzed/Engineering Principles for High-Power Local Ends.md")**
+
 ---
 
 ## Closing Reminder
