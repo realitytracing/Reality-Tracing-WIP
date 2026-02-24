@@ -148,9 +148,9 @@ If this section is unconvincing or uninteresting, it can be skipped without loss
 ---
 
 ## Artifacts
-- **[Social Safety Nets as Failure Localization Mechanisms](../part-v-artifacts-convergent-proofs/artifact-analyzed/social-safety-nets-as-failure-localization-mechanisms.md)**
+- **[Social Safety Nets as Failure Localization Mechanisms](../artifact-analyzed/part-v-artifacts-convergence/social-safety-nets-as-failure-localization-mechanisms.md)**
 
-- **[Versailles vs. Marshall Plan](../artifact-analyzed/part-v-artifacts-convergent-proofs/versailles-vs-marshall-plan-a-cost-allocation-contrast-under-constraint.md)**
+- **[Versailles vs. Marshall Plan](../artifact-analyzed/part-v-artifacts-convergence/versailles-vs-marshall-plan-a-cost-allocation-contrast-under-constraint.md)**
 
 ---
 

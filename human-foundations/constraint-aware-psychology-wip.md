@@ -373,7 +373,7 @@ Disagreement should be resolved through:
 ---
 
 # 14. Expansions
-- **[Constraint-Aware Psychology Allowance Hypothesis and Conversion Mapping](human-foundations/constraint-aware-psychology-allowance-hypothesis-and-conversion-mapping.md)**
+- **[Constraint-Aware Psychology Allowance Hypothesis and Conversion Mapping](human-foundations/constraint-aware-psychology-allowance-hypothesis.md)**
 
 ---
 
