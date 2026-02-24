@@ -4,8 +4,6 @@ artifact_type: Structural Extension
 status: Time-Bound, Revisable
 ---
 
-# The Proactivity Trap and Constraint-Aware Justice
-
 ## Overview
 
 Ideological systems often destabilize not because they seek justice, but because they demand **infinite proactivity in its name**.
