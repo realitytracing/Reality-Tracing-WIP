@@ -97,6 +97,7 @@ It does not command action. It clarifies constraints.
 - **[Collective Salience, Legitimacy, and the Metabolic Loop](tracing-stacks/collective-salience-legitimacy-and-the-metabolic-loop.md)** — emergence of the equally real stacks and it's metabolic loop with salience agents
 - **[Asymmetry Dwell Time](tracing-stacks/asymmetry-dwell-time.md)** — the duration an informational, coordination, or power asymmetry remains active before detection and correction
 - **[The Proactivity Trap and Constraint-Aware Justice](tracing-stacks/proactivity-trap-and-constraint-aware-justice.md)** — when justice becomes an unbounded local end, it can override constraint awareness and generate runaway dynamics
+- **[Trust, Runaway Local Ends, and Human Clamps](tracing-stacks/trust-runaway-local-ends-and-human-clamps.md)** — modern discourse frequently oscillates between two destabilizing poles, infinite suspicion and infinite confidence
 
 
 **Constraint-Aware Policy Making and Engineering Strategies**

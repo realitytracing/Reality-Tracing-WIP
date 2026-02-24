@@ -344,13 +344,13 @@ Continued strategic closure is how systems remain livable **in the presence of p
 
 ## Artifacts:
 
-- **[Nuclear Disarmament, Proliferation, Mad Men, Memory, and Strategic Hope](../artifact-analyzed/nuclear-disarmament-proliferation-madmen-and-memory.md)** — memory artifact for continued management of nuclear armed groups 
+- **[Nuclear Disarmament, Proliferation, Mad Men, Memory, and Strategic Hope](../artifact-analyzed/part-iv-artifacts-hard/nuclear-disarmament-proliferation-madmen-and-memory.md)** — memory artifact for continued management of nuclear armed groups 
 
-- **[Environmental Constraints, Planetary Viability, and Non-Resolving Load](../artifact-analyzed/environmental-constraints-planetary-viability-and-non-resolving-load.md)** — artifact for continued policy making and actions that considers the humans and the environment 
+- **[Environmental Constraints, Planetary Viability, and Non-Resolving Load](../artifact-analyzed/part-iv-artifacts-hard/environmental-constraints-planetary-viability-and-non-resolving-load.md)** — artifact for continued policy making and actions that considers the humans and the environment 
 
-- **[Engineering Principles for High-Power Local Ends](../artifact-analyzed/engineering-principles-for-high-power-local-ends.md)** — an artifact for people aspiring for power and management as their local-ends 
+- **[Engineering Principles for High-Power Local Ends](../artifact-analyzed/part-iv-artifacts-hard/engineering-principles-for-high-power-local-ends.md)** — an artifact for people aspiring for power and management as their local-ends 
 
-- **[Constraint-Centered Gun Policy Design Guide](../artifact-analyzed/constraint-centered-gun-policy-design-guide.md)** — constraint-aware gun control policy design guide
+- **[Constraint-Centered Gun Policy Design Guide](../artifact-analyzed/part-iv-artifacts-hard/constraint-centered-gun-policy-design-guide.md)** — constraint-aware gun control policy design guide
 
 ---
 
