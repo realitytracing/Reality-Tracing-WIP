@@ -350,7 +350,7 @@ Continued strategic closure is how systems remain livable **in the presence of p
 
 - **[Engineering Principles for High-Power Local Ends](<../artifact-analyzed/Engineering Principles for High-Power Local Ends.md>)**
 
-- **[Constraint-Centered Gun Policy Design Guide](<../artifact-analyzed/Constraint-Centered Gun Policy Design Guide>)**
+- **[Constraint-Centered Gun Policy Design Guide](<../artifact-analyzed/Constraint-Centered Gun Policy Design Guide.md>)**
 
 ---
 
