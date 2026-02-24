@@ -88,7 +88,7 @@ It does not command action. It clarifies constraints.
 - **[Human Mind as An Effective Unit](<human-foundations/Human Mind as an Effective Unit.md>)** — defines a constraint-aware model of the human mind and formalizes it as a provisional effective unit for higher emergent systems
 
 **Psychology**
-- **[Constraint-Aware Psychology (<WIP>)](<human-foundations/Constraint-Aware Psychology Wip.md>)** — reemergence of psychology through energy tracing and constraints
+- **[Constraint-Aware Psychology (WIP)](<human-foundations/Constraint-Aware Psychology Wip.md>)** — reemergence of psychology through energy tracing and constraints
 
 **The Upper Emergent Stacks**
 - **[Collective Salience, Legitimacy, and the Metabolic Loop](<tracing-stacks/Collective Salience Legitimacy and the Metabolic Loop.md>)** — emergence of the equally real stacks and it's metabolic loop with salience agents
