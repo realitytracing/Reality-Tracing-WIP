@@ -150,7 +150,7 @@ If this section is unconvincing or uninteresting, it can be skipped without loss
 ## Artifacts
 - **[Social Safety Nets as Failure Localization Mechanisms](../artifact-analyzed/social-safety-nets-as-failure-localization-mechanisms.md)**
 
-- **[title: Versailles vs. Marshall Plan](../artifact-analyzed/versailles-vs-marshall-plan-a-cost-allocation-contrast-under-constraint.md)**
+- **[Versailles vs. Marshall Plan](../artifact-analyzed/versailles-vs-marshall-plan-a-cost-allocation-contrast-under-constraint.md)**
 
 ---
 
