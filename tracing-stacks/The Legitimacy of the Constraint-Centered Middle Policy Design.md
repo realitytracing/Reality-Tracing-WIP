@@ -1,5 +1,5 @@
 ---
-title: The Legitimacy of the Constraint-Centered Middle
+title: The Legitimacy of the Constraint-Centered Middle Policy Design
 subtitle: Policy, Enforcement, and the Difference Between Political Spectrum and Structural Reality
 artifact_type: Foundational Governance Framework
 section: Meta-Policy Grounding
