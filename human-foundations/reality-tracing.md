@@ -2,8 +2,6 @@
 title: Reality Tracing
 ---
 
-# Reality Tracing
-
 ## Intent
 
 Reality Tracing is a practice — not a theory and not an ontology of everything.

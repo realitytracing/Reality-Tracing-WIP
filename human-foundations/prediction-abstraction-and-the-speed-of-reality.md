@@ -2,8 +2,6 @@
 title: Prediction, Abstraction, and the Speed of Reality
 ---
 
-# Prediction, Abstraction, and the Speed of Reality
-
 ## Why Pure Ontology Cannot Predict
 
 In principle, reality can be described without abstraction.
