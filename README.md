@@ -92,7 +92,7 @@ It does not command action. It clarifies constraints.
 
 **The Upper Emergent Stacks**
 - **[Collective Salience, Legitimacy, and the Metabolic Loop](tracing-stacks/collective-salience-legitimacy-and-the-metabolic-loop.md)** — emergence of the equally real stacks and it's metabolic loop with salience agents
-- **[The Legitimacy of the Constraint-Centered Middle](<tracing-stacks/The Legitimacy of the Constraint-Centered Middle.md>)** — constraints-aware policy making and the difference between political center and constraint-aware center
+- **[The Legitimacy of the Constraint-Centered Middle](tracing-stacks/the-legitimacy-of-the-constraint-centered-middle.md)** — constraints-aware policy making and the difference between political center and constraint-aware center
 
 
 **Integrated Text**

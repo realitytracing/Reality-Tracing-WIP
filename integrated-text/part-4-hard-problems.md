@@ -348,9 +348,9 @@ Continued strategic closure is how systems remain livable **in the presence of p
 
 - **[Environmental Constraints, Planetary Viability, and Non-Resolving Load](../artifact-analyzed/environmental-constraints-planetary-viability-and-non-resolving-load.md)** — artifact for continued policy making and actions that considers the humans and the environment 
 
-- **[Engineering Principles for High-Power Local Ends](<../artifact-analyzed/Engineering Principles for High-Power Local Ends.md>)** — an artifact for people aspiring for power and management as their local-ends 
+- **[Engineering Principles for High-Power Local Ends](../artifact-analyzed/engineering-principles-for-high-power-local-ends.md)** — an artifact for people aspiring for power and management as their local-ends 
 
-- **[Constraint-Centered Gun Policy Design Guide](<../artifact-analyzed/Constraint-Centered Gun Policy Design Guide.md>)** — constraint-aware gun control policy design guide
+- **[Constraint-Centered Gun Policy Design Guide](../artifact-analyzed/constraint-centered-gun-policy-design-guide.md)** — constraint-aware gun control policy design guide
 
 ---
 
