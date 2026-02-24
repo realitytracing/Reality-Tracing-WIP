@@ -5,8 +5,6 @@ section: Part III — Contextual Artifacts, Extracted Patterns, and Live Failure
 status: Time-Bound, Revisable
 ---
 
-# Moral Panic, Floaty Critics, and the Flattening Error
-
 ## Status
 
 This document is a contextual artifact.
