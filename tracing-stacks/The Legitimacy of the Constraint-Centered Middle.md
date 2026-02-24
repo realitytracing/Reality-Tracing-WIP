@@ -6,8 +6,6 @@ section: Meta-Policy Grounding
 status: Time-Bound, Revisable
 ---
 
-# The Legitimacy of the Constraint-Centered Middle
-
 ## Purpose
 
 This document clarifies why adopting a constraint-centered middle position in policy is legitimate, grounded, and structurally necessary.
