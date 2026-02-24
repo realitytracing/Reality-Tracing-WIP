@@ -1,4 +1,3 @@
-
 ---
 title: Constraint-Aware Psychology (WIP)
 status: Foundational Artifact
