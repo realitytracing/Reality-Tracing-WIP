@@ -1,0 +1,249 @@
+---
+
+title: Reality Tracing (WIP) 
+
+---
+## Part I — The Heart and the Gist
+
+---
+
+## Purpose
+
+Humans are already constrained by reality.
+
+Energy is finite.  
+Attention is finite.  
+Time, health, trust, and cognitive capacity are finite.
+
+Constraint is not a failure of humanity. It is the condition of being human.
+
+Within these limits, people seek what is **livable**: stability, meaning, relief from unnecessary pressure, and the ability to sustain life without continuous overload. Across cultures and eras, humans reliably move toward **paths of least resistance** to desired outcomes—not out of laziness or moral weakness, but out of survival realism.
+
+Systems that require constant strain, vigilance, or sacrifice merely to remain functional do not persist. Systems that align with real human limits do.
+
+This document exists to make that alignment visible and usable.
+
+---
+
+## The Core Move
+
+The central move of this framework is simple and consequential:
+
+**It treats the human mind as fully real.**
+
+The mind is:
+- Causal  
+- Embodied  
+- Constraint-bound  
+- Subject to energy limits, rate sensitivity, and irreversibility  
+
+Once the mind is treated as real—rather than metaphorical, secondary, or morally exempt—everything that emerges from it becomes legible under the same constraint logic.
+
+This includes:
+- Culture  
+- Society  
+- Law  
+- Economy  
+- Governance  
+- Politics  
+
+These are not abstractions floating above reality. They are **emergent systems** produced by embodied minds interacting under constraint.
+
+There is no longer a handoff where rigor stops and metaphor begins. The same reality that constrains bodies constrains minds, and the same minds that experience pressure generate institutions that either absorb or amplify it.
+
+Throughout this work, direction and importance are treated as emergent rather than chosen; this dynamic is referred to as salience and is developed in `salience.md`.
+
+---
+
+## The Unavoidable Interface
+
+Reality Tracing does not treat humans as the center of reality.  
+It treats humans as **unavoidable** within the slice of reality this work examines.
+
+Many real phenomena can be ignored without epistemic error.  
+A star behind a galaxy, an unobserved microstate, or a distant cosmological event may be real, but if it does not enforce constraints within the system under study, its exclusion does not corrupt the model.
+
+Human constraints are different.
+
+Human beings are:
+- Observable  
+- Enforcing  
+- Continuously present  
+- Causally upstream of higher-order systems  
+
+Energy limits, attention limits, salience dynamics, rate sensitivity, fatigue, overload, and withdrawal are not theoretical constructs. They are **lived enforcement mechanisms**.
+
+Any system that operates *through* humans—culture, markets, institutions, governance—necessarily inherits these constraints, whether it acknowledges them or not.
+
+To omit an enforcing variable is not neutrality.  
+It is **epistemic unhygiene**.
+
+---
+
+## Not Human-Centered, Human-Unavoidable
+
+This framework does not claim that humans are special, sovereign, or privileged within reality.
+
+It claims something narrower and stricter:
+
+> If a constraint is observable and self-enforcing within a system, excluding it produces predictable failure.
+
+Human limits meet this criterion.  
+They cannot be engineered away, moralized out of existence, or abstracted past indefinitely.
+
+We cannot evade “us.”
+
+We may choose not to look at certain regions of reality without consequence.  
+We cannot choose to ignore the substrate through which all higher abstractions act.
+
+Leaving out what can be observed is not abstraction.  
+It is distortion.
+
+---
+
+## Emergence Runs Upward, Not Downward
+
+Stacks, systems, and abstractions do not exist independently.
+
+They emerge from:
+- Human cognition  
+- Human coordination  
+- Human belief  
+- Human energy expenditure  
+
+Without humans, stacks disappear.  
+Humans do not require stacks to exist.
+
+This asymmetry matters.
+
+It means that higher-order systems must remain compatible with the metabolic, cognitive, and salience constraints of the agents that generate and sustain them—or those systems will fail through overload, exit, collapse, or refusal.
+
+This is not a moral claim.  
+It is a causal one.
+
+---
+
+## The Hygiene Principle
+
+Reality Tracing applies a simple discipline:
+
+> What enforces itself must be modeled.
+
+Human limits enforce themselves relentlessly.  
+Ignoring them does not remove them—it delays recognition until failure.
+
+This framework begins here, not because humans are the point of reality, but because **they are the unavoidable interface through which this layer of reality operates**.
+
+From this starting point, all further tracing proceeds.
+
+---
+
+## Closing the Divide
+
+Much human error arises from a false division between:
+- “Inner” phenomena (emotion, meaning, cognition, motivation)  
+and  
+- “Outer” phenomena (physics, economics, institutions, power)
+
+In practice, this division produces two recurring failures:
+- Treating minds as unreal or infinitely elastic  
+- Treating systems as purely technical or morally sovereign  
+
+Both failures lead to collapse.
+
+By explicitly integrating mind and world into a single **layered reality** governed by constraint, this framework allows:
+- Emotional load to be treated as real pressure  
+- Cognitive overload to be treated as a failure mode  
+- Fear to be recognized as a rate violation  
+- Trust to be recognized as stored energy  
+- Meaning to be recognized as a stabilizing resource  
+
+This does not require equations or reductionism. It requires **discipline**: keeping models in contact with lived constraint and observed failure.
+
+Earlier modes of reasoning often isolated a single subset of experience—emotion, ideology, economics, morality, power—and treated it as the primary cause of systemic failure. This approach produced clarity at the cost of accuracy. The framework presented here adopts the opposite stance: assume incompleteness first. Models are treated as provisional tools rather than total explanations. Reality tracing prioritizes contact with constraint over narrative closure, using probabilistic reasoning to track trends, pressures, and failures. When a model fails, the task is not to defend it, but to analyze which variables were missing, misweighted, or mislocated—whether newly discoverable or already known.
+
+---
+
+## Why Livability Is Central
+
+Because energy is finite, livability becomes the governing variable.
+
+Livability includes:
+- The ability to recover after strain  
+- The preservation of option space  
+- The maintenance of local ends (needs, wants, the lived outcomes of acting on them, and the surrounding option space)
+- The avoidance of irreversible harm  
+
+When systems ignore livability, they compensate by:
+- Moralizing exhaustion  
+- Treating burnout as personal failure  
+- Requiring permanent emergency  
+- Collapsing disagreement into pathology  
+
+These compensations consume energy faster than they produce outcomes.
+
+Constraint-aware systems do the opposite. They reduce unnecessary load, preserve recovery capacity, and allow human life to proceed without constant justification.
+
+This is not idealism. It is cost accounting.
+
+---
+
+## What This Framework Is (and Is Not)
+
+This framework is:
+- A tool for reasoning under constraint  
+- A practice of reality tracing  
+- A way to reduce catastrophic error  
+- A means of preserving livability, reversibility, and option space  
+
+It is **not**:
+- A doctrine  
+- An ideology  
+- A moral authority  
+- A theory of everything  
+- A system for judging persons or groups  
+
+It does not command action. It clarifies constraints.
+
+---
+
+### Non-Adjudicative Boundary
+
+A usage boundary stating that this framework does not render moral verdicts about individuals or groups—not as a prohibition or imposed rule, but as a constraint-aware limit on what the framework is designed to do. Moral judgment is real and operative in lived reality, but it is not treated as an analytic primitive within this framework, because doing so would obscure costs, amplify pressure, and collapse constraint awareness.
+
+Within this boundary, the framework allows analytic evaluation of systems, ideologies, worldviews, and agents based on observable behavior under constraint, without claiming moral authority, final truth, or adjudicative standing.
+
+The non-adjudicative boundary exists because moralization functions as closure. Once a phenomenon is moralized, tracing stops and energy shifts from understanding constraints to defending positions. This does not mean moral judgment is invalid or forbidden, it is a part of local-ends. It means that judgment is a stopping rule rather than a tracing tool. 
+
+Closing too early produces ideological lock-in and high defensive cost. 
+
+Never closing produces infinite regress and paralysis. 
+
+Reality Tracing aims for closure at a “good enough” scope: after constraints, salience, and dynamics are mapped to the point where additional tracing no longer changes the structure. Moral disagreement is then localized to definitions, values, and local ends, rather than mistaken for causal explanation..
+
+---
+
+## The Payoff
+
+The goal of this work is not to make life heroic, optimized, or endlessly demanding.
+
+The goal is to make life:
+- More livable  
+- More reversible  
+- Less brittle  
+- Less punitive  
+- More compatible with being human  
+
+When imaginary constraints are dissolved and real constraints are respected, people gain **more freedom inside the light cone**, not less. Energy previously burned on denial, fear, and moral overreach becomes available for care, creativity, coordination, and joy.
+
+Or, more plainly:
+
+Less 🗿  
+More 😄
+
+This framework does not promise utopia. It promises fewer catastrophic errors, shorter recovery times, and more room to live meaningfully within reality.
+
+That is the heart of the work.
+
+
+
