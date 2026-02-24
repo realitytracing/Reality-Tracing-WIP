@@ -6,8 +6,6 @@ section: Public Safety & Constitutional Systems
 status: Time-Bound, Revisable
 ---
 
-# Constraint-Centered Gun Policy Design Guide
-
 ## Purpose
 
 This guide does not argue for or against gun ownership.
