@@ -120,10 +120,6 @@ It does not command action. It clarifies constraints.
    How constraint awareness dissolves false metrics and restores
    freedom, local ends, and human meaning.
 
-**Reality Tracing Stacks Integrated Text:**
-
-1. 
-
 
 **[GLOSSARY](GLOSSARY.md)**
    Definition of terms and specific usages in the work.
