@@ -3,7 +3,6 @@ title: The Narrowing Corridor — Multi-Plane Constraint Topology
 status: Conceptual Extension (Topology Model)
 ---
 
-# The Narrowing Corridor  
 ## Multi-Plane Constraint Topology and the Intersection of Survival
 
 ---
