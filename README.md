@@ -102,6 +102,7 @@ It does not command action. It clarifies constraints.
 
 **Constraint-Aware Policy Making and Engineering Strategies**
 - **[The Legitimacy of the Constraint-Centered Middle](constraint-aware-policy-making-and-engineering-strategies/the-legitimacy-of-the-constraint-centered-middle.md)** — constraints-aware policy making and the difference between political center and constraint-aware center
+- **[The Narrowing Corridor — Multi-Plane Constraint Topology](the-narrowing-corridor-multi-plane-constraint-topology.md)** — topological visualization of constraints and imagination
 
 
 **Integrated Text**
