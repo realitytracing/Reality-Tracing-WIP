@@ -1,3 +1,4 @@
+---
 title: Interactional Epistemics, Friction, and the Biological Click
 status: Supporting Reflection
 scope: Friction, local ends, cross-domain coherence, embodied alignment
