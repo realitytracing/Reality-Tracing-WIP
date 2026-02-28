@@ -26,7 +26,7 @@ There is only local rate enforcement.
 
 Reality does not pause.
 
-It enforces.
+Reality resolves.
 
 ---
 
@@ -213,7 +213,7 @@ Serialization makes pause usable.
 
 ## 8. Pattern Recognition: Agency + Speedhack
 
-Earlier in this framework, a structural pattern emerged:
+A structural pattern emerges:
 
 Bounded agency  
 + Compression under constraint  
@@ -221,12 +221,10 @@ Bounded agency
 + Serialized commitment  
 = Directional reconfiguration
 
-Recognizing this structure revealed something intuitive:
-
 This configuration corresponds to what we commonly call **intelligence**.
 
-The term was not assumed.
-It was re-derived from structural features.
+The term is not assumed first.
+It is derived from structure.
 
 Intelligence, in the intuitive human sense, re-emerges as:
 
@@ -271,7 +269,126 @@ But it gains:
 
 ---
 
-## 10. Intelligence as Re-Emergence
+## 10. Enforcement as Target Resolution
+
+When we say “reality enforces,” we refer to constraint expressed through interaction with bounded abstraction targets.
+
+Targets are not raw universe.
+They are stabilized partitions within abstract spacetime and logic.
+
+Example:
+
+“I have a meeting with my boss tomorrow. What should I do?”
+
+This constructs:
+
+- **Meeting** → a future interaction event
+- **Boss** → a specific agent configuration
+- **Tomorrow** → a spacetime locality
+- **I** → a bounded agent
+- **What should I do?** → an optimization operator
+
+Before the meeting:
+
+The object exists in hypothesis space.
+Multiple trajectories are simulated.
+Different optimization cores produce different strategies.
+
+When the meeting occurs:
+
+Interaction unfolds.
+Signals are exchanged.
+Consequences follow.
+
+The abstract object collapses into realized history.
+
+This collapse is enforcement.
+
+It is the reduction of possibility space into actual trajectory.
+
+---
+
+### Additional Examples of Enforcement
+
+**Example 1: Career Decision**
+
+“I will quit my job and start a company.”
+
+Before action:
+- Hypothesis space branches.
+- Optimizations are simulated.
+- Risk is abstract.
+
+After action:
+- Income changes.
+- Stress changes.
+- Market response resolves.
+- Feedback narrows possibility space.
+
+Enforcement occurs through realized interaction.
+
+---
+
+**Example 2: Moral Commitment**
+
+“I will always tell the truth.”
+
+Before conflict:
+- The rule appears stable.
+
+During conflict:
+- Telling the truth damages a relationship.
+- Or preserves long-term trust.
+- Or creates legal consequences.
+
+Reality resolves the abstraction under constraint.
+
+---
+
+**Example 3: Physical Planning**
+
+“I can drive faster and still be safe.”
+
+Before driving:
+- Confidence exists in abstract model.
+
+During enforcement:
+- Road conditions.
+- Reaction time.
+- Mechanical limits.
+- Law enforcement.
+- Accident risk.
+
+Constraint resolves the model.
+
+---
+
+## 11. Internal Enforcement
+
+Enforcement is not purely external.
+
+Internal contradiction also functions as enforcement.
+
+If a strategy:
+
+- Violates multiple local ends,
+- Creates sustained cognitive dissonance,
+- Overloads metabolic capacity,
+- Produces persistent friction,
+
+Then enforcement occurs before external collapse.
+
+Biology enforces.
+
+Friction signals misalignment.
+Fatigue signals rate violation.
+Anxiety signals unresolved branch overload.
+
+Internal constraint is real constraint.
+
+---
+
+## 12. Intelligence as Re-Emergence
 
 Most configurations of matter transform.
 
@@ -283,25 +400,25 @@ Fewer configurations:
 
 Model their own modeling.
 
-When counterfactual depth, serialization stability, and memory persistence reach sufficient coherence, a new behavioral regime appears.
+When counterfactual depth, serialization stability, memory persistence, and enforcement tracking reach sufficient coherence, a new behavioral regime appears.
 
-This regime is experienced and labeled as intelligence.
+This regime is labeled intelligence.
 
-Intelligence is therefore not mystical.
+It is not mystical.
 
 It is:
 
-A re-emergent pattern of bounded agency under combinatorial pressure.
+A re-emergent pattern of bounded agency under combinatorial pressure and enforcement dynamics.
 
 ---
 
-## 11. Agency Reframed
+## 13. Agency Reframed
 
 Agency is not metaphysical separation from the universe.
 
 It is:
 
-Parallel exploration + serial collapse.
+Parallel exploration + serial collapse + enforcement tracking.
 
 Without collapse:
 No action.
@@ -309,26 +426,28 @@ No action.
 Without constraint:
 No boundary.
 
-Without boundary:
-No identity.
+Without enforcement:
+No correction.
 
 Agency is:
 
-**Granulated commitment inside a massively parallel world.**
+**Granulated commitment inside a massively parallel world, continuously updated under constraint resolution.**
 
 ---
 
-## 12. Structural Summary
+## 14. Structural Summary
 
 Reality:
 - Massively parallel
 - Locally rate-limited
 - Constraint-enforced
+- Resolves abstraction into trajectory
 
 Finite agents:
 - Salience-bounded
 - Compression-driven
 - Serialization-dependent
+- Enforcement-sensitive
 
 Speedhack:
 - Predictive compression
@@ -340,7 +459,7 @@ Intelligence:
 - Persistent serialization
 - Memory continuity
 - Local reconfiguration capacity
-- Directional steering under constraint
+- Enforcement-aware steering
 
 Space Heater Mode:
 - Infinite integration
@@ -352,7 +471,7 @@ Viable cognition:
 - Parallel exploration
 - Bounded abstraction
 - Serial commitment
-- Continuous constraint feedback
+- Continuous internal and external constraint feedback
 
 ---
 
@@ -360,13 +479,14 @@ Viable cognition:
 
 Intelligence is not transcendence.
 
-It is a specific configuration of constraint-bound matter that:
+It is a configuration of constraint-bound matter that:
 
 Pauses,
 Models,
 Compresses,
 Selects,
-And commits.
+Commits,
+And updates under enforcement.
 
 It does not outrun physics.
 
@@ -374,4 +494,4 @@ It redirects within it.
 
 Agency is not infinite freedom.
 
-It is bounded steering under constraint.
+It is bounded steering under constraint resolution.
