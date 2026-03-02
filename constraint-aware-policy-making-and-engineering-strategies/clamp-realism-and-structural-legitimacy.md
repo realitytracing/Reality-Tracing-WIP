@@ -38,6 +38,14 @@ They are coordination tools.
 
 Tools must justify themselves through performance under constraint.
 
+No abstraction outranks:
+
+- Bounded agents  
+- Other bounded agents  
+- The material environment  
+
+Every abstraction must pass through this triangle.
+
 ---
 
 ## 2. The Three Structural Legitimacy Clamps
@@ -98,7 +106,43 @@ Environmental clamps are structural, not ideological.
 
 ---
 
-## 3. Alignment Requirement for All Human Systems
+## 3. Hard and Soft Clamps: A Gradient
+
+Not all clamps operate at the same layer.
+
+### 3.1 Hard Clamps
+
+- Thermodynamics  
+- Resource limits  
+- Ecological regeneration  
+- Biological rate limits  
+- Irreversibility  
+
+These cannot be negotiated away.
+
+---
+
+### 3.2 Institutional or Soft Clamps
+
+- Laws  
+- Sanctions  
+- Monetary systems  
+- Bureaucratic procedures  
+- Trade agreements  
+
+These are human-made constraint systems.
+
+They can be redesigned.
+
+However, soft clamps must ultimately align with hard clamps or collapse under them.
+
+Confusing soft clamps for metaphysical inevitabilities leads to dogma.
+
+Ignoring hard clamps leads to enforcement.
+
+---
+
+## 4. Alignment Requirement for All Human Systems
 
 Procedural fairness is not an independent pillar.
 
@@ -133,7 +177,7 @@ Ideology that ignores constraint is not legitimacy.
 
 ---
 
-## 4. Mandate as Distributed Legitimacy
+## 5. Mandate as Distributed Legitimacy
 
 Legitimacy is structural alignment.
 
@@ -149,15 +193,14 @@ Every individual continuously performs micro-evaluations:
 - Are constraints visible?
 - Are tradeoffs proportionate?
 
-These are not active philosophical thoughts.  
-They are lived experiential signals.
+These are lived experiential signals.
 
 Mandate increases when:
 
 - Preservation feels stable  
 - Expansion feels possible  
 - Constraints feel acknowledged  
-- Joy from non-destructive ends is experienced  
+- Tradeoffs feel shared  
 
 Mandate decreases when:
 
@@ -170,7 +213,33 @@ Mandate is continuously computed through lived constraint.
 
 ---
 
-## 5. Experience Gradients and Annoyance Scaling
+## 6. Subset Management and Mandate Fragmentation
+
+A system that manages clamps for only a subset of the population loses mandate from the outgroup.
+
+If Group A experiences:
+
+- Preservation  
+- Expansion  
+- Protection  
+
+while Group B experiences:
+
+- Contraction  
+- Neglect  
+- Dismissal  
+
+then mandate fractures.
+
+Mandate requires perceived inclusion under shared constraint.
+
+Factional management produces factional legitimacy.
+
+Factional legitimacy is unstable.
+
+---
+
+## 7. Experience Gradients and Annoyance Scaling
 
 Not all friction signals system failure.
 
@@ -205,130 +274,105 @@ Requires discrimination.
 
 High probability of structural misalignment.
 
-Collective annoyance becomes atmospheric when:
-
-- It is ambient  
-- It is shared  
-- It lacks visible correction  
-
-Atmospheric friction generates grievance narratives.
-
 Grievance escalation follows a recognizable path:
 
 Mild friction → Repetition → Collective pattern → Attribution → Mandate fracture.
 
-Clamp literacy allows this escalation to be named rather than mythologized.
+Clamp literacy allows escalation to be named rather than mythologized.
 
 ---
 
-## 6. System Naming: Material and Perception Systems
+## 8. Material Systems and Perception Systems
 
 Clamps are structural limits.  
-Systems are the architectures operating under them.
+Systems operate within them.
 
-Two primary system categories:
-
-### 6.1 Material Systems
+### 8.1 Material Systems
 
 These directly affect:
 
-- Preservation
-- Expansion
-- Environmental alignment
+- Preservation  
+- Expansion  
+- Environmental alignment  
 
 Examples:
 
 - Labor markets  
 - Housing systems  
 - Energy infrastructure  
-- Education systems  
-- Healthcare systems  
+- Education  
+- Healthcare  
 
-These generate primary constraint load.
+They generate primary constraint load.
 
 ---
 
-### 6.2 Perception Systems
+### 8.2 Perception Systems
 
-These shape interpretation and amplification of friction.
+These shape interpretation of friction.
 
 Examples:
 
-- Social media algorithms  
-- News ecosystems  
-- Cultural narratives  
-- Political messaging  
+- Media ecosystems  
+- Social platforms  
+- Political narratives  
+- Cultural frames  
 
-These influence:
+They amplify or dampen:
 
 - Salience  
 - Emotional synchronization  
-- Attribution pathways  
+- Attribution  
 - Grievance clustering speed  
 
-They do not necessarily create constraint.  
-They can amplify or dampen perception of it.
+Perception systems do not create thermodynamic constraint.
+
+They shape its narrative interpretation.
 
 ---
 
-## 7. Micro vs Macro Dynamics
+## 9. Radical Acts and Felt Mandate
 
-### Micro Level
+Radical acts are rarely normatively isolated.
 
-- Individual gaming  
-- Performative transparency  
-- Local manipulation  
-- Signal distortion  
+Even a lone actor often carries:
 
-Cannot be eliminated.
+- A self-issued moral authorization  
+- A perceived backing from a group  
+- A grievance narrative  
+- A historical or ideological frame  
 
----
+Operational isolation does not imply mandate isolation.
 
-### Macro Level
+Radical acts function as structural probes.
 
-Dynamic correction emerges over time if:
+In high-legitimacy systems:
 
-- Clamp literacy is widespread  
-- Friction signals circulate  
-- Lived experience contradicts false narratives  
+- They are absorbed.  
+- They remain fringe.  
 
-Dishonesty becomes unstable when:
+In low-legitimacy systems:
 
-- Narrative claims conflict with persistent lived friction  
-- Clamp misalignment remains measurable  
+- They become symbolic.  
+- They accelerate mandate fracture.  
 
-Clamp Realism relies on macro feedback loops, not moral purity.
+Destabilization power depends on mandate density.
 
----
-
-## 8. Radical Acts as Structural Probes
-
-Radical acts do not automatically prove system illegitimacy.
-
-They trigger structural review.
-
-When destabilizing events occur, systems should undergo clamp audit:
-
-- Preservation status  
-- Expansion blockage  
-- Environmental misalignment  
-- Mandate visibility  
-
-High-legitimacy systems absorb shocks.
-
-Low-legitimacy systems amplify them.
-
-The destabilizing power of radicalism depends on mandate density.
+Radical acts should trigger clamp audit, not moral panic.
 
 ---
 
-## 9. Justice Under Constraint
+## 10. Justice Under Constraint
 
-Justice must reduce irreversibility.
+Injustice is painful because of irreversibility.
 
-Permanent hostility expands instability.
+Justice must reduce irreversibility, not multiply it.
 
-Sanctions require:
+Permanent punishment creates infinite clamps.
+
+Infinite clamps destabilize.
+
+Sanctions and corrections require:
 
 - Termination conditions  
 - Transparent goals  
@@ -336,14 +380,11 @@ Sanctions require:
 - Measurable outcomes  
 - De-escalation pathways  
 
-Infinite punishment functions as an infinite clamp.  
-Infinite clamps destabilize.
-
-Justice must restore system viability.
+Renormalization is structural repair, not absolution.
 
 ---
 
-## 10. Transparency and Salient Disclosure
+## 11. Transparency and Salient Disclosure
 
 Transparency is not total data exposure.
 
@@ -351,35 +392,24 @@ It is salient disclosure of:
 
 - What changed  
 - Why it changed  
-- What tradeoffs were considered  
 - What constraint it addresses  
+- What tradeoffs were considered  
 - How impact will be measured  
+- When review will occur  
 
 Transparency must:
 
 - Name the clamp  
 - Name the tradeoff  
 - Admit uncertainty  
-- Define review timelines  
-
-Performative transparency becomes unstable over time if:
-
-- Lived friction contradicts published reasoning  
-- Mandate gradients decline despite rhetorical claims  
-
-Salience must be structured:
-
-- Public summaries  
-- Technical annexes  
-- Independent audits  
-- Impact metrics  
+- Define revision pathways  
 
 Opacity breeds narrative inflation.  
 Structured transparency stabilizes mandate.
 
 ---
 
-## 11. Contraction and Distribution
+## 12. Contraction and Distribution
 
 Adaptive expansion requires contraction.
 
@@ -397,11 +427,13 @@ Constraint realism cannot justify unequal sacrifice without scrutiny.
 
 ---
 
-## 12. Conflict of Local Ends
+## 13. Conflict of Local Ends
 
 Local ends conflict.
 
-Legitimacy manages conflict within structural bounds.
+Legitimacy does not eliminate conflict.
+
+It manages conflict within structural bounds.
 
 Institutions exist to:
 
@@ -415,7 +447,7 @@ Managing it under constraint is the objective.
 
 ---
 
-## 13. The Present Choice Principle
+## 14. The Present Choice Principle
 
 Irreversibility forces choice.
 
@@ -435,11 +467,11 @@ We must decide:
 - Which to adapt  
 - Which to phase out  
 
-These decisions must be owned and explained.
+Those decisions must be owned and explained.
 
 ---
 
-## 14. Final Compression
+## 15. Final Compression
 
 Structural legitimacy requires:
 
@@ -451,12 +483,13 @@ Mandate is a distributed experiential gradient.
 
 Persistent, collective, patterned friction increases probability of structural fault.
 
-Radical acts trigger clamp audit, not moral panic.
+Radical acts reveal mandate fractures.
 
-Transparency must be salient and constraint-oriented.
+Hard clamps cannot be negotiated.  
+Soft clamps must align with them.
 
 Systems are tools.
 
 Tools remain legitimate only while they preserve and adapt human life within constraint.
 
-Everything else is abstraction in service to the clamps.
+Everything else is abstraction in service to bounded reality.
