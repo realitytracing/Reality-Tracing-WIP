@@ -20,7 +20,7 @@ to
 
 In this inversion, human beings become inputs.
 
-Clamp realism reverses this relationship.
+Clamp Realism reverses this relationship.
 
 Systems exist to:
 
@@ -42,7 +42,7 @@ Tools must justify themselves through performance under constraint.
 
 ## 2. The Three Structural Legitimacy Clamps
 
-Structural legitimacy rests on three non-negotiables:
+Structural legitimacy rests on three non-negotiables.
 
 ### 2.1 Preservation
 
@@ -94,9 +94,7 @@ If expansion is built on overdraw, it is counterfeit.
 
 Reality enforces.
 
-Environmental clamps are not ideological.
-
-They are structural.
+Environmental clamps are structural, not ideological.
 
 ---
 
@@ -111,31 +109,27 @@ A system cannot claim legitimacy through fairness rhetoric alone.
 If:
 
 - Procedures are transparent  
-but preservation collapses, legitimacy fails.
+but preservation collapses → legitimacy fails.
 
 If:
 
 - Participation exists  
-but expansion stalls permanently, legitimacy erodes.
+but expansion stalls permanently → legitimacy erodes.
 
 If:
 
 - Rules are followed  
-but environmental constraints are violated, legitimacy destabilizes.
+but environmental limits are violated → legitimacy destabilizes.
 
-Procedural fairness, economic design, political architecture, and philosophical framing must all align with:
+All human systems must justify themselves by alignment with:
 
 - Preservation  
 - Adaptive expansion  
 - Environmental constraint  
 
-Fairness that protects unsustainable systems is not legitimacy.
-
-Efficiency that destroys preservation is not legitimacy.
-
+Fairness that protects unsustainable systems is not legitimacy.  
+Efficiency that destroys preservation is not legitimacy.  
 Ideology that ignores constraint is not legitimacy.
-
-All human systems must justify themselves by alignment with the three clamps.
 
 ---
 
@@ -145,127 +139,196 @@ Legitimacy is structural alignment.
 
 Mandate is its social manifestation.
 
-Mandate emerges when groups perceive:
+Mandate is not binary.  
+It is a density gradient.
 
-- Their local ends are preserved or fairly managed  
-- Their future viability is considered  
-- Environmental constraint is handled competently  
-- Tradeoffs are visible and proportionate  
+Every individual continuously performs micro-evaluations:
 
-Mandate is not automatic.
+- Are my viable local ends intact?
+- Is adaptation possible?
+- Are constraints visible?
+- Are tradeoffs proportionate?
 
-It must be maintained through visible clamp management.
+These are not active philosophical thoughts.  
+They are lived experiential signals.
 
----
+Mandate increases when:
 
-## 5. Subset Management and Mandate Fragmentation
+- Preservation feels stable  
+- Expansion feels possible  
+- Constraints feel acknowledged  
+- Joy from non-destructive ends is experienced  
 
-A system that manages clamps for only a subset of the population loses mandate from the outgroup.
+Mandate decreases when:
 
-If Group A experiences:
+- Friction becomes persistent  
+- Adaptation pathways feel blocked  
+- Tradeoffs feel hidden  
+- Contraction feels asymmetric  
 
-- Preservation  
-- Expansion  
-- Protection  
-
-while Group B experiences:
-
-- Contraction  
-- Neglect  
-- Dismissal  
-
-then mandate fractures.
-
-Even if policies are technically rational, asymmetrical perception erodes compliance.
-
-Mandate requires perceived inclusion under shared constraint.
-
-Factional management produces factional legitimacy.
-
-Factional legitimacy is unstable.
+Mandate is continuously computed through lived constraint.
 
 ---
 
-## 6. Radical Acts and Felt Mandate
+## 5. Experience Gradients and Annoyance Scaling
 
-Radical acts rarely arise without perceived authorization.
+Not all friction signals system failure.
 
-Even a so-called lone actor typically operates with:
+Annoyance exists on a gradient.
 
-- A self-issued moral mandate  
-- A perceived backing from a community  
-- A grievance narrative  
-- An ideological or metaphysical justification  
-- A belief in historical necessity  
+### Level 1 – Mild, Isolated Friction
 
-Operational isolation does not imply normative isolation.
+- Temporary inconvenience  
+- Personal mismatch  
+- Normal tradeoffs  
 
-“Lone actor” is a legal category, not a structural one.
+Low probability of structural fault.
 
 ---
 
-## 7. Radical Acts as Mandate Signals
+### Level 2 – Persistent Individual Friction
 
-Radical action often indicates:
+- Repeated friction over time  
+- Limited adjustment pathways  
 
-- Perceived clamp mismanagement  
-- Exclusion from mandate  
-- Procedural pathways seen as blocked  
-- Urgency overriding patience  
+Ambiguous signal.  
+Requires discrimination.
 
-In high-legitimacy systems:
+---
 
-- Radical acts are absorbed.  
-- They are treated as deviation.  
-- Mandate remains intact.  
+### Level 3 – Persistent, Collective, Patterned Friction
 
-In low-legitimacy systems:
+- Cross-group repetition  
+- Durability over time  
+- Similar grievance clusters  
+- No visible clamp response  
 
-- Radical acts become symbolic.  
-- They amplify distrust.  
-- They trigger escalation.  
+High probability of structural misalignment.
+
+Collective annoyance becomes atmospheric when:
+
+- It is ambient  
+- It is shared  
+- It lacks visible correction  
+
+Atmospheric friction generates grievance narratives.
+
+Grievance escalation follows a recognizable path:
+
+Mild friction → Repetition → Collective pattern → Attribution → Mandate fracture.
+
+Clamp literacy allows this escalation to be named rather than mythologized.
+
+---
+
+## 6. System Naming: Material and Perception Systems
+
+Clamps are structural limits.  
+Systems are the architectures operating under them.
+
+Two primary system categories:
+
+### 6.1 Material Systems
+
+These directly affect:
+
+- Preservation
+- Expansion
+- Environmental alignment
+
+Examples:
+
+- Labor markets  
+- Housing systems  
+- Energy infrastructure  
+- Education systems  
+- Healthcare systems  
+
+These generate primary constraint load.
+
+---
+
+### 6.2 Perception Systems
+
+These shape interpretation and amplification of friction.
+
+Examples:
+
+- Social media algorithms  
+- News ecosystems  
+- Cultural narratives  
+- Political messaging  
+
+These influence:
+
+- Salience  
+- Emotional synchronization  
+- Attribution pathways  
+- Grievance clustering speed  
+
+They do not necessarily create constraint.  
+They can amplify or dampen perception of it.
+
+---
+
+## 7. Micro vs Macro Dynamics
+
+### Micro Level
+
+- Individual gaming  
+- Performative transparency  
+- Local manipulation  
+- Signal distortion  
+
+Cannot be eliminated.
+
+---
+
+### Macro Level
+
+Dynamic correction emerges over time if:
+
+- Clamp literacy is widespread  
+- Friction signals circulate  
+- Lived experience contradicts false narratives  
+
+Dishonesty becomes unstable when:
+
+- Narrative claims conflict with persistent lived friction  
+- Clamp misalignment remains measurable  
+
+Clamp Realism relies on macro feedback loops, not moral purity.
+
+---
+
+## 8. Radical Acts as Structural Probes
+
+Radical acts do not automatically prove system illegitimacy.
+
+They trigger structural review.
+
+When destabilizing events occur, systems should undergo clamp audit:
+
+- Preservation status  
+- Expansion blockage  
+- Environmental misalignment  
+- Mandate visibility  
+
+High-legitimacy systems absorb shocks.
+
+Low-legitimacy systems amplify them.
 
 The destabilizing power of radicalism depends on mandate density.
 
 ---
 
-## 8. Stability and Shock Absorption
-
-Stable regimes metabolize disruption.
-
-They possess:
-
-- Broad cross-group mandate  
-- Transparent enforcement  
-- Recognized procedural legitimacy  
-- Visible clamp management  
-
-Fragile regimes amplify disruption.
-
-They lack:
-
-- Shared trust  
-- Inclusive mandate  
-- Proportionate distribution of burden  
-- Narrative coherence  
-
-Overreaction can manufacture fragmentation.
-
-Underreaction can tolerate erosion.
-
-Diagnosis requires precision.
-
----
-
 ## 9. Justice Under Constraint
 
-Injustice hurts because it is irreversible.
+Justice must reduce irreversibility.
 
-Justice that becomes permanent punishment risks reproducing irreversibility.
+Permanent hostility expands instability.
 
-Infinite clamps destabilize.
-
-Sanctions and corrections require:
+Sanctions require:
 
 - Termination conditions  
 - Transparent goals  
@@ -273,55 +336,86 @@ Sanctions and corrections require:
 - Measurable outcomes  
 - De-escalation pathways  
 
-Renormalization is not absolution.
+Infinite punishment functions as an infinite clamp.  
+Infinite clamps destabilize.
 
-It is recognition that permanent hostility multiplies instability.
-
-Justice must reduce future irreversibility, not expand it.
+Justice must restore system viability.
 
 ---
 
-## 10. Contraction and Distribution
+## 10. Transparency and Salient Disclosure
 
-Adaptive expansion often requires contraction.
+Transparency is not total data exposure.
 
-When contraction is necessary:
+It is salient disclosure of:
 
-- Its burden must be visible  
-- Its distribution must be justified  
-- Its necessity must be explained  
-- Its timeline must be clear  
+- What changed  
+- Why it changed  
+- What tradeoffs were considered  
+- What constraint it addresses  
+- How impact will be measured  
 
-Opaque or asymmetric contraction erodes mandate.
+Transparency must:
+
+- Name the clamp  
+- Name the tradeoff  
+- Admit uncertainty  
+- Define review timelines  
+
+Performative transparency becomes unstable over time if:
+
+- Lived friction contradicts published reasoning  
+- Mandate gradients decline despite rhetorical claims  
+
+Salience must be structured:
+
+- Public summaries  
+- Technical annexes  
+- Independent audits  
+- Impact metrics  
+
+Opacity breeds narrative inflation.  
+Structured transparency stabilizes mandate.
+
+---
+
+## 11. Contraction and Distribution
+
+Adaptive expansion requires contraction.
+
+Contraction must be:
+
+- Visible  
+- Justified  
+- Distributed proportionately  
+- Time-bound  
+- Reviewable  
+
+Asymmetric or opaque contraction accelerates mandate decay.
 
 Constraint realism cannot justify unequal sacrifice without scrutiny.
 
 ---
 
-## 11. Conflict of Local Ends
+## 12. Conflict of Local Ends
 
-Local ends will conflict.
+Local ends conflict.
 
-One group’s expansion may constrain another’s.
-
-Environmental alignment may restrict certain industries.
-
-Cultural preservation may clash with innovation.
-
-Legitimacy does not eliminate conflict.
-
-It manages it within structural bounds.
+Legitimacy manages conflict within structural bounds.
 
 Institutions exist to:
 
-- Balance competing local ends  
+- Balance competing ends  
 - Reduce asymmetry dwell time  
 - Distribute tradeoffs visibly  
 - Prevent totalization  
 
+Eliminating conflict is impossible.  
+Managing it under constraint is the objective.
+
 ---
 
-## 12. The Present Choice Principle
+## 13. The Present Choice Principle
 
 Irreversibility forces choice.
 
@@ -337,30 +431,11 @@ We cannot:
 
 We must decide:
 
-Which ends to preserve  
-Which to adapt  
-Which to phase out  
+- Which ends to preserve  
+- Which to adapt  
+- Which to phase out  
 
-Those decisions must be owned and explained.
-
----
-
-## 13. Mandate and Visibility of Clamps
-
-Mandates rely on visible clamp management.
-
-People support systems when they see:
-
-- The constraints  
-- The tradeoffs  
-- The shared exposure  
-- The rationale  
-
-If clamps are invisible, denied, or selectively applied, mandate decays.
-
-If systems appear to protect only one subset, outgroups withdraw legitimacy.
-
-Mandate is sustained through shared reality acknowledgment.
+These decisions must be owned and explained.
 
 ---
 
@@ -372,13 +447,13 @@ Structural legitimacy requires:
 - Adaptive expansion of new local ends  
 - Alignment with environmental and material clamps  
 
-Mandate emerges when these are managed visibly and inclusively.
+Mandate is a distributed experiential gradient.
 
-Radical acts signal mandate fractures.
+Persistent, collective, patterned friction increases probability of structural fault.
 
-Factional management weakens stability.
+Radical acts trigger clamp audit, not moral panic.
 
-Justice must terminate hostility, not perpetuate it.
+Transparency must be salient and constraint-oriented.
 
 Systems are tools.
 
