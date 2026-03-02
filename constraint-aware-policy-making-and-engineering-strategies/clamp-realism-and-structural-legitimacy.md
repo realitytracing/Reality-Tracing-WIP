@@ -1,6 +1,6 @@
 ---
 title: "Clamp Realism and Structural Legitimacy"
-status: "Working Extension (Revised)"
+status: "Working Extension (Expanded)"
 ---
 
 # Clamp Realism and Structural Legitimacy
@@ -139,62 +139,149 @@ All human systems must justify themselves by alignment with the three clamps.
 
 ---
 
-## 4. Justice Under Constraint
+## 4. Mandate as Distributed Legitimacy
 
-Injustice is painful because of irreversibility.
+Legitimacy is structural alignment.
 
-Justice that replicates irreversibility through permanent punishment risks reproducing structural harm.
+Mandate is its social manifestation.
 
-Infinite clamps destabilize systems.
+Mandate emerges when groups perceive:
 
-Sanctions, punishments, and corrections require:
+- Their local ends are preserved or fairly managed  
+- Their future viability is considered  
+- Environmental constraint is handled competently  
+- Tradeoffs are visible and proportionate  
+
+Mandate is not automatic.
+
+It must be maintained through visible clamp management.
+
+---
+
+## 5. Subset Management and Mandate Fragmentation
+
+A system that manages clamps for only a subset of the population loses mandate from the outgroup.
+
+If Group A experiences:
+
+- Preservation  
+- Expansion  
+- Protection  
+
+while Group B experiences:
+
+- Contraction  
+- Neglect  
+- Dismissal  
+
+then mandate fractures.
+
+Even if policies are technically rational, asymmetrical perception erodes compliance.
+
+Mandate requires perceived inclusion under shared constraint.
+
+Factional management produces factional legitimacy.
+
+Factional legitimacy is unstable.
+
+---
+
+## 6. Radical Acts and Felt Mandate
+
+Radical acts rarely arise without perceived authorization.
+
+Even a so-called lone actor typically operates with:
+
+- A self-issued moral mandate  
+- A perceived backing from a community  
+- A grievance narrative  
+- An ideological or metaphysical justification  
+- A belief in historical necessity  
+
+Operational isolation does not imply normative isolation.
+
+“Lone actor” is a legal category, not a structural one.
+
+---
+
+## 7. Radical Acts as Mandate Signals
+
+Radical action often indicates:
+
+- Perceived clamp mismanagement  
+- Exclusion from mandate  
+- Procedural pathways seen as blocked  
+- Urgency overriding patience  
+
+In high-legitimacy systems:
+
+- Radical acts are absorbed.  
+- They are treated as deviation.  
+- Mandate remains intact.  
+
+In low-legitimacy systems:
+
+- Radical acts become symbolic.  
+- They amplify distrust.  
+- They trigger escalation.  
+
+The destabilizing power of radicalism depends on mandate density.
+
+---
+
+## 8. Stability and Shock Absorption
+
+Stable regimes metabolize disruption.
+
+They possess:
+
+- Broad cross-group mandate  
+- Transparent enforcement  
+- Recognized procedural legitimacy  
+- Visible clamp management  
+
+Fragile regimes amplify disruption.
+
+They lack:
+
+- Shared trust  
+- Inclusive mandate  
+- Proportionate distribution of burden  
+- Narrative coherence  
+
+Overreaction can manufacture fragmentation.
+
+Underreaction can tolerate erosion.
+
+Diagnosis requires precision.
+
+---
+
+## 9. Justice Under Constraint
+
+Injustice hurts because it is irreversible.
+
+Justice that becomes permanent punishment risks reproducing irreversibility.
+
+Infinite clamps destabilize.
+
+Sanctions and corrections require:
 
 - Termination conditions  
-- Review mechanisms  
 - Transparent goals  
-- Measurable criteria  
+- Review mechanisms  
+- Measurable outcomes  
 - De-escalation pathways  
 
 Renormalization is not absolution.
 
-It is a termination condition for infinite hostility.
+It is recognition that permanent hostility multiplies instability.
 
-Justice must reduce future irreversibility, not multiply it.
-
----
-
-## 5. The Role of Language
-
-Clamp realism depends on clarity.
-
-When adaptation is framed as:
-
-“Moral superiority”
-
-resistance increases.
-
-When adaptation is framed as:
-
-“These are non-negotiable constraints. We must decide how to respond.”
-
-the conversation shifts.
-
-The question becomes:
-
-Not whether to adapt.  
-But how.
-
-Clamp claims must remain:
-
-- Evidence-based  
-- Transparent  
-- Open to revision  
-
-Otherwise constraint language becomes technocratic dogma.
+Justice must reduce future irreversibility, not expand it.
 
 ---
 
-## 6. Contraction and Distribution
+## 10. Contraction and Distribution
 
 Adaptive expansion often requires contraction.
 
@@ -202,48 +289,28 @@ When contraction is necessary:
 
 - Its burden must be visible  
 - Its distribution must be justified  
-- Its rationale must be communicated  
+- Its necessity must be explained  
+- Its timeline must be clear  
 
-If contraction is asymmetric or opaque, legitimacy declines.
+Opaque or asymmetric contraction erodes mandate.
 
 Constraint realism cannot justify unequal sacrifice without scrutiny.
 
 ---
 
-## 7. Collective Accountability
-
-Clamp realism restores accountability:
-
-Systems are accountable to human viability under constraint.
-
-But this does not mean:
-
-Every immediate desire is enforceable.
-
-Immediate desires can violate environmental or collective clamps.
-
-Accountability operates along two axes:
-
-1. Human viability and dignity  
-2. Material and ecological constraint  
-
-Governance is the balancing of these axes.
-
----
-
-## 8. Conflict of Local Ends
+## 11. Conflict of Local Ends
 
 Local ends will conflict.
 
-One group’s expansion may restrict another’s.
+One group’s expansion may constrain another’s.
 
-Environmental alignment may require limiting certain ends.
+Environmental alignment may restrict certain industries.
 
-Preservation of some traditions may constrain others.
+Cultural preservation may clash with innovation.
 
 Legitimacy does not eliminate conflict.
 
-It manages conflict within structural bounds.
+It manages it within structural bounds.
 
 Institutions exist to:
 
@@ -254,31 +321,50 @@ Institutions exist to:
 
 ---
 
-## 9. The Present Choice Principle
+## 12. The Present Choice Principle
 
-Irreversibility forces present choice.
+Irreversibility forces choice.
 
-Delay is not neutrality.
+Drift is a decision.
 
-Drift is a decision with deferred enforcement.
+Delay is a bet against enforcement.
 
 We cannot:
 
 - Preserve all ends  
 - Expand all ends  
-- Ignore constraint  
+- Ignore material limits  
 
-We must choose:
+We must decide:
 
 Which ends to preserve  
 Which to adapt  
 Which to phase out  
 
-That choice must be owned, not mystified.
+Those decisions must be owned and explained.
 
 ---
 
-## 10. Final Compression
+## 13. Mandate and Visibility of Clamps
+
+Mandates rely on visible clamp management.
+
+People support systems when they see:
+
+- The constraints  
+- The tradeoffs  
+- The shared exposure  
+- The rationale  
+
+If clamps are invisible, denied, or selectively applied, mandate decays.
+
+If systems appear to protect only one subset, outgroups withdraw legitimacy.
+
+Mandate is sustained through shared reality acknowledgment.
+
+---
+
+## 14. Final Compression
 
 Structural legitimacy requires:
 
@@ -286,14 +372,16 @@ Structural legitimacy requires:
 - Adaptive expansion of new local ends  
 - Alignment with environmental and material clamps  
 
-Procedural fairness, economic models, political systems, and philosophies must align with these constraints to remain legitimate.
+Mandate emerges when these are managed visibly and inclusively.
 
-Everything else is abstraction.
+Radical acts signal mandate fractures.
 
-If abstraction aligns with constraint and human viability, legitimacy rises.
+Factional management weakens stability.
 
-If it diverges, friction accumulates.
+Justice must terminate hostility, not perpetuate it.
 
 Systems are tools.
 
 Tools remain legitimate only while they preserve and adapt human life within constraint.
+
+Everything else is abstraction in service to the clamps.
