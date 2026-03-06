@@ -142,6 +142,61 @@ We are partial inputs into them.
 
 ---
 
+## The Closed Ground Error
+
+There exists a second failure mode that often appears as the opposite of the floaty critic.
+
+This stance may appear **grounded**, but becomes unstable when it **closes itself to interaction**.
+
+We call this the **Closed Ground Error**.
+
+In this mode, a critic:
+
+- Selects a single explanatory ground (power, economics, culture, technology, etc.)
+- Treats that ground as sufficient for explanation
+- Filters new information through the chosen ground
+- Resists interaction with alternative explanatory domains
+
+The result is not true grounding.
+
+It is **epistemic closure**.
+
+When explanation occurs in isolation, any phenomenon can be explained by almost any framework.
+
+Examples include:
+
+- Explaining all behavior purely through power dynamics  
+- Explaining all outcomes purely through economic incentives  
+- Explaining all events purely through narrative construction  
+- Explaining all change purely through technological determinism  
+
+Each framework can become **self-sealing** when insulated from interaction.
+
+---
+
+## Grounding as Interaction
+
+True grounding is not achieved by selecting a single explanatory ground.
+
+All grounds in human reasoning are **abstractions within models**, including those that appear most concrete.
+
+Even seemingly literal reference points — institutions, incentives, material conditions, or physical environments — enter human reasoning as **representations in cognition**.
+
+Grounding therefore requires **interaction across domains**.
+
+A grounded stance is:
+
+- Permeable to correction  
+- Responsive to constraint signals  
+- Exposed to cross-domain interaction  
+- Revisable under boundary stress  
+
+Closure removes friction.
+
+Interaction restores it.
+
+---
+
 ## Panic as a Mode of Failure
 
 Moral panic can function as a failure mode when:
@@ -228,6 +283,7 @@ Constraint-aware discourse:
 - Includes friction and its limits  
 - Avoids modeling from nowhere  
 - Preserves agency without assuming control  
+- Remains open to cross-domain interaction  
 
 The disciplined stance is not:
 
@@ -255,12 +311,13 @@ Moral panic is a real risk.
 
 Flattening humanity into passivity exaggerates inevitability.
 
-Overstating friction exaggerates safety.
+Epistemic closure exaggerates explanatory certainty.
 
 Reality Tracing requires holding both:
 
 - The possibility of collapse  
 - The presence and limits of adaptive friction  
+- The need for interaction between explanatory models  
 
 This artifact is not an external verdict.
 
