@@ -69,15 +69,15 @@ It does not command action. It clarifies constraints.
 - **[Prediction, Abstraction, and the Speed of Reality](human-foundations/prediction-abstraction-and-the-speed-of-reality.md)** — what closure is for under time and constraint, distinguishing naive realism from anticipatory, constraint-aware realism
 - **[Epistemic Cautions and Boundary Conditions](human-foundations/epistemic-cautions-and-boundary-conditions.md)** — Cautions of classical epistemic failure modes
 - **[Layered Reality and Constraint Coupling](human-foundations/layered-modelling-of-reality-and-constraint-coupling.md)** — how emergent layers are constrained from below and shaped from above
-- **[1. Interactional Epistemics (Standalone)(WIP)](human-foundations/1-interactional-epistemics.md)** — a guard against dogmatism
+- **[1. Interactional Epistemics (Standalone)(WIP)](human-foundations/1-interactional-epistemics.md)** — introduces permeability as a guard against dogmatic closure in scientific and philosophical modeling
 
 
 **Tools**
-- **[Reality Tracing](human-foundations/reality-tracing.md)** — what it is and what it is not, and why it is named
+- **[Reality Tracing](human-foundations/reality-tracing.md)** — defines the practice itself: tracing constraints, salience, and limits in emergent human systems without collapsing into reductionism or mystification
 
 
 **Human Foundations**
-- **[Constraints](human-foundations/constraints.md)** — non-negotiable limits shaping viability
+- **[Constraints](human-foundations/constraints.md)** — defines non-negotiable limits as the floor of analysis across all systems
 - **[Locality, Constraints, and Direction](human-foundations/locality-constraints-and-direction.md)** — dynamics at the interface between mind and outside reality
 - **[Salience](human-foundations/salience.md)** — directional energy flow toward local ends
 - **[Free Will and Salience](human-foundations/free-will-and-salience.md)** — clarifies how agency and free will can be understood within salience-driven dynamics without requiring metaphysical closure.
@@ -90,29 +90,35 @@ It does not command action. It clarifies constraints.
 
 
 **Psychology**
-- **[Constraint-Aware Psychology (WIP)](human-foundations/constraint-aware-psychology-wip.md)** — reemergence of psychology through energy tracing and constraint
+- **[Constraint-Aware Psychology (WIP)](human-foundations/constraint-aware-psychology-wip.md)** — re-derives psychology as dynamic regulation under energy, salience, habituation, locality, and enforcement
 
 
 **Foundational Epistemics II**
-- **[2. Interactional Epistemics Generalized](human-foundations/2-interactional-epistemics-generalized.md)** — interactional epistemics generalized to all abstractions
-- **[3. Interactional Epistemics Friction and the Biological Click](human-foundations/3-interactional-epistemics-friction-and-the-biological-click.md)** — 
-- **[4. Interactional Epistemics and the Clamp on Infinite Permeability](human-foundations/4-interactional-epistemics-and-the-clamp-on-infinite-permeability.md)** —
-- **[5. Interactional Epistemics Limits Serialization and Intelligence as Remergence](human-foundations/5-interactional-epistemics-limits-serialization-and-intelligence-as-reemergence.md)** —
+- **[2. Interactional Epistemics Generalized](human-foundations/2-interactional-epistemics-generalized.md)** — extends interactional epistemics from scientific and philosophical models to abstraction in general, grounding knowledge in constraint rather than closure
+- **[3. Interactional Epistemics Friction and the Biological Click](human-foundations/3-interactional-epistemics-friction-and-the-biological-click.md)** — explains friction as internal telemetry and the “click” as cross-domain biological coherence under constraint 
+- **[4. Interactional Epistemics and the Clamp on Infinite Permeability](human-foundations/4-interactional-epistemics-and-the-clamp-on-infinite-permeability.md)** — shows why infinite openness dissolves agency and why closure is required for output, action, and bounded intelligence
+- **[5. Interactional Epistemics Limits Serialization and Intelligence as Remergence](human-foundations/5-interactional-epistemics-limits-serialization-and-intelligence-as-reemergence.md)** — derives intelligence as bounded agency that compresses, serializes, and redirects trajectory under enforcement
 
 
 **The Upper Emergent Stacks**
-- **[Collective Salience, Legitimacy, and the Metabolic Loop](tracing-stacks/collective-salience-legitimacy-and-the-metabolic-loop.md)** — emergence of the equally real stacks and it's metabolic loop with salience agents
-- **[Asymmetry Dwell Time](tracing-stacks/asymmetry-dwell-time.md)** — the duration an informational, coordination, or power asymmetry remains active before detection and correction
-- **[The Proactivity Trap and Constraint-Aware Justice](tracing-stacks/proactivity-trap-and-constraint-aware-justice.md)** — when justice becomes an unbounded local end, it can override constraint awareness and generate runaway dynamics
-- **[Trust, Runaway Local Ends, and Human Clamps](tracing-stacks/trust-runaway-local-ends-and-human-clamps.md)** — modern discourse frequently oscillates between two destabilizing poles, infinite suspicion and infinite confidence
+- **[Collective Salience, Legitimacy, and the Metabolic Loop](tracing-stacks/collective-salience-legitimacy-and-the-metabolic-loop.md)** — models society as a metabolic loop where salience agents and externalized coordination stacks co-produce legitimacy and collapse
+- **[Asymmetry Dwell Time](tracing-stacks/asymmetry-dwell-time.md)** — defines the duration an informational, coordination, or power asymmetry remains active before detection and correction
+- **[The Proactivity Trap and Constraint-Aware Justice](tracing-stacks/proactivity-trap-and-constraint-aware-justice.md)** — analyzes how unbounded justice, suspicion, and moral proactivity can become runaway feedback loops without negative feedback
+- **[Trust, Runaway Local Ends, and Human Clamps](tracing-stacks/trust-runaway-local-ends-and-human-clamps.md)** — frames trust as a strategic clamp on recursive suspicion while treating humans as real friction inside runaway systems
 
 
 **Constraint-Aware Policy Making and Engineering Strategies**
-- **[The Legitimacy of the Constraint-Centered Middle](constraint-aware-policy-making-and-engineering-strategies/1-the-legitimacy-of-the-constraint-centered-middle.md)** — constraints-aware policy making and the difference between political center and constraint-aware center
-- **[The Narrowing Corridor — Multi-Plane Constraint Topology](constraint-aware-policy-making-and-engineering-strategies/2-the-narrowing-corridor-multi-plane-constraint-topology.md)** — topological visualization of constraints and imagination
-- **[Clamp Realizm and Structural Legitimacy](constraint-aware-policy-making-and-engineering-strategies/3-clamp-realism-and-structural-legitimacy.md)** —
-- **[Local-End Capacity and Humanized Economic Ratios](constraint-aware-policy-making-and-engineering-strategies/4-local-end-capacity-and-humanized-economic-ratios.md)** — 
-- **[The Local-End Stability Doctrine](constraint-aware-policy-making-and-engineering-strategies/5-the-local-end-stability-doctrine-wip.md)** — 
+- **[1. The Legitimacy of the Constraint-Centered Middle](constraint-aware-policy-making-and-engineering-strategies/1-the-legitimacy-of-the-constraint-centered-middle.md)** — distinguishes the political center from the constraint center and grounds policy legitimacy in survivable structural equilibrium
+- **[2. The Narrowing Corridor — Multi-Plane Constraint Topology](constraint-aware-policy-making-and-engineering-strategies/2-the-narrowing-corridor-multi-plane-constraint-topology.md)** — models civilization as existing only within the shrinking overlap of multiple independent constraint planes
+- **[3. Clamp Realizm and Structural Legitimacy](constraint-aware-policy-making-and-engineering-strategies/3-clamp-realism-and-structural-legitimacy.md)** —  defines legitimacy through preservation, adaptive expansion, and environmental alignment rather than procedural abstraction alone
+- **[4. Local-End Capacity and Humanized Economic Ratios](constraint-aware-policy-making-and-engineering-strategies/4-local-end-capacity-and-humanized-economic-ratios.md)** — translates economic load into lived local-end consequences and ratios that humanize policy impact
+- **[5.1 The Local-End Stability Doctrine](constraint-aware-policy-making-and-engineering-strategies/5-1-the-local-end-stability-doctrine-wip.md)** — states the core doctrine: civilizations remain stable when most people retain enough bandwidth to sustain meaningful local ends within real constraints
+- **[5.2 Detecting Local-End Stability](constraint-aware-policy-making-and-engineering-strategies/5-2-detecting-local-end-stability.md)** — develops quantitative and lived-ground methods for detecting sufficiency, participation, and local-end erosion before crisis
+- **[5.3 Constraint-Aware Governance](constraint-aware-policy-making-and-engineering-strategies/5-3-constraint-aware-governance.md)** — applies the doctrine institutionally through adaptation windows, participation gradients, doctrine alignment, and constraint-bounded governance
+- **[5.4 Groundwork and Reality Drift](constraint-aware-policy-making-and-engineering-strategies/5-4-groundwork-and-reality-drift.md)** — defines the sensing function, failure modes, and load-bearing role of groundwork institutions in preventing abstraction drift
+- **[5.5 The Constraint Diplomacy](constraint-aware-policy-making-and-engineering-strategies/5-5-constraint-diplomacy.md)** — reframes international conflict through shared constraint compression and cooperative management of narrowing feasibility regions
+- **[5.6 The People and Their Systems](constraint-aware-policy-making-and-engineering-strategies/5-6-the-people-and-their-systems.md)** — treats education in reality tracing, constraint awareness, and interactional epistemics as civic co-clamping between publics and institutions
+ 
 
 
 **Integrated Text**
@@ -181,5 +187,5 @@ Artifacts may age.
 Tools may be refined.
 Constraints remain.
 
-Reality will decide.
+Reality will interact.
 
