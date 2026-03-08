@@ -1,9 +1,6 @@
 ---
 title: "Clamp Realism and Structural Legitimacy"
-status: "Working Extension (Expanded)"
 ---
-
-# Clamp Realism and Structural Legitimacy
 
 ## 1. The Inversion: Systems Accountable to People
 
