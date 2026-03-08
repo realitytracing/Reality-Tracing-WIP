@@ -1,7 +1,5 @@
 ---
-
 title: Free Will and Salience
-
 ---
 
 ## Status and Intent

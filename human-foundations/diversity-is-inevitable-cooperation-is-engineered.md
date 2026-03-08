@@ -1,11 +1,6 @@
 ---
 title: Diversity Is Inevitable, Cooperation Is Engineered
-status: Foundational Note
-scope: Governance, coordination theory, moral alignment, social stability
-position: Constraint-derived structural observation
 ---
-
-# Diversity Is Inevitable, Cooperation Is Engineed
 
 ## Abstract
 

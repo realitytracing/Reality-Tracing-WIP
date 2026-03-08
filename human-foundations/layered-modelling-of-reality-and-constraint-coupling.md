@@ -1,7 +1,5 @@
 ---
 title: Layered Modeling and Constraint Coupling
-status: Foundational (Operational, Non-Ontological)
-scope: cross-layer dynamics, emergence, constraint discipline
 ---
 
 ## Why Layers Exist at All

@@ -1,8 +1,5 @@
 ---
 title: Constraint-Aware Psychology (WIP)
-status: Foundational Artifact
-scope: Psychology, mental health, behavior, adaptation under constraint
-position: Re-derived from Reality Tracing, not imported
 ---
 
 ## Re-emergent Mental Dynamics Under Energy, Salience, and Locality
