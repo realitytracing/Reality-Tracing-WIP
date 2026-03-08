@@ -1,12 +1,6 @@
 ---
 title: Local-End Capacity and Humanized Economic Ratios
-artifact_type: Policy Diagnostics Framework
-section: Governance, Policy Evaluation, and Structural Legibility
-status: Working Draft (Revisable)
-related: Constraint-Aware Governance, Clamp Realism, Collective Salience
 ---
-
-# Local-End Capacity and Humanized Economic Ratios
 
 ## Purpose
 

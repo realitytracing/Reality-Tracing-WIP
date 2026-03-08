@@ -108,8 +108,11 @@ It does not command action. It clarifies constraints.
 
 
 **Constraint-Aware Policy Making and Engineering Strategies**
-- **[The Legitimacy of the Constraint-Centered Middle](constraint-aware-policy-making-and-engineering-strategies/the-legitimacy-of-the-constraint-centered-middle.md)** — constraints-aware policy making and the difference between political center and constraint-aware center
-- **[The Narrowing Corridor — Multi-Plane Constraint Topology](constraint-aware-policy-making-and-engineering-strategies/the-narrowing-corridor-multi-plane-constraint-topology.md)** — topological visualization of constraints and imagination
+- **[The Legitimacy of the Constraint-Centered Middle](constraint-aware-policy-making-and-engineering-strategies/1-the-legitimacy-of-the-constraint-centered-middle.md)** — constraints-aware policy making and the difference between political center and constraint-aware center
+- **[The Narrowing Corridor — Multi-Plane Constraint Topology](constraint-aware-policy-making-and-engineering-strategies/2-the-narrowing-corridor-multi-plane-constraint-topology.md)** — topological visualization of constraints and imagination
+- **[Clamp Realizm and Structural Legitimacy](constraint-aware-policy-making-and-engineering-strategies/3-clamp-realism-and-structural-legitimacy.md)** —
+- **[Local-End Capacity and Humanized Economic Ratios](constraint-aware-policy-making-and-engineering-strategies/4-local-end-capacity-and-humanized-economic-ratios.md)** — 
+- **[The Local-End Stability Doctrine](constraint-aware-policy-making-and-engineering-strategies/5-the-local-end-stability-doctrine-wip.md)** — 
 
 
 **Integrated Text**
