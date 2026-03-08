@@ -1,6 +1,5 @@
 ---
 title: Interactional Epistemics (WIP)
-subtitle: A Permeability Criterion for Scientific and Philosophical Models
 ---
 
 ## A Permeability Criterion for Scientific and Philosophical Models

@@ -1,9 +1,6 @@
 ---
 title: Interactional Epistemics Generalized (WIP)
-subtitle: Permeability, Constraint, and Abstraction in Scientific and Philosophical Modeling
 ---
-
-# Interactional Epistemics
 
 ## Permeability, Constraint, and Abstraction in Scientific and Philosophical Modeling
 

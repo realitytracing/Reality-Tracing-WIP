@@ -1,6 +1,5 @@
 ---
 title: "Limits, Serialization, and Intelligence as Re-Emergence"
-status: "Working Synthesis (Refined)"
 ---
 
 # Limits, Serialization, and Intelligence as Re-Emergence

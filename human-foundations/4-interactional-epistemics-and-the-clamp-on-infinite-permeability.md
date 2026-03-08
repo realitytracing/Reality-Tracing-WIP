@@ -1,10 +1,7 @@
 ---
-title: Space Heater Mode — The Dissolution of Agency
-status: Archive / Concept Definition
-related: Interactional Epistemics, Reality Tracing
+title: Interactional Epistemics and the Clamp on Infinite Permeability (Space Heater Mode)
 ---
 
-# Space Heater Mode  
 ## The Dissolution of Agency Under Infinite Permeability
 
 ---

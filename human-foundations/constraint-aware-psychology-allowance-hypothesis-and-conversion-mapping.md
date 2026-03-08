@@ -1,12 +1,7 @@
 ---
-title: Constraint-Aware Psychology (WIP)
-status: Foundational Artifact
-scope: Psychology, mental health, behavior, adaptation under constraint
-position: Re-derived from Reality Tracing, not imported
-section: Allowance Regime and Conversion Dynamics
+title: "Constraint-Aware Psychology: Allowance Regime and Crisis-Induced Re-Stabilization"
 ---
-
-# Allowance Regime and Crisis-Induced Re-Stabilization
+# 
 
 ## 1. Overview
 
