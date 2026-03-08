@@ -69,7 +69,7 @@ It does not command action. It clarifies constraints.
 - **[Prediction, Abstraction, and the Speed of Reality](human-foundations/prediction-abstraction-and-the-speed-of-reality.md)** — what closure is for under time and constraint, distinguishing naive realism from anticipatory, constraint-aware realism
 - **[Epistemic Cautions and Boundary Conditions](human-foundations/epistemic-cautions-and-boundary-conditions.md)** — Cautions of classical epistemic failure modes
 - **[Layered Reality and Constraint Coupling](human-foundations/layered-modelling-of-reality-and-constraint-coupling.md)** — how emergent layers are constrained from below and shaped from above
-- **[Interactional Epistemics (Standalone)(WIP)](human-foundations/interactional-epistemics.md)** — a guard against dogmatism
+- **[1. Interactional Epistemics (Standalone)(WIP)](human-foundations/1-interactional-epistemics.md)** — a guard against dogmatism
 
 
 **Tools**
@@ -93,6 +93,13 @@ It does not command action. It clarifies constraints.
 - **[Constraint-Aware Psychology (WIP)](human-foundations/constraint-aware-psychology-wip.md)** — reemergence of psychology through energy tracing and constraint
 
 
+**Foundational Epistemics II**
+- **[2. Interactional Epistemics Generalized](human-foundations/2-interactional-epistemics-generalized.md)** — interactional epistemics generalized to all abstractions
+- **[3. Interactional Epistemics Friction and the Biological Click](human-foundations/3-interactional-epistemics-friction-and-the-biological-click.md)** — 
+- **[4. Interactional Epistemics and the Clamp on Infinite Permeability](human-foundations/4-interactional-epistemics-and-the-clamp-on-infinite-permeability.md)** —
+- **[5. Interactional Epistemics Limits Serialization and Intelligence as Remergence](human-foundations/5-interactional-epistemics-limits-serialization-and-intelligence-as-reemergence.md)** —
+
+
 **The Upper Emergent Stacks**
 - **[Collective Salience, Legitimacy, and the Metabolic Loop](tracing-stacks/collective-salience-legitimacy-and-the-metabolic-loop.md)** — emergence of the equally real stacks and it's metabolic loop with salience agents
 - **[Asymmetry Dwell Time](tracing-stacks/asymmetry-dwell-time.md)** — the duration an informational, coordination, or power asymmetry remains active before detection and correction
@@ -102,7 +109,7 @@ It does not command action. It clarifies constraints.
 
 **Constraint-Aware Policy Making and Engineering Strategies**
 - **[The Legitimacy of the Constraint-Centered Middle](constraint-aware-policy-making-and-engineering-strategies/the-legitimacy-of-the-constraint-centered-middle.md)** — constraints-aware policy making and the difference between political center and constraint-aware center
-- **[The Narrowing Corridor — Multi-Plane Constraint Topology](the-narrowing-corridor-multi-plane-constraint-topology.md)** — topological visualization of constraints and imagination
+- **[The Narrowing Corridor — Multi-Plane Constraint Topology](constraint-aware-policy-making-and-engineering-strategies/the-narrowing-corridor-multi-plane-constraint-topology.md)** — topological visualization of constraints and imagination
 
 
 **Integrated Text**
