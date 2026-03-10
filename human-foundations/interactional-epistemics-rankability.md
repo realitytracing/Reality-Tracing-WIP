@@ -131,7 +131,7 @@ These are ranked primarily by **continued viability under triple constraint**.
 
 Their central question is:
 
-> How well does this construction remain viable under environmental limits, human limits, and salient structure over time?
+> How well does this construction remain viable under environmental limits, human limits, and salience structure over time?
 
 These two sides are related, but not identical.
 
@@ -223,7 +223,7 @@ They are ranked by how well they remain viable under the three major constraint 
 
 - **Environmental constraints**
 - **Human constraints**
-- **Salient structure / local-end stability**
+- **Salience structure / local-end stability**
 
 This is the **triple constraint**.
 
@@ -257,7 +257,7 @@ These include:
 
 A system that overloads humans to sustain itself ranks poorly, even if it appears productive.
 
-### 3. Salient Structure / Local-End Stability
+### 3. Salience Structure / Local-End Stability
 These include:
 
 - viability of meaningful local ends
