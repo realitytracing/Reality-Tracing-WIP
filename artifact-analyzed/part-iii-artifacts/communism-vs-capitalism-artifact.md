@@ -1,6 +1,6 @@
 ---
 
-title: Capitalism and Communism as Cost-Allocation Mechanisms
+title: Capitalism and Communism as Cost-Allocation Mechanisms (Meme artifact)
 
 ---
 *(Constraint + Patchwork View — Artifact)*
