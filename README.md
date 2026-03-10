@@ -100,7 +100,7 @@ It does not command action. It clarifies constraints.
 - **[5. Interactional Epistemics Limits Serialization and Intelligence as Remergence](human-foundations/5-interactional-epistemics-limits-serialization-and-intelligence-as-reemergence.md)** — derives intelligence as bounded agency that compresses, serializes, and redirects trajectory under enforcement
 - **[6. Interactional Epistemics Ontological Ratios and the Limits of Model Closure](human-foundations/6-interactional-epistemics-ontological-ratios-and-the-limits-of-model-closure.md)** — defines ontology as a sliding scale in itself, despite unquantifiability
 - **[7. Interactional Epistemics Foundational Epistemics — Reality ≠ Ontology](human-foundations/7-interactional-epistemics-foundational-epistemics-ontology-is-not-equal-to-reality.md)** — explains why ontology is not equal to reality and what it really is in the context of epistemology and in general conversation
-- **[8.
+- **[8. Interactional Epistemics Reality Tracing Inequalities](human-foundations/8-interactional-epistemics-foundational-inequalities.md)** — explains how reality coherence, coherent action in reality happens
 
 
 **The Upper Emergent Stacks**
