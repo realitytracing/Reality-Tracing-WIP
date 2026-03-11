@@ -125,7 +125,7 @@ It does not command action. It clarifies constraints.
 **Foundational Epistemics III**
 - **[Interactional Epistemics: Rankability](human-foundations/interactional-epistemics-rankability.md)** — describes a set of rankability criterion for use in comparative study, and to demonstrate false equivalences and false totalizations
 
-- **[Salience Capture Principle and the Plural Clamp Requirement]()** — explains why no salient sink can remain stable when self-grounding, and why viable systems require competing local ends and real constraints as anti-runaway clamps
+- **[Salience Capture Principle and the Plural Clamp Requirement](human-foundations/salience-capture-principle-and-the-plural-clamp-requirement.md)** — explains why no salient sink can remain stable when self-grounding, and why viable systems require competing local ends and real constraints as anti-runaway clamps
 
 **Integrated Text**
 
