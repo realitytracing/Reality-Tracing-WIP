@@ -352,7 +352,7 @@ Continued strategic closure is how systems remain livable **in the presence of p
 
 - **[Constraint-Centered Gun Policy Design Guide](../artifact-analyzed/part-iv-artifacts-hard/constraint-centered-gun-policy-design-guide.md)** — constraint-aware gun control policy design guide
 
-- **[National Security, Infinite Security, and the Ground of Protection](../artifact-analyzed/part-iv-artifacts-hard/salience-capture-principle-and-the-plural-clamp-requirement.md)** — constraint-Aware treatment of national security
+- **[National Security, Infinite Security, and the Ground of Protection](../artifact-analyzed/part-iv-artifacts-hard/national-security-infinite-security-and-the-ground-of-protection.md)** — constraint-Aware treatment of national security
 
 ---
 
