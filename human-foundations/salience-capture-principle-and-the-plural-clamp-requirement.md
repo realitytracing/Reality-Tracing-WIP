@@ -1,4 +1,3 @@
-
 ---
 title: Salience Capture Principle and the Plural Clamp Requirement
 artifact_type: Core Framework Document
