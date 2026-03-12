@@ -371,6 +371,7 @@ Disagreement should be resolved through:
 
 # 14. Expansions
 - **[Constraint-Aware Psychology Allowance Hypothesis and Conversion Mapping](constraint-aware-psychology-allowance-hypothesis-and-conversion-mapping.md)**
+-**[Deriving the Allowance Regime from Constraint, Salience, and Option-Space Reconfiguration](constraint-aware-psychology-allowance-regime-derivation-process.md)**
 
 ---
 
