@@ -1,35 +1,38 @@
 ---
 title: Salience Capture Principle and the Plural Clamp Requirement
 artifact_type: Core Framework Document
-section: Human Foundations / General Structural Doctrine
+section: General Structural Doctrine / Population-Scale Stability
 status: Working Draft (Revisable)
 related:
   - Salience
   - Local Ends
   - Habituation
   - Reality Tracing
-  - Free Will and Salience
-  - The Proactivity Trap and Constraint-Aware Justice
   - Trust, Runaway Local Ends, and Human Clamps
+  - The Proactivity Trap and Constraint-Aware Justice
+  - Asymmetry Dwell Time
+  - Collective Salience, Legitimacy, and the Metabolic Loop
+  - The Local-End Stability Doctrine
 ---
 
 # Salience Capture Principle and the Plural Clamp Requirement
 
 ## Purpose
 
-This document formalizes a general anti-runaway principle.
+This document formalizes a general anti-runaway principle for analyzing populations, institutions, and large-scale systems.
 
-Many human ends are legitimate in bounded form.
+Many ends are legitimate in bounded form.
 
-They become destabilizing when they absorb too much salience, suppress competing local ends, and begin to function as if they are self-grounding.
+They become destabilizing when they absorb too much collective salience, suppress competing local ends, and begin to function as if they are self-grounding.
 
 This document explains:
 
-- what salience capture is
+- what salience capture is at population scale
 - why it happens
 - why no local end can fully ground itself
 - why viable stability requires plural clamps
 - why suppression alone is an unstable anti-runaway strategy
+- how to detect clamp erosion in real systems
 
 This is a structural doctrine, not a moral verdict.
 
@@ -37,45 +40,53 @@ It does not claim that any specific end is always illegitimate.
 
 It claims that any salient sink can become destabilizing when totalized.
 
+Although the principle applies to individuals, its main use here is for:
+
+- population-wide analysis
+- institutional diagnosis
+- policy interpretation
+- civilizational stability assessment
+
 ---
 
 ## Core Claim
 
-Any local end becomes destabilizing when it captures salience without being clamped by:
+A population-scale system becomes destabilizing when one local end captures collective salience without being clamped by:
 
 - other viable local ends
 - real constraints
-- plural cares
+- plural cares across the population
 - conditions of continued viability
 
-A bounded local end can stabilize life.
+A bounded local end can stabilize a population.
 
 A self-grounding local end tends toward runaway.
 
 This principle applies across:
 
-- individual psychology
-- relationships
+- publics
 - institutions
-- politics
-- governance
-- civilizational systems
+- media systems
+- states
+- ideological movements
+- governance systems
+- civilizations
 
 ---
 
-## 1. Salience Capture
+# 1. Salience Capture at Population Scale
 
-Salience capture occurs when one end, demand, identity, metric, fear, or value absorbs too much of the system’s available salience and begins to reinterpret everything else in its own image.
+Salience capture occurs when one end, demand, metric, fear, identity, or value absorbs too much of a population’s available salience and begins to reinterpret surrounding reality in its own image.
 
 The structure is:
 
 **legitimate local end  
-→ salience amplification  
+→ collective salience amplification  
 → capture  
 → suppression of rival local ends  
 → instability**
 
-Examples of potentially legitimate local ends that can become captured include:
+Examples of potentially legitimate ends that can become collectively captured include:
 
 - security
 - justice
@@ -85,243 +96,362 @@ Examples of potentially legitimate local ends that can become captured include:
 - equality
 - efficiency
 - truth
-- identity
+- national identity
 - revenge
 - loyalty
 - optimization itself
 
 The problem is not that these ends exist.
 
-The problem is that any one of them can become totalized.
+The problem is that any one of them can become totalized and reorganize public life around itself.
+
+At population scale, this reorganization affects:
+
+- institutional priorities
+- public discourse
+- legitimacy signals
+- attention allocation
+- policy design
+- definitions of threat, virtue, or necessity
 
 ---
 
-## 2. Why Capture Happens
+# 2. Why Population-Scale Capture Happens
 
-Salience narrows.
+Collective salience narrows under pressure.
 
-Once one sink becomes dominant, it tends to reinterpret surrounding reality through itself.
+Once one sink becomes dominant, institutions, media, elites, and publics begin to reinterpret surrounding reality through it.
 
 Examples:
 
 - infinite justice sees mercy as betrayal
-- infinite safety sees freedom as threat
-- infinite freedom sees all restraint as tyranny
-- infinite productivity sees leisure as waste
-- infinite truth-seeking sees rest, attachment, and ordinary life as distraction
+- infinite security sees freedom as threat
+- infinite growth sees restraint as stagnation
 - infinite purity sees ambiguity as contamination
+- infinite productivity sees leisure as waste
+- infinite truth-enforcement sees ordinary pluralism as weakness
 - infinite loyalty sees criticism as treason
 
 This is the signature of capture:
 
-one local end becomes explanatorily sovereign.
+**one local end becomes explanatorily and institutionally sovereign.**
 
-Once that happens, the system begins to lose competing grounds of life.
+Once this happens, populations begin losing competing grounds of life.
+
+The result is not only ideological narrowing.
+
+It is structural fragility.
 
 ---
 
-## 3. No Local End Can Self-Ground
+# 3. No Local End Can Self-Ground
 
 A central claim of this framework:
 
 No local end can fully ground itself from within itself.
 
-Because human thought, valuation, and commitment are mediated through abstraction, no articulated end can justify itself absolutely without circularity.
+Because human valuation, public legitimacy, and institutional commitment are mediated through abstraction, no articulated end can justify itself absolutely without circularity.
 
-A local end can always say:
+At population scale, a captured end can always say:
 
-> I matter because I matter most.
+> this matters because it matters most
 
 But this is not grounding.
 
 It is self-expansion.
 
-A local end becomes structurally dangerous when it treats its own salience as sufficient proof of its absolute legitimacy.
+A local end becomes structurally dangerous when its own salience is treated as sufficient proof of its absolute legitimacy.
 
-Self-grounding produces closure without correction.
+This produces:
+
+- closure without correction
+- justification without rival goods
+- escalation without stopping condition
 
 The result is runaway.
 
 ---
 
-## 4. Grounding Through Relation and Constraint
+# 4. Grounding Through Relation and Constraint
 
 If no local end can fully ground itself, then grounding must come from elsewhere.
 
-A local end is grounded by:
+A population-scale end is grounded by:
 
 - what limits it
 - what it must coexist with
 - what it cannot destroy without destroying its own reason for existing
 - the larger conditions of viable life under which it remains meaningful
 
-This means grounding comes through:
+Grounding therefore comes through:
 
-- other local ends
-- biological limits
+- other local ends distributed across the population
+- biological and cognitive limits
 - environmental limits
-- social reciprocity
+- institutional trust limits
+- reciprocity requirements
 - reversibility limits
 - time and rate limits
-- legitimacy and trust constraints
+- legitimacy constraints
 
-Grounding is therefore relational and constraint-bound, not self-declared.
+Grounding is relational and constraint-bound, not self-declared.
 
 ---
 
-## 5. The Plural Clamp Requirement
+# 5. The Plural Clamp Requirement
 
 The clamp on a runaway local end cannot consist only of force, prohibition, or suppression.
 
-If the goal is viable stability, the clamp must include the plurality of local ends that make life worth stabilizing in the first place.
+If the goal is viable population-scale stability, the clamp must include the plurality of local ends that make social life worth stabilizing in the first place.
 
-A viable clamp must preserve or restore things like:
+A viable clamp must preserve or restore goods such as:
 
+- family life
 - friendship
-- family
 - ordinary joy
 - play
 - rest
 - dignity
+- privacy
 - curiosity
 - beauty
 - moral plurality
 - breathing room
 - civic disagreement
 - meaningful small-scale life
+- community participation
+- non-mobilized ordinary time
 
 These are not decorative extras.
 
-They are load-bearing grounds of human viability.
+They are **load-bearing grounds of population viability**.
 
 A system that suppresses one runaway only by destroying all rival goods often produces another runaway in its place.
 
 ---
 
-## 6. Stability Requires Plural Salience
+# 6. Plurality vs Aligned Sinks
 
-Stable systems require multiple viable salient sinks.
+Plurality does not simply mean that many local ends exist inside a population.
 
-This is not because plurality is fashionable.
-It is because single-sink totalization is structurally unstable.
+Multiple local ends can still collapse into a single salience sink if they align along the same underlying axis.
 
-A viable human system must distribute salience across more than one axis of life, including:
+For example, a society may appear to preserve plurality through:
 
-- survival
-- attachment
-- care
-- work
-- play
-- meaning
-- exploration
-- rest
-- participation
-- recovery
+- productivity
+- professional success
+- networking
+- self-optimization
+- personal branding
+- competitive health maintenance
 
-When one sink consumes all others:
+But if all of these ultimately reduce to one axis of status, output, or competitive performance, then they do not form a real plural clamp.
 
-- correction weakens
-- flexibility drops
-- rival grounds disappear
-- motivation narrows
-- fragility rises
+They form **distributed singularity**.
 
-Plural salience is therefore not indulgence.
+The ends appear many.
+The direction is one.
 
-It is anti-collapse structure.
+This matters because populations can mistake dense variation within one axis for real pluralism.
+
+That mistake hides fragility.
 
 ---
 
-## 7. Capture Across Scales
+# 7. Salience Vector Alignment
 
-This pattern appears at every scale.
+Population-scale local ends behave structurally like **vectors in salience space**.
 
-### Individual Psychology
-One obsession consumes the whole person.
+Each end pulls public attention, institutional energy, and legitimacy in a direction.
+
+When many ends align along the same axis, their forces reinforce one another.
+
+The result is **collective acceleration toward that axis**.
+
+A plural clamp requires **independent or partially orthogonal salience directions**.
+
+Independent directions allow:
+
+- competing priorities
+- friction
+- correction
+- distributed meaning
+- stabilization
+
+Without this independence, plurality collapses into a single runaway sink.
+
+---
+
+# 8. The Magnet Analogy
+
+Plural clamps can be understood through a simple metaphor.
+
+In a magnet, when many microscopic domains align in one direction, the magnetic field becomes strong and directional.
+
+Alignment produces amplification.
+
+When domains point in different directions, forces partially cancel.
+
+The field weakens and stabilizes.
+
+Population-scale salience behaves similarly.
+
+When a society’s values, incentives, narratives, and institutions all align toward one optimization axis:
+
+- security
+- purity
+- productivity
+- growth
+- justice
+- identity
+
+the whole system begins accelerating in that direction.
+
+Plural clamps function like **misaligned magnetic domains**.
+
+They prevent total alignment and therefore prevent runaway.
+
+---
+
+# 9. Correlated Failure and Population Fragility
+
+When many local ends align along the same axis, systems become vulnerable to **correlated failure**.
+
+If the dominant axis weakens, many dependent structures weaken together.
 
 Examples:
-- totalized success
-- totalized self-analysis
-- totalized fear
-- totalized justice
-- totalized optimization
 
-### Relationships
-One demand consumes the relationship.
+economic-status collapse  
+→ identity collapse  
+→ family stress  
+→ legitimacy decline  
+→ political radicalization
+
+or:
+
+security fear amplification  
+→ surveillance normalization  
+→ trust erosion  
+→ dissent suppression  
+→ legitimacy decay
+
+This is one reason populations require plural clamps.
+
+Plural clamps reduce correlated failure by preserving independent axes of value.
+
+If one axis weakens, others remain available as grounds of life.
+
+---
+
+# 10. Plural Salience and Distributed Attention
+
+Plural clamps also reduce systemic blind spots.
+
+When collective salience flows too strongly toward one sink:
+
+- public attention narrows
+- institutional detection narrows
+- alternative threats go unnoticed
+- misalignments persist longer
+- asymmetries grow undetected
+
+This increases **asymmetry dwell time**, because fewer agents, institutions, and publics are looking elsewhere.
+
+Plural salience distributes attention across multiple domains of life.
+
+Distributed attention improves resilience by lowering correlated blindness.
+
+Plurality here is not just about meaning.
+
+It is also about detection.
+
+---
+
+# 11. Capture Across Scales
+
+This pattern appears at every scale, but its most important consequences emerge at population scale.
+
+### Publics
+One narrative consumes public interpretation.
 
 Examples:
-- totalized loyalty
-- totalized suspicion
-- totalized caretaking
-- totalized control
+
+- everything becomes threat
+- everything becomes oppression
+- everything becomes growth
+- everything becomes betrayal
 
 ### Institutions
-One metric takes over and hollows out the mission.
+One metric hollows out the mission.
 
 Examples:
+
 - efficiency replacing care
 - growth replacing stewardship
 - compliance replacing judgment
 - optics replacing substance
+- security replacing civic normality
 
-### Nations
+### States
 One end totalizes public life.
 
 Examples:
+
 - infinite security
-- infinite purity
 - permanent mobilization
-- ideological totalization
+- ideological purity
+- civilizational mission inflation
 
 ### Civilizations
-One optimization regime begins consuming its human and environmental substrate.
+One optimization regime begins consuming its human and ecological substrate.
 
 This is not a niche rule.
 
-It is a general anti-runaway principle.
+It is a general anti-runaway principle for large-scale systems.
 
 ---
 
-## 8. Suppression Alone Is Not Enough
+# 12. Suppression Alone Is Not Enough
 
 Pure suppression says:
 
 > stop the runaway by force.
 
-This can be necessary in acute cases, but it is not sufficient as a general stabilization strategy.
+This can be necessary in acute cases but is not sufficient for long-term population stability.
 
 Suppression alone often fails because it does not restore rival grounds of life.
 
-Without restored alternative sinks:
+Without restored alternatives:
 
-- salience reaccumulates in the same direction
-- pressure goes underground
-- resentment increases
-- legitimacy decays
-- the runaway returns in altered form
+- salience reaccumulates
+- resentment grows
+- underground pressure builds
+- legitimacy erodes
+- capture returns in altered form
 
-A more viable anti-runaway strategy is:
+A more viable population-scale strategy is:
 
 - reduce the dominance of the captured sink
 - widen available grounds of meaning
 - restore competing local ends
 - reduce background overload
-- reintroduce plural cares
 - strengthen real-world clamps
+- lower correlated attention
+- rebuild non-captured zones of life
 
-The general move is not just to stop the runaway.
+The goal is not merely to stop runaway behavior.
 
-It is to restore a life in which the runaway no longer has to carry everything.
+It is to restore a society in which no single axis must carry everything.
 
 ---
 
-## 9. Real Constraints and Plural Local Ends
+# 13. Real Constraints and Viable Plurality
 
-The plural clamp requirement does not mean every local end should be preserved without limit.
+Plurality alone does not guarantee stability.
 
-Some local ends are directly incompatible with viability.
+Some local ends are incompatible with viability.
 
-Examples include local ends structured around:
+Examples include ends structured around:
 
 - domination
 - predation
@@ -330,28 +460,25 @@ Examples include local ends structured around:
 - coercive exploitation
 - irreversible harm as routine means
 
-These do not function as stabilizing plural grounds.
+These destroy the conditions required for plural salience.
 
-They destroy the very conditions required for plural salience and continued livability.
-
-The plural clamp requirement therefore operates inside real limits.
-
-It includes:
+Plural clamps therefore operate within real limits:
 
 - human constraints
 - environmental constraints
-- salient structure that preserves local-end stability
+- institutional limits
 - non-destructive coexistence
+- local-end stability conditions
 
-Plurality without viability is not stability.
+Plurality without viability is unstable.
 
-Suppression without plurality is also not stability.
+Suppression without plurality is also unstable.
 
-The doctrine concerns viable plurality under real constraint.
+The doctrine concerns **viable plurality under real constraint**.
 
 ---
 
-## 10. National Security as an Example
+# 14. National Security as an Example
 
 National security is a legitimate local end in bounded form.
 
@@ -368,8 +495,7 @@ An infinite security posture asks:
 
 - what if one more threat still exists
 - what if one more freedom must be suspended
-- what if one more expansion of surveillance is necessary
-- what if one more precaution is required
+- what if one more surveillance layer is required
 
 That path has no natural endpoint.
 
@@ -390,72 +516,215 @@ This same logic generalizes beyond national security.
 
 ---
 
-## 11. The Structural Rule
+# 15. Diagnostic: Does a Population Have a Real Plural Clamp?
 
-A concise formulation:
+A population or institution does **not** have a real plural clamp merely because it can list many values.
 
-**No salient sink should be allowed to become self-grounding.**
+It has a real plural clamp only if those values remain:
 
-A fuller version:
+- materially viable
+- institutionally legible
+- independently load-bearing
+- not fully reducible to one optimization axis
 
-**Any local end becomes destabilizing when it captures salience without being clamped by other viable local ends and real constraints.**
+The following tests are practical indicators.
 
-This is the salience capture principle.
+## 15.1 Reduction Test
 
-And the necessary corrective is:
+Ask:
 
-**The plural clamp requirement.**
+> Can most of the system’s stated values be reduced to one deeper optimization axis?
+
+If yes, plurality may be simulated rather than real.
+
+Examples:
+
+- everything reduced to security
+- everything reduced to growth
+- everything reduced to productivity
+- everything reduced to justice performance
+- everything reduced to ideological loyalty
+
+Apparent plurality with one underlying direction is not a true clamp.
+
+## 15.2 Conflict Test
+
+Ask:
+
+> Do the system’s major local ends ever legitimately resist one another?
+
+Real plurality produces real tension.
+
+Examples:
+
+- security vs privacy
+- growth vs stewardship
+- truth exposure vs trust preservation
+- work vs recovery
+- justice vs mercy
+
+If all values always resolve in favor of the same axis, plurality is likely false.
+
+## 15.3 Correlation Test
+
+Ask:
+
+> If one dominant axis fails, do many other social meanings fail with it?
+
+If yes, the system is highly correlated and weakly clamped.
+
+Examples:
+
+- status loss causes identity, belonging, and meaning collapse
+- economic slowdown causes total civic collapse of confidence
+- threat inflation causes broad collapse of trust and ordinary life
+
+High correlated failure suggests low plural-clamp integrity.
+
+## 15.4 Attention Distribution Test
+
+Ask:
+
+> Is public and institutional attention distributed across multiple load-bearing domains, or synchronized around one dominant sink?
+
+When attention becomes too synchronized:
+
+- blind spots widen
+- asymmetry dwell time increases
+- correction capacity falls
+
+A healthy plural clamp preserves distributed vigilance.
+
+## 15.5 Local-End Viability Test
+
+Ask:
+
+> Are multiple forms of ordinary life still materially and socially viable?
+
+This includes whether populations can still sustain:
+
+- family life
+- friendship
+- leisure
+- privacy
+- play
+- civic life
+- rest
+- non-competitive meaning
+- small-scale joy
+
+If these become systematically inaccessible, plural-clamp capacity is eroding.
+
+## 15.6 Institutional Translation Test
+
+Ask:
+
+> Do institutions materially protect more than one public good, or are all missions being translated into one dominant metric?
+
+Examples of erosion:
+
+- schools reduced to labor pipelines
+- health reduced to productivity maintenance
+- public safety reduced to suspicion management
+- politics reduced to permanent moral emergency
+
+Institutional monocoding is a sign of salience capture.
+
+## 15.7 Reversibility Test
+
+Ask:
+
+> Can the population still move away from the dominant sink without total destabilization?
+
+If exit, dissent, de-escalation, or reprioritization become impossible without identity collapse, the clamp is weak.
+
+Healthy plural clamps preserve room for reweighting.
 
 ---
 
-## 12. What the Doctrine Rejects
+# 16. Signs of Clamp Erosion
+
+Warning signs that a population’s plural clamp is weakening include:
+
+- more domains being interpreted through one master value
+- rising hostility toward rival local ends
+- increasing moralization of rest, privacy, joy, or ambiguity
+- loss of ordinary non-mobilized life
+- identity fusion around one collective sink
+- synchronized public attention
+- declining capacity to name what remains worth protecting beyond the dominant axis
+- rising correlated failure across institutions and meanings
+- growing asymmetry dwell time in unattended domains
+
+These signs do not prove collapse.
+
+They indicate increasing runaway risk.
+
+---
+
+# 17. Structural Rule
+
+A concise formulation:
+
+**No salient sink should be allowed to become self-grounding at population scale.**
+
+A fuller version:
+
+**Any local end becomes destabilizing when it captures collective salience without being clamped by other viable local ends and real constraints.**
+
+Plural clamps require **independent salience directions**.
+
+Aligned sinks behave as one sink.
+
+---
+
+# 18. What the Doctrine Rejects
 
 This doctrine rejects:
 
 - the idea that any single local end can become sovereign without cost
-- the belief that salience intensity proves ontological or political finality
-- the assumption that force alone can stabilize runaway systems
-- the fantasy that plural grounds of life are luxuries rather than structural necessities
-- the collapse of all value into one axis of optimization
+- the belief that salience intensity proves final legitimacy
+- the assumption that force alone stabilizes runaway systems
+- the collapse of all value into a single optimization axis
+- the illusion that internal variation within one axis counts as real plurality
 
 It also rejects the opposite error:
 
-- that all local ends are equally viable
 - that all plurality is stabilizing
-- that all restraints are oppressive
-- that all clamps are arbitrary
+- that all local ends are viable
+- that all restraints are arbitrary
+- that every competing sink should be preserved equally
 
-The issue is not plurality without structure.
+The issue is not plurality alone.
 
-It is viable plurality under real constraint.
+It is **viable plurality under constraint**.
 
 ---
 
-## 13. Implications
+# 19. Implications
 
 This principle has implications for:
 
-### Psychology
-Treatment of obsession, fixation, over-identification, and collapse should include restoration of rival local ends rather than only suppression.
-
-### Relationships
-Stable relationships require more than one load-bearing sink of meaning, duty, and attachment.
+### Public Analysis
+Population-wide instability often reflects salience capture rather than mere ideological disagreement.
 
 ### Institutions
-Institutional health requires preventing single-metric dominance and preserving mission plurality.
+Institutional health requires more than mission diversity on paper.
+It requires genuinely independent goods being preserved in practice.
 
-### Politics
-Political systems become unstable when one axis captures total legitimacy and suppresses competing grounds of life.
+### Policy
+Policy should not optimize one state function to infinity.
+It should preserve the plurality of local ends that sustain social legitimacy.
 
 ### Governance
-Constraint-aware governance must preserve multiple viable local ends rather than optimize one state function to infinity.
+Constraint-aware governance must detect when one axis is beginning to absorb too much collective salience.
 
-### Civilization
+### Civilizational Stability
 Civilizations remain stable only while enough distinct forms of life remain viable, meaningful, and non-totalized.
 
 ---
 
-## Final Compression
+# Final Compression
 
 Any salient sink can become runaway.
 
@@ -466,21 +735,24 @@ Grounding comes from:
 - other local ends
 - real constraints
 - plural cares
-- conditions of viable life
+- viable coexistence
 
-A system becomes unstable when one local end captures salience, suppresses rivals, and becomes self-justifying.
+Plural clamps require **independent salience directions**.
 
-Stability requires:
+Alignment converts apparent plurality into a single runaway sink.
 
-- bounded ends
-- plural salience
-- real constraints
-- restored rival grounds of life
+A population with real plural clamps preserves:
+
+- distributed attention
+- multiple viable forms of life
+- rival grounds of legitimacy
+- lower correlated failure
+- greater resilience under strain
 
 Runaway local end  
-→ unstable
+→ population-scale instability
 
-Bounded local end  
+Bounded local ends  
 + plural clamp  
 + real constraints  
-→ viable stability
+→ viable collective stability
