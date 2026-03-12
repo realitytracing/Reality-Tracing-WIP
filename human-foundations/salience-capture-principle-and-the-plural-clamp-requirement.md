@@ -405,7 +405,7 @@ Examples:
 ### Civilizations
 One optimization regime begins consuming its human and ecological substrate.
 
-This is not a niche rule.
+This is not a niche rule. 
 
 It is a general anti-runaway principle for large-scale systems.
 
@@ -442,6 +442,76 @@ A more viable population-scale strategy is:
 The goal is not merely to stop runaway behavior.
 
 It is to restore a society in which no single axis must carry everything.
+
+---
+
+## Axis-Bound Suppression and Orthogonal Restoration
+
+Suppression alone often fails because it remains organized by the same directional axis as the runaway it opposes.
+
+A captured sink does not disappear merely because the system begins resisting it.
+
+If attention, fear, correction, and self-monitoring all remain oriented around the same underlying axis, then salience is still trapped inside the same attractor basin.
+
+This is **axis-bound suppression**.
+
+Examples include:
+
+- paranoia opposed through further safety analysis
+- productivity obsession opposed through guilt-driven anti-productivity monitoring
+- purity obsession opposed through purity about non-purity
+- security overreach opposed through permanent security-centered discourse
+- identity capture opposed through obsessive anti-identity positioning
+
+In these cases, the content changes from pursuit to resistance, but the direction remains the same.
+
+The system has not exited the sink.
+
+It is still thinking in its terms.
+
+This is why suppression can produce **false plurality**.
+
+The surface appears to contain opposition, but both sides remain aligned along the same salience axis.
+
+A real clamp requires **orthogonal restoration**.
+
+An orthogonal local end does not merely resist the runaway.
+It redirects salience into a different mode of life.
+
+Examples include:
+
+- painting eggshells
+- fixing a car
+- correcting posture
+- tending a garden
+- talking to a local bartender
+- cooking for someone
+- repairing an object
+- taking a walk without optimization pressure
+- participating in ordinary community rituals
+
+These do not argue against the runaway from within its frame.
+
+They create another ground of experience.
+
+They absorb salience outside the captured axis and restore alternative structures of meaning, embodiment, and care.
+
+This is the difference between:
+
+- **false plurality** — many activities still aligned along one directional axis
+- **real plurality** — independent or partially orthogonal local ends that redistribute salience
+
+The anti-runaway task is therefore not only to suppress the dominant sink.
+
+It is to restore ways of living that do not have to pass through it.
+
+A concise formulation:
+
+**Opposition is not escape if it stays on the same axis.**
+
+A fuller formulation:
+
+**Suppression alone often fails because it remains organized by the same salience direction as the runaway. A real clamp must introduce orthogonal local ends that redirect attention, energy, and meaning into other viable grounds of life.**
 
 ---
 
