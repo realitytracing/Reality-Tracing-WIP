@@ -8,6 +8,7 @@ related:
   - Constraints
   - Layered Reality and Constraint Coupling
   - Deriving the Salience Structure from Finite Transformation and Constraint
+  - Deriving the Allowance Regime from Constraint, Salience, and Option-Space Reconfiguration
   - Salience
   - Local Ends
   - Habituation
@@ -21,7 +22,7 @@ related:
 This document explains the methodological role of **infinities** and **clamps** in this framework.
 
 It does not treat infinity as automatically false.
-It does not treat a clamp as a literal object.
+It does not treat a clamp as a literal object by default.
 
 Instead, it treats both as tools for tractable inquiry.
 
@@ -69,6 +70,12 @@ Such categories may later be:
 
 if boundary conditions change or improved data shows the original partition was premature.
 
+A central rule of this framework is:
+
+**Category is the default; objecthood must be earned.**
+
+Unless stable objecthood has been clearly demonstrated through robust correlation to reality, the safer treatment is as a virtual category open to further nesting and refinement.
+
 ---
 
 # 1. Why Use the Word “Infinity”
@@ -109,9 +116,13 @@ It is often a diagnostic signal.
 
 It asks:
 
-> What keeps this going?
-> What stops it in reality, if reality does stop it?
+> What keeps this going?  
+> What stops it in reality, if reality does stop it?  
 > What is missing from the abstraction if the real system does not run infinitely?
+
+A concise formulation:
+
+**Infinity is what continuation looks like after constraints disappear from the model.**
 
 ---
 
@@ -146,6 +157,10 @@ This makes infinity a useful methodological prompt.
 A concise formulation:
 
 **When abstraction runs infinitely, ask whether reality does too; if not, the missing clamp is part of the explanation.**
+
+A second formulation:
+
+**Infinity is a diagnostic question: what keeps this going, and what stops it if reality does?**
 
 ---
 
@@ -235,6 +250,26 @@ In physical modeling:
 
 A clamp is therefore introduced wherever some continuation must be prevented, shaped, redirected, or terminated in order for the system to remain itself.
 
+This does not mean reality “says no.”
+
+More literally:
+
+- effort meets a medium
+- the medium has properties
+- interaction occurs
+- some energy rebounds
+- some dissipates
+- some deforms the medium
+- some deforms the entering form
+- and if the mismatch is severe enough, the original organized system cannot remain what it was
+
+Constraint is not primarily verbal.
+It is interaction.
+
+A concise formulation:
+
+**Reality does not refuse rhetorically; it enforces structurally.**
+
 ---
 
 # 5. What a Clamp Is
@@ -266,6 +301,10 @@ A concise formulation:
 
 **Clamp names a function at a resolution, not a thing in itself.**
 
+Another:
+
+**A clamp is a coarse-grained tractability category for whatever stops the infinity.**
+
 ---
 
 # 6. Why Clamp Categories Are Virtual
@@ -282,38 +321,91 @@ It means they are treated as **virtual tractability categories**:
 - revisable under better evidence
 - not claimed as final ontology
 
-At coarse grain, one clamp may summarize:
+The use of virtual categories allows otherwise hard-to-describe phenomena to remain tractable when no clear deterministic mapping to lower-level physical variants and invariants is yet known.
 
-- many lower-level mechanisms
-- a family of interacting constraints
-- several coupled pathways
-- a distributed stabilizing function
+This is important because many phenomena are:
 
-At finer grain, the same clamp may:
+- real enough to matter
+- real enough to constrain outcomes
+- real enough to interact with other systems
+- but not yet cleanly mappable to lower-level structure
 
-- split into sub-clamps
-- be re-partitioned
-- be replaced by a better mapping
-- or disappear if it was a premature abstraction
+Examples include categories such as:
+
+- economy
+- legitimacy
+- trust
+- salience
+- local ends
+- institutional drift
+
+These are not used because their ontology has been fully settled.
+
+They are used because they track real interaction patterns and real effects.
+
+Some of those effects occur within other virtual categories.
+Others ultimately cash out in the physical world through bodies, materials, and particles.
+
+A concise formulation:
+
+**Virtual categories are not substitutes for reality; they are tractable handles for real interaction patterns whose lower-level mappings remain unclear.**
 
 ---
 
-# 7. Clamp Failure and Clamp Destruction
+# 7. Virtual Categories, Nesting, and Objecthood
+
+There is no default warrant to treat a useful abstraction as an object rather than a category.
+
+As a general rule, a virtual category is the safer epistemic default and may be nested through multiple levels of refinement unless objecthood is clearly earned.
+
+This means:
+
+- a coarse virtual category may contain subcategories
+- those subcategories may themselves be virtual
+- the framework can descend through multiple layers without prematurely claiming final objects
+
+For example:
+
+- salience may be treated as a virtual category
+- kinds of salience may be treated as virtual subcategories
+- clamp families within those may also remain virtual categories
+- and so on, until objecthood is better supported or the inquiry changes resolution
+
+Objecthood is a stronger claim.
+
+It should be reserved for cases where there is robust evidence of:
+
+- stable boundary persistence
+- strong cross-context correlation
+- clearer mapping to reality
+- more independent detectability
+- greater resistance to reinterpretation at new resolutions
+
+A concise formulation:
+
+**Virtual category is the default; fine-grained objecthood is a stronger claim that must be earned through robust correlation to reality rather than granted by explanatory convenience alone.**
+
+---
+
+# 8. Clamp Failure and Clamp Destruction
 
 Because clamps are tractability categories rather than sacred objects, they may fail.
 
 A clamp may need revision or destruction when:
 
-## 7.1 Boundary Conditions Shift
+## 8.1 Boundary Conditions Shift
+
 The clamp only worked under one regime.
 Change the regime, and it no longer explains the system.
 
-## 7.2 The Original Partition Was Premature
+## 8.2 The Original Partition Was Premature
+
 The clamp was inferred too early from insufficient data.
 
 It was temporarily useful, but later evidence shows it was the wrong cut.
 
-## 7.3 Resolution Increases
+## 8.3 Resolution Increases
+
 What appeared as one clamp at coarse grain dissolves into:
 
 - multiple interacting mechanisms
@@ -330,7 +422,7 @@ A concise formulation:
 
 ---
 
-# 8. The Core Method
+# 9. The Core Method
 
 The infinities-and-clamps method works approximately as follows:
 
@@ -357,7 +449,7 @@ Each pass gives finer resolution.
 
 ---
 
-# 9. The Method Is Recursive
+# 10. The Method Is Recursive
 
 One of the strengths of the method is that it is not limited to a single explanatory pass.
 
@@ -390,7 +482,7 @@ A concise formulation:
 
 ---
 
-# 10. Coarse Grain and Fine Grain
+# 11. Coarse Grain and Fine Grain
 
 The method is explicitly scale-sensitive.
 
@@ -427,30 +519,42 @@ Instead:
 - finer-grain explanation provides refinement
 - both are constrained by interaction with reality
 
+Where direct fine-grained probing is limited, ethically constrained, destructive, or structurally inaccessible, understanding should proceed by constrained structural inference from what reality reliably permits, prevents, and stabilizes.
+
+A concise formulation:
+
+**Where direct fine-grained probing is limited, understanding should proceed by constrained structural inference from what reality reliably permits, prevents, and stabilizes.**
+
 ---
 
-# 11. Why This Matters Beyond Psychology
+# 12. Why This Matters Beyond Psychology
 
 Although this method helped derive mind-level structures such as salience, local ends, and habituation, it is not limited to psychology.
 
 It can be used in:
 
 ## Physics
+
 If a simplified model runs indefinitely, ask what interaction or boundary condition was omitted.
 
 ## Biology
+
 If a process appears indefinitely self-amplifying, ask what homeostatic or ecological clamp limits it.
 
 ## Politics
+
 If one value appears infinitely extendable, ask what rival goods or real constraints must bound it.
 
 ## Institutions
+
 If one metric expands without end, ask what mission-good, friction, or trust condition has been dropped.
 
 ## Governance
+
 If one policy direction totalizes, ask what plural goods or legitimacy clamps are missing.
 
 ## Culture
+
 If one narrative consumes all meaning, ask what competing grounds of life have been eroded.
 
 This is why the method is broad:
@@ -458,7 +562,7 @@ it is a way of tracing where abstraction outruns viable continuation.
 
 ---
 
-# 12. Why Imagination Needs This Method
+# 13. Why Imagination Needs This Method
 
 Imagination is powerful because it allows exploration beyond current observation.
 
@@ -485,9 +589,12 @@ So the method is not anti-possibility.
 
 It is anti-unbounded abstraction drift.
 
+Imagination lets directions keep going.
+Reality makes them interact.
+
 ---
 
-# 13. Relationship to Reality Tracing
+# 14. Relationship to Reality Tracing
 
 Reality tracing asks that models remain in contact with:
 
@@ -511,7 +618,7 @@ This makes the method a natural tool inside reality tracing.
 
 ---
 
-# 14. What This Method Does Not Claim
+# 15. What This Method Does Not Claim
 
 This method does **not** claim:
 
@@ -521,15 +628,19 @@ This method does **not** claim:
 - that all systems can be fully reduced by recursive questioning
 - that every apparent stopping function is fundamental
 - that every coarse model survives better data
+- that every useful category should be treated as an object
 
 It claims something narrower:
 
 Finite coherent systems usually require structured limits on unconstrained continuation.
+
 Where an abstraction appears to run freely but reality does not, some relevant structure is missing from the model.
+
+That missing structure may initially be best modeled as a virtual tractability category rather than a final object.
 
 ---
 
-# 15. Methodological Principle
+# 16. Methodological Principle
 
 A concise formulation:
 
@@ -542,6 +653,10 @@ A second formulation:
 A third:
 
 **A clamp is a coarse-grained tractability category for whatever stops the infinity.**
+
+A fourth:
+
+**Category is the default; objecthood must be earned.**
 
 ---
 
@@ -559,6 +674,8 @@ That missing structure is provisionally modeled as a clamp.
 
 A clamp is not a final object.
 At coarse grain it is a tractability category for whatever stops, shapes, or redirects continuation at that resolution.
+
+Virtual categories are used because many real interaction patterns remain useful before clean objecthood or deterministic lower-level mapping has been established.
 
 The method is recursive:
 
