@@ -123,6 +123,7 @@ It does not command action. It clarifies constraints.
 - **[5.4 Groundwork and Reality Drift](constraint-aware-policy-making-and-engineering-strategies/5-4-groundwork-and-reality-drift.md)** — defines the sensing function, failure modes, and load-bearing role of groundwork institutions in preventing abstraction drift
 - **[5.5 The Constraint Diplomacy](constraint-aware-policy-making-and-engineering-strategies/5-5-constraint-diplomacy.md)** — reframes international conflict through shared constraint compression and cooperative management of narrowing feasibility regions
 - **[5.6 The People and Their Systems](constraint-aware-policy-making-and-engineering-strategies/5-6-the-people-and-their-systems.md)** — treats education in reality tracing, constraint awareness, and interactional epistemics as civic co-clamping between publics and institutions
+- **[Layered Counterbalances for Monocoded Societies](constraint-aware-policy-making-and-engineering-strategies/6-layered-counterbalances-for-monocoded-societies.md)** — this document formalizes a policy and engineering response to monocoding
  
 **Foundational Epistemics III**
 - **[Interactional Epistemics: Rankability](human-foundations/interactional-epistemics-rankability.md)** — describes a set of rankability criterion for use in comparative study, and to demonstrate false equivalences and false totalizations
