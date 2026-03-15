@@ -19,12 +19,13 @@ related:
 
 ## Purpose
 
-This document explains the methodological role of **infinities** and **clamps** in this framework.
+This document explains the methodological role of **infinities**, **clamps**, and **objecthood** in this framework.
 
 It does not treat infinity as automatically false.
 It does not treat a clamp as a literal object by default.
+It does not grant objecthood automatically to every useful abstraction.
 
-Instead, it treats both as tools for tractable inquiry.
+Instead, it treats all three as tools for tractable inquiry at different levels of epistemic strength.
 
 The method begins from a simple observation:
 
@@ -39,7 +40,7 @@ Where an abstraction appears to run toward infinity, one of several things is us
 - the abstraction has omitted competing interactions
 - the abstraction has not yet been refined to the right resolution
 
-This document formalizes that method.
+This document formalizes that method and explains why, despite the primacy of virtual categories at coarse grain, **objecthood still matters**.
 
 ---
 
@@ -54,6 +55,7 @@ It explains how the framework uses infinities and clamps to:
 - derive virtual explanatory categories
 - prevent runaway abstraction
 - refine coarse models into better ones
+- distinguish virtual categories from stronger object claims
 
 This document does **not** claim that clamps are final objects.
 
@@ -387,24 +389,126 @@ A concise formulation:
 
 ---
 
-# 8. Clamp Failure and Clamp Destruction
+# 8. Why Objecthood Is a Thing
+
+Objecthood matters because some structures do more than help tractability within one theory.
+
+Some structures are robust enough that, even if theories around them change, collapse, or are replaced, they remain rediscoverable.
+
+This is the practical meaning of objecthood in this framework.
+
+An object is not merely:
+
+- a useful label
+- a temporary partition
+- a convenient explanatory handle
+
+It is a structure that shows enough stability across scopes, methods, and interpretive changes that it keeps forcing contact.
+
+This matters because human understanding is always distributed across:
+
+- different scopes
+- different frames of view
+- different timescales
+- different layers of explanation
+
+Theories at one scope may fail to translate cleanly into another.
+Maps may change.
+Explanatory vocabularies may collapse.
+But some structures remain unavoidable.
+
+They keep reappearing under renewed tracing.
+
+Examples in this broad sense may include things like:
+
+- time
+- energy
+- particles
+- atoms
+- molecules
+- cells
+- bodies
+- human metabolic limits
+- some recurrent organismal or ecological structures
+
+These are not important because one historical theory named them.
+They are important because they continue to resist erasure.
+
+Even after theory loss, scope change, or integration across layers, sufficiently robust objects can often be rediscovered through renewed interaction with reality.
+
+That is what makes objecthood stronger than mere category usefulness.
+
+A concise formulation:
+
+**Objecthood matters because some structures survive the death of their theories better than merely useful categories do.**
+
+Another:
+
+**An object is something reality keeps forcing us to meet again.**
+
+---
+
+# 9. Why Objecthood Must Still Be Earned
+
+Even though objecthood matters, it must still be earned.
+
+Why?
+
+Because many abstractions feel object-like long before they deserve that status.
+
+A category may feel strong because it is:
+
+- explanatorily convenient
+- culturally entrenched
+- emotionally vivid
+- rhetorically powerful
+- widespread in discourse
+
+But those are not sufficient reasons for objecthood.
+
+Objecthood becomes more plausible when a structure shows:
+
+- persistent reappearance across different scopes
+- robust detectability through different methods
+- resistance to frame change
+- boundary persistence under refinement
+- continued forcing power even after theory revision
+
+This is why the framework does not deny objecthood.
+It disciplines it.
+
+Objecthood is not the default because premature objecthood hardens categories that may later need to be:
+
+- split
+- refined
+- nested
+- destroyed
+- or reinterpreted
+
+A concise formulation:
+
+**Objecthood is real, but it is a high bar.**
+
+---
+
+# 10. Clamp Failure and Clamp Destruction
 
 Because clamps are tractability categories rather than sacred objects, they may fail.
 
 A clamp may need revision or destruction when:
 
-## 8.1 Boundary Conditions Shift
+## 10.1 Boundary Conditions Shift
 
 The clamp only worked under one regime.
 Change the regime, and it no longer explains the system.
 
-## 8.2 The Original Partition Was Premature
+## 10.2 The Original Partition Was Premature
 
 The clamp was inferred too early from insufficient data.
 
 It was temporarily useful, but later evidence shows it was the wrong cut.
 
-## 8.3 Resolution Increases
+## 10.3 Resolution Increases
 
 What appeared as one clamp at coarse grain dissolves into:
 
@@ -422,7 +526,7 @@ A concise formulation:
 
 ---
 
-# 9. The Core Method
+# 11. The Core Method
 
 The infinities-and-clamps method works approximately as follows:
 
@@ -449,7 +553,7 @@ Each pass gives finer resolution.
 
 ---
 
-# 10. The Method Is Recursive
+# 12. The Method Is Recursive
 
 One of the strengths of the method is that it is not limited to a single explanatory pass.
 
@@ -482,7 +586,7 @@ A concise formulation:
 
 ---
 
-# 11. Coarse Grain and Fine Grain
+# 13. Coarse Grain and Fine Grain
 
 The method is explicitly scale-sensitive.
 
@@ -527,7 +631,7 @@ A concise formulation:
 
 ---
 
-# 12. Why This Matters Beyond Psychology
+# 14. Why This Matters Beyond Psychology
 
 Although this method helped derive mind-level structures such as salience, local ends, and habituation, it is not limited to psychology.
 
@@ -562,7 +666,7 @@ it is a way of tracing where abstraction outruns viable continuation.
 
 ---
 
-# 13. Why Imagination Needs This Method
+# 15. Why Imagination Needs This Method
 
 Imagination is powerful because it allows exploration beyond current observation.
 
@@ -594,7 +698,7 @@ Reality makes them interact.
 
 ---
 
-# 14. Relationship to Reality Tracing
+# 16. Relationship to Reality Tracing
 
 Reality tracing asks that models remain in contact with:
 
@@ -616,9 +720,17 @@ It asks:
 
 This makes the method a natural tool inside reality tracing.
 
+Objecthood matters here as well, because some structures are not just useful for one trace.
+They become anchor points across many traces.
+
+They allow partial reconstruction across changing scopes, lost theories, and new integrations.
+
+That is why the framework does not reject objecthood.
+It simply refuses to grant it too easily.
+
 ---
 
-# 15. What This Method Does Not Claim
+# 17. What This Method Does Not Claim
 
 This method does **not** claim:
 
@@ -638,9 +750,11 @@ Where an abstraction appears to run freely but reality does not, some relevant s
 
 That missing structure may initially be best modeled as a virtual tractability category rather than a final object.
 
+Some structures later earn stronger objecthood claims precisely because they remain robust across theory change and continued tracing.
+
 ---
 
-# 16. Methodological Principle
+# 18. Methodological Principle
 
 A concise formulation:
 
@@ -657,6 +771,10 @@ A third:
 A fourth:
 
 **Category is the default; objecthood must be earned.**
+
+A fifth:
+
+**Objecthood marks structures that remain forcing and rediscoverable across changing theories, scopes, and methods.**
 
 ---
 
@@ -677,6 +795,9 @@ At coarse grain it is a tractability category for whatever stops, shapes, or red
 
 Virtual categories are used because many real interaction patterns remain useful before clean objecthood or deterministic lower-level mapping has been established.
 
+Objecthood still matters because some structures are robust enough to survive theory loss, scope change, and re-tracing.
+They remain rediscoverable because reality keeps forcing contact with them.
+
 The method is recursive:
 
 - identify the infinity
@@ -685,4 +806,4 @@ The method is recursive:
 - identify the failure of the clamp
 - refine the model
 
-Used well, this method improves tractability, reveals missing structure, and prevents abstraction from outrunning the conditions that make finite coherent life, thought, and systems possible.
+Used well, this method improves tractability, reveals missing structure, disciplines object claims, and prevents abstraction from outrunning the conditions that make finite coherent life, thought, and systems possible.
