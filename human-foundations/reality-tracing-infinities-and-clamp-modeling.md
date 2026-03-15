@@ -78,6 +78,12 @@ A central rule of this framework is:
 
 Unless stable objecthood has been clearly demonstrated through robust correlation to reality, the safer treatment is as a virtual category open to further nesting and refinement.
 
+This framework does not reduce objecthood to ordinary physical chunkiness.
+
+Some objects are encountered not because they are easy to point at, but because they continue to reemerge through tracing across changing frames, methods, and scopes.
+
+Objecthood therefore matters because some structures survive the death of their theories better than merely useful categories do.
+
 ---
 
 # 1. Why Use the Word “Infinity”
@@ -213,7 +219,7 @@ These are not necessarily errors.
 The methodological task is to prevent confusion between:
 
 - formal infinity
-- and empirical continuation
+- empirical continuation
 
 The issue is not whether infinity appears in thought.
 The issue is whether that infinity is being misapplied to a finite interacting system.
@@ -382,6 +388,17 @@ It should be reserved for cases where there is robust evidence of:
 - clearer mapping to reality
 - more independent detectability
 - greater resistance to reinterpretation at new resolutions
+- reemergence under renewed tracing even when theories change
+
+Objecthood is not limited to ordinary physical things in the narrow sense.
+
+An object, in this framework, is any sufficiently robust structure that reappears through stable invariants across varying contexts, scopes, and descriptions.
+
+This does not eliminate abstraction.
+Even physical things are only available to us through filtered data once perceived or described.
+
+So objecthood does not mean unmediated access.
+It means strong enough reality-correlation that the structure continues to force reencounter across tracing.
 
 A concise formulation:
 
@@ -615,7 +632,7 @@ At finer grain, these may be refined by:
 This means the framework does not force a choice between:
 
 - “only fine-grain explanation matters”
-- or “coarse-grain structure is enough forever”
+- “coarse-grain structure is enough forever”
 
 Instead:
 
@@ -774,7 +791,7 @@ A fourth:
 
 A fifth:
 
-**Objecthood marks structures that remain forcing and rediscoverable across changing theories, scopes, and methods.**
+**An object is something reality keeps making us rediscover, even though every rediscovery remains mediated by abstraction.**
 
 ---
 
@@ -795,8 +812,11 @@ At coarse grain it is a tractability category for whatever stops, shapes, or red
 
 Virtual categories are used because many real interaction patterns remain useful before clean objecthood or deterministic lower-level mapping has been established.
 
-Objecthood still matters because some structures are robust enough to survive theory loss, scope change, and re-tracing.
+Objecthood still matters because some structures are robust enough to survive theory loss, scope change, and renewed tracing.
 They remain rediscoverable because reality keeps forcing contact with them.
+
+Even then, objecthood does not eliminate abstraction.
+It marks structures that remain strongly reality-correlated despite our access to them always being mediated by filtered data and description.
 
 The method is recursive:
 
