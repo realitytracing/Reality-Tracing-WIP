@@ -131,7 +131,7 @@ These are ranked primarily by **continued viability under triple constraint**.
 
 Their central question is:
 
-> How well does this construction remain viable under environmental limits, human limits, and salience structure over time?
+> How well does this construction remain viable under environmental limits, human limits, and salient structure over time?
 
 These two sides are related, but not identical.
 
@@ -223,7 +223,7 @@ They are ranked by how well they remain viable under the three major constraint 
 
 - **Environmental constraints**
 - **Human constraints**
-- **Salience structure / local-end stability**
+- **Salient structure / local-end stability**
 
 This is the **triple constraint**.
 
@@ -257,7 +257,7 @@ These include:
 
 A system that overloads humans to sustain itself ranks poorly, even if it appears productive.
 
-### 3. Salience Structure / Local-End Stability
+### 3. Salient Structure / Local-End Stability
 These include:
 
 - viability of meaningful local ends
@@ -319,4 +319,211 @@ Even without a total ordering, some models clearly rank lower.
 A model or construction ranks lower when it systematically:
 
 - loses contact with constraint
-- collapses
+- collapses under wider interaction
+- becomes self-sealing under correction pressure
+- produces avoidable catastrophic error
+- externalizes cost invisibly
+- destroys recoverability
+- consumes human or environmental substrate faster than it can be restored
+- preserves only symbolic consistency while sacrificing viability
+
+These are not merely stylistic weaknesses.
+
+They are structural failures.
+
+---
+
+# Three Major Failure Modes of Lower-Ranked Abstractions
+
+## 1. Narrow Sealed Success
+A model works inside a narrow frame but collapses when brought into wider interaction.
+
+Example form:
+
+- explains one domain well
+- fails when other constraints enter
+- survives only by excluding correction
+
+## 2. Broad but Empty Vagueness
+A model appears to fit many cases only because it becomes too abstract to discriminate.
+
+Example form:
+
+- “everything is power”
+- “everything is narrative”
+- “everything is incentives”
+
+It expands, but loses meaningful structure.
+
+## 3. Broad Expansion with High Distortion
+A model travels across many domains but loses too much coherence, predictive utility, or constraint contact in the process.
+
+It does not fully break, but it degrades enough to lose rank.
+
+---
+
+# Rankability Is Not Historical Progress
+
+A high-ranked abstraction is not guaranteed to survive history.
+
+Civilizations may lose knowledge through:
+
+- institutional collapse
+- archival destruction
+- loss of interpretive scaffolding
+- educational decay
+- language drift
+- symbolic ritualization without understanding
+- salience reorganization under crisis
+- undecipherable records
+
+Higher-ranked abstractions may therefore:
+
+- disappear
+- fragment
+- be forgotten
+- become unusable
+- later re-emerge independently
+
+Rankability measures **alignment quality**, not guaranteed civilizational retention.
+
+Reality may select for better abstractions.
+History does not guarantee their preservation.
+
+---
+
+# Rankability vs Retention
+
+A useful distinction:
+
+## Epistemic Rankability
+How well an abstraction aligns with reality under widening interaction.
+
+## Retention Viability
+How likely that abstraction is to remain:
+
+- preserved
+- interpretable
+- transmissible
+- institutionally maintained
+- recoverable after disruption
+
+A society may retain lower-ranked abstractions and lose higher-ranked ones.
+
+This is not evidence against rankability.
+It is evidence that memory, institutions, and civilizational continuity are themselves constrained.
+
+---
+
+# Why Rankability Does Not Collapse Back into Total Closure
+
+This framework does **not** claim that rankability gives:
+
+- final ontology
+- universal closure
+- one master score
+- certainty immune to revision
+- a sovereign lens
+
+Rankability compares incomplete models **without** claiming exhaustive access to reality.
+
+It is possible because:
+
+- reality enforces unevenly
+- models fail unevenly
+- some abstractions survive wider interaction better than others
+- some constructions preserve viable life better than others
+
+Rankability is therefore anti-relativist without being absolutist.
+
+---
+
+# Relationship Between the Two Sides
+
+The two rankability tables are distinct, but connected.
+
+A high-ranked descriptive abstraction should improve constructive design.
+
+A high-ranked constructive system should avoid violating what better descriptive models reveal.
+
+But the two cannot be collapsed into one.
+
+A descriptively strong model may still produce poor governance if it ignores legitimacy, livability, or local-end stability.
+
+A constructively strong institution may rely on simplified but adequate descriptive models if those simplifications preserve viability under constraint.
+
+The bridge principle is:
+
+> Constructive systems should be informed by high-ranked descriptive models, but must also be ranked by additional criteria concerning legitimacy, livability, reversibility, and continued viability under triple constraint.
+
+---
+
+# What This Framework Does Not Rank
+
+This framework does not claim to rank:
+
+- total persons
+- moral worth
+- final metaphysical reality
+- meaning in the abstract
+- all value systems under one universal metric
+
+It ranks:
+
+- models
+- abstractions
+- constructions
+- protocols
+- systems
+- design choices
+
+and does so only under finite conditions and declared scope.
+
+---
+
+# Provisional Core
+
+At minimum, this framework claims:
+
+1. Incompleteness does not imply equivalence.
+2. Descriptive abstractions are rankable by interactional durability.
+3. Constructive systems are rankable by continued viability under triple constraint.
+4. Rankability is usually partial, not total.
+5. Rankability is revisable under new interaction and new failure.
+6. Rankability does not guarantee historical preservation.
+7. Higher rank means greater epistemic or practical weight under constraint, not final truth.
+
+---
+
+# Open Frontier
+
+The following remain open for further refinement:
+
+- exact thresholds for “breaking”
+- how to weight negative-side dimensions against each other
+- how to weight positive-side dimensions in different contexts
+- whether some dimensions dominate others lexically under high stakes
+- how to formalize mixed cases where descriptive and constructive rankings diverge
+- how retention viability should interact with rankability in civilizational analysis
+
+These are not reasons to abandon rankability.
+
+They are reasons to keep it explicit, scoped, and revisable.
+
+---
+
+# Final Compression
+
+Incomplete models are not equally good.
+
+On the **negative side**, abstractions gain epistemic weight when they remain coherent across widening interaction with reality without major loss of constraint contact.
+
+On the **positive side**, constructions gain practical weight when they remain viable under environmental limits, human limits, and salient structure over time.
+
+Higher-ranked abstractions curve with more of reality without breaking.
+
+Higher-ranked systems preserve more viable life without collapsing their substrate.
+
+Rankability does not require final closure.
+
+It requires only that reality keeps selecting unevenly.
