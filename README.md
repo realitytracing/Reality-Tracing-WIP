@@ -86,7 +86,7 @@ It does not command action. It clarifies constraints.
 - **[Local-end](human-foundations/local-ends.md)** — human-scale sources of livability
 - **[Equal Tooling: Salience-Centered Optimization and Symmetry of Understanding](human-foundations/salience-centered-optimization-and-symmetry-of-understanding.md)** — names the shift from optimizing over human salience to optimizing for its continued viability
 - **[Biology](human-foundations/biology.md)** — where clamps came from
-- **[Deriving the Salience Structure from Finite Transformation and Constraint](deriving-the-salience-structure-from-finite-transformation-and-constraint.md)** — approximates the original thought process and infinities and and clamp method used to define virtual salience and salience structure
+- **[Deriving the Salience Structure from Finite Transformation and Constraint](human-foundations/deriving-the-salience-structure-from-finite-transformation-and-constraint.md)** — approximates the original thought process and infinities and and clamp method used to define virtual salience and salience structure
 - **[Dynamics](human-foundations/dynamics.md)** — how systems move, overload, and reconfigure
 - **[Human Mind as An Effective Unit](human-foundations/human-mind-as-an-effective-unit.md)** — defines a constraint-aware model of the human mind and formalizes it as a provisional effective unit for higher emergent systems
 
