@@ -354,7 +354,7 @@ Continued strategic closure is how systems remain livable **in the presence of p
 
 - **[National Security, Infinite Security, and the Ground of Protection](../artifact-analyzed/part-iv-artifacts-hard/national-security-infinite-security-and-the-ground-of-protection.md)** — constraint-Aware treatment of national security
 
-- **[The Continuous Need for Finiteness Clarity](../artifact-analyzed/part-iv-artifacts-hard/the-continuous-need-for-finiteness-clarity.md)**
+- **[The Continuous Need for Finiteness Clarity](../artifact-analyzed/part-iv-artifacts-hard/the-continuous-need-for-finiteness-clarity.md)** — examines the need for active clarity on finiteness in both piblics and their institutions, in principle and by design 
 
 ---
 
