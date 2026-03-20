@@ -14,11 +14,11 @@ related:
 
 ## Purpose
 
-This document develops three linked claims.
+This document develops three linked claims:
 
 1. The current world order is unstable partly because two major camps along the globalization axis tend toward runaway totalization.
 2. A useful civic category is the **already sufficient class**: people whose lives are not perfect, but are generally livable, non-emergency, and not organized by chronic binding complaint.
-3. The expansion of sufficiency requires not only policy and material buffering, but more active forms of public explanation and education that help people distinguish finite dissatisfaction from structural non-sufficiency.
+3. The expansion of sufficiency requires not only policy and material buffering, but also more active forms of public explanation and education that help people distinguish finite dissatisfaction from structural non-sufficiency.
 
 This is not a moral argument for complacency, nor a claim that present conditions are already adequate.
 
@@ -31,12 +31,22 @@ It is a structural attempt to clarify:
 
 ---
 
+## Methodological Note
+
+None of the distinctions in this document are perfectly clean.
+
+Sufficiency is scalar. Complaint is mixed. Public self-description often combines firsthand burden, comparative judgment, moral identification, ambient narrative, and political vocabulary that did not originate in the respondent’s own immediate condition.
+
+The point here is not to force exact bins. It is to improve civic discrimination where public discourse often flattens importantly different conditions into one moral register.
+
+---
+
 ## I. The Globalization Axis as a Two-Runaway Structure
 
 The current world order contains at least two major camps relative to the question of globalization.
 
 Both camps are rooted in real constraints.  
-Both camps also tend to become destabilizing when they are not clamped.
+Both camps become destabilizing when their bounded core is allowed to totalize.
 
 ### Camp 1: Country-First / Sovereignty-First
 
@@ -47,12 +57,12 @@ Its legitimate bounded core includes:
 - strategic independence
 - democratic legibility
 - cultural continuity
-- lower exposure to distant systems
+- lower exposure to distant system shocks
 - reduced vulnerability to external coercion
 
 Its runaway form tends toward:
 
-- infinite isolationism
+- isolationism without limit
 - siege mentality
 - domination logic
 - zero-sum nationalism
@@ -114,9 +124,9 @@ Globalization-first actors often perceive:
 
 So the conflict is not usually between one real camp and one delusion.
 
-It is more often a conflict between two partially grounded local ends, each reacting to the other’s unclamped failure mode.
+It is more often a conflict between two partially grounded local ends, each reacting to the other’s runaway form.
 
-The structural problem is that both camps often answer that failure by intensifying their own side toward infinity.
+The structural problem is that both camps often answer failure by intensifying their own side toward infinity.
 
 That produces:
 
@@ -129,11 +139,11 @@ A constraint-aware formulation would instead be:
 
 > Civilization requires both bounded sovereignty and bounded interdependence.
 
-Or more precisely:
+More precisely:
 
 > Nations need enough independence to preserve legitimacy, resilience, and democratic ownership, and enough cooperation to survive shared constraints, mutual vulnerability, and coordination problems that no nation can solve alone.
 
-This is not political centrism in the rhetorical sense.
+This is not rhetorical centrism or compromise theater.
 
 It is a constraint-centered equilibrium.
 
@@ -159,6 +169,7 @@ This does **not** mean:
 - morally superior
 - beyond complaint
 - immune to harm
+- politically irrelevant
 
 It means something narrower:
 
@@ -169,15 +180,16 @@ These people may still experience:
 - grief
 - unfairness
 - frustration
-- tradeoffs
 - stress
+- tradeoffs
 - ordinary dissatisfaction
+- episodic instability
 
 But their lives are not usually structured by continuous breakdown pressure.
 
 Most major local ends are generally reachable often enough for life to remain recognizably livable.
 
-This class matters because it gives a grounded approximation of what **probabilistic sufficiency** looks like.
+This class matters because it gives a grounded approximation of what **probabilistic sufficiency** looks like in practice.
 
 It shows that the target of public life is not infinity, perfection, or total satisfaction.
 
@@ -203,7 +215,7 @@ Probabilistic sufficiency means something like:
 
 - most major local ends are usually reachable often enough
 - ordinary disruptions remain mostly bounded
-- complaint exists, but is not the central organizer of life
+- complaint remains real, but does not become the dominant organizing pressure of life
 - shocks are survivable often enough
 - life is recognizably livable for a large share of people, most of the time
 
@@ -217,7 +229,26 @@ It is to expand access to probabilistic sufficiency for those who have not gener
 
 ---
 
-## V. Why Raw Satisfaction Surveys Are Inadequate
+## V. Indicators of Non-Sufficiency
+
+If probabilistic sufficiency is to function as a civic category, there must also be some way of identifying its absence.
+
+Persistent indicators of non-sufficiency include:
+
+- chronic exposure to survival pressure
+- repeated inability to secure major local ends
+- inability to absorb ordinary shocks without cascading breakdown
+- institutional hostility or unreadability at daily scale
+- recurring burdens that reorganize life around defensive management rather than workable agency
+- chronic binding complaint that is not merely episodic, symbolic, or ambient, but structurally rooted in ongoing life conditions
+
+These indicators will not appear in perfectly clean combinations.
+
+But they help distinguish lives marked by finite dissatisfaction from lives marked by recurring structural non-sufficiency.
+
+---
+
+## VI. Why Raw Satisfaction Surveys Are Inadequate
 
 A major problem with many survey models is that they treat the survey itself and the human respondent as though the highest ideal were non-contamination.
 
@@ -230,10 +261,11 @@ If people are asked only whether they are “satisfied,” several distortions c
 - politeness
 - aspiration inflation
 - status comparison
-- borrowed grievance
+- ambient grievance
 - moral performance
 - imported infinity expectations
 - reluctance to sound complacent
+- confusion between ordinary incompleteness and structural failure
 
 This means survey data may be technically careful while still sampling a badly calibrated public interpretive field.
 
@@ -274,7 +306,7 @@ Without this clarification, respondents often answer from infinity-calibrated ex
 
 ---
 
-## VI. Borrowed Complaint and the Flattening Problem
+## VII. Borrowed Complaint and the Flattening Problem
 
 A further distortion occurs when people answer surveys or public questions in ways that are only partially grounded in their own lives.
 
@@ -286,15 +318,13 @@ They may answer from:
 - ambient social outrage
 - generalized narratives that exceed their own lived condition
 
-This does not make the answers fake.
+This does not make such answers fake.
 
-But it does make them harder to interpret.
+Nor does it mean concern for others is insincere.
 
-There is a difference between:
+**Borrowed complaint** means complaint partly structured by identification, ambient narrative, or moral alignment rather than direct chronic burden in the respondent’s own life.
 
-- lived complaint
-- borrowed complaint
-- abstract grievance alignment
+Borrowed complaint can still indirectly track real conditions. The issue is not falsity, but mixed signal.
 
 A serious sufficiency-detection model should not shame people for caring about others.
 
@@ -302,19 +332,19 @@ But it should try to preserve the distinction between:
 
 - what the respondent directly lives
 - what they infer or feel on behalf of others
-- what they are copying from ambient discourse
+- what they are repeating from ambient discourse
 
-Without this distinction, the already sufficient class becomes invisible and the insufficient class becomes harder to locate precisely.
+Without this distinction, the already sufficient class becomes harder to see clearly, and the insufficient class becomes harder to locate precisely.
 
 ---
 
-## VII. Why Explanation Is Part of Measurement
+## VIII. Why Explanation Is Part of Measurement
 
 A population that has never been taught how to distinguish finite dissatisfaction from structural failure will often answer public questions badly, even in good faith.
 
 This means the problem is not only bad measurement.
 
-It is **interpretive underdevelopment**.
+It is also **interpretive underdevelopment**.
 
 So a society may need two different but related functions.
 
@@ -336,11 +366,13 @@ These functions should not necessarily be collapsed into one institution.
 
 The same organization that teaches people how to interpret their condition should not automatically monopolize measuring that condition.
 
-But without the second function, the first function may end up measuring a confused public with great technical accuracy.
+The calibration function is not there to reduce complaint by instruction. It is there to improve discrimination between kinds of complaint.
+
+Without that second function, the first may end up measuring a confused public with great technical accuracy.
 
 ---
 
-## VIII. Active Education as Anti-Infinity Infrastructure
+## IX. Active Education as Anti-Infinity Infrastructure
 
 This suggests a more active educational role than traditional clean-room survey institutions typically allow.
 
@@ -372,11 +404,11 @@ A healthier public culture would instead make it easier to say:
 - others may not be
 - the task is to expand sufficiency without pretending that infinity is possible
 
-That is a much better political and civic calibration.
+That is a much healthier civic calibration.
 
 ---
 
-## IX. Sufficiency Expansion Without Flattening
+## X. Sufficiency Expansion Without Flattening
 
 A major risk in modern discourse is flattening.
 
@@ -392,9 +424,9 @@ The already sufficient class should not be erased.
 
 It should be used carefully as a civic indicator that probabilistic sufficiency is possible.
 
-At the same time, its existence should not be used as proof that the remaining insufficient are unimportant or imaginary.
+At the same time, its existence should not be used as proof that the remaining insufficient are unimportant, unreal, or politically disposable.
 
-The real task is:
+The real task is to:
 
 - preserve the already sufficient without moral flattening
 - detect where chronic binding complaint remains common
@@ -405,7 +437,7 @@ This is a more realistic and less destructive target than trying to eliminate al
 
 ---
 
-## X. Globalization, Sufficiency, and Legitimacy
+## XI. Globalization, Sufficiency, and Legitimacy
 
 The globalization axis matters here because different world-order camps produce different profiles of sufficiency, anxiety, and legitimacy.
 
@@ -426,7 +458,7 @@ That is the constraint-centered target.
 
 ---
 
-## XI. Structural Principle
+## XII. Structural Principle
 
 A healthy society should not aim at infinite satisfaction.
 
@@ -453,13 +485,13 @@ Without such calibration, societies will continue to mistake:
 
 ## Final Compression
 
-The current world order is destabilized by two partially real but potentially runaway camps on the globalization axis: sovereignty without adequate cooperation, and cooperation without adequate sovereignty.
+The contemporary world is destabilized by two partially grounded but runaway tendencies on the globalization axis: sovereignty without adequate cooperation, and cooperation without adequate sovereignty.
 
-A more realistic civic target is not perfect satisfaction, but **probabilistic sufficiency**: a generally livable, non-emergency condition in which most major local ends remain reachable often enough for life to be workable.
+A more realistic civic target is not universal satisfaction but **probabilistic sufficiency**: a generally livable, non-emergency condition in which major local ends remain reachable often enough for life to stay workable.
 
-This makes visible an **already sufficient class**: not the perfect or the elite, but those whose lives are generally not organized by chronic binding complaint. That class should not be flattened or moralized against. It should help define what sufficiency looks like in practice.
+This makes visible an **already sufficient class**: not the perfect or the elite, but those whose lives are generally not organized by chronic binding complaint. That class should not be flattened or moralized against. Its existence helps clarify what sufficiency looks like in practice.
 
-Because people often answer public questions through infinity expectations, ambient grievance, or moral obligation to speak beyond their own lives, sufficiency cannot be measured through raw satisfaction surveys alone. It must also be traced through recurring complaint, lived friction, and clearer public understanding of finiteness.
+Because public self-description is often distorted by infinity expectations, ambient grievance, and moral pressure to answer beyond one’s own condition, sufficiency cannot be detected through raw satisfaction measures alone. It also requires complaint tracing, friction analysis, and a civic language able to distinguish structural failure from ordinary incompleteness.
 
 This requires not only better measurement, but a more active civic-calibration function: institutions, movements, or educational practices that help people distinguish real insufficiency from finite dissatisfaction, and structural failure from ordinary incompleteness.
 
@@ -468,4 +500,4 @@ Without explanation, people are also more likely to feel unheard.
 
 The task is therefore not to promise completion.
 
-It is to expand sufficiency, preserve legitimacy, and keep public judgment inside reality.
+It is to expand sufficiency, preserve legitimacy, and keep public judgment proportionate to reality.
