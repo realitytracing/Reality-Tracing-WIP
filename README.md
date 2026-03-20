@@ -125,6 +125,7 @@ It does not command action. It clarifies constraints.
 - **[5.6. The People and Their Systems](constraint-aware-policy-making-and-engineering-strategies/5-6-the-people-and-their-systems.md)** — treats education in reality tracing, constraint awareness, and interactional epistemics as civic co-clamping between publics and institutions
 - **[6. Layered Counterbalances for Monocoded Societies](constraint-aware-policy-making-and-engineering-strategies/6-layered-counterbalances-for-monocoded-societies.md)** — this document formalizes a policy and engineering response to monocoding
 - **[7. The Declaration Principle](constraint-aware-policy-making-and-engineering-strategies/7-the-declaration-principle.md)** — why democratic systems must preserve the right of present peoples to signal, retune, and refit governance under changed conditions
+- **[8. Globalization, Probabilistic Sufficiency, and Civic Calibration](constraint-aware-policy-making-and-engineering-strategies/8-globalization-probabilistic-sufficiency-and-civic-calibration.md) — 
  
 **Foundational Epistemics III**
 - **[Interactional Epistemics: Rankability](human-foundations/interactional-epistemics-rankability.md)** — describes a set of rankability criterion for use in comparative study, and to demonstrate false equivalences and false totalizations
