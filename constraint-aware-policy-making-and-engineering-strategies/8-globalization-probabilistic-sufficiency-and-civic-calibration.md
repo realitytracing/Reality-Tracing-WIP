@@ -10,8 +10,6 @@ related:
   - The Continuous Need for Finiteness Clarity
 ---
 
-# Globalization, Probabilistic Sufficiency, and Civic Calibration
-
 ## Purpose
 
 This document develops three linked claims:
