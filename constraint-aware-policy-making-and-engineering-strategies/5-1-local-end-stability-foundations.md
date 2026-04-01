@@ -4,8 +4,8 @@ artifact_type: Framework / Stability Theory
 section: Constraint-Aware Governance
 status: Working Draft (Revisable)
 related:
-  - Local-End Stability: Detection and Grounding
-  - Local-End Stability: Constraint-Aware Governance and Groundwork
+  - "Local-End Stability: Detection and Grounding"
+  - "Local-End Stability: Constraint-Aware Governance and Groundwork"
   - Constraint Diplomacy
   - Layered Counterbalances for Monocoded Societies
   - Salience
