@@ -1,12 +1,25 @@
 ---
-title: "The Local-End Stability 1: Doctrine"
+title: Local-End Stability: Foundations
+artifact_type: Framework / Stability Theory
+section: Constraint-Aware Governance
+status: Working Draft (Revisable)
+related:
+  - Local-End Stability: Detection and Grounding
+  - Local-End Stability: Constraint-Aware Governance and Groundwork
+  - Constraint Diplomacy
+  - Layered Counterbalances for Monocoded Societies
+  - Salience
+  - Local Ends
+  - Collective Salience, Legitimacy, and the Metabolic Loop
 ---
+
+# Local-End Stability: Foundations
 
 ## Overview
 
-Civilizations remain stable when the majority of participants retain sufficient capacity to pursue meaningful local ends within real constraints.
+Civilizations remain stable when most participants retain sufficient capacity to pursue meaningful local ends within real constraints.
 
-Local ends are small-scale, meaningful completions within finite lives:
+Local ends are small-scale, meaningful completions within finite lives, such as:
 
 - maintaining friendships
 - raising families
@@ -25,15 +38,11 @@ These are not luxuries. They function as:
 
 When large populations lose the ability to sustain local ends, systemic pressure accumulates.
 
----
+## 1. Core Principle
 
-# 1. The Core Principle
+Civilizational stability requires sufficient life bandwidth for most participants.
 
-Civilizational stability requires **sufficient life bandwidth** for most participants.
-
-```
-Civilization Stability ∝ Local-End Capacity
-```
+**Civilizational Stability ∝ Local-End Capacity**
 
 Local-end capacity depends on the interaction of several conditions:
 
@@ -44,17 +53,13 @@ Local-end capacity depends on the interaction of several conditions:
 - institutional trust
 - environmental viability
 
-If these collapse simultaneously across populations, instability emerges.
+When these collapse simultaneously across a population, instability emerges.
 
----
+## 1.1 Constraint-Bounded Local Ends
 
-# 1.1 Constraint-Bounded Local Ends
+This framework does not advocate unrestricted pursuit of local ends.
 
-The Local-End Stability Doctrine does not advocate unrestricted pursuit of local ends.
-
-Local ends must exist **within the constraint envelope of reality**.
-
-This includes:
+Local ends must exist within the constraint envelope of reality. This includes:
 
 - biological limits
 - environmental sustainability
@@ -62,7 +67,7 @@ This includes:
 - institutional order
 - non-destructive coexistence
 
-Local ends that destroy these constraints are **not stabilizing local ends**.
+Local ends that destroy these constraints are not stabilizing local ends.
 
 Examples include:
 
@@ -74,14 +79,12 @@ Examples include:
 
 Such behaviors destroy the very conditions that allow local ends to exist.
 
-Therefore the doctrine operates under two simultaneous conditions:
+The framework therefore operates under two simultaneous conditions:
 
-```
-Maximize local-end capacity
-while respecting hard constraints
-```
+- maximize local-end capacity
+- while respecting hard constraints
 
-Where hard constraints include:
+Hard constraints include:
 
 - environmental limits
 - human biological limits
@@ -89,25 +92,19 @@ Where hard constraints include:
 - social safety and order
 - institutional viability
 
-This doctrine is therefore **not anarchic**.
-
-It does not advocate:
+This framework is not anarchic. It does not advocate:
 
 - letting destructive behavior run unchecked
 - abandoning law or institutional order
 - prioritizing individual preference over survival constraints
 
-Instead it seeks to **align governance, institutions, and social systems with the real conditions that allow most people to live meaningful lives**.
+Its aim is to align governance, institutions, and social systems with the real conditions that allow most people to live meaningful lives.
 
----
+## 1.2 Salience as Direction, Constraint as Boundary
 
-# Salience as Optimization Core
+Within this framework, salience functions as the primary directional signal.
 
-Within this framework, **salience functions as the primary optimization signal**.
-
-Humans naturally route attention, care, and effort toward what matters locally.
-
-This signal helps systems detect:
+Humans naturally route attention, care, and effort toward what matters locally. Salience helps systems detect:
 
 - suffering
 - friction
@@ -115,9 +112,7 @@ This signal helps systems detect:
 - emerging problems
 - cultural change
 
-However, salience alone is insufficient.
-
-Salience must be interpreted through **constraint awareness**.
+But salience alone is insufficient.
 
 Without constraint awareness, salience can amplify destructive patterns such as:
 
@@ -126,30 +121,22 @@ Without constraint awareness, salience can amplify destructive patterns such as:
 - ideological purity spirals
 - overexploitation of resources
 
-Constraint awareness provides the necessary clamp.
+Stable systems require both:
 
-```
-Salience provides direction.
-Constraints provide boundaries.
-```
+- salience for direction
+- constraints for boundaries
 
-Stable systems require both.
-
----
-
-# 1.2 Salience Deserts
+## 1.3 Salience Deserts
 
 Local-end collapse does not occur only through material deprivation.
 
-A deeper failure mode occurs when a culture gradually loses the ability to clearly recognize, name, or legitimate the local ends that make life livable.
+A deeper failure mode appears when a culture gradually loses the ability to recognize, name, or legitimate the local ends that make life livable. This condition can be called a **salience desert**.
 
-This condition can be described as a **salience desert**.
+A salience desert emerges when the signals that normally guide attention toward meaningful activities become culturally weak, delegitimized, or overshadowed by abstractions that do not track lived experience.
 
-A salience desert emerges when the signals that normally guide human attention toward meaningful activities become culturally weak, delegitimized, or overshadowed by abstractions that do not track lived experience.
+In such environments, people may still possess the material capacity for local ends, but the cultural and conceptual signals that help them recognize and pursue those ends become sparse.
 
-In such environments, people may still possess the **material capacity** for local ends, but the cultural and conceptual signals that help them recognize and pursue those ends become sparse.
-
-Examples may include social environments where abstractions dominate daily life, such as:
+Examples include environments dominated by:
 
 - permanent productivity pressure
 - totalizing moral frameworks
@@ -158,7 +145,7 @@ Examples may include social environments where abstractions dominate daily life,
 - ideological purity demands
 - continuous urgency narratives
 
-When these abstractions become culturally dominant, ordinary local ends may begin to appear:
+Under such conditions, ordinary local ends may begin to appear:
 
 - trivial
 - selfish
@@ -168,23 +155,17 @@ When these abstractions become culturally dominant, ordinary local ends may begi
 
 Yet the human need for them remains.
 
----
-
-## Structural Pattern
+### Structural Pattern
 
 Salience deserts often develop gradually:
 
-salience-misaligned abstractions imported → institutional reinforcement → local ends culturally downgraded → signals guiding everyday meaning weaken → people experience exhaustion and disorientation → life bandwidth declines → legitimacy slowly erodes
+**salience-misaligned abstractions imported → institutional reinforcement → local ends culturally downgraded → signals guiding everyday meaning weaken → exhaustion and disorientation increase → life bandwidth declines → legitimacy slowly erodes**
 
-In this condition, societies may continue functioning economically or administratively while experiencing **increasing cultural fatigue and loss of orientation**.
+A society in this condition may continue functioning economically or administratively while experiencing increasing cultural fatigue and loss of orientation.
 
----
+### Why Salience Deserts Persist
 
-## Why Salience Deserts Persist
-
-Salience deserts can persist because the abstractions that produce them often serve real coordination functions.
-
-They may help systems achieve:
+Salience deserts persist because the abstractions that produce them often serve real coordination functions. They may support:
 
 - administrative simplicity
 - ideological clarity
@@ -192,17 +173,13 @@ They may help systems achieve:
 - political mobilization
 - status ordering
 
-Because these abstractions continue to produce visible outputs, societies may continue reinforcing them even after they begin eroding everyday livability.
+Because they continue to produce visible outputs, societies may keep reinforcing them even after they begin eroding everyday livability.
 
-This produces a form of **civilizational compression**, where abstract coordination expands while lived meaning contracts.
+This produces a form of civilizational compression in which abstract coordination expands while lived meaning contracts.
 
----
+### Recovery
 
-## Recovery
-
-Recovery from a salience desert rarely occurs through policy change alone.
-
-Restoration usually involves:
+Recovery from a salience desert rarely occurs through policy alone. Restoration usually involves:
 
 - renewed cultural practices
 - community rituals and relationships
@@ -211,36 +188,25 @@ Restoration usually involves:
 - leadership reconnecting with lived experience
 - education in constraint awareness and reality tracing
 
-These processes gradually restore the **signals that allow people to recognize local ends as legitimate components of life**.
+These processes gradually restore the signals that allow people to recognize local ends as legitimate components of life.
 
----
+### Core Implication
 
-## Doctrinal Implication
+This framework therefore protects two related conditions:
 
-The Local-End Stability Doctrine therefore protects two related conditions:
-
-1. The **material capacity** for people to pursue local ends.
-2. The **cultural salience** that allows those ends to be recognized and valued.
+1. the material capacity for people to pursue local ends
+2. the cultural salience that allows those ends to be recognized and valued
 
 A society faces deeper instability not only when local ends disappear materially, but when it becomes culturally difficult to recognize what meaningful local ends are.
 
-Material scarcity compresses life.
-
+Material scarcity compresses life.  
 A salience desert obscures what life is being compressed away from.
 
----
+## 2. Life Bandwidth
 
-# 2. Life Bandwidth
+Life bandwidth is the surplus beyond bare survival requirements.
 
-Life bandwidth is the surplus beyond survival requirements.
-
-```
-Life Bandwidth =
-income margin
-+ time margin
-+ shock resilience
-+ social continuity
-```
+**Life Bandwidth = income margin + time margin + shock resilience + social continuity**
 
 This bandwidth allows people to:
 
@@ -251,11 +217,9 @@ This bandwidth allows people to:
 
 When life bandwidth disappears, survival replaces living.
 
----
+## 3. Constraint Condition
 
-# 3. The Constraint Condition
-
-The doctrine acknowledges real constraints:
+This framework acknowledges real constraints, including:
 
 - ecological limits
 - energy throughput
@@ -264,79 +228,58 @@ The doctrine acknowledges real constraints:
 - institutional capacity
 - irreversibility
 
-Therefore stability requires balancing:
+Stability therefore requires balancing:
 
-```
-Human flourishing
-AND
-Material constraint
-```
+- human flourishing
+- material constraint
 
-Ignoring constraints produces collapse.
-
+Ignoring constraints produces collapse.  
 Ignoring human flourishing produces legitimacy failure.
 
----
-
-# 4. Inequality and Stability
+## 4. Inequality and Stability
 
 Inequality alone does not necessarily destabilize systems.
 
-Instability arises when inequality coincides with **local-end compression**.
+Instability arises when inequality coincides with local-end compression.
 
-```
-Inequality + sufficient local ends → stable
-Inequality + local-end collapse → unstable
-```
+- **Inequality + sufficient local ends → can remain stable**
+- **Inequality + local-end collapse → becomes unstable**
 
-People tolerate hierarchy when life remains viable.
-
+People tolerate hierarchy when life remains viable.  
 They resist systems that make life structurally impossible.
 
----
+## 5. Safety Nets as Stability Infrastructure
 
-# 5. Safety Nets as Stability Infrastructure
-
-Social safety nets function as **failure localization mechanisms**.
+Social safety nets function as failure-localization mechanisms.
 
 They absorb shocks that would otherwise destroy local-end capacity.
 
 Without safety nets:
 
-```
-shock → visible suffering → ambient fear → legitimacy erosion
-```
+**shock → visible suffering → ambient fear → legitimacy erosion**
 
 With safety nets:
 
-```
-shock → buffered → recovery → preserved trust
-```
+**shock → buffered → recovery → preserved trust**
 
-Safety nets are not merely moral policies.
+Safety nets are not merely moral policies. They are civilizational stabilizers.
 
-They are **civilizational stabilizers**.
-
----
-
-# 6. Legitimacy Feedback
+## 6. Legitimacy Feedback
 
 Political legitimacy emerges from lived experience.
 
-Individuals continuously evaluate:
+People continuously evaluate questions like:
 
 - Are my local ends intact?
 - Is adaptation possible?
 - Are tradeoffs fair?
 - Are constraints acknowledged?
 
-If many people detect persistent local-end erosion, legitimacy declines.
+When many people detect persistent local-end erosion, legitimacy declines.
 
----
+## 7. Narrative Mismatch
 
-# 7. Narrative Mismatch
-
-Systems often measure success through abstract metrics:
+Systems often measure success through abstract indicators such as:
 
 - GDP
 - market performance
@@ -347,63 +290,36 @@ But humans experience systems through local ends.
 
 When macro indicators improve while life bandwidth declines, narrative mismatch appears.
 
-```
-Macro success
-+
-Local-end collapse
-=
-Legitimacy crisis
-```
+**Macro success + local-end collapse = legitimacy crisis**
 
----
+## 8. Collapse Pathway
 
-# 8. Collapse Pathway
+Local-end compression often follows a recognizable path:
 
-Local-end compression often follows this trajectory:
+**cost load rises → life bandwidth shrinks → local ends disappear → social fragmentation → trust erosion → political volatility → systemic rupture**
 
-```
-cost load rises
-→ life bandwidth shrinks
-→ local ends disappear
-→ social fragmentation
-→ trust erosion
-→ political volatility
-→ systemic rupture
-```
+This can occur gradually or through sudden shocks.
 
-This process can occur gradually or through sudden shocks.
+## 9. Policy Implication
 
----
+Policy evaluation should ask:
 
-# 9. Policy Implications
-
-Policy evaluation should consider:
-
-- Does this policy increase life bandwidth?
+- Does this increase life bandwidth?
 - Does it preserve local-end capacity?
 - Does it strengthen shock resilience?
 - Does it respect material constraints?
 
 Policies that increase output while destroying life bandwidth create delayed instability.
 
----
+## 10. Structural Summary
 
-# 10. Structural Summary
+Civilizations require more than production.  
+They require livable lives.
 
-Civilizations require more than production.
+The core claim is simple:
 
-They require **livable lives**.
+> A system remains stable when most people retain the capacity to build and sustain meaningful lives within real constraints.
 
-The Local-End Stability Doctrine states:
-
-```
-A system remains stable when most people retain the capacity
-to build and sustain meaningful lives within real constraints.
-```
-
-Not perfect equality.
-
-Not infinite growth.
-
-But **enough room to live**. 
-
+Not perfect equality.  
+Not infinite growth.  
+Just enough room to live.
