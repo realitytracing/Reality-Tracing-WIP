@@ -1,11 +1,11 @@
 ---
-title: Local-End Stability: Detection and Grounding
+title: 'Local-End Stability: Detection and Grounding'
 artifact_type: Detection / Measurement Framework
 section: Constraint-Aware Governance
 status: Working Draft (Revisable)
 related:
-  - Local-End Stability: Foundations
-  - Local-End Stability: Constraint-Aware Governance and Groundwork
+  - 'Local-End Stability: Foundations'
+  - 'Local-End Stability: Constraint-Aware Governance and Groundwork'
   - Reality Tracing
   - Asymmetry Dwell Time
 ---
