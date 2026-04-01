@@ -1,5 +1,5 @@
 ---
-title: Constraint Diplomacy
+title: 'Local-End Stability: Constraint Diplomacy'
 artifact_type: Policy / International Coordination Framework
 section: Constraint-Aware Policy Making and Engineering Strategies
 status: Working Draft (Revisable)
