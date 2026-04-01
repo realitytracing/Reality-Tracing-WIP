@@ -1,5 +1,5 @@
 ---
-title: [Local-End Stability: Foundations]
+title: 'Local-End Stability: Foundations'
 artifact_type: Framework / Stability Theory
 section: Constraint-Aware Governance
 status: Working Draft (Revisable)
