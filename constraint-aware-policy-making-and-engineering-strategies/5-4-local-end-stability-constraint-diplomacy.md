@@ -10,8 +10,6 @@ related:
   - The Narrowing Corridor
 ---
 
-# Constraint Diplomacy
-
 ## Overview
 
 When multiple societies experience constraint compression at the same time, diplomacy often fails if each side interprets pressure through ideology, prestige conflict, or zero-sum rivalry.
