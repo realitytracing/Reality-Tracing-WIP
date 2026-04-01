@@ -15,8 +15,6 @@ related:
   - Salience Capture Principle and the Plural Clamp Requirement
 ---
 
-# Redress Under Constraint
-
 ## Purpose
 
 This document addresses a recurring institutional design problem:
