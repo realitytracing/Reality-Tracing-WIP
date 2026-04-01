@@ -10,8 +10,6 @@ related:
   - Asymmetry Dwell Time
 ---
 
-# Local-End Stability: Detection and Grounding
-
 ## Overview
 
 Local-end stability cannot be detected through abstract indicators alone.
