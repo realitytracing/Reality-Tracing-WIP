@@ -10,8 +10,6 @@ related:
   - Reality Tracing
 ---
 
-# Local-End Stability: Constraint-Aware Governance and Groundwork
-
 ## Overview
 
 Constraint-aware governance does not eliminate constraint. It governs within it.
