@@ -1,11 +1,11 @@
 ---
-title: Local-End Stability: Constraint-Aware Governance and Groundwork
+title: 'Local-End Stability: Constraint-Aware Governance and Groundwork'
 artifact_type: Governance / Institutional Design Framework
 section: Constraint-Aware Governance
 status: Working Draft (Revisable)
 related:
-  - Local-End Stability: Foundations
-  - Local-End Stability: Detection and Grounding
+  - 'Local-End Stability: Foundations'
+  - 'Local-End Stability: Detection and Grounding'
   - Collective Salience, Legitimacy, and the Metabolic Loop
   - Reality Tracing
 ---
