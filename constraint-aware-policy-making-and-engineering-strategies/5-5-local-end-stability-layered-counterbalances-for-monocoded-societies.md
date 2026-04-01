@@ -13,8 +13,6 @@ related:
   - Trust, Runaway Local Ends, and Human Clamps
 ---
 
-# Layered Counterbalances for Monocoded Societies
-
 ## Purpose
 
 This document formalizes a policy and engineering response to **monocoding**.
