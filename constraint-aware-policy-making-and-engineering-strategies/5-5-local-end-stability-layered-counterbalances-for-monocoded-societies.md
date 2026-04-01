@@ -1,5 +1,5 @@
 ---
-title: Local-End Stability: Layered Counterbalances for Monocoded Societies
+title: ;Local-End Stability: Layered Counterbalances for Monocoded Societies'
 subtitle: Institutional Sensing, Cultural Legitimization, and Cognitive Dual-Core Balance
 artifact_type: Policy / Engineering Framework
 section: Constraint-Aware Policy Making and Engineering Strategies
