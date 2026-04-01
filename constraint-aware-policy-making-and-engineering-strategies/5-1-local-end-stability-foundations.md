@@ -13,8 +13,6 @@ related:
   - Collective Salience, Legitimacy, and the Metabolic Loop
 ---
 
-# Local-End Stability: Foundations
-
 ## Overview
 
 Civilizations remain stable when most participants retain sufficient capacity to pursue meaningful local ends within real constraints.
