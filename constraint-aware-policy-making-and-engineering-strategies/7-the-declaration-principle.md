@@ -14,8 +14,6 @@ related:
   - Infinities and Clamp Modeling
 ---
 
-# The Declaration Principle
-
 ## Purpose
 
 This document introduces a positive-side design principle for governance:
