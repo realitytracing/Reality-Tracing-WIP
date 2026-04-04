@@ -128,7 +128,7 @@ It does not command action. It clarifies constraints.
 - **[7. The Declaration Principle](constraint-aware-policy-making-and-engineering-strategies/7-the-declaration-principle.md)** — why democratic systems must preserve the right of present peoples to signal, retune, and refit governance under changed conditions
 - **[8. Globalization, Probabilistic Sufficiency, and Civic Calibration](constraint-aware-policy-making-and-engineering-strategies/8-globalization-probabilistic-sufficiency-and-civic-calibration.md)** — analyzes the globalization axis as a conflict between runaway sovereignty and runaway integration, introduces the already sufficient class as a grounded category of generally livable life, and argues that expanding sufficiency requires not only better measurement but active civic calibration that helps people distinguish finite dissatisfaction from real structural insufficiency
 - **[9. Redress Under Constraint](constraint-aware-policy-making-and-engineering-strategies/9-redress-under-constraint.md)** — defines absorptive redress as the structural engineering of justice, arguing that for institutions to fix irreversible harms without triggering systemic collapse, they must pace repair within a population's metabolic limits to prevent reactionary backlash and scapegoating
-- **[The Generalized Magnet Principle of Dual-Core Viability](constraint-aware-policy-making-and-engineering-strategies/10-the-generalized-magnet-principle-of-dual-core-viability)**
+- **[10. The Generalized Magnet Principle of Dual-Core Viability](constraint-aware-policy-making-and-engineering-strategies/10-the-generalized-magnet-principle-of-dual-core-viability)**
 
 
 **Foundational Epistemics III**
