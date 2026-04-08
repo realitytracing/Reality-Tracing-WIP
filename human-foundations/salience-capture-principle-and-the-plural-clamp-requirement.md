@@ -15,8 +15,6 @@ related:
   - The Local-End Stability Doctrine
 ---
 
-# Salience Capture Principle and the Plural Clamp Requirement
-
 ## Purpose
 
 This document formalizes a general anti-runaway principle for analyzing populations, institutions, and large-scale systems.
