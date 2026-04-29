@@ -137,6 +137,11 @@ It does not command action. It clarifies constraints.
 
 - **[Salience Capture Principle and the Plural Clamp Requirement](human-foundations/salience-capture-principle-and-the-plural-clamp-requirement.md)** — explains why no salient sink can remain stable when self-grounding, and why viable systems require competing local ends and real constraints as anti-runaway clamps
 
+**Constraint-Aware Policy Making and Engineering Strategies II**
+
+- **[14. The Pedagogical Clamp and Citizen-Side Inspection](constraint-aware-policy-making-and-engineering-strategies/14-the-pedagogical-clamp-and-citizen-side-inspection.md)** — explains a structural framework for "citizen-side inspection" that ensures coordination layers remain legitimate and answerable by requiring them to teach the public how to detect institutional drift, contest claims of necessity, and preserve plural local ends within viable constraints
+
+
 **Integrated Text**
 
 1. **[Part I — The Heart and the Gist](integrated-text/part-1-heart-and-gist.md)**  
