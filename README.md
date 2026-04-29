@@ -141,6 +141,8 @@ It does not command action. It clarifies constraints.
 
 - **[14. The Pedagogical Clamp and Citizen-Side Inspection](constraint-aware-policy-making-and-engineering-strategies/14-the-pedagogical-clamp-and-citizen-side-inspection.md)** — explains a structural framework for "citizen-side inspection" that ensures coordination layers remain legitimate and answerable by requiring them to teach the public how to detect institutional drift, contest claims of necessity, and preserve plural local ends within viable constraints
 
+- **[15. The Accounting Surface](constraint-aware-policy-making-and-engineering-strategies/15-the-accounting-surface.md)** — introduces a policy and engineering framework focused on reclaiming accountability from blame culture, emphasizing the importance of an accounting surface for understanding and governing dependencies in complex systems.
+
 
 **Integrated Text**
 
