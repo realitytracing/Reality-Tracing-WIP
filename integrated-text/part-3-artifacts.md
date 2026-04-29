@@ -229,7 +229,7 @@ They are **warnings**.
 
 - **[Moral Panic, Floaty Critics, and the Flattening Error](../artifact-analyzed/part-iii-artifacts/moral-panics-floaty-critics-and-the-flattening-of-error.md)** An analysis of a common mode of critics that results in moral panics
 
-- **[The Monetary Babysitter Trap](artifact-analyzed/part-iii-artifacts/the-monetary-babysitter-trap.md)** An artifact based on FRONTLINE'S "Age of Easy Money"
+- **[The Monetary Babysitter Trap](../artifact-analyzed/part-iii-artifacts/the-monetary-babysitter-trap.md)** An artifact based on FRONTLINE'S "Age of Easy Money"
 
 Additional hard problem artifacts (e.g. nuclear stability, environmental viability) are handled in **Part IV**, where continued strategic closure is required.
 
