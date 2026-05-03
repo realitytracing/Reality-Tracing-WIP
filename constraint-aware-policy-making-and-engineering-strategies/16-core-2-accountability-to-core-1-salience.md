@@ -926,6 +926,204 @@ A concise formulation:
 
 ---
 
+## XIV-F. Mass Core 1 Is Not Uniformly Movable
+
+Time-bound audits are necessary because Core 1 does not move as one simple mass.
+
+Some aspects of Core 1 can shift relatively quickly.
+
+Examples include:
+
+- attitudes
+- language norms
+- consumer habits
+- political salience
+- aesthetic preferences
+- media diets
+- hobbies
+- social expectations
+- trust in institutions
+- willingness to participate
+
+Other aspects move more slowly.
+
+Examples include:
+
+- habitation patterns
+- family structure
+- work rhythms
+- religious attachment
+- local identity
+- neighborhood trust
+- skill formation
+- embodied comfort
+- trauma recovery
+- cultural memory
+- institutional familiarity
+
+Still other aspects are deeply constrained by shared embodiment and biology.
+
+Examples include:
+
+- hunger
+- fatigue
+- pain
+- fear
+- attachment
+- sleep need
+- recovery need
+- childhood dependency
+- aging
+- illness
+- cognitive load
+- social bonding
+- grief
+- reproductive and caregiving pressures
+
+This matters because a Core 2 theory may correctly observe that some parts of Core 1 are changing and then falsely infer that all relevant parts are equally movable.
+
+That is a major administrative error.
+
+A population may change its language faster than its bodies can adapt.
+
+It may change its public attitudes faster than its households can reorganize.
+
+It may adopt a new ideology faster than its institutions can metabolize the consequences.
+
+It may express support for a policy faster than it can live under the policy’s full burden.
+
+It may change preference faster than environment, infrastructure, biology, or habit can follow.
+
+A concise formulation:
+
+> Core 1 moves, but not all at the same rate.
+
+Another:
+
+> Attitudes may shift before bodies, homes, institutions, and recovery systems can follow.
+
+And another:
+
+> A theory that mistakes fast salience movement for total Core 1 transformation will overdrive the human substrate.
+
+This is why time-bound audits matter.
+
+They serve as bridge events between Core 2 projection and Core 1 reality.
+
+They ask:
+
+- what did the theory expect to move?
+- what actually moved?
+- what did not move?
+- what moved too slowly?
+- what moved only under coercion?
+- what moved symbolically but not materially?
+- what moved in attitude but not in habitation?
+- what moved in public language but not in private burden?
+- what biological or environmental constraint resisted movement?
+- what new burden appeared after the first visible shift?
+
+Without these accounting events, Core 2 can treat partial movement as proof of total success.
+
+It can say:
+
+- attitudes are changing, therefore the program works
+- public language has shifted, therefore lived life has transformed
+- people have adapted, therefore the burden is acceptable
+- opposition has declined, therefore consent has deepened
+- old habits are fading, therefore the future has arrived
+
+But these may be false readings.
+
+Some changes are real but shallow.
+
+Some are real but costly.
+
+Some are compliance rather than alignment.
+
+Some are exhaustion rather than consent.
+
+Some are symbolic adaptation while local-end stability quietly degrades.
+
+A concise formulation:
+
+> Time-bound audits distinguish movement from improvement.
+
+Another:
+
+> Not every shift in Core 1 is a gain for Core 1.
+
+And another:
+
+> Adaptation is not automatically legitimacy.
+
+The audit is therefore the accounting surface.
+
+It creates measurement events where Core 2 must return to Core 1 and ask whether the promised transformation has actually improved human life across salience, biology, locality, and environment.
+
+Without these audits, Core 2 receives infinite deferral.
+
+It can always say:
+
+- the people are still adjusting
+- the culture has not caught up
+- the revolution is incomplete
+- the market needs more time
+- the reform has not matured
+- the consciousness has not developed
+- the transition is still underway
+- the pain is temporary
+- the future will vindicate the burden
+
+This is the deferral trap.
+
+Time-bound audits interrupt it.
+
+A concise formulation:
+
+> Without measurement events, every theory can hide inside “not yet.”
+
+Another:
+
+> Time-bound audits are the bridge between projected human transformation and actual human livability.
+
+And another:
+
+> The audit prevents “humans are changing” from becoming “therefore humans are fine.”
+
+A legitimate Core 2 theory must therefore specify not only what it hopes to change, but what kind of Core 1 movement it expects:
+
+- attitudinal movement
+- behavioral movement
+- institutional movement
+- habitation movement
+- biological burden reduction
+- trust restoration
+- local-end expansion
+- environmental stabilization
+- cultural normalization
+- recovery capacity
+
+It must also specify the expected rate and acceptable burden of that movement.
+
+The deeper test is not:
+
+> Did something change?
+
+The deeper test is:
+
+> Did the right things change, at a livable rate, without destroying the floor that made further change possible?
+
+This is why time-bound audits are not bureaucratic ornament.
+
+They are the anti-deferral bridge.
+
+They are where theory meets lived time.
+
+They are where Core 2 stops promising and starts accounting.
+
+---
+
 # XV. Utopian Aspiration as Continuous Improvement
 
 Utopian aspiration is not illegitimate.
