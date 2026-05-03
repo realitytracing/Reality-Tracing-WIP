@@ -323,8 +323,6 @@ Another:
 
 > When every contradiction from below proves the theory above, the theory has stopped tracing reality.
 
----
-
 ## IV-A. The Vanguard Exception
 
 Totalizing systems often try to bypass accountability by invoking an emergency of consciousness.
@@ -369,6 +367,188 @@ Another:
 And another:
 
 > A vanguard claim without falsification is priesthood with revolutionary stationery.
+
+## IV-B. The Enlightenment Bar Fallacy
+
+A further danger appears when Core 2 assumes that public disagreement can be solved by bringing everyone up to the theory’s preferred level of consciousness.
+
+This assumption says:
+
+> The people are not enlightened enough yet.
+
+At first, this may sound pedagogical.
+
+It may seem to mean only that people need better education, better context, better civic literacy, or better access to the theory.
+
+Sometimes this is true.
+
+People can learn.
+Public understanding can improve.
+Civic literacy can rise.
+Intergenerational education can expand the range of what a society is able to inspect.
+
+But the danger begins when Core 2 treats enlightenment as a universal bar that all humans can and should reach in the same way.
+
+This is false in live human reality.
+
+Human beings differ in:
+
+- cognitive capacity
+- attention span
+- disability
+- trauma history
+- language access
+- emotional load
+- education
+- time availability
+- caregiving burden
+- work exhaustion
+- developmental stage
+- memory
+- abstraction tolerance
+- salience structure
+- interest
+- trust
+- local necessity
+- biological and psychological limits
+
+A theory may be learnable by some people, partially learnable by many, and functionally inaccessible or irrelevant to others.
+
+That does not make those people defective.
+
+It means Core 2 cannot make full theoretical uptake a condition of legitimate membership in society.
+
+A concise formulation:
+
+> A society cannot require everyone to become theoretically fluent in order to count as politically real.
+
+Another:
+
+> Public pedagogy may raise civic capacity. It cannot abolish human variation.
+
+And another:
+
+> The goal is not universal enlightenment. The goal is enough shared inspection capacity to keep power answerable.
+
+The phrase “they are not enlightened enough” becomes dangerous when it assumes:
+
+- one correct consciousness
+- one required level of abstraction
+- one proper relationship to the theory
+- one acceptable speed of political learning
+- one universal capacity for ideological uptake
+- one legitimate form of public understanding
+
+This becomes ableist when it treats failure to reach the bar as moral, civic, or political inferiority.
+
+It becomes naive when it imagines that enough schooling, propaganda, or generational formation can make human beings converge near-perfectly on one theoretical consciousness.
+
+Even across generations, education can only raise probabilities.
+
+It cannot guarantee uniform uptake.
+
+Children do not become blank containers for the theory.
+
+They inherit bodies, families, disabilities, local worlds, attachments, rebellions, temperaments, counter-saliences, and unpredictable experience.
+
+A concise formulation:
+
+> Intergenerational pedagogy can expand capacity. It cannot manufacture uniform consciousness.
+
+This matters because a Core 2 system that expects universal enlightenment will eventually encounter ordinary human difference as failure.
+
+Then it may escalate.
+
+It may say:
+
+- more education is needed
+- more correction is needed
+- more discipline is needed
+- more ideological formation is needed
+- more control over childhood is needed
+- more suppression of rival meanings is needed
+- more isolation from corrupting influences is needed
+
+At that point, pedagogy becomes authorship.
+
+Education stops helping people inspect power and starts manufacturing the kind of people power needs in order to validate itself.
+
+A concise formulation:
+
+> When education becomes the production of the correct human, pedagogy has crossed into authorship.
+
+The framework therefore distinguishes between two forms of civic education.
+
+## 1. Probabilistic Civic Literacy
+
+This aims to raise the baseline probability that enough people can detect:
+
+- false necessity
+- bad faith
+- hidden burden
+- Core 2 drift
+- metric counterfeiting
+- authoritarian escalation
+- salience capture
+- fake inevitability
+
+It does not require every person to master the theory.
+
+It strengthens the public’s distributed ability to inspect power.
+
+## 2. Totalizing Enlightenment
+
+This aims to produce a population that thinks, desires, ranks, and interprets according to the theory’s preferred consciousness.
+
+It treats difference as backwardness.
+
+It treats partial uptake as failure.
+
+It treats non-participation as defect.
+
+It treats Core 1 diversity as material to be corrected.
+
+This is not clamped pedagogy.
+
+It is consciousness production.
+
+A concise formulation:
+
+> Civic education is legitimate when it expands inspection. It becomes dangerous when it demands conversion.
+
+A pro-human Core 2 system must therefore accept that many people will remain:
+
+- partially informed
+- locally focused
+- theoretically uninterested
+- religious
+- practical
+- private
+- skeptical
+- tired
+- disabled
+- differently salient
+- more attached to ordinary life than to abstract transformation
+
+This is not a bug in the human substrate.
+
+It is the substrate.
+
+A legitimate Core 2 does not require everyone to climb the same enlightenment ladder.
+
+It builds systems that remain inspectable, correctable, and livable even when most people are not theorists.
+
+A concise formulation:
+
+> The public does not need perfect enlightenment. It needs enough distributed power to refuse being authored.
+
+Another:
+
+> A theory that only works after everyone becomes the right kind of subject does not yet work for humans.
+
+And another:
+
+> Humans are not failed theorists. Theories are failed governance when they cannot live with human variation.
 
 ---
 
