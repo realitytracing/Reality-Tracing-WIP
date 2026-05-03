@@ -2,7 +2,7 @@
 title: Core 2 Accountability to Core 1 Salience
 subtitle: Why Pro-Human Theories Must Remain Correctable by Lived Human Response
 artifact_type: Foundational / Governance Boundary Principle
-section: Part II — Structural Layer / Governance, Salience, and Core Accountability
+section: Part II - Structural Layer / Governance, Salience, and Core Accountability
 status: Working Draft (Revisable)
 related:
   - The Pedagogical Clamp and Citizen-Side Inspection
@@ -64,7 +64,7 @@ It becomes pro-human only to the degree that it remains correctable by finite hu
 
 ## Purpose
 
-This document clarifies a recurring failure mode in political theory, governance, moral systems, and institutional design:
+This document clarifies a recurring failure mode in political theory, governance, moral systems, and institutional design.
 
 A Core 2 theory begins by claiming to serve humans.
 
@@ -108,7 +108,7 @@ The central claim:
 
 > A Core 2 model that cannot be corrected by Core 1 will eventually try to manufacture Core 1.
 
-That is the transition from coordination to life-authoring.
+That is the transition from coordination to life-authorship.
 
 ---
 
@@ -480,7 +480,7 @@ They refuse the theory’s vocabulary.
 
 When this happens, the theory reaches the friction fork.
 
-It can choose:
+It can choose one of two paths.
 
 ## 1. Corrective Interpretation
 
@@ -606,7 +606,9 @@ Another:
 
 > If everyone may be a traitor to utopia, someone must be empowered to inspect souls. That someone now has power.
 
-The witch-hunt goblin has received a government badge. Terrible development. Very bad hat.
+The witch-hunt goblin has received a government badge.
+
+Terrible development. Very bad hat.
 
 ---
 
@@ -721,7 +723,210 @@ A concise formulation:
 
 ---
 
-# XIII-A. Utopian Aspiration as Continuous Improvement
+# XIV. The Time-Bound Mandate Audit
+
+The institutional clamp on Core 2 authority is not merely that administrators must claim to serve Core 1.
+
+They must declare time-bound, inspectable goals that can later be audited against lived first-degree signals.
+
+This applies not only to concrete engineering domains such as:
+
+- construction
+- infrastructure
+- healthcare delivery
+- monetary policy
+- housing
+- logistics
+- economics
+- public administration
+
+It also applies to highly abstract Core 2 theories such as:
+
+- ideologies
+- revolutionary programs
+- technocratic models
+- moral frameworks
+- security doctrines
+- educational reforms
+- civilizational projects
+- long-range policy theories
+
+The more abstract the Core 2 model, the more important the time-bound audit becomes.
+
+A third-degree theory cannot be allowed to float above lived life indefinitely by promising future vindication.
+
+It must declare:
+
+- what it claims will improve
+- for whom
+- by when
+- at what cost
+- through what mechanism
+- with what acceptable burden
+- with what correction trigger
+- with what retraction pathway
+- against which first-degree signals it will be judged
+
+A concise formulation:
+
+> Core 2 must issue claims that time can test.
+
+Another:
+
+> A theory that governs people must accept deadlines from reality.
+
+## XIV-A. Audit Table
+
+| Audit Layer | Core Question | Required Disclosure | Failure Signal |
+|---|---|---|---|
+| Human / Core 1 | Are lives becoming more livable? | Burden, distress, stability, recovery, local-end viability | Official success rises while lived stability falls |
+| Salience | Are people’s actual concerns being heard? | Affected-party testimony, preference patterns, trust signals, refusal signals | Friction is dismissed as ignorance, corruption, or betrayal |
+| Biological Capacity | Can finite bodies and minds metabolize the demand? | Workload, fatigue, health, attention, stress, recovery costs | The theory requires heroic endurance as normal citizenship |
+| Locality | Are place-specific conditions being preserved? | Local feedback, regional variation, affected community evidence | One central abstraction overrides incompatible local realities |
+| Coordination / Core 2 | Is the system still coordinating rather than authoring? | Scope, mandate, enforcement limits, correction pathways | Administration expands because the theory keeps meeting resistance |
+| Environmental / Material | Does the policy respect substrate limits? | Resource use, ecological burden, infrastructure stress, long-term costs | Human preference or theory writes checks reality cannot cash |
+| Time | Is improvement occurring within the declared period? | Deadlines, interim milestones, review dates, retraction triggers | The promised good keeps moving into the future |
+| Mandate | Do people renew support after inspection? | Public review, contestability, visible tradeoffs, democratic or civic confirmation | Consent is claimed without meaningful public audit |
+| Retraction | Can the program shrink, revise, or end? | Exit criteria, failure criteria, sunset provisions, replacement paths | The policy can only expand, never retract |
+
+## XIV-B. First-Degree Performance Accounting
+
+When the declared period is reached, performance must be judged not only by Core 2’s internal metrics, but by Core 1 signals.
+
+These include:
+
+- burden
+- fatigue
+- hunger
+- safety
+- housing stability
+- local-end viability
+- perceived legitimacy
+- family and community continuity
+- coercion load
+- distress signals
+- exit pressure
+- ordinary-life predictability
+- whether people can still pursue meaningful lives
+
+The audit must also check biological and environmental grounding:
+
+- Does the policy fit human capacity?
+- Does it respect biological needs?
+- Does it preserve recovery space?
+- Does it respect environmental constraint?
+- Does it preserve the substrate needed for future life?
+
+This means the triad becomes the audit surface:
+
+1. salience and local ends
+2. biological and human constraint
+3. environmental and material reality
+
+A concise formulation:
+
+> Core 2 performance is not proven by internal coherence. It is tested by what happens to Core 1 under material constraint.
+
+## XIV-C. The Proactively Pedagogical State
+
+A legitimate state cannot merely perform the audit privately.
+
+It must teach the public how the audit works.
+
+This is where the pedagogical clamp enters.
+
+A proactively pedagogical state explains:
+
+- what the policy claimed
+- what timeline was declared
+- what burdens were expected
+- what alternatives were rejected
+- what first-degree signals were tracked
+- what improved
+- what worsened
+- what remains uncertain
+- what must now be revised, continued, retracted, or ended
+
+The goal is not propaganda.
+
+The goal is citizen-side inspection.
+
+A propaganda state teaches people what conclusion to repeat.
+
+A pedagogical state teaches people how to inspect the conclusion.
+
+A concise formulation:
+
+> The state proves legitimacy by teaching the people how to audit its claims.
+
+## XIV-D. Mandate Renewal as Clamp
+
+If, after the audit, people continue to give collective mandate, that mandate becomes an effective clamp.
+
+Not because the people are infallible.
+
+Not because majority preference is automatically correct.
+
+But because Core 2 has been forced to return to Core 1 and expose its performance to lived judgment.
+
+The mandate is stronger when people can see:
+
+- what was promised
+- what happened
+- who benefited
+- who paid
+- what failed
+- what tradeoff was accepted
+- what correction remains available
+
+A mandate without inspection is raw political momentum.
+
+A mandate after audit is more reality-contacting.
+
+A concise formulation:
+
+> Mandate after inspection is stronger than mandate after performance theater.
+
+## XIV-E. Politics Will Try to Eat the Clamp
+
+Politics will always try to swing the mandate.
+
+Parties, factions, media actors, and ambitious figures will try to redirect salience toward:
+
+- fear
+- resentment
+- symbolic enemies
+- false necessity
+- fake success
+- fake failure
+- identity capture
+- emergency theater
+
+This cannot be fully prevented.
+
+But a proactively pedagogical state can reduce the effectiveness of these swings by normalizing grounded public inspection.
+
+Political actors are then pressured to speak in the grammar of the audit:
+
+- What is your claim?
+- What is your timeline?
+- What first-degree signal proves improvement?
+- What burden are you imposing?
+- What alternative did you reject?
+- What happens if you fail?
+- What is your retraction pathway?
+
+This does not abolish politics.
+
+It forces politics to keep touching the ground more often.
+
+A concise formulation:
+
+> The goal is not to end political struggle. The goal is to make political struggle harder to detach from lived accounting.
+
+---
+
+# XV. Utopian Aspiration as Continuous Improvement
 
 Utopian aspiration is not illegitimate.
 
@@ -814,7 +1019,7 @@ The lives being lived decide whether the pointing remains grounded.
 
 ---
 
-# XIV. Salience Theory as Administrative Clamp
+# XVI. Salience Theory as Administrative Clamp
 
 Salience theory is not decorative psychology.
 
@@ -848,9 +1053,46 @@ Another:
 
 > Salience is not sovereign, but any system that ignores it will eventually meet it as resistance.
 
+## XVI-A. The Triad as Co-Clamping Structure
+
+Classical political and coordination theories often point to one grounding surface while neglecting others.
+
+Some privilege:
+
+- environment over salience
+- biology over salience
+- economics over locality
+- security over plural local ends
+- justice over recovery capacity
+- productivity over lived stability
+- equality over salience diversity
+- liberty over material floor conditions
+
+The triad prevents any one grounding surface from becoming sovereign.
+
+It requires Core 2 to account for:
+
+1. salience and local ends
+2. biological and human needs
+3. environmental and material constraint
+
+These are not optional decorations.
+
+They are co-clamping realities.
+
+A theory may emphasize one more than another, but it cannot erase any of them without producing predictable friction.
+
+A concise formulation:
+
+> The triad does not make salience sovereign. It prevents salience, biology, or environment from being sacrificed as if any one could carry the whole human world alone.
+
+Another:
+
+> Core 2 theories must be co-clamped by the realities that human life cannot stop being made of.
+
 ---
 
-# XV. The Correction Hierarchy
+# XVII. The Correction Hierarchy
 
 Core 1 does not automatically defeat Core 2.
 
@@ -900,7 +1142,7 @@ A concise formulation:
 
 ---
 
-# XVI. What This Rejects
+# XVIII. What This Rejects
 
 This principle rejects several symmetrical errors.
 
@@ -940,7 +1182,7 @@ A concise formulation:
 
 ---
 
-# XVII. Structural Principle
+# XIX. Structural Principle
 
 A concise principle:
 
@@ -958,13 +1200,17 @@ Another:
 
 > The more a theory must overwrite ordinary human salience to preserve itself, the less pro-human it becomes in practice.
 
-And another:
+Another:
 
 > The future good must not be allowed to consume the present humans whose lives give the good its meaning.
 
+And another:
+
+> No theory gets permanent jurisdiction over human life without recurring proof that human life is actually becoming more livable.
+
 ---
 
-# XVIII. Final Compression
+# XX. Final Compression
 
 Core 2 theories often claim to serve humans.
 
@@ -1013,6 +1259,23 @@ A legitimate Core 2 does not need to manufacture the people who validate it.
 
 It coordinates shared life while remaining correctable by the people living inside its consequences.
 
+The institutional clamp is time-bound mandate audit:
+
+- declare the claim
+- declare the timeline
+- declare the burden
+- declare the affected lives
+- declare the first-degree signals
+- audit the result
+- teach the public how to inspect the audit
+- renew, revise, retract, or end the mandate
+
+Politics will always try to swing attention away from this accounting.
+
+That is why the pedagogical clamp matters.
+
+A society must be taught not only what to think, but how to inspect what power claims on its behalf.
+
 Core 1 is not always right.
 
 Core 2 is not sovereign.
@@ -1022,4 +1285,3 @@ The correction pathway is the legitimacy test.
 The framework points.
 
 The case decides.
-
