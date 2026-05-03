@@ -143,6 +143,8 @@ It does not command action. It clarifies constraints.
 
 - **[15. The Accounting Surface](constraint-aware-policy-making-and-engineering-strategies/15-the-accounting-surface.md)** — introduces a policy and engineering framework focused on reclaiming accountability from blame culture, emphasizing the importance of an accounting surface for understanding and governing dependencies in complex systems.
 
+- **[16. Core 2 Accountability to Core 1 Salience](constraint-aware-policy-making-and-engineering-strategies/16-core-2-accountability-to-core-1-salience.md)** — introduces the foundational principle of Core 2 accountability to Core 1 salience, emphasizing the necessity for theories claiming to serve humans to remain correctable by lived human experiences. It outlines the dangers of theories that detach from actual human responses and the importance of maintaining a corrective relationship between Core 1 and Core 2.
+
 
 **Integrated Text**
 
