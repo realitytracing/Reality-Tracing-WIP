@@ -2420,6 +2420,222 @@ A concise formulation:
 
 > The framework itself must not become another Core 2 system that claims to liberate Core 1 by overruling it.
 
+# XVIII-A. The Framework’s Own Compression Guilt
+
+This framework is not exempt from the structure it describes.
+
+It too is Core 2.
+
+It too compresses reality.
+
+It too selects some slices over others.
+
+It too foregrounds certain dangers, terms, distinctions, and routes of attention while backgrounding others.
+
+That is not automatically a failure.
+
+All theory compresses.
+
+All frameworks simplify.
+
+All models tunnel vision toward some perceived slices of reality in order to make action, explanation, and coordination more tractable.
+
+The danger is not compression itself.
+
+The danger is compression that forgets it is compression.
+
+A concise formulation:
+
+> The framework is not reality. It is a tool for keeping certain kinds of reality-contact alive.
+
+Another:
+
+> A framework becomes dangerous when it stops admitting the cuts it makes.
+
+This means the framework must admit several constraints.
+
+## 1. Not Everyone Can Understand It
+
+Not everyone will have the practical capacity, time, interest, education, temperament, health, or salience structure required to understand this framework.
+
+Some people will find it useful.
+
+Some will find parts useful.
+
+Some will reject it.
+
+Some will never encounter it.
+
+Some will live perfectly meaningful lives without speaking its vocabulary at all.
+
+That is not a failure of those people.
+
+It is a constraint on the framework.
+
+A concise formulation:
+
+> A theory for humans must not require all humans to become theorists.
+
+## 2. The Framework Must Permit Partial Use
+
+The framework should not demand total adoption.
+
+A person, group, institution, or culture may legitimately use only parts of it:
+
+- salience
+- Core 1 and Core 2
+- reality tracing
+- rankability
+- clamping
+- anti-essentialism
+- time-bound audit
+- retraction pathways
+- optionality
+- triad grounding
+
+Partial uptake may still improve contact with reality.
+
+A framework that treats partial use as betrayal has already become priesthood.
+
+A concise formulation:
+
+> A useful framework should survive being used in fragments.
+
+## 3. Honest Mistakes Need Reset Paths
+
+If the framework is meant to help humans, it must distinguish honest error from bad faith.
+
+People will misunderstand.
+
+Administrators will misapply.
+
+Theorists will overextend.
+
+Communities will misuse terms.
+
+Movements will compress too hard.
+
+Some failures will come from corruption or domination.
+
+But many will come from finitude.
+
+The correct response to honest error is not automatic punishment, purity enforcement, or harder compression.
+
+The correct response is:
+
+- correction
+- clarification
+- reset
+- retracing
+- repair
+- retraction where needed
+- better boundaries next time
+
+A concise formulation:
+
+> To help finite beings, a framework must allow finite beings to be wrong without making every error a moral catastrophe.
+
+Another:
+
+> Reset capacity is not softness. It is how theory remains usable by creatures that actually make mistakes.
+
+## 4. The Framework Must Not Go Harder on Its Own Compression
+
+A recurring failure of theories is that when reality resists them, they intensify the theory.
+
+They say:
+
+- the model is right
+- the people failed
+- the implementation was impure
+- the contradiction proves the theory
+- the framework needs more authority
+- the vocabulary must be enforced harder
+
+This framework must refuse that move.
+
+When reality resists the framework, the framework must ask:
+
+- what did it fail to see?
+- what slice did it overemphasize?
+- what slice did it ignore?
+- what human capacity did it overestimate?
+- what local condition did it flatten?
+- what term has become too heavy?
+- what part should be revised, retired, or localized?
+
+A concise formulation:
+
+> A reality-tracing framework must let reality defeat its preferred tracing.
+
+Another:
+
+> If the framework cannot lose to the case, it has become what it was built to criticize.
+
+## 5. The Framework Must Declare Its Own Constraints
+
+For a framework to continue working, it must admit where its constraints lie relative to what it is trying to achieve.
+
+It should declare:
+
+- what it is trying to detect
+- what it is not trying to explain
+- where it is likely to overfocus
+- where it may undercount beauty, faith, humor, love, play, or ordinary life
+- where its vocabulary may become too technical
+- where its own salience may distort interpretation
+- where its concepts may become identity markers instead of inspection tools
+- what kinds of cases should force revision
+
+A concise formulation:
+
+> A framework remains grounded by naming the limits of its own reach.
+
+Another:
+
+> Constraint admission is not weakness. It is the framework’s own clamp.
+
+## 6. The Framework Exists to Serve Livability, Not Itself
+
+The point is not to preserve the framework.
+
+The point is to preserve better contact between:
+
+- lived experience
+- salience
+- theory
+- coordination
+- material constraint
+- plural human life
+
+If the framework begins demanding loyalty to itself over improved livability, then it has inverted its own purpose.
+
+A concise formulation:
+
+> The framework is successful only when human life becomes more inspectable and more livable, not when the framework becomes more worshipped.
+
+Another:
+
+> The framework points. It does not get to become the destination.
+
+## Structural Principle
+
+A concise principle:
+
+> This framework is itself a Core 2 compression. It must therefore remain accountable to Core 1, open to partial use, tolerant of honest error, capable of reset, willing to revise its own terms, and explicit about its limits. A framework built to criticize overreach becomes overreach when it treats its own compression as exempt from correction.
+
+A sharper formulation:
+
+> The framework is guilty of compression. Its legitimacy depends on confessing the crime and keeping the exit door open.
+
+Another:
+
+> Theory compresses so humans can see. Theory dominates when it punishes humans for seeing otherwise.
+
+And another:
+
+> A framework that cannot admit where it fails has already failed where it matters most.
+
 ---
 
 # XIX. Structural Principle
