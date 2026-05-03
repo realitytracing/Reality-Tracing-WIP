@@ -1124,6 +1124,676 @@ They are where Core 2 stops promising and starts accounting.
 
 ---
 
+## XIV-G. Retraction Pathways and the Boiling-Pot Problem
+
+A time-bound audit can expose mismatch.
+
+But exposure is not enough.
+
+A Core 2 system may discover that its policy, theory, reform, transition, or ideological program is producing more burden than expected.
+
+It may realize:
+
+- the rate was too fast
+- the burden was misallocated
+- the public did not metabolize the change
+- the biological cost was underestimated
+- the environmental constraint was stronger than expected
+- local ends were compressed too heavily
+- symbolic compliance was mistaken for real alignment
+- the policy moved language faster than lived stability
+
+This is the **boiling-pot problem**.
+
+The administrator is holding a pot that is hotter than expected.
+
+At that moment, the system faces a dangerous choice.
+
+It can:
+
+- admit the heat
+- transfer the burden safely
+- reduce intensity
+- retract partially
+- return to backup structures
+- redesign the policy
+
+Or it can:
+
+- grip harder
+- deny the burn
+- shame the people reporting pain
+- call the heat progress
+- accuse critics of sabotage
+- demand more sacrifice
+- intensify enforcement
+- delay accountability into the future
+
+A concise formulation:
+
+> The audit tells Core 2 that the pot is too hot.  
+> The retraction pathway tells Core 2 how to put it down without burning down the kitchen.
+
+Another:
+
+> A failed audit without a safe retraction pathway creates pressure for denial.
+
+---
+
+## 1. Not All Failure Is Catastrophic
+
+A major reason Core 2 systems resist retraction is that they treat failure as total humiliation.
+
+But not all mismatch means collapse.
+
+Failure may be:
+
+- local
+- partial
+- reversible
+- rate-based
+- distributional
+- communicative
+- environmental
+- administrative
+- legitimacy-based
+- technically correct but socially unabsorbed
+
+These are different failure classes.
+
+A mature system should distinguish among them.
+
+### Local Failure
+
+The policy fails in some places but not others.
+
+Response:
+
+- local patching
+- targeted exemption
+- regional redesign
+- decentralized adjustment
+
+### Rate Failure
+
+The direction may be viable, but the speed is too high.
+
+Response:
+
+- slowing
+- staging
+- transition support
+- longer adaptation windows
+
+### Burden Failure
+
+The policy works abstractly, but too much cost falls on the wrong people.
+
+Response:
+
+- compensation
+- burden redistribution
+- floor protection
+- shielding vulnerable groups
+
+### Legibility Failure
+
+The policy may be viable, but people cannot understand why it is happening or how to inspect it.
+
+Response:
+
+- pedagogical repair
+- public explanation
+- option-field disclosure
+- better grievance channels
+
+### Substrate Failure
+
+The policy violates human, biological, environmental, or coordination constraints.
+
+Response:
+
+- strong retraction
+- redesign
+- emergency relief
+- possible abandonment
+
+A concise formulation:
+
+> Retraction is not one motion. It ranges from cooling the pot to throwing out the recipe.
+
+Another:
+
+> A system that cannot classify failure will treat every correction as catastrophe.
+
+---
+
+## 2. Hypothesis-Based Legitimacy
+
+A Core 2 system becomes dangerous when its legitimacy depends on always being proven right.
+
+This creates prophet politics.
+
+The administrator says:
+
+> I promised this would work. Therefore it must be working.
+
+When contradiction appears, the system protects the promise rather than the people.
+
+A healthier structure uses **hypothesis-based legitimacy**.
+
+The administrator says:
+
+> We believe this path will improve these conditions by this time. Here are the expected signals. Here are the risks. Here are the audit points. Here is what we will do if the results fail.
+
+In this model, legitimacy does not come from pretending to be infallible.
+
+It comes from:
+
+- declaring goals
+- naming assumptions
+- specifying time bounds
+- measuring against Core 1 signals
+- correcting when mismatch appears
+- executing the retraction pathway when needed
+
+A concise formulation:
+
+> The legitimate administrator is not the one who never fails. It is the one whose failure remains inspectable and correctable.
+
+Another:
+
+> The flex is not “we were right forever.” The flex is “we found the mismatch before it became collapse.”
+
+This requires a cultural shift.
+
+Public systems must reward:
+
+- honest correction
+- early admission
+- bounded retreat
+- successful de-escalation
+- protection of affected people during adjustment
+
+Otherwise administrators will keep gripping the boiling pot until the handle melts.
+
+Very cinematic. Very bad governance.
+
+---
+
+## 3. Pre-Built Off-Ramps
+
+A policy should not be allowed to begin without a retraction pathway.
+
+The retraction pathway should specify:
+
+- what indicators count as failure
+- what indicators count as partial success
+- what burden levels are unacceptable
+- who has authority to trigger review
+- what happens if the audit fails
+- what support exists for people affected by retraction
+- what backup system remains available
+- how funding can be unwound or redirected
+- how the public will be informed
+- what timeline governs partial or full withdrawal
+
+A concise formulation:
+
+> Do not start a policy whose failure path has not been designed.
+
+Another:
+
+> The off-ramp must be built before the bridge is tested.
+
+Without a pre-built off-ramp, failure becomes terrifying.
+
+The system then has strong incentives to:
+
+- reinterpret failure as transition pain
+- hide evidence
+- move goalposts
+- blame the public
+- escalate enforcement
+- delay judgment
+
+This is how time-bound audits get neutralized.
+
+The audit says:
+
+> stop.
+
+But the system says:
+
+> we cannot stop because stopping was never designed.
+
+That is not accountability.
+
+That is administrative hostage-taking with nicer stationery.
+
+---
+
+## 4. The Response Ladder
+
+Retraction does not have to be binary.
+
+A mature Core 2 system should have a response ladder.
+
+### Level 1. Clarify
+
+The policy is confusing, but not yet failing.
+
+Action:
+
+- explain better
+- disclose assumptions
+- show option fields
+- improve public inspection
+
+### Level 2. Patch
+
+The policy is causing localized burden.
+
+Action:
+
+- modify implementation
+- create exceptions
+- repair distribution
+- improve support
+
+### Level 3. Slow
+
+The direction remains viable, but the rate is too fast.
+
+Action:
+
+- extend timelines
+- reduce intensity
+- create adaptation buffers
+- protect recovery time
+
+### Level 4. Partial Retract
+
+Some components are failing.
+
+Action:
+
+- remove harmful elements
+- preserve working elements
+- shift to local pilots
+- restore prior arrangements where needed
+
+### Level 5. Full Retract
+
+The policy violates core constraints or loses mandate.
+
+Action:
+
+- terminate
+- compensate affected groups
+- return to backup systems
+- publish failure accounting
+- redesign from first principles
+
+### Level 6. Dissolve Mandate
+
+The theory or institution itself has lost grounding.
+
+Action:
+
+- remove authority
+- redistribute power
+- open external review
+- rebuild or replace the coordinating structure
+
+A concise formulation:
+
+> A good system can turn down the heat before the kitchen catches fire.
+
+Another:
+
+> Retraction is safer when it has gears.
+
+---
+
+## 5. Ugly Backups and Failure Localization
+
+Retraction is easiest when society has kept backups.
+
+This is the Ritonavir lesson in governance form.
+
+When the preferred formulation fails, survival may depend on an older, uglier, less elegant, less efficient backup.
+
+A backup may be:
+
+- slower
+- more expensive
+- less ideal
+- less elegant
+- less innovative
+- less symbolically satisfying
+
+But it preserves continuity.
+
+Examples include:
+
+- backup energy capacity
+- fallback welfare mechanisms
+- analog administrative processes
+- older medical formulations
+- cash options in digital-payment systems
+- local food redundancy
+- institutional appeal channels
+- emergency housing capacity
+- decentralized service provision
+
+A concise formulation:
+
+> Ugly backups prevent beautiful systems from becoming hostage situations.
+
+Another:
+
+> Redundancy is what lets Core 2 admit failure without threatening Core 1 survival.
+
+Without backups, administrators become desperate.
+
+They cannot retract because too many lives depend on the failing system.
+
+Then the system may keep enforcing failure because admitting failure feels more dangerous than continuing it.
+
+This is how fragile elegance becomes authoritarian.
+
+---
+
+## 6. Retraction Must Protect the People Who Adapted
+
+When Core 2 changes course, people who adapted to the previous policy can be harmed.
+
+This matters.
+
+A retraction pathway must account for:
+
+- workers who trained for the new system
+- households that reorganized around the policy
+- firms that invested under the new rules
+- local governments that built around the program
+- communities that trusted official promises
+- vulnerable groups that became dependent on the intervention
+
+Otherwise retraction becomes another burden dumped onto Core 1.
+
+A concise formulation:
+
+> Core 2 does not get to reverse course by abandoning the people who obeyed it.
+
+Another:
+
+> Retraction must include care for those who adapted in good faith.
+
+This is especially important because fear of harming those people is one reason administrators avoid retraction.
+
+The answer is not denial.
+
+The answer is transition protection.
+
+---
+
+## 7. Mandate After Audit
+
+When a time-bound audit reveals mismatch, the public mandate must be renewed, revised, or withdrawn.
+
+This is where the pedagogical state matters.
+
+The public should be shown:
+
+- what was promised
+- what was measured
+- what moved
+- what did not move
+- who benefited
+- who bore cost
+- what alternatives remain
+- what retraction options exist
+- what risks attach to each path
+
+Then the question becomes:
+
+> Does Core 1 still grant mandate under clearer accounting?
+
+If the public knowingly renews mandate after inspection, that continuation is more legitimate.
+
+If the public withdraws mandate, Core 2 must retract, redesign, or reduce scope.
+
+A concise formulation:
+
+> Mandate after audit is stronger than mandate before consequence.
+
+Another:
+
+> Consent becomes more meaningful after the people can see the burden.
+
+This does not eliminate politics.
+
+Political actors will still try to distort the accounting.
+
+They will still swing salience.
+
+They will still frame, dramatize, simplify, and manipulate.
+
+But a proactively pedagogical state reduces the power of pure swing tactics by giving the public a stronger grounding surface.
+
+The public is not left only with slogans.
+
+It has audit artifacts.
+
+---
+
+## 8. Accountability Means Accounting First
+
+A major failure in modern public life is that accountability has been replaced by blame.
+
+Instead of asking:
+
+- what happened?
+- what moved?
+- what failed?
+- who bore cost?
+- what assumptions broke?
+- what signals were ignored?
+- what should be repaired?
+- what should retract?
+
+public systems often jump to:
+
+- who is guilty?
+- who can be punished?
+- who can be humiliated?
+- who can be symbolically sacrificed?
+- what easy story can close the wound?
+
+This is not real accountability.
+
+It is retributive compression.
+
+Sometimes punishment is necessary.
+
+But punishment without accounting does not restore contact with reality.
+
+A concise formulation:
+
+> Accountability begins as accounting, not blame.
+
+Another:
+
+> Blame may follow accounting, but it cannot replace it.
+
+Without accounting culture, failures become mythic.
+
+One side says:
+
+> traitors caused it.
+
+Another says:
+
+> enemies sabotaged it.
+
+Another says:
+
+> the people were not ready.
+
+Another says:
+
+> the theory was never tried.
+
+The framework rejects this closure.
+
+The first obligation is to trace.
+
+---
+
+## 9. Co-Clamped Failure and Forced Interaction
+
+Many failures are not caused by one actor, one institution, or one decision.
+
+They arise from co-clamped structures.
+
+A central bank may fear dropping markets.
+
+Markets may learn to cry for rescue.
+
+Fiscal institutions may leave too much burden to monetary policy.
+
+The public may demand relief faster than democratic institutions can coordinate.
+
+Administrators may preserve stability while unintentionally deepening dependency.
+
+Each side clamps the others in a forced-by-reality interaction.
+
+This means the question is not always:
+
+> who caused the failure?
+
+The better first question is:
+
+> how did the structure distribute pressure until everyone had less room to move?
+
+A concise formulation:
+
+> Co-clamped failure occurs when multiple actors constrain one another into a bad equilibrium that no single actor fully controls.
+
+Another:
+
+> Reality may settle the system when accounting culture fails.
+
+This is why retraction pathways must trace effects, not only blame agents.
+
+A system can lose control gradually through mutual adaptation.
+
+By the time the failure becomes obvious, everyone may be holding part of the pot.
+
+---
+
+## 10. The Anti-Deferral Function
+
+Retraction pathways are the enforcement side of time-bound audits.
+
+Without them, every theory can hide inside:
+
+- not yet
+- still transitioning
+- the people are adjusting
+- the culture has not caught up
+- the enemies are interfering
+- the model needs more time
+- the sacrifice will be vindicated later
+
+The audit interrupts the story.
+
+The retraction pathway makes the interruption actionable.
+
+A concise formulation:
+
+> The time-bound audit says whether “not yet” is still legitimate.  
+> The retraction pathway says what happens when it is not.
+
+Another:
+
+> No future good may claim infinite patience from present humans.
+
+---
+
+## 11. Structural Principle
+
+A concise principle:
+
+> A Core 2 system that submits to time-bound audit must also possess a pre-declared retraction pathway. Otherwise audit failure creates pressure for denial, blame, or authoritarian escalation. Retraction must be staged, funded, publicly intelligible, protective of those who adapted in good faith, and tied to renewed mandate after accounting.
+
+A sharper formulation:
+
+> An audit without an off-ramp is a thermometer on a locked boiler.
+
+Another:
+
+> The legitimacy of Core 2 depends not only on how it acts, but on whether it can safely stop acting when Core 1 shows that the action has become harmful.
+
+And another:
+
+> The right to govern includes the duty to retract.
+
+---
+
+## Final Compression
+
+Time-bound audits expose whether Core 2 is still serving Core 1.
+
+But exposure alone is not enough.
+
+When a policy fails, the system must have a way to put down the boiling pot.
+
+That requires:
+
+- failure classification
+- hypothesis-based legitimacy
+- pre-built off-ramps
+- staged response ladders
+- ugly backups
+- transition protection
+- mandate renewal after audit
+- accounting before blame
+- tracing of co-clamped failures
+- anti-deferral enforcement
+
+Without these, Core 2 will often deny the burn.
+
+It will grip harder.
+
+It will accuse the people of weakness.
+
+It will call pain transition.
+
+It will call resistance sabotage.
+
+It will call overheating proof of progress.
+
+A legitimate system must be able to say:
+
+> We tried.  
+> We measured.  
+> The burden exceeded the mandate.  
+> We are retracting, repairing, and redesigning.
+
+That is not weakness.
+
+That is governance that can survive contact with reality.
+
+The framework points.
+
+The audit measures.
+
+The retraction pathway lets the system put the pot down.
+
+---
+
 # XV. Utopian Aspiration as Continuous Improvement
 
 Utopian aspiration is not illegitimate.
