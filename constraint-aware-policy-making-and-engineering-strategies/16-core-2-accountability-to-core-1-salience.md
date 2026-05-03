@@ -2164,6 +2164,228 @@ The audit measures.
 
 The retraction pathway lets the system put the pot down.
 
+## XIV-H. Smooth Authorship and the Ambient Manipulation Clamp
+
+Not all salience-shaping is illegitimate.
+
+Human life is always shaped.
+
+Parents, teachers, rituals, cities, interfaces, laws, markets, art, architecture, language, and friendship all route attention and desire.
+
+A system does not become illegitimate merely because it influences what people notice, prefer, pursue, or find meaningful.
+
+The stronger question is:
+
+> Does the shaping blossom salience into viable local ends, or does it convert human beings into dependent substrate for the shaping system?
+
+A manipulative system is not automatically problematic if it:
+
+- preserves plural local ends
+- respects biological capacity
+- stays within environmental and material limits
+- does not create hidden dependency
+- does not disable exit
+- does not counterfeit consent
+- does not narrow human life into one dominant track
+- remains inspectable, contestable, and retractable
+
+In such a case, the system may be better understood as coordination, scaffolding, or trellis-like support.
+
+A trellis shapes the vine.
+
+It does not therefore violate the vine.
+
+The violation begins when the trellis starts strangling the plant and calls the strangling “growth.”
+
+A concise formulation:
+
+> Salience-shaping is legitimate when it expands livable agency under constraint. It becomes domination when it produces dependency, narrows plurality, disables inspection, or violates the substrate.
+
+Another:
+
+> The problem is not that Core 2 shapes Core 1. The problem is when Core 2 shapes Core 1 in ways Core 1 can no longer inspect, refuse, metabolize, or outgrow.
+
+### The Happiness Trap
+
+A smooth system may produce satisfaction without producing freedom.
+
+People may feel happy because the system has successfully routed their salience into rewarding loops.
+
+This is not automatically illegitimate.
+
+But satisfaction is not sufficient proof of legitimacy.
+
+A system can produce pleasure while weakening:
+
+- exit capacity
+- attention autonomy
+- alternative imagination
+- social plurality
+- frustration tolerance
+- offline competence
+- embodied health
+- local relationships
+- civic inspection
+- resistance capacity
+
+This is the happiness trap.
+
+The audit must therefore ask not only:
+
+> Are people happy?
+
+but also:
+
+> Are people becoming more capable of living, choosing, relating, recovering, refusing, and redirecting their lives?
+
+A concise formulation:
+
+> Happiness counts, but happiness alone cannot certify the system that produced it.
+
+Another:
+
+> A smiling cage is still a cage if the door no longer works.
+
+### The Low-Friction Domination Problem
+
+Some forms of authorship do not generate obvious friction.
+
+They do not require visible repression.
+
+They work through:
+
+- algorithmic nudging
+- personalized reward loops
+- ambient choice architecture
+- gamified compliance
+- emotional pacing
+- social feedback engineering
+- dopamine routing
+- default settings
+- invisible ranking systems
+- recommendation environments
+- continuous micro-adjustment of attention
+
+These systems may not produce protest, dissent, or exit signals because they do not feel like domination from inside.
+
+They feel like preference.
+
+They feel like convenience.
+
+They feel like “what I wanted anyway.”
+
+This creates a problem for Core 1 accountability.
+
+If Core 2 authors Core 1 smoothly enough, Core 1 may not immediately report friction.
+
+The absence of friction therefore cannot be treated as proof of legitimacy.
+
+A concise formulation:
+
+> Smooth authorship is dangerous because it may suppress friction before friction becomes conscious.
+
+Another:
+
+> No screams does not always mean no cage. Sometimes it means the cage has excellent cushions.
+
+### The Ambient Manipulation Audit
+
+When salience-shaping is smooth, the audit must become proactive rather than waiting for visible resistance.
+
+It should inspect:
+
+| Audit Dimension | Core Question | Failure Signal |
+|---|---|---|
+| Exit Capacity | Can people leave, pause, refuse, or reduce exposure without severe penalty? | The system is easy to enter and hard to leave |
+| Attention Autonomy | Can people redirect attention away from the system? | The system captures more time than users endorse reflectively |
+| Plurality | Are multiple local ends still viable? | Life narrows around one platform, ideology, identity, or reward loop |
+| Biological Recovery | Are sleep, stress, movement, hunger, and recovery protected? | Satisfaction rises while fatigue, anxiety, or compulsion rises |
+| Social Grounding | Are offline ties strengthened or weakened? | The system replaces relationships with managed substitutes |
+| Skill Preservation | Are people gaining capacity or losing independent competence? | Convenience produces dependency and skill decay |
+| Counterfactual Awareness | Can people imagine alternatives? | The system becomes the horizon of possibility |
+| Contestability | Can users challenge rankings, defaults, nudges, and penalties? | The shaping mechanism is opaque and non-reviewable |
+| Non-Monopoly | Are there viable alternatives outside the system? | One system becomes unavoidable infrastructure |
+| Retraction | Can the system reduce shaping when harm appears? | The system only intensifies engagement |
+
+A concise formulation:
+
+> Low-friction systems require proactive audits because harm may appear as dependency before it appears as dissent.
+
+### The Sentinel Function
+
+For smooth systems, public audit must include sentinel checks that do not depend on people already feeling harmed.
+
+These may include:
+
+- independent biological metrics
+- time-use studies
+- sleep and fatigue tracking
+- exit-cost analysis
+- dependency audits
+- alternative-use trials
+- opt-out experiments
+- randomized exposure breaks
+- offline-capacity testing
+- child and adolescent impact review
+- local-community effects
+- long-term attention and recovery measures
+- adversarial review of interface incentives
+
+The point is not to ban shaping.
+
+The point is to prevent shaping from becoming invisible authorship.
+
+A concise formulation:
+
+> When friction is quiet, the audit must listen below speech.
+
+Another:
+
+> The alarm cannot depend only on the user noticing the fire.
+
+### The Trellis Test
+
+A salience-shaping system is more legitimate when it behaves like a trellis.
+
+It supports growth without owning the plant.
+
+The trellis test asks:
+
+- Does the system help local ends blossom?
+- Does it preserve plurality?
+- Does it respect biological and environmental limits?
+- Does it leave people stronger outside the system?
+- Does it permit refusal?
+- Does it preserve alternative paths?
+- Does it remain inspectable?
+- Does it allow itself to be removed without destroying the life it supported?
+
+If yes, the system may be manipulative only in the weak sense that all coordination shapes behavior.
+
+If no, the system is drifting from coordination into authorship.
+
+A concise formulation:
+
+> A good trellis can be removed without killing the vine.
+
+Another:
+
+> Support becomes domination when the supported life can no longer stand, choose, or grow without the supporter.
+
+### Structural Principle
+
+A concise principle:
+
+> Smooth salience-shaping is not illegitimate merely because it shapes. It becomes illegitimate when it produces hidden dependency, disables exit, narrows plurality, counterfeits consent, violates biological or environmental limits, or prevents Core 1 from inspecting how it is being shaped.
+
+A sharper formulation:
+
+> The absence of friction is not enough. Core 2 must show that low-friction guidance is still producing livable agency rather than comfortable captivity.
+
+Another:
+
+> If people are happy, healthy, free to leave, capable outside the system, and still able to form plural local ends, then salience-shaping may be legitimate coordination. If they are happy only because the system has quietly eaten the exits, it is authorship with velvet walls.
+
 ---
 
 # XV. Utopian Aspiration as Continuous Improvement
