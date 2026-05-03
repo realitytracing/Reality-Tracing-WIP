@@ -325,6 +325,53 @@ Another:
 
 ---
 
+## IV-A. The Vanguard Exception
+
+Totalizing systems often try to bypass accountability by invoking an emergency of consciousness.
+
+They argue:
+
+> The people failed the audit because they do not yet understand what is good for them. We, the vanguard, experts, party, elite, priesthood, security apparatus, or algorithm, must hold the mandate on their behalf until they wake up.
+
+This is the false consciousness trapdoor.
+
+It allows Core 2 to treat audit failure as a mandate to increase its own power rather than retract, revise, or account.
+
+The framework explicitly closes this loophole.
+
+If Core 2 claims Core 1 is acting against its own interests, Core 2 must provide a specific, testable, time-bound path by which Core 1 could prove that it is not merely corrupted, deceived, irrational, brainwashed, sinful, reactionary, or insufficiently conscious.
+
+That path must include:
+
+- what evidence would count against the diagnosis
+- what public response would be treated as legitimate
+- what burden signals would force revision
+- what dissent would be treated as correction rather than pathology
+- what timeline governs the claim
+- what retraction follows if the diagnosis fails
+
+If no such path exists, the diagnosis of false consciousness is not an observation.
+
+It is a mandate for control.
+
+A theory that can always declare disagreement invalid has not discovered deeper reality.
+
+It has abolished the judge.
+
+A concise formulation:
+
+> A theory that claims to serve the people cannot fire the people when they disagree with the theory.
+
+Another:
+
+> If there is no way for the public to prove it is sane, the administrator has gone mad.
+
+And another:
+
+> A vanguard claim without falsification is priesthood with revolutionary stationery.
+
+---
+
 # V. Salience Diversity Prevents Total Equalization
 
 Human beings do not care about all things equally.
@@ -723,6 +770,72 @@ A concise formulation:
 
 ---
 
+## XIII-A. The Exit Prohibition Test
+
+If Core 2 refuses correction, Core 1’s final biological and social response is often not argument.
+
+It is exit.
+
+People may:
+
+- move to informal markets
+- emigrate
+- drop out of official institutions
+- withdraw labor
+- stop having children
+- reduce public participation
+- evade administrative contact
+- retreat into private life
+- physically flee
+- refuse ideological performance
+
+Exit is not always clean.
+
+It may be costly, unequal, partial, or constrained by duty, dependency, poverty, geography, family, law, health, or violence.
+
+Exit is also not automatically legitimate in every case.
+
+A system may justifiably restrict some exits when they directly produce severe harm, abandon unavoidable obligations, violate shared safety constraints, or externalize catastrophic costs onto others.
+
+But these restrictions must themselves be bounded, explained, reviewable, and proportionate.
+
+The cage diagnostic appears when Core 2 responds to ordinary non-participation, refusal, emigration, quiet withdrawal, or loss of mandate by disabling exit itself.
+
+An authoritarian Core 2 responds to exit by building a cage.
+
+It may deploy:
+
+- exit bans
+- capital controls used to trap persons rather than manage systemic risk
+- digital surveillance lock-ins
+- compulsory participation laws
+- criminalization of ordinary non-compliance
+- punishment for quiet withdrawal
+- ideological loyalty requirements
+- restrictions on movement
+- administrative penalties for refusing the project
+- border controls designed to prevent departure rather than regulate entry
+
+The ultimate test of Core 2 legitimacy is its posture toward feasible exit.
+
+A pro-human system allows people to remain partially outside its most ambitious projects where physically, socially, and materially possible.
+
+A system that criminalizes non-participation has transitioned from coordination to captivity.
+
+A concise formulation:
+
+> A system that must build a wall to keep people inside its utopia has already failed the Core 1 accountability test.
+
+Another:
+
+> Exit is the final biological veto. A system that disables the veto is no longer asking for consent.
+
+And another:
+
+> When people try to leave the promised future, Core 2 must ask why before it locks the door.
+
+---
+
 # XIV. The Time-Bound Mandate Audit
 
 The institutional clamp on Core 2 authority is not merely that administrators must claim to serve Core 1.
@@ -827,6 +940,70 @@ A concise formulation:
 
 > Core 2 performance is not proven by internal coherence. It is tested by what happens to Core 1 under material constraint.
 
+### XIV-B.1. The Anti-Counterfeit Metric Clamp
+
+If Core 2 is forced to perform a time-bound audit, its structural instinct will often be to control the measurement language.
+
+It will try to replace Core 1 realities with Core 2 abstractions.
+
+It may substitute:
+
+- hunger with productivity
+- fatigue with participation rate
+- dread with compliance
+- family instability with household classification
+- coercion load with enforcement success
+- housing insecurity with construction targets
+- public distrust with messaging reach
+- suffering with administrative throughput
+- lived instability with aggregate growth
+- local-end compression with program completion
+
+This is metric counterfeiting.
+
+A system that audits itself using only its own abstract language will almost always pass the audit.
+
+If a system measures healthcare by the number of forms processed, the dashboard may look healthy while patients collapse in the waiting room.
+
+Therefore, the audit must be anchored in first-degree indicators.
+
+Core 2 metrics may be useful.
+
+They may track scale, throughput, coordination, cost, efficiency, and implementation.
+
+But they cannot replace Core 1 signals.
+
+A legitimate audit must include:
+
+- lived burden
+- affected-party testimony
+- refusal and exit signals
+- household stability
+- biological strain
+- recovery capacity
+- trust
+- local-end viability
+- direct service experience
+- coercion load
+- material access
+- whether people can actually use the system
+
+Core 2 cannot validate itself using only Core 2 metrics.
+
+Its abstractions must be cross-checked against the lives they claim to organize.
+
+A concise formulation:
+
+> An audit conducted purely in the language of the administrator is not an audit. It is an autobiography.
+
+Another:
+
+> Core 2 cannot validate its effect on Core 1 by counting its own paperwork.
+
+And another:
+
+> A dashboard is counterfeit when it glows while the people beneath it are breaking.
+
 ## XIV-C. The Proactively Pedagogical State
 
 A legitimate state cannot merely perform the audit privately.
@@ -879,6 +1056,18 @@ The mandate is stronger when people can see:
 - what tradeoff was accepted
 - what correction remains available
 
+A renewed mandate is not automatically legitimate merely because support persists.
+
+It becomes stronger only when support persists after:
+
+- the claims were made visible
+- the burdens were disclosed
+- the affected groups were heard
+- the alternatives were shown
+- the failure signals were named
+- the retraction options were real
+- the public had meaningful opportunity to contest continuation
+
 A mandate without inspection is raw political momentum.
 
 A mandate after audit is more reality-contacting.
@@ -886,6 +1075,10 @@ A mandate after audit is more reality-contacting.
 A concise formulation:
 
 > Mandate after inspection is stronger than mandate after performance theater.
+
+Another:
+
+> Mandate is strongest when it survives accounting, not when it survives manipulation.
 
 ## XIV-E. Politics Will Try to Eat the Clamp
 
@@ -923,8 +1116,6 @@ It forces politics to keep touching the ground more often.
 A concise formulation:
 
 > The goal is not to end political struggle. The goal is to make political struggle harder to detach from lived accounting.
-
----
 
 ## XIV-F. Mass Core 1 Is Not Uniformly Movable
 
@@ -1005,6 +1196,93 @@ Another:
 And another:
 
 > A theory that mistakes fast salience movement for total Core 1 transformation will overdrive the human substrate.
+
+### XIV-F.1. Core 1 Movement Speeds
+
+Mass Core 1 does not move as one substance.
+
+Different layers of human life shift at different rates, under different constraints, and with different risks of false interpretation.
+
+| Core 1 Layer | Typical Movement Speed | Examples | Audit Risk | Required Clamp |
+|---|---:|---|---|---|
+| Fast Salience | Fast | slogans, language, fashion, media attention, public attitude, symbolic affiliation | Mistaking discourse shift for lived improvement | Check whether daily burden, trust, and local-end viability improved |
+| Behavioral Habit | Medium | consumer behavior, work patterns, participation norms, civic habits, social rituals | Mistaking compliance or trend adoption for durable alignment | Check persistence after incentives, pressure, or novelty fade |
+| Institutional Familiarity | Slow | schools, workplaces, courts, welfare systems, healthcare systems, local governance | Mistaking formal access for actual usability | Check administrative readability, uptake, friction, and unequal access |
+| Habitation and Local Life | Slow | housing patterns, neighborhood trust, family rhythms, commute structures, community reliance | Mistaking relocation or adaptation for flourishing | Check displacement, recovery cost, attachment loss, and household stability |
+| Cultural Memory | Very slow | religion, inherited identity, historical trauma, class memory, national story, local meaning | Mistaking silence for acceptance | Check intergenerational trust, resentment, taboo formation, and suppressed grievance |
+| Biological Constraint | Hard-limited | sleep, hunger, pain, fatigue, childhood dependency, illness, aging, grief, stress load | Mistaking endurance for consent | Check health, recovery, distress, burnout, and care burden |
+| Environmental / Material Substrate | Hard-limited | land, water, climate, energy, infrastructure, supply chains, ecological load | Mistaking temporary extraction for sustainability | Check depletion, maintenance burden, externalized cost, and long-term viability |
+
+A concise formulation:
+
+> The faster a layer moves, the more suspicious Core 2 should be of treating it as proof that deeper layers have moved.
+
+Another:
+
+> Cheap salience can move quickly. Heavy life moves slowly.
+
+And another:
+
+> A policy has not succeeded merely because people changed how they talk about it.
+
+### XIV-F.2. The Cheap-Salience Spoof
+
+A Core 2 system can fake success by moving the fastest layers of Core 1 while leaving heavier layers strained or damaged.
+
+It may produce:
+
+- new public language
+- visible compliance
+- symbolic enthusiasm
+- institutional slogans
+- changed etiquette
+- performative agreement
+- reduced open dissent
+- surface-level participation
+
+and then claim that Core 1 has transformed.
+
+But this may be spoofing.
+
+The deeper audit must ask whether the heavier layers also moved:
+
+- Did housing become more stable?
+- Did fatigue decrease?
+- Did trust deepen?
+- Did family and local life become more viable?
+- Did people gain recovery space?
+- Did administrative burden fall?
+- Did dissent become unnecessary, or merely unsafe?
+- Did people internalize the change, or merely learn what not to say?
+
+A concise formulation:
+
+> Core 2 can manipulate fast salience more easily than it can repair heavy life.
+
+Another:
+
+> The audit must check the basement, not only the wallpaper.
+
+And another:
+
+> Public compliance is not proof of lived alignment.
+
+This matters because propaganda, fear, incentives, and status pressure can move language faster than they move bodies, homes, institutions, or trust.
+
+A legitimate audit must therefore distinguish:
+
+- symbolic movement
+- coerced movement
+- exhausted adaptation
+- genuine alignment
+- material improvement
+- durable local-end expansion
+
+A concise formulation:
+
+> Movement is not improvement until the heavier layers of life confirm it.
+
+### XIV-F.3. Time-Bound Audits as Anti-Deferral Bridges
 
 This is why time-bound audits matter.
 
@@ -1122,8 +1400,6 @@ They are where theory meets lived time.
 
 They are where Core 2 stops promising and starts accounting.
 
----
-
 ## XIV-G. Retraction Pathways and the Boiling-Pot Problem
 
 A time-bound audit can expose mismatch.
@@ -1178,9 +1454,7 @@ Another:
 
 > A failed audit without a safe retraction pathway creates pressure for denial.
 
----
-
-## 1. Not All Failure Is Catastrophic
+### XIV-G.1. Not All Failure Is Catastrophic
 
 A major reason Core 2 systems resist retraction is that they treat failure as total humiliation.
 
@@ -1203,7 +1477,7 @@ These are different failure classes.
 
 A mature system should distinguish among them.
 
-### Local Failure
+#### Local Failure
 
 The policy fails in some places but not others.
 
@@ -1214,7 +1488,7 @@ Response:
 - regional redesign
 - decentralized adjustment
 
-### Rate Failure
+#### Rate Failure
 
 The direction may be viable, but the speed is too high.
 
@@ -1225,7 +1499,7 @@ Response:
 - transition support
 - longer adaptation windows
 
-### Burden Failure
+#### Burden Failure
 
 The policy works abstractly, but too much cost falls on the wrong people.
 
@@ -1236,7 +1510,7 @@ Response:
 - floor protection
 - shielding vulnerable groups
 
-### Legibility Failure
+#### Legibility Failure
 
 The policy may be viable, but people cannot understand why it is happening or how to inspect it.
 
@@ -1247,7 +1521,7 @@ Response:
 - option-field disclosure
 - better grievance channels
 
-### Substrate Failure
+#### Substrate Failure
 
 The policy violates human, biological, environmental, or coordination constraints.
 
@@ -1266,9 +1540,7 @@ Another:
 
 > A system that cannot classify failure will treat every correction as catastrophe.
 
----
-
-## 2. Hypothesis-Based Legitimacy
+### XIV-G.2. Hypothesis-Based Legitimacy
 
 A Core 2 system becomes dangerous when its legitimacy depends on always being proven right.
 
@@ -1319,9 +1591,7 @@ Otherwise administrators will keep gripping the boiling pot until the handle mel
 
 Very cinematic. Very bad governance.
 
----
-
-## 3. Pre-Built Off-Ramps
+### XIV-G.3. Pre-Built Off-Ramps
 
 A policy should not be allowed to begin without a retraction pathway.
 
@@ -1371,80 +1641,20 @@ That is not accountability.
 
 That is administrative hostage-taking with nicer stationery.
 
----
-
-## 4. The Response Ladder
+### XIV-G.4. The Response Ladder
 
 Retraction does not have to be binary.
 
 A mature Core 2 system should have a response ladder.
 
-### Level 1. Clarify
-
-The policy is confusing, but not yet failing.
-
-Action:
-
-- explain better
-- disclose assumptions
-- show option fields
-- improve public inspection
-
-### Level 2. Patch
-
-The policy is causing localized burden.
-
-Action:
-
-- modify implementation
-- create exceptions
-- repair distribution
-- improve support
-
-### Level 3. Slow
-
-The direction remains viable, but the rate is too fast.
-
-Action:
-
-- extend timelines
-- reduce intensity
-- create adaptation buffers
-- protect recovery time
-
-### Level 4. Partial Retract
-
-Some components are failing.
-
-Action:
-
-- remove harmful elements
-- preserve working elements
-- shift to local pilots
-- restore prior arrangements where needed
-
-### Level 5. Full Retract
-
-The policy violates core constraints or loses mandate.
-
-Action:
-
-- terminate
-- compensate affected groups
-- return to backup systems
-- publish failure accounting
-- redesign from first principles
-
-### Level 6. Dissolve Mandate
-
-The theory or institution itself has lost grounding.
-
-Action:
-
-- remove authority
-- redistribute power
-- open external review
-- rebuild or replace the coordinating structure
+| Level | Name | Condition | Action |
+|---:|---|---|---|
+| 1 | Clarify | The policy is confusing, but not yet failing | Explain better, disclose assumptions, show option fields, improve public inspection |
+| 2 | Patch | The policy is causing localized burden | Modify implementation, create exceptions, repair distribution, improve support |
+| 3 | Slow | The direction remains viable, but the rate is too fast | Extend timelines, reduce intensity, create adaptation buffers, protect recovery time |
+| 4 | Partial Retract | Some components are failing | Remove harmful elements, preserve working elements, shift to local pilots, restore prior arrangements where needed |
+| 5 | Full Retract | The policy violates core constraints or loses mandate | Terminate, compensate affected groups, return to backup systems, publish failure accounting, redesign from first principles |
+| 6 | Dissolve Mandate | The theory or institution itself has lost grounding | Remove authority, redistribute power, open external review, rebuild or replace the coordinating structure |
 
 A concise formulation:
 
@@ -1454,9 +1664,7 @@ Another:
 
 > Retraction is safer when it has gears.
 
----
-
-## 5. Ugly Backups and Failure Localization
+### XIV-G.5. Ugly Backups and Failure Localization
 
 Retraction is easiest when society has kept backups.
 
@@ -1503,9 +1711,7 @@ Then the system may keep enforcing failure because admitting failure feels more 
 
 This is how fragile elegance becomes authoritarian.
 
----
-
-## 6. Retraction Must Protect the People Who Adapted
+### XIV-G.6. Retraction Must Protect the People Who Adapted
 
 When Core 2 changes course, people who adapted to the previous policy can be harmed.
 
@@ -1536,9 +1742,7 @@ The answer is not denial.
 
 The answer is transition protection.
 
----
-
-## 7. Mandate After Audit
+### XIV-G.7. Mandate After Audit
 
 When a time-bound audit reveals mismatch, the public mandate must be renewed, revised, or withdrawn.
 
@@ -1586,9 +1790,7 @@ The public is not left only with slogans.
 
 It has audit artifacts.
 
----
-
-## 8. Accountability Means Accounting First
+### XIV-G.8. Accountability Means Accounting First
 
 A major failure in modern public life is that accountability has been replaced by blame.
 
@@ -1649,9 +1851,7 @@ The framework rejects this closure.
 
 The first obligation is to trace.
 
----
-
-## 9. Co-Clamped Failure and Forced Interaction
+### XIV-G.9. Co-Clamped Failure and Forced Interaction
 
 Many failures are not caused by one actor, one institution, or one decision.
 
@@ -1691,9 +1891,7 @@ A system can lose control gradually through mutual adaptation.
 
 By the time the failure becomes obvious, everyone may be holding part of the pot.
 
----
-
-## 10. The Anti-Deferral Function
+### XIV-G.10. The Anti-Deferral Function
 
 Retraction pathways are the enforcement side of time-bound audits.
 
@@ -1720,9 +1918,7 @@ Another:
 
 > No future good may claim infinite patience from present humans.
 
----
-
-## 11. Structural Principle
+### XIV-G.11. Structural Principle
 
 A concise principle:
 
@@ -1740,9 +1936,7 @@ And another:
 
 > The right to govern includes the duty to retract.
 
----
-
-## Final Compression
+### XIV-G.12. Local Compression
 
 Time-bound audits expose whether Core 2 is still serving Core 1.
 
@@ -1785,8 +1979,6 @@ A legitimate system must be able to say:
 That is not weakness.
 
 That is governance that can survive contact with reality.
-
-The framework points.
 
 The audit measures.
 
@@ -2127,7 +2319,7 @@ A legitimate Core 2 does not need to manufacture the people who validate it.
 
 It coordinates shared life while remaining correctable by the people living inside its consequences.
 
-The institutional clamp is time-bound mandate audit:
+The institutional clamp is the time-bound mandate audit:
 
 - declare the claim
 - declare the timeline
@@ -2137,6 +2329,38 @@ The institutional clamp is time-bound mandate audit:
 - audit the result
 - teach the public how to inspect the audit
 - renew, revise, retract, or end the mandate
+
+But the audit must also recognize that Core 1 does not move uniformly.
+
+Language may move before bodies.
+
+Attitudes may move before homes.
+
+Compliance may move before trust.
+
+Culture may move before recovery.
+
+Public support may move before livability.
+
+That is why time-bound audits must distinguish movement from improvement.
+
+The deeper test is not:
+
+> Did humans change?
+
+The deeper test is:
+
+> Did human life become more livable at a rate and burden that humans can actually metabolize?
+
+When the audit fails, Core 2 must have a retraction pathway.
+
+A system that cannot safely stop acting will keep pretending its action is necessary.
+
+That is how “not yet” becomes infinite deferral.
+
+That is how coordination becomes authorship.
+
+That is how pro-human theory becomes domination with a beautiful poster.
 
 Politics will always try to swing attention away from this accounting.
 
@@ -2151,5 +2375,9 @@ Core 2 is not sovereign.
 The correction pathway is the legitimacy test.
 
 The framework points.
+
+The audit measures.
+
+The retraction pathway lets the system put the pot down.
 
 The case decides.
