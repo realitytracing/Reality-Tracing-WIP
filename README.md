@@ -139,6 +139,8 @@ It does not command action. It clarifies constraints.
 
 - **[Salience Capture Principle and the Plural Clamp Requirement](human-foundations/salience-capture-principle-and-the-plural-clamp-requirement.md)** — explains why no salient sink can remain stable when self-grounding, and why viable systems require competing local ends and real constraints as anti-runaway clamps
 
+- **[Legibility, Ontologization, and the X-Axis Test](human-foundations/legibility-ontologization-and-the-x-axis-test.md)** — explains how finite agents can turn useful categories into self-reinforcing ontologies, how legibility and authority can expand beyond their reality-traced scope, and how X-axis testing can clamp that overreach before reality corrects it through lived consequences.
+
 - **[Reality Tracing: Infinities Phenomenology](human-foundations/reality-tracing-infinities-phenomenology.md)** — introduces the concept of 'Infinities Phenomenology', exploring how finite beings perceive infinity as the absence of boundaries. It discusses the implications of missing clamps in governance, morality, and human experience
   
 - **[Reality Tracing: Science Does Not Float](human-foundations/reality-tracing-science-does-not-float.md)** — provides a comprehensive exploration of the nature of science, emphasizing its dynamic and living characteristics as opposed to static authority. It clarifies the misconceptions surrounding scientific knowledge, its derivation, and the importance of friction-accounting in maintaining its validity and relevance.
